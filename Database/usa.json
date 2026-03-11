@@ -1,0 +1,119 @@
+[
+  {
+    "university": "Adelphi University",
+    "country": "USA",
+    "logo": "http://tiny.cc/SS-Adelphiuniversity",
+    "programs": [
+      {
+        "major": "Accounting Basic Certificate",
+        "program": "Undergraduate Certificate",
+        "details_url": "https://www.adelphi.edu/program/undergraduate/accounting-basic-certificate/",
+        "duration": "1 year full-time",
+        "entryRequirements": "High School Diploma or equivalent | TOEFL iBT: 80 | IELTS: 6.5 (no band below 6.0) | PTE: 56 | Duolingo: 105 | GPA: 2.5/4.0 minimum",
+        "fees": "USD $48,860 per year (Estimated international tuition + fees)",
+        "courseDetail": "https://www.adelphi.edu/program/undergraduate/accounting-basic-certificate/#curriculum",
+        "otherInstitution": "http://tiny.cc/sijg001",
+        "scholarship": "https://www.adelphi.edu/aid/apply/international-students/#scholarship-opportunities"
+      },
+      {
+        "major": "Bachelor of Science in Accounting",
+        "program": "Bachelor Degree",
+        "details_url": "https://www.adelphi.edu/program/undergraduate/accounting/",
+        "duration": "4 years full-time",
+        "entryRequirements": "IELTS: 6.5 | TOEFL: 80 (Internet-based) | GPA: 3.0 (or country-specific equivalent) | SAT/ACT optional (test-optional policy)",
+        "fees": "USD $44,820 per year (2023-2024 indicative international tuition)",
+        "courseDetail": "https://www.adelphi.edu/program/undergraduate/accounting/#curriculum",
+        "otherInstitution": "http://tiny.cc/sijg001",
+        "scholarship": "https://www.adelphi.edu/aid/apply/international-students/#scholarship-opportunities"
+      },
+      {
+        "major": "African, Black, and Caribbean Studies",
+        "program": "Bachelor of Arts",
+        "details_url": "https://www.adelphi.edu/program/undergraduate/african-black-and-caribbean-studies/",
+        "duration": "4 years full-time",
+        "entryRequirements": "IELTS: 6.5 (no sub-score below 6.0) | TOEFL iBT: 80 | Duolingo: 115 | GPA: 3.0/4.0 equivalent | SAT/ACT optional",
+        "fees": "USD $48,490 per year (2024-2025 indicative international tuition)",
+        "courseDetail": "https://www.adelphi.edu/program/undergraduate/african-black-and-caribbean-studies/#curriculum",
+        "otherInstitution": "http://tiny.cc/0kjg001",
+        "scholarship": "https://www.adelphi.edu/aid/apply/international-students/#scholarship-opportunities"
+      },
+      {
+        "major": "Bachelor of Fine Arts in Animation",
+        "program": "Bachelor Degree",
+        "details_url": "https://www.adelphi.edu/program/undergraduate/animation/",
+        "duration": "4 years full-time",
+        "entryRequirements": "IELTS: 6.5 (no band below 6.0) | TOEFL iBT: 80 | GPA: 3.0 (B average) | SAT/ACT optional",
+        "fees": "USD $48,510 per year (Indicative international fee)",
+        "courseDetail": "https://www.adelphi.edu/program/undergraduate/animation/#curriculum",
+        "otherInstitution": "http://tiny.cc/hkjg001",
+        "scholarship": "https://www.adelphi.edu/aid/apply/international-students/#scholarship-opportunities"
+      },
+      {
+        "major": "Bachelor of Arts in Anthropology",
+        "program": "Bachelor Degree",
+        "details_url": "https://www.adelphi.edu/program/undergraduate/anthropology/",
+        "duration": "4 years full-time",
+        "entryRequirements": "IELTS: 6.5 (no sub-score below 6.0) | TOEFL iBT: 80 | SAT/ACT optional | High School GPA: 3.0/4.0 (or equivalent) | International Baccalaureate: 24 | GCE A Levels: 112 UCAS points",
+        "fees": "USD $48,710 per year (2024 indicative international fee)",
+        "courseDetail": "https://www.adelphi.edu/program/undergraduate/anthropology/#curriculum",
+        "otherInstitution": "http://tiny.cc/ukjg001",
+        "scholarship": "https://www.adelphi.edu/aid/apply/international-students/#scholarship-opportunities"
+      },
+      {
+        "major": "Bachelor of Arts (BA) or Bachelor of Fine Arts (BFA) in Studio Art",
+        "program": "Bachelor Degree",
+        "details_url": "https://www.adelphi.edu/program/undergraduate/art/",
+        "duration": "4 years full-time",
+        "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 80 | Duolingo English Test: 110 | Portfolio review required (12–20 artwork examples, including 3 life drawings) | Official transcripts (NACES evaluation for international credentials) | SAT/ACT optional but recommended",
+        "fees": "USD $48,740 per year (2024-2025 indicative international tuition)",
+        "courseDetail": "https://catalog.adelphi.edu/preview_program.php?catoid=3&poid=902",
+        "otherInstitution": "http://tiny.cc/ga0h001",
+        "scholarship": "https://www.adelphi.edu/aid/apply/international-students/#scholarship-opportunities"
+      },
+      {
+        "major": "Bachelor of Fine Arts in Art and Design Education",
+        "program": "Bachelor Degree",
+        "details_url": "https://www.adelphi.edu/program/undergraduate/art-design-education/",
+        "duration": "4 years full-time",
+        "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 80 | Duolingo: 110 | High school certificate (minimum 70% or GPA 3.0+) | Portfolio required | NACES-approved transcript evaluation",
+        "fees": "USD $47,290 per year (2025 tuition fee)",
+        "courseDetail": "https://catalog.adelphi.edu/preview_program.php?catoid=28&poid=13508&returnto=24",
+        "otherInstitution": "http://tiny.cc/wb0h001",
+        "scholarship": "https://www.adelphi.edu/aid/apply/international-students/#scholarship-opportunities"
+      },
+      {
+        "major": "Bachelor of Art History",
+        "program": "Bachelor Degree",
+        "details_url": "https://www.adelphi.edu/program/undergraduate/art-history/",
+        "duration": "4 years full-time",
+        "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL 80 (≥18 in each section) | Duolingo 110 | SAT/ACT required | High school diploma with minimum GPA 2.0 | NACES-evaluated transcripts for international applicants",
+        "fees": "USD $47,270 per year (2024-2025 full-time tuition)",
+        "courseDetail": "https://www.adelphi.edu/program/undergraduate/art-history/degree-map/",
+        "otherInstitution": "http://tiny.cc/ec0h001",
+        "scholarship": "https://www.adelphi.edu/aid/apply/international-students/#scholarship-opportunities"
+      },
+      {
+        "major": "Minor in Art Therapy",
+        "program": "Undergraduate Minor",
+        "details_url": "https://www.adelphi.edu/program/undergraduate/art-therapy/",
+        "duration": "Part of 4-year Bachelor degree (24 credits required for minor)",
+        "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL: 80 | GPA: 3.0 (on 4.0 scale) | SAT/ACT: Optional | International Baccalaureate: 24 | GCE A Levels: BCC | Indonesia – SMA3: 75%",
+        "fees": "USD $48,450 per year (2025-2026 indicative international tuition)",
+        "courseDetail": "https://www.adelphi.edu/program/undergraduate/art-therapy/#program-info",
+        "otherInstitution": "http://tiny.cc/kf0h001",
+        "scholarship": "https://www.adelphi.edu/aid/apply/international-students/#scholarship-opportunities"
+      },
+      {
+        "major": "Bachelor of Science in Artificial Intelligence",
+        "program": "Bachelor Degree",
+        "details_url": "https://www.adelphi.edu/program/undergraduate/artificial-intelligence/",
+        "duration": "4 years full-time",
+        "entryRequirements": "Submit completed application, official transcripts; English proficiency (e.g., TOEFL/IELTS) required for international students :cite[2]:cite[7]. Merit-based scholarships available for qualified applicants :cite[2].",
+        "fees": "USD $47,270 per year (2024-2025 tuition for full-time students in BS programs) :cite[6]",
+        "courseDetail": "https://www.adelphi.edu/program/undergraduate/artificial-intelligence/#program-info",
+        "otherInstitution": "http://tiny.cc/uo0h001",
+        "scholarship": "https://www.adelphi.edu/aid/apply/international-students/#scholarship-opportunities"
+      }
+    ]
+  }
+]

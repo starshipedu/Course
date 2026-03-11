@@ -1,0 +1,2059 @@
+[
+  {
+    "university": "AMITY Global Institute",
+    "country": "Singapore",
+    "logo": "http://tiny.cc/tmol001",
+    "programs": [
+      {
+        "major": "Education",
+        "program": "PhD",
+        "details_url": "https://www.amitysingapore.sg/courses/doctor-of-education/",
+        "duration": "48 months Full Time / Part Time",
+        "entryRequirements": "Master’s level qualification equivalent to 540 credits (including 60 M-level credits) plus at least two years’ professional experience; IELTS 6.5 (min 6.0 in all components); Minimum age: 25 years",
+        "fees": "S$60,000 (exclusive of GST)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/doctor-of-education/#module-descriptions",
+        "otherInstitution": "http://tiny.cc/fwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Professional Practice Business Transformation",
+        "program": "PhD",
+        "details_url": "https://www.amitysingapore.sg/courses/doctor-of-professional-practice-business-transformation/",
+        "duration": "24–30 months Full Time / Part Time",
+        "entryRequirements": "Postgraduate qualification (120 credits at level 7) plus minimum three years’ work experience and organisational support; IELTS 6.5 (min 6.0 in writing); Minimum age: 25 years",
+        "fees": "S$65,000 (exclusive of GST)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/doctor-of-professional-practice-business-transformation/#overview",
+        "otherInstitution": "http://tiny.cc/hwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Science Accounting and Finance",
+        "program": "Master Degree",
+        "details_url": "https://www.amitysingapore.sg/courses/master-of-science-accounting-and-finance/",
+        "duration": "1 year Full Time / Part Time",
+        "entryRequirements": "Honours degree (min 2:2) or equivalent; IELTS 6.0 (min 5.5 each band); Minimum age: 20 years",
+        "fees": "S$23,500 (exclusive of GST)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/master-of-science-accounting-and-finance/#module-descriptions",
+        "otherInstitution": "http://tiny.cc/mwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Science International Management",
+        "program": "Master Degree",
+        "details_url": "https://www.amitysingapore.sg/courses/master-of-science-international-management/",
+        "duration": "1 year Full Time / Part Time",
+        "entryRequirements": "Honours degree (min 2:2) or equivalent; IELTS 6.0 (min 5.5 each band); Minimum age: 20 years",
+        "fees": "S$23,500 (exclusive of GST)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/master-of-science-international-management/#module-descriptions",
+        "otherInstitution": "http://tiny.cc/qwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (University of London)",
+        "program": "Master Degree",
+        "details_url": "https://www.amitysingapore.sg/courses/master-of-business-administration-awarded-by-the-university-of-london/",
+        "duration": "1 year Full Time / Part Time",
+        "entryRequirements": "Second-class honours bachelor’s degree or equivalent plus three years’ managerial experience; IELTS 6.5 (min 6.0 in writing); Minimum age: 24 years",
+        "fees": "S$42,500 (exclusive of GST and examination fees)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/master-of-business-administration-awarded-by-the-university-of-london/#overview",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (University of Northampton)",
+        "program": "Master Degree",
+        "details_url": "https://www.amitysingapore.sg/courses/master-of-business-administration-awarded-by-the-university-of-northampton/",
+        "duration": "1 year Full Time / Part Time",
+        "entryRequirements": "Honours degree (any class) or equivalent; English Upper-Intermediate/EAP05 (80+) or IELTS 6.5–7.0; Minimum age: 20 years",
+        "fees": "S$24,500 (exclusive of GST)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/master-of-business-administration-awarded-by-the-university-of-northampton/#overview",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Science Digital Marketing",
+        "program": "Master Degree",
+        "details_url": "https://www.amitysingapore.sg/courses/master-of-science-digital-marketing/",
+        "duration": "1 year Full Time / Part Time",
+        "entryRequirements": "Honours degree (min 2:2) or equivalent; IELTS 6.0 (min 5.5 each band); Minimum age: 20 years",
+        "fees": "S$23,500 (exclusive of GST)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/master-of-science-digital-marketing/#module-descriptions",
+        "otherInstitution": "http://tiny.cc/wwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (Teesside University)",
+        "program": "Master Degree",
+        "details_url": "https://www.amitysingapore.sg/courses/master-of-business-administration-teesside-university/",
+        "duration": "1 year Full Time / Part Time",
+        "entryRequirements": "Honours degree (min 2:2) or equivalent plus 2 years’ work experience; IELTS 6.5; Minimum age: 22 years",
+        "fees": "S$24,500 (exclusive of GST)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/master-of-business-administration-teesside-university/#overview",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts in Education",
+        "program": "Master Degree",
+        "details_url": "https://www.amitysingapore.sg/courses/master-of-arts-in-education/",
+        "duration": "12 months Full Time / Part Time",
+        "entryRequirements": "Honours degree (min 2:2) or equivalent; IELTS 6.5 (min 5.5 each band); Minimum age: 20 years",
+        "fees": "S$24,500 (exclusive of GST)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/master-of-arts-in-education/#module-descriptions",
+        "otherInstitution": "http://tiny.cc/fwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Science in Supply Chain Management and Global Logistics",
+        "program": "Master Degree",
+        "details_url": "https://www.amitysingapore.sg/courses/master-of-science-in-supply-chain-management-and-global-logistics/",
+        "duration": "1 year Full Time / Part Time",
+        "entryRequirements": "Bachelor’s degree; professional supply chain award considered; IELTS 6.5 (min 5.5 each band); Minimum age: 20 years",
+        "fees": "S$33,000 (exclusive of GST)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/master-of-science-in-supply-chain-management-and-global-logistics/#overview",
+        "otherInstitution": "http://tiny.cc/4xol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (Finance)",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-finance/",
+        "duration": "12 months",
+        "entryRequirements": "A second-class honours bachelor’s degree or equivalent from an acceptable institution; three years’ managerial work experience; IELTS: at least 6.5 overall with 6.0 in writing, TOEFL iBT: at least 92 with 22+ in reading and writing and 20+ in speaking and listening, Pearson Test (Academic): at least 59 overall with 59+ in reading and writing and 54+ in speaking and listening, Cambridge Certificate of Proficiency in English, Cambridge Certificate of Advanced English (grade C or above), or equivalent; alternatively, 18 months of education or work experience conducted in English satisfies the requirement ",
+        "fees": "S$28,500 total (International)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-finance/",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (Accountancy)",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-accountancy/",
+        "duration": "12 months ",
+        "entryRequirements": "A second-class honours bachelor’s degree or equivalent; three years’ managerial work experience; IELTS: at least 6.5 overall with 6.0 in writing, TOEFL iBT: at least 92 with 22+ in reading and writing and 20+ in speaking and listening, Pearson Test (Academic): at least 59 overall with 59+ in reading and writing and 54+ in speaking and listening, Cambridge Certificate of Proficiency in English, Cambridge Certificate of Advanced English (grade C or above), or equivalent; alternatively, 18 months of education or work experience conducted in English ",
+        "fees": "S$28,500 total (International) ",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-accountancy/",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-awarded-by-amity-global-institute/",
+        "duration": "8 months ",
+        "entryRequirements": "Age: 20 years old; Academic: At least a three-year bachelor’s degree or equivalent in any discipline; English: IELTS 6.0 (no component below 5.5), or Singapore‑Cambridge GCE O‑Level English Grade C6 and above, Pearson PTE 56 (no element below 51), Cambridge English Test Advanced – 169 (no element below 162), Amity English Placement Test score 60 and above, or equivalent; Mature Applicants (≥30 years old with ≥8 years work experience) may apply with a personal statement (≤200 words) and two referee reports",
+        "fees": "S$16,500 total (International)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-awarded-by-amity-global-institute/ ",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (Entrepreneurship & Innovation)",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-entrepreneurship-innovation/",
+        "duration": "12 months ",
+        "entryRequirements": "A second-class honours bachelor’s degree or equivalent; three years’ managerial work experience; IELTS: at least 6.5 overall with 6.0 in writing, TOEFL iBT: at least 92 with 22+ in reading and writing and 20+ in speaking and listening, Pearson Test (Academic): at least 59 overall with 59+ in reading and writing and 54+ in speaking and listening, Cambridge Certificate of Proficiency in English, Cambridge Certificate of Advanced English (grade C or above), or equivalent; alternatively, 18 months of education or work experience conducted in English",
+        "fees": "S$28,500 total (International)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-entrepreneurship-innovation/",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Management",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/post-graduate-diploma-in-management/",
+        "duration": "12 months",
+        "entryRequirements": "Age: 20 years old; Academic: At least a three‑year bachelor’s degree or equivalent in any discipline; Mature candidates considered on case‑by‑case basis; English: IELTS 5.5 or equivalent",
+        "fees": "S$15,000 total (International)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/post-graduate-diploma-in-management/",
+        "otherInstitution": "http://tiny.cc/qwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (Leadership)",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-leadership/",
+        "duration": "12 months ",
+        "entryRequirements": "A second-class honours bachelor’s degree or equivalent; three years’ managerial work experience; IELTS: at least 6.5 overall with 6.0 in writing, TOEFL iBT: at least 92 with 22+ in reading and writing and 20+ in speaking and listening, Pearson Test (Academic): at least 59 overall with 59+ in reading and writing and 54+ in speaking and listening, Cambridge Certificate of Proficiency in English, Cambridge Certificate of Advanced English (grade C or above), or equivalent; alternatively, 18 months of education or work experience conducted in English",
+        "fees": "S$28,500 total (International)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-leadership/",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration/",
+        "duration": "12 months ",
+        "entryRequirements": "A second-class honours bachelor’s degree or equivalent; three years’ managerial work experience; IELTS: at least 6.5 overall with 6.0 in writing, TOEFL iBT: at least 92 with 22+ in reading and writing and 20+ in speaking and listening, Pearson Test (Academic): at least 59 overall with 59+ in reading and writing and 54+ in speaking and listening, Cambridge Certificate of Proficiency in English, Cambridge Certificate of Advanced English (grade C or above), or equivalent; alternatively, 18 months of education or work experience conducted in English",
+        "fees": "S$28,500 total (International)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration/ ",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Management (E-Learning)",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/post-graduate-diploma-in-management-e-learning/",
+        "duration": "6 months",
+        "entryRequirements": "At least a three‑year bachelor’s degree or equivalent in any discipline; IELTS 5.5 or equivalent ",
+        "fees": "S$15,000 total (International) ",
+        "courseDetail": "https://www.amitysingapore.sg/courses/post-graduate-diploma-in-management-e-learning/ ",
+        "otherInstitution": "http://tiny.cc/qwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (E-Learning)",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-e-learning/",
+        "duration": "8 months",
+        "entryRequirements": "Age: 20 years old; Academic: At least a three‑year bachelor’s degree or equivalent in any discipline; IELTS 6.0 (no component below 5.5) or Singapore‑Cambridge GCE O‑Level English Grade C6 and above, Pearson PTE 56 (no element lower than 51), Cambridge English Test Advanced – 169 (no element below 162), Amity English Placement Test score 60 and above, or equivalent; Mature Applicants (≥30 years old with ≥8 years work experience) may apply with a personal statement (≤200 words) and two referee reports",
+        "fees": "S$7,000 total (International) ",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-e-learning/ ",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (Law)",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-law/",
+        "duration": "12 months ",
+        "entryRequirements": "A second-class honours bachelor’s degree or equivalent; three years’ managerial work experience; IELTS: at least 6.5 overall with 6.0 in writing, TOEFL iBT: at least 92 with 22+ in reading and writing and 20+ in speaking and listening, Pearson Test (Academic): at least 59 overall with 59+ in reading and writing and 54+ in speaking and listening, Cambridge Certificate of Proficiency in English, Cambridge Certificate of Advanced English (grade C or above), or equivalent; alternatively, 18 months of education or work experience conducted in English ",
+        "fees": "S$28,500 total (International) ",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-business-administration-law/ ",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Supply Chain Management and Global Logistics",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-supply-chain-management-and-global-logistics/",
+        "duration": "12 months",
+        "entryRequirements": "A second-class honours bachelor’s degree or equivalent; three years’ managerial work experience; IELTS: at least 6.5 overall with 6.0 in writing, TOEFL iBT: at least 92 with 22+ in reading and writing and 20+ in speaking and listening, Pearson Test (Academic): at least 59 overall with 59+ in reading and writing and 54+ in speaking and listening, Cambridge Certificate of Proficiency in English, Cambridge Certificate of Advanced English (grade C or above), or equivalent; alternatively, 18 months of education or work experience conducted in English ",
+        "fees": "S$28,500 total (International)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-supply-chain-management-and-global-logistics/",
+        "otherInstitution": "http://tiny.cc/4xol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Information Technology (E-Learning)",
+        "program": "Postgraduate Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-information-technology-e-learning/",
+        "duration": "6 months ",
+        "entryRequirements": "Academic: At least a three‑year bachelor’s degree or equivalent in any discipline; Language: IELTS 6.0 (no component below 5.5), Singapore‑Cambridge GCE O‑Level English Grade C6 and above, Pearson PTE 56 (no element lower than 51), Cambridge English Test Advanced – 169 (no element below 162), Amity English Placement Test score 60 and above, or equivalent; Mature Applicants (≥30 years old with ≥8 years work experience) may apply with a personal statement (≤200 words) and two referee reports ",
+        "fees": "S$7,000 total (International) ",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-diploma-in-information-technology-e-learning/ ",
+        "otherInstitution": "http://tiny.cc/c0pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance"
+      },
+      {
+        "major": "Strategic Supply Chain Management",
+        "program": "Postgraduate Certificate",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-certificate-in-strategic-supply-chain-management/",
+        "duration": "Check website for full‑time/part‑time options",
+        "entryRequirements": "Check website (typically bachelor’s degree + English proficiency, e.g., IELTS 6.0 or equivalent)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-certificate-in-strategic-supply-chain-management/#overview",
+        "otherInstitution": "http://tiny.cc/4xol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Supply Chain Analytics",
+        "program": "Postgraduate Certificate",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-certificate-in-supply-chain-analytics/",
+        "duration": "Check website for full‑time/part‑time options",
+        "entryRequirements": "Check website (typically bachelor’s degree + English proficiency, e.g., IELTS 6.0 or equivalent)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-certificate-in-supply-chain-analytics/#overview",
+        "otherInstitution": "http://tiny.cc/4xol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Supply Chain Management",
+        "program": "Postgraduate Certificate",
+        "details_url": "https://www.amitysingapore.sg/courses/postgraduate-certificate-in-supply-chain-management/",
+        "duration": "Check website for full‑time/part‑time options",
+        "entryRequirements": "Check website (typically bachelor’s degree + English proficiency, e.g., IELTS 6.0 or equivalent)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/postgraduate-certificate-in-supply-chain-management/#overview",
+        "otherInstitution": "http://tiny.cc/4xol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts (Honours) Accounting and Finance",
+        "program": "Bachelor of Arts (Honours)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-accounting-and-finance/",
+        "duration": "3 years full‑time",
+        "entryRequirements": "Check website (typically A‑Levels 2 passes or equivalent + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-accounting-and-finance/#overview",
+        "otherInstitution": "httpshttp://tiny.cc/mwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts (Honours) Business Finance and Accounting (Top‑up)",
+        "program": "Bachelor of Arts (Honours) (Top‑up)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-business-finance-and-accounting-top-up/",
+        "duration": "1 year full‑time (top‑up)",
+        "entryRequirements": "Check website (typically HND/Associate Degree in relevant field + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-business-finance-and-accounting-top-up/#overview",
+        "otherInstitution": "http://tiny.cc/mwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration",
+        "program": "Bachelor of Science",
+        "details_url": "https://www.amitysingapore.sg/courses/bsc-business-administration/",
+        "duration": "3 years full‑time",
+        "entryRequirements": "Check website (typically A‑Levels 2 passes or equivalent + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bsc-business-administration/#overview",
+        "otherInstitution": "http://tiny.cc/v2pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts (Honours) Business with Marketing",
+        "program": "Bachelor of Arts (Honours)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-business-with-marketing/",
+        "duration": "3 years full‑time",
+        "entryRequirements": "Check website (typically A‑Levels 2 passes or equivalent + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-business-with-marketing/#overview",
+        "otherInstitution": "http://tiny.cc/v2pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts (Honours) International Business",
+        "program": "Bachelor of Arts (Honours)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-international-business/",
+        "duration": "3 years full‑time",
+        "entryRequirements": "Check website (typically A‑Levels 2 passes or equivalent + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-international-business/#overview",
+        "otherInstitution": "http://tiny.cc/v2pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts (Honours) Business Studies",
+        "program": "Bachelor of Arts (Honours)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-business-studies/",
+        "duration": "3 years full‑time",
+        "entryRequirements": "Check website (typically A‑Levels 2 passes or equivalent + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-business-studies/#overview",
+        "otherInstitution": "http://tiny.cc/v2pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts (Honours) International Business Management (Top‑up)",
+        "program": "Bachelor of Arts (Honours) (Top‑up)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-international-business-management-top-up/",
+        "duration": "1 year full‑time (top‑up)",
+        "entryRequirements": "Check website (typically HND/Associate Degree in relevant field + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-international-business-management-top-up/#overview",
+        "otherInstitution": "http://tiny.cc/v2pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts (Honours) International Business with Marketing (Top‑up)",
+        "program": "Bachelor of Arts (Honours) (Top‑up)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-international-business-with-marketing-top-up/",
+        "duration": "1 year full‑time (top‑up)",
+        "entryRequirements": "Check website (typically HND/Associate Degree in relevant field + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-international-business-with-marketing-top-up/#overview",
+        "otherInstitution": "http://tiny.cc/v2pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts (Honours) International Business with HRM (Top‑up)",
+        "program": "Bachelor of Arts (Honours) (Top‑up)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-international-business-with-hrm-top-up/",
+        "duration": "1 year full‑time (top‑up)",
+        "entryRequirements": "Check website (typically HND/Associate Degree in relevant field + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-international-business-with-hrm-top-up/#overview",
+        "otherInstitution": "http://tiny.cc/v2pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts (Honours) International Tourism Management (Top‑up)",
+        "program": "Bachelor of Arts (Honours) (Top‑up)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-international-tourism-management-top-up/",
+        "duration": "1 year full‑time (top‑up)",
+        "entryRequirements": "Check website (typically HND/Associate Degree in relevant field + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-international-tourism-management-top-up/#overview",
+        "otherInstitution": "http://tiny.cc/53pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Laws (Honours)",
+        "program": "Bachelor of Laws (Honours)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-laws-honours/",
+        "duration": "3 years full‑time",
+        "entryRequirements": "Check website (typically A‑Levels/Home‑grown diploma + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-laws-honours/#overview",
+        "otherInstitution": "http://tiny.cc/a3pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Science (Honours) Computing",
+        "program": "Bachelor of Science (Honours)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-science-honours-computing/",
+        "duration": "3 years full‑time",
+        "entryRequirements": "Check website (typically A‑Levels 2 passes or equivalent + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-science-honours-computing/#overview",
+        "otherInstitution": "http://tiny.cc/b3pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Arts (Honours) Business and Cybersecurity",
+        "program": "Bachelor of Arts (Honours)",
+        "details_url": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-business-and-cybersecurity/",
+        "duration": "3 years full‑time",
+        "entryRequirements": "Check website (typically A‑Levels 2 passes or equivalent + English proficiency, e.g., IELTS 6.0)",
+        "fees": "Refer to Amity Singapore’s current fee schedule",
+        "courseDetail": "https://www.amitysingapore.sg/courses/bachelor-of-arts-honours-business-and-cybersecurity/#overview",
+        "otherInstitution": "http://tiny.cc/e3pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Management (E‑learning)",
+        "program": "Advanced Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/advanced-diploma-in-management-e-learning/",
+        "duration": "6 months, part‑time",
+        "entryRequirements": "Minimum 17 years old; GCE ‘A’‑Levels or equivalent (IB Diploma, polytechnic diploma or approved diploma); English: pass in high school English or IELTS 6.0",
+        "fees": "S$5 000 total course fee (GST excl.)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/advanced-diploma-in-management-e-learning/#Structure",
+        "otherInstitution": "http://tiny.cc/0glm001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Management",
+        "program": "Advanced Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/advanced-diploma-in-business-management/",
+        "duration": "6 months, part‑time",
+        "entryRequirements": "Minimum 17 years old; GCE ‘A’‑Levels or equivalent; English: pass in high school English or IELTS 6.0",
+        "fees": "S$5 000 total course fee (GST excl.)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/advanced-diploma-in-business-management/#Structure",
+        "otherInstitution": "http://tiny.cc/0glm001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration",
+        "program": "Advanced Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/advanced-diploma-in-business-administration/",
+        "duration": "6 months, part‑time",
+        "entryRequirements": "Minimum 17 years old; GCE ‘A’‑Levels or equivalent; English: pass in high school English or IELTS 6.0",
+        "fees": "S$5 000 total course fee (GST excl.)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/advanced-diploma-in-business-administration/#Structure",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (E‑learning)",
+        "program": "Advanced Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/advanced-diploma-in-business-administration-e-learning/",
+        "duration": "6 months, part‑time",
+        "entryRequirements": "Minimum 17 years old; GCE ‘A’‑Levels or equivalent; English: pass in high school English or IELTS 6.0",
+        "fees": "S$5 000 total course fee (GST excl.)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/advanced-diploma-in-business-administration-e-learning/#Structure",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Hospitality and Operations Management",
+        "program": "Advanced Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/advanced-diploma-in-hospitality-and-operations-management/",
+        "duration": "6 months, part‑time",
+        "entryRequirements": "Minimum 17 years old; GCE ‘A’‑Levels or equivalent; English: pass in high school English or IELTS 6.0",
+        "fees": "S$5 000 total course fee (GST excl.)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/advanced-diploma-in-hospitality-and-operations-management/#Structure",
+        "otherInstitution": "http://tiny.cc/5glm001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Hospitality and Tourism Management",
+        "program": "Advanced Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/advanced-diploma-in-hospitality-and-tourism-management/",
+        "duration": "6 months, part‑time",
+        "entryRequirements": "Minimum 17 years old; GCE ‘A’‑Levels or equivalent; English: pass in high school English or IELTS 6.0",
+        "fees": "S$5 000 total course fee (GST excl.)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/advanced-diploma-in-hospitality-and-tourism-management/#Structure",
+        "otherInstitution": "http://tiny.cc/5glm001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Law (E‑learning)",
+        "program": "Advanced Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/advanced-diploma-in-law-e-learning/",
+        "duration": "6 months, part‑time",
+        "entryRequirements": "Minimum 17 years old; GCE ‘A’‑Levels or equivalent; English: pass in high school English or IELTS 6.0",
+        "fees": "S$5 000 total course fee (GST excl.)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/advanced-diploma-in-law-e-learning/#Structure",
+        "otherInstitution": "http://tiny.cc/7glm001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Computing",
+        "program": "Advanced Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/advanced-diploma-in-computing/",
+        "duration": "6 months, part‑time",
+        "entryRequirements": "Minimum 17 years old; GCE ‘A’‑Levels or equivalent; English: pass in high school English or IELTS 6.0",
+        "fees": "S$5 000 total course fee (GST excl.)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/advanced-diploma-in-computing/#Structure",
+        "otherInstitution": "http://tiny.cc/b3pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Information Technology (E‑learning)",
+        "program": "Advanced Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/advanced-diploma-in-information-technology-e-learning/",
+        "duration": "6 months, part‑time",
+        "entryRequirements": "Minimum 17 years old; GCE ‘A’‑Levels or equivalent; English: pass in high school English or IELTS 6.0",
+        "fees": "S$5 000 total course fee (GST excl.)",
+        "courseDetail": "https://www.amitysingapore.sg/courses/advanced-diploma-in-information-technology-e-learning/#Structure",
+        "otherInstitution": "http://tiny.cc/c0pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Banking and Finance",
+        "program": "Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/diploma-in-banking-and-finance/",
+        "duration": "1 year full‑time",
+        "entryRequirements": "Formal International Year 12 Education OR International Baccalaureate (IB) Diploma OR Polytechnic Diploma OR BTEC Level 4 HNC | IELTS 5.5 OR TOEFL 79 (iBT) OR PTE 42 | Pass in English at high‑school",
+        "fees": "S$9,000 per year (Tuition & Exam Fees; exclusive of S$1,430 Non‑Tuition Fees and GST)",
+        "courseDetail": "https://www.amitysingapore.sg/wp-content/uploads/2024/07/AMITY-GLOBAL-INSTITUTE_DBF.pdf",
+        "otherInstitution": "http://tiny.cc/lhlm001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Accounting and Finance",
+        "program": "Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/diploma-in-accounting-and-finance/",
+        "duration": "1 year full‑time/part‑time",
+        "entryRequirements": "Formal International Year 12 Education OR International Baccalaureate (IB) Diploma OR Polytechnic Diploma OR BTEC Level 4 HNC | IELTS 5.5 OR TOEFL 79 (iBT) OR PTE 42 | Pass in English at high‑school",
+        "fees": "S$9,000 per year (Tuition & Exam Fees; exclusive of S$1,430 Non‑Tuition Fees and GST)",
+        "courseDetail": "https://www.amitysingapore.sg/wp-content/uploads/2024/07/AMITY-GLOBAL-INSTITUTE_DAF.pdf",
+        "otherInstitution": "http://tiny.cc/mwol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration",
+        "program": "Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/diploma-in-business-administration/",
+        "duration": "1 year full‑time",
+        "entryRequirements": "Formal International Year 12 Education OR International Baccalaureate (IB) Diploma OR Polytechnic Diploma OR BTEC Level 4 HNC | IELTS 5.5 OR TOEFL 79 (iBT) OR PTE 42 | Pass in English at high‑school",
+        "fees": "S$9,000 per year (Tuition & Exam Fees; exclusive of S$1,430 Non‑Tuition Fees and GST)",
+        "courseDetail": "https://www.amitysingapore.sg/wp-content/uploads/2024/07/AMITY-GLOBAL-INSTITUTE_DBA.pdf",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Entrepreneurship",
+        "program": "Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/diploma-in-entrepreneurship/",
+        "duration": "1 year full‑time",
+        "entryRequirements": "Formal International Year 12 Education OR International Baccalaureate (IB) Diploma OR Polytechnic Diploma OR BTEC Level 4 HNC | IELTS 5.5 OR TOEFL 79 (iBT) OR PTE 42 | Pass in English at high‑school",
+        "fees": "S$9,000 per year (Tuition & Exam Fees; exclusive of S$1,430 Non‑Tuition Fees and GST)",
+        "courseDetail": "https://www.amitysingapore.sg/wp-content/uploads/2024/07/AMITY-GLOBAL-INSTITUTE_DEP.pdf",
+        "otherInstitution": "http://tiny.cc/whlm001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Management",
+        "program": "Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/diploma-in-business-management/",
+        "duration": "1 year full‑time",
+        "entryRequirements": "Formal International Year 12 Education OR International Baccalaureate (IB) Diploma OR Polytechnic Diploma OR BTEC Level 4 HNC | IELTS 5.5 OR TOEFL 79 (iBT) OR PTE 42 | Pass in English at high‑school",
+        "fees": "S$9,000 per year (Tuition & Exam Fees; exclusive of S$1,430 Non‑Tuition Fees and GST)",
+        "courseDetail": "https://www.amitysingapore.sg/wp-content/uploads/2024/07/AMITY-GLOBAL-INSTITUTE_DBM.pdf",
+        "otherInstitution": "https://www.amitysingapore.sg/articulation-partners/",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Business Administration (E‑learning)",
+        "program": "Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/diploma-in-business-administration-e-learning/",
+        "duration": "1 year full‑time (online)",
+        "entryRequirements": "Formal International Year 12 Education OR International Baccalaureate (IB) Diploma OR Polytechnic Diploma OR BTEC Level 4 HNC | IELTS 5.5 OR TOEFL 79 (iBT) OR PTE 42 | Pass in English at high‑school",
+        "fees": "S$9,000 per year (Tuition & Exam Fees; exclusive of S$1,430 Non‑Tuition Fees and GST)",
+        "courseDetail": "https://www.amitysingapore.sg/wp-content/uploads/2024/07/AMITY-GLOBAL-INSTITUTE_DBAE.pdf",
+        "otherInstitution": "http://tiny.cc/swol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Hospitality Operations and Management",
+        "program": "Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/diploma-in-hospitality-operations-and-management/",
+        "duration": "1 year full‑time",
+        "entryRequirements": "Formal International Year 12 Education OR International Baccalaureate (IB) Diploma OR Polytechnic Diploma OR BTEC Level 4 HNC | IELTS 5.5 OR TOEFL 79 (iBT) OR PTE 42 | Pass in English at high‑school",
+        "fees": "S$9,000 per year (Tuition & Exam Fees; exclusive of S$1,430 Non‑Tuition Fees and GST)",
+        "courseDetail": "https://www.amitysingapore.sg/wp-content/uploads/2024/07/AMITY-GLOBAL-INSTITUTE_HOM.pdf",
+        "otherInstitution": "http://tiny.cc/5glm001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "International Hospitality and Tourism Management",
+        "program": "Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/diploma-in-international-hospitality-and-tourism-management/",
+        "duration": "1 year full‑time",
+        "entryRequirements": "Formal International Year 12 Education OR International Baccalaureate (IB) Diploma OR Polytechnic Diploma OR BTEC Level 4 HNC | IELTS 5.5 OR TOEFL 79 (iBT) OR PTE 42 | Pass in English at high‑school",
+        "fees": "S$9,000 per year (Tuition & Exam Fees; exclusive of S$1,430 Non‑Tuition Fees and GST)",
+        "courseDetail": "https://www.amitysingapore.sg/wp-content/uploads/2024/07/AMITY-GLOBAL-INSTITUTE_IHTM.pdf",
+        "otherInstitution": "http://tiny.cc/5glm001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "International Logistics and Supply Chain Management",
+        "program": "Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/diploma-in-international-logistics-and-supply-chain-management/",
+        "duration": "1 year full‑time",
+        "entryRequirements": "Formal International Year 12 Education OR International Baccalaureate (IB) Diploma OR Polytechnic Diploma OR BTEC Level 4 HNC | IELTS 5.5 OR TOEFL 79 (iBT) OR PTE 42 | Pass in English at high‑school",
+        "fees": "S$9,000 per year (Tuition & Exam Fees; exclusive of S$1,430 Non‑Tuition Fees and GST)",
+        "courseDetail": "https://www.amitysingapore.sg/wp-content/uploads/2024/07/AMITY-GLOBAL-INSTITUTE_ILSCM.pdf",
+        "otherInstitution": "http://tiny.cc/4xol001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      },
+      {
+        "major": "Computing",
+        "program": "Diploma",
+        "details_url": "https://www.amitysingapore.sg/courses/diploma-in-computing/",
+        "duration": "1 year full‑time",
+        "entryRequirements": "Formal International Year 12 Education OR International Baccalaureate (IB) Diploma OR Polytechnic Diploma OR BTEC Level 4 HNC | IELTS 5.5 OR TOEFL 79 (iBT) OR PTE 42 | Pass in English at high‑school",
+        "fees": "S$9,000 per year (Tuition & Exam Fees; exclusive of S$1,430 Non‑Tuition Fees and GST)",
+        "courseDetail": "https://www.amitysingapore.sg/wp-content/uploads/2024/07/AMITY-GLOBAL-INSTITUTE_DCMP.pdf",
+        "otherInstitution": "http://tiny.cc/b3pl001",
+        "scholarship": "https://www.amitysingapore.sg/admissions/student-finance/"
+      }
+    ]
+  },
+  {
+    "university": "National University of Singapore (NUS)",
+    "country": "Singapore",
+    "logo": "http://tiny.cc/SS-NUSlogo",
+    "programs": [
+      {
+        "major": "Bachelor of Arts In Architecture",
+        "details_url": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-arts-in-architecture/"
+      },
+      {
+        "major": "Bachelor of Business Administration",
+        "details_url": "https://bba.nus.edu.sg/academic-programmes/bba-programme/introduction/"
+      },
+      {
+        "major": "Bachelor of Business Administration in Accountancy",
+        "details_url": "https://bba.nus.edu.sg/academic-programmes/bba-accountancy-programme/introduction/"
+      },
+      {
+        "major": "Bachelor of Business Administration in Applied Business Analytics",
+        "details_url": "https://bba.nus.edu.sg/academic-programmes/majors-minors/business-students/cohort-2023-onwards-2/"
+      },
+      {
+        "major": "Bachelor of Business Administration in Business Economics",
+        "details_url": "https://bba.nus.edu.sg/academic-programmes/majors-minors/business-students/cohort-2023-onwards-2/"
+      },
+      {
+        "major": "Bachelor of Business Administration in Finance",
+        "details_url": "https://bba.nus.edu.sg/academic-programmes/majors-minors/business-students/cohort-2023-onwards-2/"
+      },
+      {
+        "major": "Bachelor of Business Administration in Innovation & Entrepreneurship",
+        "details_url": "https://bba.nus.edu.sg/academic-programmes/majors-minors/business-students/cohort-2023-onwards-2/"
+      },
+      {
+        "major": "Bachelor of Business Administration in Leadership & Human Capital Management",
+        "details_url": "https://bba.nus.edu.sg/academic-programmes/majors-minors/business-students/cohort-2023-onwards-2/"
+      },
+      {
+        "major": "Bachelor of Business Administration in Marketing",
+        "details_url": "https://bba.nus.edu.sg/academic-programmes/majors-minors/business-students/cohort-2023-onwards-2/"
+      },
+      {
+        "major": "Bachelor of Business Administration in Operations & Supply Chain Management",
+        "details_url": "https://bba.nus.edu.sg/academic-programmes/majors-minors/business-students/cohort-2023-onwards-2/"
+      },
+      {
+        "major": "Bachelor of Business Administration in Real Estate",
+        "details_url": "https://bba.nus.edu.sg/academic-programmes/majors-minors/business-students/cohort-2023-onwards-2/"
+      },
+      {
+        "major": "Bachelor of Science in Business Analytics (with Honours)",
+        "details_url": "https://www.comp.nus.edu.sg/programmes/ug/ba/"
+      },
+      {
+        "major": "Bachelor of Engineering (Computer Engineering)",
+        "details_url": "https://ceg.nus.edu.sg/admissions/exploreceg/"
+      },
+      {
+        "major": "Bachelor of Computing in Computer Science (with Honours)",
+        "details_url": "https://www.comp.nus.edu.sg/programmes/ug/cs/"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Data Science and Economics",
+        "details_url": "https://www.stat.nus.edu.sg/prospective-students/undergraduate-programme/data-science-and-economics/"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Data Science and Analytics",
+        "details_url": "https://www.stat.nus.edu.sg/prospective-students/undergraduate-programme/data-science-and-analytics/"
+      },
+      {
+        "major": "Bachelor of Science & Bachelor of Science (Honours) in Statistics",
+        "details_url": "https://www.stat.nus.edu.sg/prospective-students/why-statistics/why-statistics/"
+      },
+      {
+        "major": "Bachelor of Science (Honours)  in Statistics with Specialisation in Data Science",
+        "details_url": "https://www.stat.nus.edu.sg/prospective-students/why-statistics/why-statistics/"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Statistics with Specialisation in Finance and Business Statistics",
+        "details_url": "https://www.stat.nus.edu.sg/prospective-students/why-statistics/why-statistics/"
+      },
+      {
+        "major": "Bachelor Of Dental Surgery",
+        "details_url": "https://www.dentistry.nus.edu.sg/Education/education.html"
+      },
+      {
+        "major": "Bachelor Of Engineering in Biomedical Engineering (BME)",
+        "details_url": "https://cde.nus.edu.sg/bme/undergraduate/what-is-bme/"
+      },
+      {
+        "major": "Bachelor Of Engineering in Civil Engineering",
+        "details_url": "https://cde.nus.edu.sg/cee/undergraduate/beng-civil/"
+      },
+      {
+        "major": "Bachelor Of Engineering in Environmental and Sustainability Engineering",
+        "details_url": "https://cde.nus.edu.sg/cee/undergraduate/beng-env/"
+      },
+      {
+        "major": "Bachelor of Technology in Civil Engineering",
+        "details_url": "https://cde.nus.edu.sg/cee/undergraduate/bachelor-of-engineering/btech-civil-engineering/"
+      },
+      {
+        "major": "Bachelor of Engineering (Electrical Engineering)",
+        "details_url": "https://cde.nus.edu.sg/ece/undergraduate/what-is-ece/"
+      },
+      {
+        "major": "Bachelor of Information Technology (BIT)",
+        "details_url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/bachelor-of-information-technology"
+      },
+      {
+        "major": "Bachelor of Engineering (Engineering Science)",
+        "details_url": "https://cde.nus.edu.sg/esp/undergraduate/b-eng-engineering-science/"
+      },
+      {
+        "major": "Bachelor of Arts in Industrial Design (Hons)",
+        "details_url": "https://cde.nus.edu.sg/did/undergraduate/coursework/"
+      },
+      {
+        "major": "Bachelor of Arts in Bachelor of Arts in Visual communication Design",
+        "details_url": "https://cde.nus.edu.sg/did/undergraduate/minor-visual-communication/"
+      },
+      {
+        "major": "Bachelor of Engineering in Industrial Systems Engineering & Management",
+        "details_url": "https://cde.nus.edu.sg/isem/undergraduate/beng/overview/"
+      },
+      {
+        "major": "Bachelor of Technology (Industrial & Management Engineering)",
+        "details_url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-industrial-management-engineering"
+      },
+      {
+        "major": "Bachelor of Technology (Supply Chain Management)",
+        "details_url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-supply-chain-management"
+      },
+      {
+        "major": "Bachelor of Engineering in Infrastructure and Project Management (IPM)",
+        "details_url": "https://cde.nus.edu.sg/dbe/introduction-1-1/"
+      },
+      {
+        "major": "Bachelor of Engineering in Infrastructure Management and Finance",
+        "details_url": "https://cde.nus.edu.sg/dbe/undergraduate/minor-in-infrastructure-management-and-finance/"
+      },
+      {
+        "major": "Bachelor of Engineering in Project Management",
+        "details_url": "https://cde.nus.edu.sg/dbe/undergraduate/minor-in-project-management/"
+      },
+      {
+        "major": "Bachelor of landscape Architecture",
+        "details_url": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/"
+      },
+      {
+        "major": "Bachelor of landscape Architecture in Architectural Studies",
+        "details_url": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/recommended-minor-programmes/"
+      },
+      {
+        "major": "Bachelor of landscape Architecture in Aquatic Ecology",
+        "details_url": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/recommended-minor-programmes/"
+      },
+      {
+        "major": "Bachelor of landscape Architecture in Geographical Information Systems",
+        "details_url": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/recommended-minor-programmes/"
+      },
+      {
+        "major": "Bachelor of landscape Architecture in Geosciences",
+        "details_url": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/recommended-minor-programmes/"
+      },
+      {
+        "major": "Bachelor of landscape Architecture in Urban Studies",
+        "details_url": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/recommended-minor-programmes/"
+      },
+      {
+        "major": "Bachelor of landscape Architecture in Life Sciences",
+        "details_url": "https://cde.nus.edu.sg/arch/programmes/bachelor-of-landscape-architecture/recommended-minor-programmes/"
+      },
+      {
+        "major": "Bachelor of Engineering in Materials Science Engineering",
+        "details_url": "https://cde.nus.edu.sg/mse/undergraduates/admissions/"
+      },
+      {
+        "major": "Bachelor of Engineering (Mechanical Engineering)",
+        "details_url": "https://cde.nus.edu.sg/me/undergraduate/beng-me/overview/"
+      },
+      {
+        "major": "Bachelor of Technology (Mechanical Engineering)",
+        "details_url": "https://scale.nus.edu.sg/programmes/undergraduate-programmes/btech-engineering/btech-mechanical-engineering"
+      },
+      {
+        "major": "Bachelor of Environmental Studies (Honours)",
+        "details_url": "https://chs.nus.edu.sg/programmes/bes/"
+      },
+      {
+        "major": "Bachelor of Food Science and Technology",
+        "details_url": "https://www.fst.nus.edu.sg/education/undergraduate-programme/admission-information/"
+      },
+      {
+        "major": "Bachelor of Food Science and Technology in Nutrition",
+        "details_url": "https://www.fst.nus.edu.sg/education/undergraduate-programme/course-structure/minor-in-nutrition/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Chinese Language",
+        "details_url": "https://fass.nus.edu.sg/cs/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Chinese Studies",
+        "details_url": "https://fass.nus.edu.sg/cs/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in English Language and Linguistics",
+        "details_url": "https://fass.nus.edu.sg/elts/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in English Literature",
+        "details_url": "https://fass.nus.edu.sg/elts/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Global Studies",
+        "details_url": "https://fass.nus.edu.sg/globalstudies/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in History",
+        "details_url": "https://fass.nus.edu.sg/hist/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Japanese Studies",
+        "details_url": "https://fass.nus.edu.sg/jps/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Malay Studies",
+        "details_url": "https://fass.nus.edu.sg/mls/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Philosophy",
+        "details_url": "https://fass.nus.edu.sg/philo/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in South Asian Studies",
+        "details_url": "https://fass.nus.edu.sg/sas/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Southeast Asian Studies",
+        "details_url": "https://fass.nus.edu.sg/sea/"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Theatre and Performance Studies",
+        "details_url": "https://fass.nus.edu.sg/elts/"
+      },
+      {
+        "major": "Bachelor of Social Sciences (Honours) in Anthropology",
+        "details_url": "https://fass.nus.edu.sg/socanth/"
+      },
+      {
+        "major": "Bachelor of Social Sciences (Honours) in Communications and New Media",
+        "details_url": "https://fass.nus.edu.sg/cnm/"
+      },
+      {
+        "major": "Bachelor of Social Sciences (Honours) in Economics",
+        "details_url": "https://fass.nus.edu.sg/ecs/"
+      },
+      {
+        "major": "Bachelor of Social Sciences (Honours) in Geography",
+        "details_url": "https://fass.nus.edu.sg/geog/"
+      },
+      {
+        "major": "Bachelor of Social Sciences (Honours) in Urban Studies",
+        "details_url": "https://fass.nus.edu.sg/geog/minor-programmes/"
+      },
+      {
+        "major": "Bachelor of Social Sciences (Honours) in Geographical Information Systems (GIS)",
+        "details_url": "https://fass.nus.edu.sg/geog/minor-programmes/"
+      },
+      {
+        "major": "Bachelor of Social Sciences (Honours) in Political Science",
+        "details_url": "https://fass.nus.edu.sg/pol/"
+      },
+      {
+        "major": "Bachelor of Social Sciences (Honours) in Psychology",
+        "details_url": "https://fass.nus.edu.sg/psy/"
+      },
+      {
+        "major": "Bachelor of Social Sciences (Honours) in Social Work",
+        "details_url": "https://fass.nus.edu.sg/swk/"
+      },
+      {
+        "major": "Bachelor of Social Sciences (Honours) in Sociology",
+        "details_url": "https://fass.nus.edu.sg/socanth/"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Chemistry",
+        "details_url": "https://chemistry.nus.edu.sg/"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Chemistry Specialisation in Chemical Research",
+        "details_url": "https://chemistry.nus.edu.sg/"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Life Sciences",
+        "details_url": "https://www.dbs.nus.edu.sg/lifesciences/"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Life Sciences specialisation in Biomedical Science (BMS)",
+        "details_url": "https://www.dbs.nus.edu.sg/lifesciences/"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Life Sciences specialisation in Ecology, Evolution and Biodiversity (EEB)",
+        "details_url": "https://www.dbs.nus.edu.sg/lifesciences/"
+      },
+      {
+        "major": "Bachelor of Science & Bachelor of Science (Honours) in Mathematics",
+        "details_url": "https://www.math.nus.edu.sg/ug/majmin/primajors/ma/"
+      },
+      {
+        "major": "Bachelor of Pharmacy (Honours)",
+        "details_url": "https://pharmacy.nus.edu.sg/study/undergraduate/bachelor-of-pharmacy/"
+      },
+      {
+        "major": "Bachelor of Science (Pharmaceutical Science) (Honours)",
+        "details_url": "https://pharmacy.nus.edu.sg/study/undergraduate/bachelor-of-science-pharmaceutical-science/"
+      },
+      {
+        "major": "Bachelor of Science in Physics",
+        "details_url": "https://www.physics.nus.edu.sg/student/major-in-physics/"
+      },
+      {
+        "major": "Bachelor of Science in Physics specialisations in Astrophysics",
+        "details_url": "https://www.physics.nus.edu.sg/student/major-in-physics/"
+      },
+      {
+        "major": "Bachelor of Science in Physics specialisations in Nanophysics",
+        "details_url": "https://www.physics.nus.edu.sg/student/major-in-physics/"
+      },
+      {
+        "major": "Bachelor of Science in Physics specialisations in Quantum Technologies",
+        "details_url": "https://www.physics.nus.edu.sg/student/major-in-physics/"
+      },
+      {
+        "major": "Bachelor of Science & Bachelor of Science (Honours) in Quantitative Finance",
+        "details_url": "https://www.math.nus.edu.sg/ug/majmin/primajors/qf/"
+      },
+      {
+        "major": "Bachelor of Computing in Information Security (with Honours)",
+        "details_url": "https://www.comp.nus.edu.sg/programmes/ug/isc/"
+      },
+      {
+        "major": "Bachelor of Computing in Information Systems (with Honours)",
+        "details_url": "https://www.comp.nus.edu.sg/programmes/ug/is/"
+      },
+      {
+        "major": "Bachelor of Laws (Honours) (LLB)",
+        "details_url": "https://law1a.nus.edu.sg/admissions/4_yrs_llb_prog.html"
+      },
+      {
+        "major": "Bachelor of Laws (Honours) (LLB) in Business Administration and Law",
+        "details_url": "https://www.nus.edu.sg/prog/bbalaw/index.html"
+      },
+      {
+        "major": "Bachelor of Laws (Honours) (LLB) in Economics and Law",
+        "details_url": "https://www.nus.edu.sg/prog/econlaw/overview.html"
+      },
+      {
+        "major": "Bachelor of Laws (Honours) (LLB) in Law and Public Policy",
+        "details_url": "https://www.nus.edu.sg/prog/mpplaw/overview.htm"
+      },
+      {
+        "major": "MBBS: Bachelor of Medicine and Bachelor of Surgery",
+        "details_url": "https://medicine.nus.edu.sg/prospective-students/bachelor-of-medicine-and-bachelor-of-surgery-mbbs/"
+      },
+      {
+        "major": "Bachelor of Science & Bachelor of Science (Honours) in Nursing",
+        "details_url": "https://medicine.nus.edu.sg/nursing/education-programmes/undergraduate/bachelor-of-science-nursing-honours/"
+      },
+      {
+        "major": "Bachelor of Music in Audio Arts & Sciences",
+        "details_url": "https://www.ystmusic.nus.edu.sg/majors-audio-arts-and-sciences/"
+      },
+      {
+        "major": "Bachelor of Music in Brass",
+        "details_url": "https://www.ystmusic.nus.edu.sg/majors-brass/"
+      },
+      {
+        "major": "Bachelor of Music in Composition",
+        "details_url": "https://www.ystmusic.nus.edu.sg/majors-composition/"
+      },
+      {
+        "major": "Bachelor of Music in Music & Society / Music, Collaboration & Production",
+        "details_url": "https://www.ystmusic.nus.edu.sg/majors-msmcp/"
+      },
+      {
+        "major": "Bachelor of Music in Percussion",
+        "details_url": "https://www.ystmusic.nus.edu.sg/majors-percussion/"
+      },
+      {
+        "major": "Bachelor of Music in Piano",
+        "details_url": "https://www.ystmusic.nus.edu.sg/majors-piano/"
+      },
+      {
+        "major": "Bachelor of Music in Strings & Harp",
+        "details_url": "https://www.ystmusic.nus.edu.sg/majors-strings-and-harp/"
+      },
+      {
+        "major": "Bachelor of Music in Voice",
+        "details_url": "https://www.ystmusic.nus.edu.sg/majors-voice/"
+      },
+      {
+        "major": "Bachelor of Music in Woodwinds",
+        "details_url": "https://www.ystmusic.nus.edu.sg/majors-woodwinds/"
+      },
+      {
+        "major": "Bachelor of Music in Woodwinds",
+        "details_url": "https://www.ystmusic.nus.edu.sg/majors-woodwinds/"
+      },
+      {
+        "major": "Graduate Business Executive MBA (Chinese)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/executive-mba-chinese"
+      },
+      {
+        "major": "Graduate Business Executive MBA (English)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/executive-mba-english"
+      },
+      {
+        "major": "Graduate Business Executive MBA (UCLA-NUS)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/executive-mba-ucla-nus"
+      },
+      {
+        "major": "Master of Science in NUS-SJTU (Quantitative Finance)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/executive-mba-ucla-nus"
+      },
+      {
+        "major": "Master of Arts in Architectural Conservation (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/executive-mba-ucla-nus"
+      },
+      {
+        "major": "Masters of Art in Architecture (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-a-in-architecture-research"
+      },
+      {
+        "major": "Master of Arts in Industrial Design (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-a-in-industrial-design-research"
+      },
+      {
+        "major": "Master of Arts in Urban Design (MAUD) (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-a-in-urban-design-coursework"
+      },
+      {
+        "major": "Master of Science in Civil Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-civil-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Infectious Disease Emergencies (IDE)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-ide"
+      },
+      {
+        "major": "Master of Science in Precision Health and Medicine",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-precision-health-and-medicine"
+      },
+      {
+        "major": "Master of Science in Real Estate",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-real-estate"
+      },
+      {
+        "major": "Master of Science in Accounting (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-accounting-coursework"
+      },
+      {
+        "major": "Master of Science in Applied Biomedicine (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-applied-biomedicine-coursework"
+      },
+      {
+        "major": "Master of Science in Audiology (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-audiology-coursework-2"
+      },
+      {
+        "major": "Master of Science in Behavioral and Implementation Sciences in Health (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-behavioral-and-implementation-sciences-in-health-coursework"
+      },
+      {
+        "major": "Master of Science in Biodiversity Conservation and Sustainability (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-biodiversity-conservation-and-sustainability-coursework"
+      },
+      {
+        "major": "Master of Science in Biodiversity Conservation and Sustainability (Stackable) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-biodiversity-conservation-and-sustainability-stackable-coursework"
+      },
+      {
+        "major": "Master of Science in Biomedical Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-biomedical-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Biomedical Informatics (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-biomedical-informatics-coursework"
+      },
+      {
+        "major": "Master of Science in Biotechnology (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-biotechnology-coursework"
+      },
+      {
+        "major": "Master of Science in Biotechnology (Stackable) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-biotechnology-stackable-coursework"
+      },
+      {
+        "major": "Master of Science in Building Performance and Sustainability (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-building-performance-and-sustainability-coursework"
+      },
+      {
+        "major": "Master of Science in Built Environment (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-built-environment-research"
+      },
+      {
+        "major": "Master of Science in Business Analytics (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-business-analytics-coursework-2"
+      },
+      {
+        "major": "Master of Science in Chemical Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-chemical-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Chemical Sciences (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-chemical-sciences-coursework"
+      },
+      {
+        "major": "Master of Science in Chemistry (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-chemistry-research"
+      },
+      {
+        "major": "Master of Science in Computer Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-computer-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Data Science and Machine Learning (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-data-science-and-machine-learning-coursework"
+      },
+      {
+        "major": "Master of Science in Data Science for Sustainability (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-data-science-for-sustainability-coursework"
+      },
+      {
+        "major": "Master of Science in Dentistry (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-dentistry-research"
+      },
+      {
+        "major": "Master of Science in Digital Financial Technology (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-digital-financial-technology-coursework"
+      },
+      {
+        "major": "Master of Science in Electrical Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-electrical-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Energy Systems (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-energy-systems-coursework"
+      },
+      {
+        "major": "Master of Science in Engineering Design and Innovation (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-engineering-design-and-innovation-coursework-2"
+      },
+      {
+        "major": "Master of Science in Environmental Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-environmental-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Environmental Management (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-environmental-management-coursework"
+      },
+      {
+        "major": "Master of Science in Finance (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-finance-coursework"
+      },
+      {
+        "major": "Master of Science in Financial Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-financial-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Financial Engineering (via Distance Learning) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-financial-engineering-via-distance-learning-coursework"
+      },
+      {
+        "major": "Master of Science in Food Science and Human Nutrition (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-food-science-and-human-nutrition-coursework"
+      },
+      {
+        "major": "Master of Science in Food Science and Technology (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-food-science-and-technology-research"
+      },
+      {
+        "major": "Master of Science in Forensic Science (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-forensic-science-coursework"
+      },
+      {
+        "major": "Master of Science in Forensic Science (Stackable) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-forensic-science-stackable-coursework"
+      },
+      {
+        "major": "Master of Science in Human Capital Management and Analytics (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-human-capital-management-and-analytics-coursework"
+      },
+      {
+        "major": "Master of Science in Industrial and Systems Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-industrial-and-systems-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Industrial Chemistry (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-industrial-chemistry-coursework"
+      },
+      {
+        "major": "Master of Science in Integrated Sustainable Design (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-integrated-sustainable-design-coursework"
+      },
+      {
+        "major": "Master of Science in Management (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-management-coursework"
+      },
+      {
+        "major": "Master of Science in Management + CEMS MIM (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-management-cems-mim-coursework"
+      },
+      {
+        "major": "Master of Science in Management of Technology and Innovation (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-management-of-technology-and-innovation-coursework"
+      },
+      {
+        "major": "Master of Science in Maritime Technology and Management (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-maritime-technology-and-management-coursework"
+      },
+      {
+        "major": "Master of Science in Marketing Analytics and Insights (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-marketing-analytics-and-insights-coursework"
+      },
+      {
+        "major": "Master of Science in Marketing Analytics and Insights + CEMS MIM (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-marketing-analytics-and-insights-cems-mim-coursework"
+      },
+      {
+        "major": "Master of Science in Materials Science and Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-materials-science-and-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Mathematics (Track 1) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-mathematics-track-1-coursework"
+      },
+      {
+        "major": "Master of Science in Mathematics (Track 2) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-mathematics-track-2-coursework"
+      },
+      {
+        "major": "Master of Science in Mechanical Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-mechanical-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Medicine (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-medicine-research"
+      },
+      {
+        "major": "Master of Science in Nursing (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-nursing-research"
+      },
+      {
+        "major": "Master of Science in NUS-Peking University DDP (Financial Engineering) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-nus-peking-university-ddp-financial-engineering-coursework"
+      },
+      {
+        "major": "Master of Science in Pharmaceutical Science and Technology (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-pharmaceutical-science-and-technology-coursework"
+      },
+      {
+        "major": "Master of Science in Pharmacy (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-pharmacy-research"
+      },
+      {
+        "major": "Master of Science in Physics (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-physics-research"
+      },
+      {
+        "major": "Master of Science in Physics (Track 1) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-physics-track-1-coursework"
+      },
+      {
+        "major": "Master of Science in Physics (Track 2) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-physics-track-2-coursework"
+      },
+      {
+        "major": "Master of Science in Physics for Technology (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-physics-for-technology-coursework"
+      },
+      {
+        "major": "Master of Science in Project Management (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-project-management-coursework"
+      },
+      {
+        "major": "Master of Science in Public Health (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-public-health-research"
+      },
+      {
+        "major": "Master of Science in Robotics (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-robotics-coursework"
+      },
+      {
+        "major": "Master of Science in Safety, Health and Environmental Technology (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-safety-health-and-environmental-technology-coursework"
+      },
+      {
+        "major": "Master of Science in Semiconductor Technology and Operations (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-semiconductor-technology-and-operations-coursework"
+      },
+      {
+        "major": "Master of Science in Smart Industries and Digital Transformation (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-smart-industries-and-digital-transformation-coursework"
+      },
+      {
+        "major": "Master of Science in Speech and Language Pathology (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-speech-and-language-pathology-coursework"
+      },
+      {
+        "major": "Master of Science in Statistics (Stackable) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-statistics-stackable-coursework"
+      },
+      {
+        "major": "Master of Science in Statistics (Track 1) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-statistics-track-1-coursework"
+      },
+      {
+        "major": "Master of Science in Statistics and Applied Probability (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-statistics-and-applied-probability-research"
+      },
+      {
+        "major": "Master of Science in Strategic Analysis and Innovation (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-strategic-analysis-and-innovation-coursework"
+      },
+      {
+        "major": "Master of Science in Supply Chain Management (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-supply-chain-management-coursework"
+      },
+      {
+        "major": "Master of Science in Sustainable and Green Finance (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-sustainable-and-green-finance-coursework"
+      },
+      {
+        "major": "Master of Science in Venture Creation (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-venture-creation-coursework"
+      },
+      {
+        "major": "Master of Applied and Public History (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-applied-and-public-history-coursework"
+      },
+      {
+        "major": "Master of Applied Geographic Information Systems (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-applied-geographic-information-systems-coursework"
+      },
+      {
+        "major": "Master of Architecture (Non-CDP) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-architecture-non-cdp-coursework"
+      },
+      {
+        "major": "Master of Arts and Cultural Entrepreneurship (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-arts-and-cultural-entrepreneurship-coursework"
+      },
+      {
+        "major": "Master of Asian and Global History (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-asian-and-global-history-coursework"
+      },
+      {
+        "major": "Master of Biomedical Engineering (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-biomedical-engineering-research"
+      },
+      {
+        "major": "Master of Chemical and Biomolecular Engineering (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-chemical-and-biomolecular-engineering-research"
+      },
+      {
+        "major": "Master of Chinese Culture and Language (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-chinese-culture-and-language-coursework"
+      },
+      {
+        "major": "Master of Chinese Studies (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-chinese-studies-research"
+      },
+      {
+        "major": "Master of Climate Change and Sustainability (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-climate-change-and-sustainability-coursework"
+      },
+      {
+        "major": "Master of Clinical Investigation (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-clinical-investigation-coursework"
+      },
+      {
+        "major": "Master of Clinical Pharmacy (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-clinical-pharmacy-coursework"
+      },
+      {
+        "major": "Master of Clinical Pharmacy (Stackable) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-clinical-pharmacy-stackable-coursework"
+      },
+      {
+        "major": "Master of Communication (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-communication-coursework"
+      },
+      {
+        "major": "Master of Communications and New Media (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-communications-and-new-media-research"
+      },
+      {
+        "major": "Master of Computing (Artificial Intelligence Specialisation) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-computing-artificial-intelligence-specialisation-coursework"
+      },
+      {
+        "major": "Master of Computing (Computer Science Specialisation) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-computing-computer-science-specialisation-coursework"
+      },
+      {
+        "major": "Master of Computing (General Track) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-computing-general-track-coursework"
+      },
+      {
+        "major": "Master of Computing (Infocomm Security Specialisation) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-computing-infocomm-security-specialisation-coursework"
+      },
+      {
+        "major": "Master of Computing (Information Systems Specialisation) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-computing-information-systems-specialisation-coursework"
+      },
+      {
+        "major": "Master of Contemporary Southeast Asia (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-contemporary-southeast-asia-coursework"
+      },
+      {
+        "major": "Master of Design (Integrated Design) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-design-integrated-design-coursework"
+      },
+      {
+        "major": "Master of Economics (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-economics-coursework"
+      },
+      {
+        "major": "Master of Engineering (Civil and Environmental Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-engineering-civil-and-environmental-engineering"
+      },
+      {
+        "major": "Master of Engineering (Electrical and Computer Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-engineering-electrical-and-computer-engineering"
+      },
+      {
+        "major": "Master of Engineering (Industrial and Systems Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-engineering-industrial-and-systems-engineering"
+      },
+      {
+        "major": "Master of Engineering (Materials Science and Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-engineering-materials-science-and-engineering"
+      },
+      {
+        "major": "Master of Engineering (Mechanical Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-engineering-mechanical-engineering"
+      },
+      {
+        "major": "Master of English Language and Linguistics (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-english-language-and-linguistics-coursework"
+      },
+      {
+        "major": "Master of English Language and Linguistics (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-english-language-and-linguistics-research"
+      },
+      {
+        "major": "Master of English Literature (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-english-literature-research"
+      },
+      {
+        "major": "Master of Geography (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-geography-research"
+      },
+      {
+        "major": "Master of History (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-history-research"
+      },
+      {
+        "major": "Master of International Affairs (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-international-affairs-coursework"
+      },
+      {
+        "major": "Master of International Translational Medicine (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-international-translational-medicine-research"
+      },
+      {
+        "major": "Master of Japanese Studies (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-japanese-studies-research"
+      },
+      {
+        "major": "Master of Japanese Visual Cultures (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-japanese-visual-cultures-coursework"
+      },
+      {
+        "major": "Master of Landscape Architecture (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-landscape-architecture-coursework"
+      },
+      {
+        "major": "Master of Laws (Asian Legal Studies) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-laws-asian-legal-studies-coursework"
+      },
+      {
+        "major": "Master of Laws (Corporate and Financial Services Law) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-laws-corporate-and-financial-services-law-coursework"
+      },
+      {
+        "major": "Master of Laws (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-laws-coursework"
+      },
+      {
+        "major": "Master of Laws (Intellectual Property and Technology Law) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-laws-intellectual-property-and-technology-law-coursework"
+      },
+      {
+        "major": "Master of Laws (International and Comparative Law) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-laws-international-and-comparative-law-coursework"
+      },
+      {
+        "major": "Master of Laws (International Arbitration and Dispute Resolution) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-laws-international-arbitration-and-dispute-resolution-coursework"
+      },
+      {
+        "major": "Master of Laws (International Business Law) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-laws-international-business-law-coursework"
+      },
+      {
+        "major": "Master of Laws (Maritime Law) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-laws-maritime-law-coursework"
+      },
+      {
+        "major": "Master of Literary Studies (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-literary-studies-coursework"
+      },
+      {
+        "major": "Master of Malay Studies (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-malay-studies-research"
+      },
+      {
+        "major": "Master of Medicine (Orthopaedic Surgery) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-medicine-orthopaedic-surgery-coursework"
+      },
+      {
+        "major": "Master of Music (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-music-coursework"
+      },
+      {
+        "major": "Master of Music Leadership (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-music-leadership-coursework"
+      },
+      {
+        "major": "Master of Nursing (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-nursing-coursework"
+      },
+      {
+        "major": "Master of NUS-London School of Economics and Political Science DDP (History) (Coursework) Double Degree",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-nus-london-school-of-economics-and-political-science-ddp-history-coursework-double-degree"
+      },
+      {
+        "major": "Master of Pharmaceutical Science and Technology (Stackable) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-pharmaceutical-science-and-technology-stackable-coursework"
+      },
+      {
+        "major": "Master of Philosophy (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-philosophy-research"
+      },
+      {
+        "major": "Master of Political Science (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-political-science-research"
+      },
+      {
+        "major": "Master of Psychology (Clinical) (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-psychology-clinical-coursework"
+      },
+      {
+        "major": "Master of Public Administration (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-public-administration-coursework"
+      },
+      {
+        "major": "Master of Public Health (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-public-health-coursework"
+      },
+      {
+        "major": "Master of Public Management and Administration (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-public-management-and-administration-coursework"
+      },
+      {
+        "major": "Master of Public Policy (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-public-policy-coursework"
+      },
+      {
+        "major": "Master of Social Sciences (Economics) (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-social-sciences-economics-research"
+      },
+      {
+        "major": "Master of Social Sciences (Psychology) (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-social-sciences-psychology-research-2"
+      },
+      {
+        "major": "Master of Social Sciences (Pyschology)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-social-sciences-pyschology"
+      },
+      {
+        "major": "Master of Social Sciences (Social Work) (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-social-sciences-social-work-research"
+      },
+      {
+        "major": "Master of Social Sciences (Sociology) (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-social-sciences-sociology-research"
+      },
+      {
+        "major": "Master of Social Work (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-social-work-coursework"
+      },
+      {
+        "major": "Master of South Asian Studies (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-south-asian-studies-research"
+      },
+      {
+        "major": "Master of Southeast Asian Studies (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-southeast-asian-studies-research"
+      },
+      {
+        "major": "Master of Technology in Digital Leadership (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-technology-in-digital-leadership-coursework"
+      },
+      {
+        "major": "Master of Technology in Enterprise Business Analytics (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-technology-in-enterprise-business-analytics-coursework"
+      },
+      {
+        "major": "Master of Technology in Intelligent Systems (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-technology-in-intelligent-systems-coursework"
+      },
+      {
+        "major": "Master of Technology in Software Engineering (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-technology-in-software-engineering-coursework"
+      },
+      {
+        "major": "Master of Theatre and Performance Studies (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-theatre-and-performance-studies-coursework"
+      },
+      {
+        "major": "Master of Urban Planning (Coursework)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/master-of-urban-planning-coursework"
+      },
+      {
+        "major": "Master of Business Administration (MBA)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/mba"
+      },
+      {
+        "major": "Master of Business Administration (MBA) - (NUS MBA-MPA)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/mba-nus-mba-mpa"
+      },
+      {
+        "major": "Master of Business Administration (MBA) - (NUS MBA-MPP)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/mba-nus-mba-mpp"
+      },
+      {
+        "major": "Master of Business Administration (MBA) - (NUS-Hautes Études Commerciales Paris)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/mba-nus-hautes-etudes-commerciales-paris"
+      },
+      {
+        "major": "Master of Business Administration (MBA) - (NUS-Peking University)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/mba-nus-peking-university"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Anthropology))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-anthropology"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Chinese Studies))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-anthropology"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Communications and New Media))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-communications-and-new-media"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Comparative Asian Studies))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-comparative-asian-studies"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Cultural Studies in Asia))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-cultural-studies-in-asia"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Economics))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-cultural-studies-in-asia"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (English Language and Linguistics))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-english-language-and-linguistics"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (English Literature))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-english-literature"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Geography))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-geography"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (History))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-history"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Japanese Studies))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-japanese-studies"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Malay Studies))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-malay-studies"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Pharmacy))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-pharmacy"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Philosophy))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-philosophy"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Political Science))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-political-science"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Psychology))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-psychology"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Social Work))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-social-work"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Sociology/Anthropology))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-sociology-anthropology"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (South Asian Studies))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-south-asian-studies"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Southeast Asian Studies))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-southeast-asian-studies"
+      },
+      {
+        "major": "Joint PhD (NUS-King's College London (Theatre and Performance Studies))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-kings-college-london-theatre-and-performance-studies"
+      },
+      {
+        "major": "Joint PhD (NUS-SUTD (Architecture))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-sutd-architecture"
+      },
+      {
+        "major": "Joint PhD (NUS-SUTD (Biomedical Engineering))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-sutd-biomedical-engineering"
+      },
+      {
+        "major": "Joint PhD (NUS-SUTD (Chemical and Biomolecular Engineering))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-sutd-chemical-and-biomolecular-engineering"
+      },
+      {
+        "major": "Joint PhD (NUS-SUTD (Civil and Environmental Engineering))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-sutd-civil-and-environmental-engineering"
+      },
+      {
+        "major": "Joint PhD (NUS-SUTD (Electrical and Computer Engineering))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-sutd-electrical-and-computer-engineering"
+      },
+      {
+        "major": "Joint PhD (NUS-SUTD (Industrial Design))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-sutd-industrial-design"
+      },
+      {
+        "major": "Joint PhD (NUS-SUTD (Industrial Systems Engineering and Management))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-sutd-industrial-systems-engineering-and-management"
+      },
+      {
+        "major": "Joint PhD (NUS-SUTD (Materials Science and Engineering))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-sutd-materials-science-and-engineering"
+      },
+      {
+        "major": "Joint PhD (NUS-SUTD (Mechanical Engineering))",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/joint-phd-nus-sutd-mechanical-engineering"
+      },
+      {
+        "major": "M.Sc. in +PhD (Research)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/m-sc-in-phd-research"
+      },
+      {
+        "major": "PhD (Anthropology)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-anthropology"
+      },
+      {
+        "major": "PhD (Architecture)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-architecture"
+      },
+      {
+        "major": "PhD (Biological Sciences)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-biological-sciences"
+      },
+      {
+        "major": "PhD (Biomedical Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-biomedical-engineering"
+      },
+      {
+        "major": "PhD (Built Environment)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-built-environment"
+      },
+      {
+        "major": "PhD (Business Management - Accounting)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-business-management-accounting"
+      },
+      {
+        "major": "PhD (Business Management - Analytics and Operations)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-business-management-analytics-and-operations"
+      },
+      {
+        "major": "PhD (Business Management - Finance)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-business-management-finance"
+      },
+      {
+        "major": "PhD (Business Management - Management and Organisation)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-business-management-management-and-organisation"
+      },
+      {
+        "major": "PhD (Business Management - Marketing)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-business-management-marketing"
+      },
+      {
+        "major": "PhD (Business Management - Real Estate)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-business-management-real-estate"
+      },
+      {
+        "major": "PhD (Business Management - Strategy and Policy)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-business-management-real-estate"
+      },
+      {
+        "major": "PhD (Cancer Biology)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-cancer-biology"
+      },
+      {
+        "major": "PhD (Chemical and Biomolecular Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-chemical-and-biomolecular-engineering"
+      },
+      {
+        "major": "PhD (Chemistry)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-chemistry"
+      },
+      {
+        "major": "PhD (Chinese Studies)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-chinese-studies"
+      },
+      {
+        "major": "PhD (Civil and Environmental Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-civil-and-environmental-engineering"
+      },
+      {
+        "major": "PhD (Clinical and Translational Sciences)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-clinical-and-translational-sciences"
+      },
+      {
+        "major": "PhD (Communications and New Media)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-communications-and-new-media"
+      },
+      {
+        "major": "PhD (Comparative Asian Studies)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-comparative-asian-studies"
+      },
+      {
+        "major": "PhD (Computer Science)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-computer-science"
+      },
+      {
+        "major": "PhD (CSI Graduate Program)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-csi-graduate-program"
+      },
+      {
+        "major": "PhD (Cultural Studies in Asia)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-cultural-studies-in-asia"
+      },
+      {
+        "major": "PhD (Dentistry)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-dentistry"
+      },
+      {
+        "major": "PhD (Digital Financial Technology)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-digital-financial-technology"
+      },
+      {
+        "major": "PhD (Economics)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-economics"
+      },
+      {
+        "major": "PhD (Electrical and Computer Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-economics"
+      },
+      {
+        "major": "PhD (English Language and Linguistics)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-english-language-and-linguistics"
+      },
+      {
+        "major": "PhD (English Literature)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-english-literature"
+      },
+      {
+        "major": "PhD (Geography)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-geography-2"
+      },
+      {
+        "major": "PhD (History)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-history"
+      },
+      {
+        "major": "PhD (Industrial Design)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-industrial-design"
+      },
+      {
+        "major": "PhD (Industrial Systems Engineering and Management)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-industrial-systems-engineering-and-management"
+      },
+      {
+        "major": "PhD (Information Systems and Analytics)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-information-systems-and-analytics"
+      },
+      {
+        "major": "PhD (Integrated Biology and Medicine)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-integrated-biology-and-medicine"
+      },
+      {
+        "major": "PhD (Integrative Sciences and Engineering - ISEP)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-integrative-sciences-and-engineering-isep"
+      },
+      {
+        "major": "PhD (Japanese Studies)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-japanese-studies"
+      },
+      {
+        "major": "PhD (Law)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-law"
+      },
+      {
+        "major": "PhD (Malay Studies)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-malay-studies"
+      },
+      {
+        "major": "PhD (Materials Science and Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-materials-science-and-engineering"
+      },
+      {
+        "major": "PhD (Mathematics)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-mathematics"
+      },
+      {
+        "major": "PhD (Mechanical Engineering)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-mechanical-engineering"
+      },
+      {
+        "major": "PhD (Mechanobiology)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-mechanobiologyg"
+      },
+      {
+        "major": "PhD (Medicine)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-medicine"
+      },
+      {
+        "major": "PhD (Nursing)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-nursing"
+      },
+      {
+        "major": "PhD (Operations Research and Analytics)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-operations-research-and-analytics"
+      },
+      {
+        "major": "PhD (Pharmacy)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-pharmacy"
+      },
+      {
+        "major": "PhD (Philosophy)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-philosophy"
+      },
+      {
+        "major": "PhD (Physics)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-physics"
+      },
+      {
+        "major": "PhD (Political Science)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-political-science"
+      },
+      {
+        "major": "PhD (Public Health)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-public-health"
+      },
+      {
+        "major": "PhD (Public Policy)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-public-policy"
+      },
+      {
+        "major": "PhD (Quantitative Biology and Medicine)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-quantitative-biology-and-medicine"
+      },
+      {
+        "major": "PhD (Quantum Technologies)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-quantum-technologies"
+      },
+      {
+        "major": "PhD (Social Work)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-social-work"
+      },
+      {
+        "major": "PhD (Sociology/Anthropology)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-sociology-anthropology"
+      },
+      {
+        "major": "PhD (South Asian Studies)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-south-asian-studies"
+      },
+      {
+        "major": "PhD (Southeast Asian Studies)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-southeast-asian-studies"
+      },
+      {
+        "major": "PhD (Statistics and Applied Probability)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-statistics-and-applied-probability"
+      },
+      {
+        "major": "PhD (Theatre and Performance Studies)",
+        "details_url": "https://nusgs.nus.edu.sg/programmes/phd-theatre-and-performance-studies"
+      }
+    ]
+  }
+]

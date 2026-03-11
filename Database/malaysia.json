@@ -1,0 +1,764 @@
+[
+  {
+    "university": "Asia Pacific University of Technology & Innovation (APU)",
+    "country": "Malaysia",
+    "logo": "http://tiny.cc/SS-APUmalaysia1",
+    "programs": [
+      {
+        "major": "Bachelor of Science (Honours) in Information Technology",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-computing-technology/bsc-hons-information-technology"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Information Technology with a specialism in Information System Security",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/computing-technology-games-development/bachelor-science-honours-iss"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Information Technology with a specialism in Cloud Engineering",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/computing-technology-games-development/bsc-hons-information-cloud-engineering"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Information Technology with a specialism in Internet of Things (IoT)",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/computing-technology-games-development/bachelor-science-honours-iot"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Information Technology with a specialism in Digital Transformation",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-computing-technology/BSc-Hons-in-information-technology-with-a-specialism-in-digital-transformation"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Information Technology with a specialism in Financial Technology (FinTech)",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/computing-technology-games-development/bachelor-science-honours-fintech"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Information Technology with a specialism in Business Information Systems",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-computing-technology/bsc-hons-information-technology-bis"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Information Technology with a specialism in Sustainable Computing",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/computing-technology-games-development/bsc-hons-information-sustainable-computing"
+      },
+      {
+        "major": "Bachelor of Science (Hons) in Software Engineering",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-computing-technology/bsc-hons-software-engineering"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Computer Science",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-computing-technology/bsc-hons-computer-science"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Computer Science with a specialism in Data Analytics",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-computing-technology/bsc-hons-computer-science-specialism-data-analytics"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Computer Science with a specialism in Digital Forensics",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-computing-technology/bsc-hons-computer-science-specialism-digital-forensics"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Computer Science (Cyber Security)",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/computing-technology-games-development/bsc-hons-computer-science-cyber-security"
+      },
+      {
+        "major": "Bachelor of Computer Science (Hons) (Artificial Intelligence)",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/computing-technology-games-development/bachelor-computer-science-artificial-intelligence"
+      },
+      {
+        "major": "Bachelor in Interactive Media and Immersive Technology (Honours)",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-computing-technology/bsc-hons-multimedia-technology"
+      },
+      {
+        "major": "Bachelor in Interactive Media and Immersive Technology (Honours)​ with a specialism in VR/AR",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-computing-technology/bsc-hons-multimedia-technology-specialism-vr-ar"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Computer Games Development",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-computing-technology/bsc-hons-in-computer-games-development"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Visual Effects",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/design-advertising-animation-vfx/bachelor-arts-honours-visual"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Animation",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/design-advertising-animation-vfx/bachelor-arts-honours-animation-0"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Industrial Design",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/design-advertising-animation-vfx/bachelor-arts-honours-industrial"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Visual Effects",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/design-advertising-animation-vfx/bachelor-arts-honours-visual"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Animation",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/design-advertising-animation-vfx/bachelor-arts-honours-animation"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Digital Advertising",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/design-advertising-animation-vfx/bachelor-arts-honours-digital"
+      },
+      {
+        "major": "Portfolio & Interview Guide For Application Into APU Design Programmes",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/design-advertising-animation-vfx/portfolio-interview-guide"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Business Management",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/bachelor-arts-honours-business-management"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Business Management with a specialism in E-Business",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/bachelor-arts-honours-eBusiness"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Business Management with a specialism in Digital Leadership",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/bachelor-arts-honours-digital-leadership"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Business Management with a specialism in Business Analytics",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/bachelor-arts-honours-business-analytics"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Human Resource Management",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/bachelor-arts-honours-human"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in International Business Management",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/bachelor-arts-honours-int-business-management"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Marketing Management",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/ba-hons-marketing-management"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Marketing Management with a specialism in Digital Marketing",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/ba-hons-digital-marketing"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Tourism Management",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/bachelor-arts-honours-tourism-management"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Tourism Management with a specialism in Hospitality",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/ba-hons-tourism-management-hospitality"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Hospitality and Tourism",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/business-management-marketing-tourism/bachelor-science-honours"
+      },
+      {
+        "major": "Bachelor of Accounting and Finance (Honours)",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-accounting-finance-quantitative-studies/ba-hons-accounting"
+      },
+      {
+        "major": "Bachelor of Accounting and Finance (Honours) with a specialism in Forensic Accounting",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-accounting-finance-quantitative-studies/ba-hons-accountin-0"
+      },
+      {
+        "major": "Bachelor of Accounting and Finance (Honours) with a specialism in Forex and Investments",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-accounting-finance-quantitative-studies/ba-hons-accountin-2"
+      },
+      {
+        "major": "Bachelor of Accounting and Finance (Honours) with a specialism in Accounting Technology",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/accounting-banking-finance-actuarial/bachelor-accounting-finance"
+      },
+      {
+        "major": "Bachelor in Banking and Finance (Hons)",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-accounting-finance-quantitative-studies/bachelor-banking"
+      },
+      {
+        "major": "Bachelor in Banking and Finance (Hons) with a specialism in Investment Analytics",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/accounting-banking-finance-actuarial/investment-analytics"
+      },
+      {
+        "major": "Bachelor in Banking and Finance (Hons) with a specialism in Financial Technology",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-accounting-finance-quantitative-studies/bachelor-banking-financial-technology"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Actuarial Studies​",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-accounting-finance-quantitative-studies/bsc-hons-actuarial"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Actuarial Studies with a specialism in Data Analytics",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/accounting-banking-finance-actuarial/bachelor-science-honours-specialism-in-Data-Analytics"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Actuarial Studies with a specialism in Financial Technology",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/accounting-banking-finance-actuarial/bachelor-science-honours-specialism-in-Financial-Technology"
+      },
+      {
+        "major": "Bachelor of Electrical and Electronic Engineering with Honours",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-engineering/b-eng-hons-electrical-electronic-engineering"
+      },
+      {
+        "major": "Bachelor of Mechatronic Engineering with Honours",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-engineering/b-eng-hons-mechatronic-engineering"
+      },
+      {
+        "major": "Bachelor of Mechanical Engineering with Honours",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/engineering/bachelor-mechanical-engineering-honours"
+      },
+      {
+        "major": "Bachelor of Computer Engineering with Honours",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/engineering/bachelor-computer-engineering-honours"
+      },
+      {
+        "major": "Bachelor of Petroleum Engineering with Honours",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/school-engineering/beng-hons-petroleum-engineering"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Media and Communication Studies",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/media-international-relations-psychology/bachelor-arts-honours"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in International Relations",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/media-international-relations-psychology/ba-hons-international"
+      },
+      {
+        "major": "Bachelor of Science (Honours) in Psychology",
+        "details_url": "https://www.apu.edu.my/our-courses/undergraduate-studies/media-international-relations-psychology/bachelor-science-honours"
+      },
+      {
+        "major": "MSc in Software Engineering",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/msc-software-engineering"
+      },
+      {
+        "major": "Master of Science in Artificial Intelligence",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-science-artificial-intelligence"
+      },
+      {
+        "major": "Master of Science in Artificial Intelligence (ODL)",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-science-artificial-intelligence-odl"
+      },
+      {
+        "major": "Master of Science in Cyber Security",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-science-cyber-security"
+      },
+      {
+        "major": "Master of Science in Cyber Security (ODL)",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-science-cyber-security-odl"
+      },
+      {
+        "major": "MSc in Data Science and Business Analytics",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/mastersdatascience"
+      },
+      {
+        "major": "Master of Science in Data Science and Business Analytics (ODL)",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/msc-data-science-business-analytics-odl"
+      },
+      {
+        "major": "MSc in Information Technology Management",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/msc-information-technology-management"
+      },
+      {
+        "major": "Master of Technology Management",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-technology-management"
+      },
+      {
+        "major": "Master of Science in Digital Transformation",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-science-digital-transformation"
+      },
+      {
+        "major": "Master of Business Administration",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-business-administration"
+      },
+      {
+        "major": "Master of Business Administration (ODL)",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-business-administration-odl"
+      },
+      {
+        "major": "Master of Business Administration with a specialism in Digital Leadership",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-business-administration-digital-leadership"
+      },
+      {
+        "major": "Master of Business Administration with a specialism in Digital Leadership (ODL)",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-business-administration-digital-leadership-odl"
+      },
+      {
+        "major": "Master of Business Administration with a specialism in Business Analytics ",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/master-business-administration-business-analytics"
+      },
+      {
+        "major": "Master of Business Administration with a specialism in Supply Chain Management",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/master-business-administration-supply-chain-management"
+      },
+      {
+        "major": "Master of Business Administration with a specialism in Hospitality and Tourism",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-business-administration-0"
+      },
+      {
+        "major": "Master of Business Administration with a specialism in Sustainability Leadership (ODL)",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-business-administration-specialism"
+      },
+      {
+        "major": "Master of Science in International Business Communications",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-science-international-business"
+      },
+      {
+        "major": "Master of Science in Global Marketing Management",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-science-global-marketing"
+      },
+      {
+        "major": "Master of Project Management",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-project-management"
+      },
+      {
+        "major": "Master of Accounting",
+        "details_url": "https://www.apu.edu.my/master-accounting"
+      },
+      {
+        "major": "Master of Accounting in Forensic Analysis",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-accounting-forensic-analysis"
+      },
+      {
+        "major": "Master of Finance",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-finance"
+      },
+      {
+        "major": "Master of Finance with a specialism in FinTech",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-finance-specialism-fintech"
+      },
+      {
+        "major": "Master of Science in Actuarial Science",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-science-actuarial-science"
+      },
+      {
+        "major": "Master of Arts in Design Innovation Management",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-arts-design-innovation-management"
+      },
+      {
+        "major": "Master of Philosophy in Engineering",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-philosophy-engineering"
+      },
+      {
+        "major": "Master of Philosophy in Management",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-philosophy-management"
+      },
+      {
+        "major": "Master of Science in Computing",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-science-computing"
+      },
+      {
+        "major": "Master of Education in Learning Design and Technology",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-education-learning-design"
+      },
+      {
+        "major": "Master of Education in Learning Design and Technology (ODL)",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/master-education-learning-design-odl"
+      },
+      {
+        "major": "Postgraduate Diploma of Education in Learning Design and Technology (ODL)",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/postgraduate-diploma-education-learning"
+      },
+      {
+        "major": "Postgraduate Certificate of Education in Learning Design and Technology (ODL)",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/masters-degree-programmes/postgraduate-certificate-education"
+      },
+      {
+        "major": "PhD in Computing",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programmes/phd-computing"
+      },
+      {
+        "major": "PhD in Technology",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programmes/phd-technology"
+      },
+      {
+        "major": "PhD in Management",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programmes/phd-management"
+      },
+      {
+        "major": "PhD in Finance",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programme/doctor-philosophy-finance"
+      },
+      {
+        "major": "Doctor of Philosophy in Engineering",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programmes/doctor-philosophy-engineering"
+      },
+      {
+        "major": "Doctor of Business Administration (DBA)",
+        "details_url": "https://www.apu.edu.my/our-courses/postgraduate-studies/doctor-philosophy-programmes/doctor-business-administration-dba"
+      },
+      {
+        "major": "Diploma in Information & Communication Technology",
+        "details_url": "http://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-information-communications-technolog-0"
+      },
+      {
+        "major": "Diploma in Information & Communication Technology with a specialism in Software Engineering",
+        "details_url": "http://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-information-communications-technology"
+      },
+      {
+        "major": "Diploma in Information & Communication Technology with a specialism in Data Informatics",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-information-communication-technology-data-informatics"
+      },
+      {
+        "major": "Diploma in Information & Communication Technology with a specialism in Interactive Technology",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-ict-interactive-technology"
+      },
+      {
+        "major": "Diploma in Business with Information Technology",
+        "details_url": "http://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-business-information-technology"
+      },
+      {
+        "major": "Diploma in Business Administration",
+        "details_url": "http://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-business-administration"
+      },
+      {
+        "major": "Diploma in Accounting",
+        "details_url": "http://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-accounting"
+      },
+      {
+        "major": "Diploma in Mechatronic Engineering",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-mechatronic-engineering"
+      },
+      {
+        "major": "Diploma in Design & Media",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-design-media"
+      },
+      {
+        "major": "Diploma in International Studies",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-international-studies"
+      },
+      {
+        "major": "Diploma in Hotel Management",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-hotel-management"
+      },
+      {
+        "major": "Diploma in Events Management",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-events-management"
+      },
+      {
+        "major": "Diploma in Hotel Management",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/diploma-programmes/diploma-hotel-management"
+      },
+      {
+        "major": "Foundation Programme",
+        "details_url": "http://www.apu.edu.my/our-courses/pre-university-studies/foundation-programme"
+      },
+      {
+        "major": "Foundation in Computing (ODL)",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/foundation-computing-odl"
+      },
+      {
+        "major": "Certificate in Administrative Skills (CAS)",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/certificate-administrative-skills-cas"
+      },
+      {
+        "major": "Certificate in Information & Communication Technology (CICT)",
+        "details_url": "https://www.apu.edu.my/our-courses/pre-university-studies/certificate-information-communication-technology-cict"
+      }
+    ]
+  },
+  {
+    "university": "City University Malaysia",
+    "country": "Malaysia",
+    "logo": "http://tiny.cc/SS-Cityuni",
+    "programs": [
+      {
+        "major": "Foundation in Science (Life Science)",
+        "details_url": "https://city.edu.my/programme/foundation/foundation-in-science-life-science/"
+      },
+      {
+        "major": "Foundation in Arts (Graphic Design & Multimedia)",
+        "details_url": "https://city.edu.my/programme/foundation/foundation-in-arts-graphic-design-multimedia/"
+      },
+      {
+        "major": "Foundation in Business",
+        "details_url": "https://city.edu.my/programme/foundation/foundation-in-business/"
+      },
+      {
+        "major": "Foundation in Arts (Built Environment)",
+        "details_url": "https://city.edu.my/programme/foundation/foundation-in-arts-built-environment/"
+      },
+      {
+        "major": "Foundation in Arts (Communication)",
+        "details_url": "https://city.edu.my/programme/foundation/foundation-in-arts-communication/"
+      },
+      {
+        "major": "Foundation in Arts (Fashion Design)",
+        "details_url": "https://city.edu.my/programme/foundation/foundation-in-arts-fashion-design/"
+      },
+      {
+        "major": "Foundation in Arts (English)",
+        "details_url": "https://city.edu.my/programme/foundation/foundation-in-arts-english/"
+      },
+      {
+        "major": "Foundation in Science (Physical Science)",
+        "details_url": "https://city.edu.my/programme/foundation/foundation-in-science-physical-science/"
+      },
+      {
+        "major": "Foundation in Information Technology",
+        "details_url": "https://city.edu.my/programme/foundation/foundation-in-information-technology/"
+      },
+      {
+        "major": "Diploma in Nursing",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-nursing/"
+      },
+      {
+        "major": "Diploma in Occupational Safety and Health",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-occupational-safety-and-health/"
+      },
+      {
+        "major": "Diploma in Medical Laboratory Technology",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-medical-laboratory-technology/"
+      },
+      {
+        "major": "Diploma in Environmental Health",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-environmental-health/"
+      },
+      {
+        "major": "Diploma in Architectural Technology",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-architectural-technology/"
+      },
+      {
+        "major": "Diploma in Interior Design",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-interior-design/"
+      },
+      {
+        "major": "Diploma in Management",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-management/"
+      },
+      {
+        "major": "Diploma in Accounting",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-accounting/"
+      },
+      {
+        "major": "Diploma in Human Resource Management",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-human-resource-management/"
+      },
+      {
+        "major": "Diploma in Business Management",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-business-management/"
+      },
+      {
+        "major": "Diploma in Office Management",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-office-management/"
+      },
+      {
+        "major": "Diploma in Islamic Banking",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-islamic-banking/"
+      },
+      {
+        "major": "Diploma in Corporate Communication",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-corporate-communication/"
+      },
+      {
+        "major": "Diploma in Fashion Design",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-fashion-design/"
+      },
+      {
+        "major": "Diploma in Graphic Design",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-graphic-design/"
+      },
+      {
+        "major": "Diploma in Mass Communication",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-mass-communication/"
+      },
+      {
+        "major": "Diploma in Early Childhood Education",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-early-childhood-education/"
+      },
+      {
+        "major": "Diploma in Early Childhood Education – ODL",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-early-childhood-education-odl/"
+      },
+      {
+        "major": "Diploma in Civil Engineering",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-civil-engineering/"
+      },
+      {
+        "major": "Diploma in Mechanical Engineering",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-mechanical-engineering/"
+      },
+      {
+        "major": "Diploma in Culinary Arts",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-culinary-arts/"
+      },
+      {
+        "major": "Diploma in Hotel Management",
+        "details_url": "https://city.edu.my/programme/diploma/diploma-in-hotel-management/"
+      },
+      {
+        "major": "Bachelor of Environmental Health (Hons)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-environmental-health-hons/"
+      },
+      {
+        "major": "Bachelor of Biomedical (Hons)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-biomedical-hons/"
+      },
+      {
+        "major": "Bachelor of Occupational Safety and Health (Hons)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-occupational-safety-and-health-hons/"
+      },
+      {
+        "major": "Bachelor of Nursing (Hons)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-nursing-hons/"
+      },
+      {
+        "major": "Bachelor of Science (Hons) (Architectural Design)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-science-hons-architectural-design/"
+      },
+      {
+        "major": "Bachelor of Interior Design (Hons)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-interior-design-hons/"
+      },
+      {
+        "major": "Bachelor of Business Administration (Honours)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-business-administration-hons/"
+      },
+      {
+        "major": "Bachelor of Engineering Management",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-engineering-management/"
+      },
+      {
+        "major": "Bachelor of Accountancy (Honours)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-accountancy-honours/"
+      },
+      {
+        "major": "Bachelor of Science (Honours) (Accounting and Finance)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-science-accounting-finance/"
+      },
+      {
+        "major": "Bachelor of Business Administration (Hons) – ODL",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-business-administration-hons-odl/"
+      },
+      {
+        "major": "Bachelor of Communication (Journalism)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-communication-journalism/"
+      },
+      {
+        "major": "Bachelor of Mass Communication (Hons)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-mass-communication-hons/"
+      },
+      {
+        "major": "Bachelor of Graphic Design (Hons)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-graphic-design-hons/"
+      },
+      {
+        "major": "Bachelor of Communication (Hons) in Corporate Communication",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-communication-hons-in-corporate-communication/"
+      },
+      {
+        "major": "Bachelor of Multimedia (Hons)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-multimedia-hons/"
+      },
+      {
+        "major": "Bachelor of Fashion Design (Honours)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-fashion-design-hons/"
+      },
+      {
+        "major": "Bachelor of Education (Hons) in Teaching English as a Second Language (TESL)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-education-hons-in-teaching-english-as-a-second-language-tesl/"
+      },
+      {
+        "major": "Bachelor of Education (Early Childhood Education) Honours",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-education-early-childhood-education-honours/"
+      },
+      {
+        "major": "Bachelor of Applied Psychology (Hons)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-applied-psychology-hons/"
+      },
+      {
+        "major": "Bachelor of Mechanical Engineering with Honours",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-mechanical-engineering-with-honours/"
+      },
+      {
+        "major": "Bachelor of Civil Engineering with Honours",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-civil-engineering-with-honours/"
+      },
+      {
+        "major": "Bachelor in Hospitality Management (Hons)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-in-hospitality-management-hons/"
+      },
+      {
+        "major": "Bachelor of Computer Science (Hons) (Software Engineering)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-computer-science-software-engineering/"
+      },
+      {
+        "major": "Bachelor of Information Technology (Honours)",
+        "details_url": "https://city.edu.my/programme/bachelor/bachelor-of-information-technology-hons/"
+      },
+      {
+        "major": "Master of Architecture",
+        "details_url": "https://city.edu.my/programme/masters/master-of-architecture/"
+      },
+      {
+        "major": "Master of Architectural Project Management",
+        "details_url": "https://city.edu.my/programme/masters/master-of-architectural-project-management/"
+      },
+      {
+        "major": "Master of Business Administration",
+        "details_url": "https://city.edu.my/programme/masters/master-of-business-administration/"
+      },
+      {
+        "major": "Master of Science in Business Administration",
+        "details_url": "https://city.edu.my/programme/masters/master-of-science-in-business-administration/"
+      },
+      {
+        "major": "Master of Business Administration – ODL",
+        "details_url": "https://city.edu.my/programme/masters/master-of-business-administration-odl/"
+      },
+      {
+        "major": "Master of Accountancy",
+        "details_url": "https://city.edu.my/programme/masters/master-of-accountancy/"
+      },
+      {
+        "major": "Master of Creative Industries and Communication",
+        "details_url": "https://city.edu.my/programme/masters/master-of-creative-industries-and-communication/"
+      },
+      {
+        "major": "Master of Education",
+        "details_url": "https://city.edu.my/programme/masters/master-of-education/"
+      },
+      {
+        "major": "Master of Sport Studies",
+        "details_url": "https://city.edu.my/programme/masters/master-of-sport-studies/"
+      },
+      {
+        "major": "Master of Mechanical Engineering",
+        "details_url": "https://city.edu.my/programme/masters/master-of-mechanical-engineering/"
+      },
+      {
+        "major": "Master of Information Technology",
+        "details_url": "https://city.edu.my/programme/masters/master-of-information-technology/"
+      },
+      {
+        "major": "Doctor of Philosophy in Built Environment",
+        "details_url": "https://city.edu.my/programme/phd/doctor-of-philosophy-in-built-environment/"
+      },
+      {
+        "major": "Doctor of Business Administration",
+        "details_url": "https://city.edu.my/programme/phd/doctor-of-business-administration/"
+      },
+      {
+        "major": "Doctor of Philosophy (Business Administration)",
+        "details_url": "https://city.edu.my/programme/phd/doctor-of-philosophy-business-administration/"
+      },
+      {
+        "major": "Doctor of Philosophy (Business Administration)",
+        "details_url": "https://city.edu.my/programme/phd/doctor-of-philosophy-business-administration/"
+      },
+      {
+        "major": "Doctor of Philosophy in Design",
+        "details_url": "https://city.edu.my/programme/phd/doctor-of-philosophy-in-design/"
+      },
+      {
+        "major": "Doctor of Philosophy in Performing Arts",
+        "details_url": "https://city.edu.my/programme/phd/doctor-of-philosophy-in-performing-arts/"
+      },
+      {
+        "major": "Doctor of Philosophy in Education",
+        "details_url": "https://city.edu.my/programme/phd/doctor-of-philosophy-in-education/"
+      },
+      {
+        "major": "Doctor of Education",
+        "details_url": "https://city.edu.my/programme/phd/doctor-of-education/"
+      },
+      {
+        "major": "Doctor of Philosophy in Sport Studies",
+        "details_url": "https://city.edu.my/programme/phd/doctor-of-philosophy-in-sport-studies/"
+      },
+      {
+        "major": "Doctor of Philosophy in Information Technology",
+        "details_url": "https://city.edu.my/programme/phd/doctor-of-philosophy-in-information-technology/"
+      }
+    ]
+  }
+]

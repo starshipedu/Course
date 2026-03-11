@@ -1,0 +1,2237 @@
+[
+  {
+    "university": "Aotearoa Career and Management Institute (ACMI)",
+    "country": "NewZealand",
+    "logo": "http://tiny.cc/SS-ACMI",
+    "programs": [
+      {
+        "major": "New Zealand Diploma in tourism & Travel (Level 5)",
+        "details_url": "https://acmi.ac.nz/new-zealand-diploma-in-travel-tourism-level-5/"
+      },
+      {
+        "major": "Certificate in Health and Care Assistance (Level 3) (Aged Care)",
+        "details_url": "https://acmi.ac.nz/certificate-in-health-and-care-assistance-level-3-aged-care/"
+      },
+      {
+        "major": "Certificate in Health and Care Assistance (Level 3) (Practice Care)",
+        "details_url": "https://acmi.ac.nz/certificate-in-health-and-care-assistance-level-3-practice-care/"
+      },
+      {
+        "major": "Certificate in Advanced Health and Care Assistance (Level 4) (Complex Care)",
+        "details_url": "https://acmi.ac.nz/certificate-in-advanced-health-and-care-assistance-level-4-complex-care/"
+      },
+      {
+        "major": "Diploma in IT Technical Support (Level 5)",
+        "details_url": "https://acmi.ac.nz/diploma-in-it-technical-support-level-5/"
+      },
+      {
+        "major": "Diploma in Cybersecurity (Level 6)",
+        "details_url": "https://acmi.ac.nz/diploma-in-cybersecurity-level-6/"
+      }
+    ]
+  },
+  {
+    "university": "Auckland University of Technology (AUT)",
+    "country": "NewZealand",
+    "logo": "http://tiny.cc/SS-AUT",
+    "programs": [
+      {
+        "major": "Sport and Recreation (Honours)",
+        "program": "Bachelor (Honours)",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-and-recreation-honours",
+        "duration": "1 year full-time / part-time available",
+        "entryRequirements": "International: IELTS (Academic) 6.5 overall, all bands ≥6.0; requirement: Bachelor of Sport and Recreation with B+ average or equivalent (course approved by Dean). See country-specific entry pages for other equivalencies.",
+        "fees": "NZD $46,521.60 (for 120 points) ($45,300 tuition + $1,221.60 student services levy) — fees indicative, subject to change",
+        "courseDetail": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-and-recreation-honours#what-you-study",
+        "otherInstitution": "http://tiny.cc/sl9t001",
+        "scholarship": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships"
+      },
+      {
+        "major": "Sport, Exercise and Health",
+        "program": "Bachelor Degree",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-exercise-and-health",
+        "duration": "3 years full-time / part-time available",
+        "entryRequirements": "International: IELTS (Academic) 6.0 overall with all bands ≥5.5; University Entrance or equivalent (see country-specific entry requirements).",
+        "fees": "NZD $43,321.60 (for 120 points) ($42,100 tuition + $1,221.60 student services levy) — fees indicative, subject to change",
+        "courseDetail": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-exercise-and-health#what-you-study",
+        "otherInstitution": "http://tiny.cc/ul9t001",
+        "scholarship": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships"
+      },
+      {
+        "major": "Sport, Exercise and Health",
+        "program": "Master Degree",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/master-of-sport,-exercise-and-health",
+        "duration": "1.5 years full-time / part-time available",
+        "entryRequirements": "International: IELTS (Academic) 6.5 overall, all bands ≥6.0; plus a bachelor’s degree or graduate diploma with B grade average (or approved equivalent).",
+        "fees": "NZD $46,521.60 (for 120 points) ($45,300 tuition + $1,221.60 student services levy) — fees indicative, subject to change",
+        "courseDetail": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/master-of-sport,-exercise-and-health#what-you-study",
+        "otherInstitution": "http://tiny.cc/ul9t001",
+        "scholarship": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships"
+      },
+      {
+        "major": "Sport and Recreation",
+        "program": "Certificate",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/certificate-in-sport-and-recreation",
+        "duration": "0.5 years full-time / part-time available",
+        "entryRequirements": "International: IELTS (Academic) 5.5 overall with all bands ≥5.0; NZ: Completion of Year 13 (or country equivalent). See country-specific entry pages for details.",
+        "fees": "NZD $18,410.80 (for 60 points) ($17,800 tuition + $610.80 student services levy) — fees indicative, subject to change",
+        "courseDetail": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/certificate-in-sport-and-recreation#what-you-study",
+        "otherInstitution": "http://tiny.cc/sl9t001",
+        "scholarship": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships"
+      },
+      {
+        "major": "Sport and Exercise",
+        "program": "Graduate Certificate",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/graduate-certificate-in-sport-and-exercise",
+        "duration": "0.5 years full-time / part-time available",
+        "entryRequirements": "International: IELTS (Academic) 6.5 overall, all bands ≥6.0; entry normally requires a bachelor’s degree or relevant professional qualification/experience (see page).",
+        "fees": "NZD $21,510.80 (for 60 points) ($20,900 tuition + $610.80 student services levy) — fees indicative, subject to change",
+        "courseDetail": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/graduate-certificate-in-sport-and-exercise#what-you-study",
+        "otherInstitution": "http://tiny.cc/xl9t001",
+        "scholarship": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships"
+      },
+      {
+        "major": "Sport and Exercise",
+        "program": "Graduate Diploma",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/graduate-diploma-in-sport-and-exercise",
+        "duration": "1 year full-time / part-time available",
+        "entryRequirements": "International: IELTS (Academic) 6.5 overall, all bands ≥6.0; entry normally requires a bachelor’s degree or equivalent (see page).",
+        "fees": "NZD $43,321.60 (for 120 points) ($42,100 tuition + $1,221.60 student services levy) — fees indicative, subject to change",
+        "courseDetail": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/graduate-diploma-in-sport-and-exercise#what-you-study",
+        "otherInstitution": "http://tiny.cc/xl9t001",
+        "scholarship": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships"
+      },
+      {
+        "major": "Sport, Exercise and Health",
+        "program": "Postgraduate Certificate",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/postgraduate-certificate-in-sport,-exercise-and-health",
+        "duration": "0.5 years full-time / part-time available",
+        "entryRequirements": "International: IELTS (Academic) 6.5 overall, all bands ≥6.0; entry normally requires a bachelor’s degree, graduate diploma, or approved equivalent.",
+        "fees": "NZD $23,310.80 (for 60 points) ($22,700 tuition + $610.80 student services levy) — fees indicative, subject to change",
+        "courseDetail": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/postgraduate-certificate-in-sport,-exercise-and-health#what-you-study",
+        "otherInstitution": "http://tiny.cc/ul9t001",
+        "scholarship": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships"
+      },
+      {
+        "major": "Sport Leadership and Management (Major) -  Sport, Exercise and Health",
+        "program": "Bachelor Double Degree",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-exercise-and-health/sport-leadership-and-management-major-bachelor-of-sport,-exercise-and-health",
+        "duration": "3 years full-time / part-time available (same as parent degree)",
+        "entryRequirements": "International: IELTS (Academic) 6.0 overall with all bands ≥5.5; meet Bachelor of Sport, Exercise and Health entry requirements (University Entrance or equivalent).",
+        "fees": "NZD $43,321.60 (for 120 points) ($42,100 tuition + $1,221.60 student services levy) — fees indicative, subject to change",
+        "courseDetail": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-exercise-and-health/sport-leadership-and-management-major-bachelor-of-sport,-exercise-and-health#what-you-study",
+        "otherInstitution": "http://tiny.cc/1m9t001",
+        "scholarship": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships"
+      },
+      {
+        "major": "Sport and Exercise Science (Major) - Sport, Exercise and Health",
+        "program": "Bachelor Double Degree",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-exercise-and-health/sport-and-exercise-science-major-bachelor-of-sport,-exercise-and-health",
+        "duration": "3 years full-time / part-time available (same as parent degree)",
+        "entryRequirements": "International: IELTS (Academic) 6.0 overall with all bands ≥5.5; meet Bachelor of Sport, Exercise and Health entry requirements (University Entrance or equivalent).",
+        "fees": "NZD $43,321.60 (for 120 points) ($42,100 tuition + $1,221.60 student services levy) — fees indicative, subject to change",
+        "courseDetail": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-exercise-and-health/sport-and-exercise-science-major-bachelor-of-sport,-exercise-and-health#what-you-study",
+        "otherInstitution": "http://tiny.cc/4m9t001",
+        "scholarship": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships"
+      },
+      {
+        "major": "Health and Physical Education (Major) - Sport, Exercise and Health",
+        "program": "Bachelor Double Degree",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-exercise-and-health/health-and-physical-education-major-bachelor-of-sport,-exercise-and-health",
+        "duration": "3 years full-time / part-time available (same as parent degree)",
+        "entryRequirements": "International: IELTS (Academic) 6.0 overall with all bands ≥5.5; meet Bachelor of Sport, Exercise and Health entry requirements (University Entrance or equivalent).",
+        "fees": "NZD $43,321.60 (for 120 points) ($42,100 tuition + $1,221.60 student services levy) — fees indicative, subject to change",
+        "courseDetail": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/bachelor-of-sport-exercise-and-health/health-and-physical-education-major-bachelor-of-sport,-exercise-and-health#what-you-study",
+        "otherInstitution": "http://tiny.cc/6m9t001",
+        "scholarship": "https://www.aut.ac.nz/study/fees-and-scholarships/scholarships"
+      },
+      {
+        "major": "Bachelor of Business (Honours) in Sport Leadership and Management Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business-honours/sport-leadership-and-management-specialisation-bachelor-of-business-honours"
+      },
+      {
+        "major": "Bachelor of Arts in Event Management Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/event-management-major"
+      },
+      {
+        "major": "Graduate Certificate in Health Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/graduate-certificate-in-health-science"
+      },
+      {
+        "major": "Master of Business in Sport Leadership and Management Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business/sport-leadership-and-management"
+      },
+      {
+        "major": "Graduate Diploma in Health Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/graduate-diploma-in-health-science"
+      },
+      {
+        "major": "Bachelor of Health Science in Physiotherapy",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science-in-physiotherapy"
+      },
+      {
+        "major": "Sports Massage Advanced - Sport & Recreation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/sports-massage-advanced"
+      },
+      {
+        "major": "Short Course - Sports Massage",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/sports-massage"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in International Hospitality Management",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts-honours/international-hospitality-management-bachelor-of-arts-honours"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Global Tourism",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts-honours/global-tourism-bachelor-of-arts-honours"
+      },
+      {
+        "major": "Postgraduate Certificate in International Tourism Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/postgraduate-certificate-in-international-tourism-management"
+      },
+      {
+        "major": "Postgraduate Diploma in International Hospitality Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/postgraduate-diploma-in-international-hospitality-management"
+      },
+      {
+        "major": "Postgraduate Diploma in International Tourism Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/postgraduate-diploma-in-international-tourism-management"
+      },
+      {
+        "major": "Postgraduate Certificate in International Hospitality Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/postgraduate-certificate-in-international-hospitality-management"
+      },
+      {
+        "major": "Master of International Tourism Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/master-of-international-tourism-management"
+      },
+      {
+        "major": "Master of International Hospitality Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/master-of-international-hospitality-management"
+      },
+      {
+        "major": "Certificate in Arts",
+        "details_url": "https://www.aut.ac.nz/courses/certificate-in-arts"
+      },
+      {
+        "major": "Master of Philosophy",
+        "details_url": "https://www.aut.ac.nz/courses/master-of-philosophy"
+      },
+      {
+        "major": "Master of Arts",
+        "details_url": "https://www.aut.ac.nz/courses/master-of-arts"
+      },
+      {
+        "major": "Postgraduate Certificate in Arts",
+        "details_url": "https://www.aut.ac.nz/courses/postgraduate-certificate-in-arts"
+      },
+      {
+        "major": "Graduate Certificate in Arts",
+        "details_url": "https://www.aut.ac.nz/courses/graduate-certificate-in-arts"
+      },
+      {
+        "major": "Graduate Diploma in Arts",
+        "details_url": "https://www.aut.ac.nz/courses/graduate-diploma-in-arts"
+      },
+      {
+        "major": "Postgraduate Diploma in Arts",
+        "details_url": "https://www.aut.ac.nz/courses/postgraduate-diploma-in-arts"
+      },
+      {
+        "major": "Master of Arts in Māori Development Specialisation",
+        "details_url": "https://www.aut.ac.nz/courses/master-of-arts/maori-development"
+      },
+      {
+        "major": "Bachelor of Science",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-science"
+      },
+      {
+        "major": "Diploma in Arts",
+        "details_url": "https://www.aut.ac.nz/courses/diploma-in-arts"
+      },
+      {
+        "major": "Bachelor of Design Te Tohu Paetahi mō te Hoahoa",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-design-te-tohu-paetahi-mo-te-hoahoa"
+      },
+      {
+        "major": "Bachelor of Arts and Bachelor of Business Conjoint Programmes",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts-and-bachelor-of-business-conjoint"
+      },
+      {
+        "major": "Certificate in Science and Technology",
+        "details_url": "https://www.aut.ac.nz/courses/certificate-in-science-and-technology"
+      },
+      {
+        "major": "Bachelor of Science (Honours)",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-science-honours"
+      },
+      {
+        "major": "Bachelor of Arts in Psychology Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/psychology-major"
+      },
+      {
+        "major": "Graduate Diploma in Science",
+        "details_url": "https://www.aut.ac.nz/courses/graduate-diploma-in-science"
+      },
+      {
+        "major": "Bachelor of Arts in Culinary Arts Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/culinary-arts-major"
+      },
+      {
+        "major": "Master of Marketing",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-marketing"
+      },
+      {
+        "major": "Postgraduate Certificate in Science",
+        "details_url": "https://www.aut.ac.nz/courses/postgraduate-certificate-in-science"
+      },
+      {
+        "major": "Graduate Certificate in Science",
+        "details_url": "https://www.aut.ac.nz/courses/graduate-certificate-in-science"
+      },
+      {
+        "major": "Bachelor of Arts in Creative Writing Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/creative-writing-major"
+      },
+      {
+        "major": "Doctor of Philosophy (PhD)",
+        "details_url": "https://www.aut.ac.nz/courses/doctor-of-philosophy"
+      },
+      {
+        "major": "Bachelor of Arts",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts"
+      },
+      {
+        "major": "Bachelor of Engineering (Honours) in Maritime Engineering Majors",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-engineering-honours/maritime-majors"
+      },
+      {
+        "major": "Certificate of Proficiency - Personal Training course",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/personal-training"
+      },
+      {
+        "major": "Bachelor of Engineering (Honours)",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-engineering-honours"
+      },
+      {
+        "major": "Bachelor of Business and Bachelor of Health Science in Psychology Conjoint Programmes",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-business-and-bachelor-of-health-science-psychology-conjoint"
+      },
+      {
+        "major": "Certificate in Applied Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/science/courses/certificate-in-applied-science"
+      },
+      {
+        "major": "Bachelor of Laws",
+        "details_url": "https://www.aut.ac.nz/study/study-options/law/courses/bachelor-of-laws"
+      },
+      {
+        "major": "Bachelor of Visual Arts Te Tohu Paetahi mō Toi Ataata",
+        "details_url": "https://www.aut.ac.nz/study/study-options/art-and-design/courses/bachelor-of-visual-arts"
+      },
+      {
+        "major": "Bachelor of Arts in Economics Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/economics-major"
+      },
+      {
+        "major": "Master of Health Practice in Midwifery",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice/midwifery"
+      },
+      {
+        "major": "Master of Science",
+        "details_url": "https://www.aut.ac.nz/courses/master-of-science"
+      },
+      {
+        "major": "Bachelor of Arts in Māori Development major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/maori-development-major"
+      },
+      {
+        "major": "Diploma in Applied Science",
+        "details_url": "https://www.aut.ac.nz/courses/diploma-in-applied-science"
+      },
+      {
+        "major": "Bachelor of Arts in Social Sciences Degree",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/social-sciences-major"
+      },
+      {
+        "major": "Master of Applied Finance",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-applied-finance"
+      },
+      {
+        "major": "Bachelor of Arts in Interpreting Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/interpreting-major"
+      },
+      {
+        "major": "Bachelor of Education ([Specialty] Teaching)",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/bachelor-of-education"
+      },
+      {
+        "major": "Master of Business",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business"
+      },
+      {
+        "major": "Bachelor of Science in Study Analytics",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-science/analytics-major"
+      },
+      {
+        "major": "Master of Business Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business-management"
+      },
+      {
+        "major": "Postgraduate Diploma in Marketing",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-diploma-in-marketing"
+      },
+      {
+        "major": "Certificate in Legal Studies - Law",
+        "details_url": "https://www.aut.ac.nz/study/study-options/law/courses/certificate-in-legal-studies"
+      },
+      {
+        "major": "Postgraduate Diploma in Science",
+        "details_url": "https://www.aut.ac.nz/courses/postgraduate-diploma-in-science"
+      },
+      {
+        "major": "Doctor of Education",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/doctor-of-education"
+      },
+      {
+        "major": "Bachelor of Arts in Study Criminology",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/criminology-major"
+      },
+      {
+        "major": "Design Diploma - Art & Design",
+        "details_url": "https://www.aut.ac.nz/study/study-options/art-and-design/courses/diploma-in-design"
+      },
+      {
+        "major": "Bachelor of Business and Bachelor of Computer and Information Sciences Conjoint Programmes",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-business-and-bachelor-of-computer-and-information-sciences-conjoint"
+      },
+      {
+        "major": "Bachelor of Arts in Study NZ Sign Language & Deaf Studies",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/new-zealand-sign-language-and-deaf-studies-major"
+      },
+      {
+        "major": "Bachelor of Arts (Honours)",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts-honours"
+      },
+      {
+        "major": "Bachelor of Arts in Study Māori Media",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/maori-media-major-bachelor-of-arts"
+      },
+      {
+        "major": "Bachelor of Science in Study Marine Science",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-science/marine-science-major"
+      },
+      {
+        "major": "Diploma in Patisserie",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/diploma-in-patisserie"
+      },
+      {
+        "major": "Master of Education",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/master-of-education"
+      },
+      {
+        "major": "Postgraduate Certificate in Gastronomy",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/postgraduate-certificate-in-gastronomy"
+      },
+      {
+        "major": "Master of Visual Arts - Art & Design",
+        "details_url": "https://www.aut.ac.nz/study/study-options/art-and-design/courses/master-of-visual-arts"
+      },
+      {
+        "major": "Master of Nursing Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-nursing-science"
+      },
+      {
+        "major": "Master of Professional Accounting",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-professional-accounting"
+      },
+      {
+        "major": "Bachelor of Science in Study Chemistry",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-science/chemistry-major"
+      },
+      {
+        "major": "Bachelor of Arts in Study Global Tourism",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/global-tourism-major-bachelor-of-arts"
+      },
+      {
+        "major": "Bachelor of Arts in International Studies Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/international-studies-major"
+      },
+      {
+        "major": "Postgraduate Diploma in Applied Finance",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-diploma-in-applied-finance"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Study Psychology",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts-honours/psychology-bachelor-of-arts-honours"
+      },
+      {
+        "major": "Bachelor of Business Degree - Business & Economics",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business"
+      },
+      {
+        "major": "Master of Health Practice",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice"
+      },
+      {
+        "major": "Bachelor of Arts and Bachelor of Computer and Information Sciences Conjoint Programmes",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts-and-bachelor-of-computer-and-information-sciences-conjoint"
+      },
+      {
+        "major": "Bachelor of Business and Bachelor of International Hospitality Management Conjoint Programmes",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-business-and-bachelor-of-international-hospitality-management-conjoint"
+      },
+      {
+        "major": "Certificate in Business Studies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/certificate-in-business-studies"
+      },
+      {
+        "major": "Diploma in Paramedic Science - Health Sciences",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/diploma-in-paramedic-science"
+      },
+      {
+        "major": "Bachelor of Health Science (Midwifery)",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science-in-midwifery"
+      },
+      {
+        "major": "Master of Laws",
+        "details_url": "https://www.aut.ac.nz/study/study-options/law/courses/master-of-laws"
+      },
+      {
+        "major": "Bachelor of Arts in New Zealand Sign Language - English Interpreting Major",
+        "details_url": "https://www.aut.ac.nz/courses/new-zealand-sign-language-english-interpreting-major-bachelor-of-arts"
+      },
+      {
+        "major": "Master of Business in International Business",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business/international-business"
+      },
+      {
+        "major": "Bachelor of Arts in Education Honours Degree",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts-honours/education-bachelor-of-arts-honours"
+      },
+      {
+        "major": "Postgraduate Diploma in Gastronomy",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/postgraduate-diploma-in-gastronomy"
+      },
+      {
+        "major": "Postgraduate Diploma in Medical Laboratory Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/science/courses/postgraduate-diploma-in-medical-laboratory-science"
+      },
+      {
+        "major": "Diploma in Business",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/diploma-in-business"
+      },
+      {
+        "major": "Master of Supply Chain Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-supply-chain-management"
+      },
+      {
+        "major": "Bachelor of Health Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science"
+      },
+      {
+        "major": "Bachelor of Construction",
+        "details_url": "https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/bachelor-of-construction"
+      },
+      {
+        "major": "Postgraduate Diploma in Business",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-diploma-in-business"
+      },
+      {
+        "major": "Bachelor of Science in Study Food Science",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-science/food-science-major"
+      },
+      {
+        "major": "Master of Medical Laboratory Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/science/courses/master-of-medical-laboratory-science"
+      },
+      {
+        "major": "Postgraduate Certificate in Medical Laboratory Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/science/courses/postgraduate-certificate-in-medical-laboratory-science"
+      },
+      {
+        "major": "Bachelor of Health Science in Study Psychology",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science/psychology-major"
+      },
+      {
+        "major": "Bachelor of Health Science in Oral Health Degree",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science-in-oral-health"
+      },
+      {
+        "major": "Master of Health Practice in Mental Health and Addictions Course",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice/mental-health-and-addictions"
+      },
+      {
+        "major": "Bachelor of Health Science in Nursing Degree",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science-in-nursing"
+      },
+      {
+        "major": "Bachelor of Arts in Education Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/education-major"
+      },
+      {
+        "major": "Bachelor of Medical Laboratory Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/science/courses/bachelor-of-medical-laboratory-science"
+      },
+      {
+        "major": "Diploma in Visual Arts Tītohu mō te Toi Ataata",
+        "details_url": "https://www.aut.ac.nz/study/study-options/art-and-design/courses/diploma-in-visual-arts-titohu-mo-te-toi-ataata"
+      },
+      {
+        "major": "Master of Gastronomy",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/master-of-gastronomy"
+      },
+      {
+        "major": "Bachelor of Arts in History Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts/history-major-bachelor-of-arts"
+      },
+      {
+        "major": "Master of Business Administration",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business-administration"
+      },
+      {
+        "major": "Bachelor of Laws (Honours)",
+        "details_url": "https://www.aut.ac.nz/study/study-options/law/courses/bachelor-of-laws-honours"
+      },
+      {
+        "major": "Bachelor of Science in Environmental Science Degree",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-science/environmental-science-major"
+      },
+      {
+        "major": "Master of Health Practice - Study Child Health",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice/child-health"
+      },
+      {
+        "major": "Diploma in Culinary Arts",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/diploma-in-culinary-arts"
+      },
+      {
+        "major": "Bachelor of Design in Fashion Design Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-design-te-tohu-paetahi-mo-te-hoahoa/fashion-design-major"
+      },
+      {
+        "major": "Postgraduate Certificate in Business",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-certificate-in-business"
+      },
+      {
+        "major": "Certificate of Proficiency in Fitness Instructing",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/fitness-instructing"
+      },
+      {
+        "major": "Bachelor of Health Science in Occupational Therapy Degree",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science-in-occupational-therapy"
+      },
+      {
+        "major": "Bachelor of Business (Honours)",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business-honours"
+      },
+      {
+        "major": "Bachelor of Science in Biomedical Science Degree ",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-science/biomedical-science-major"
+      },
+      {
+        "major": "Graduate Diploma in Business",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/graduate-diploma-in-business"
+      },
+      {
+        "major": "Master of Public Health",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-public-health"
+      },
+      {
+        "major": "Bachelor of Health Science in Podiatry Degree",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science-in-podiatry"
+      },
+      {
+        "major": "Bachelor of Health Science (Honours)",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science-honours"
+      },
+      {
+        "major": "Study Fitness Foundations - Sport and Recreation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/fitness-foundations"
+      },
+      {
+        "major": "Bachelor of Engineering (Honours) in Architectural Engineering Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-engineering-honours/architectural-engineering-major"
+      },
+      {
+        "major": "Bachelor of Engineering (Honours) in Civil Construction Engineering Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-engineering-honours/construction-engineering-major"
+      },
+      {
+        "major": "Postgraduate Diploma in Business Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-diploma-in-business-management"
+      },
+      {
+        "major": "Postgraduate Diploma in Professional Accounting",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-diploma-in-professional-accounting"
+      },
+      {
+        "major": "Postgraduate Diploma in Supply Chain Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-diploma-in-supply-chain-management"
+      },
+      {
+        "major": "Master of Human Rights course - Social Sciences & Public Policy",
+        "details_url": "https://www.aut.ac.nz/study/study-options/social-sciences-and-public-policy/courses/master-of-human-rights"
+      },
+      {
+        "major": "Learn Te Reo Māori - Language Courses",
+        "details_url": "https://www.aut.ac.nz/study/study-options/maori-and-indigenous-development/courses/te-reo-maori-courses"
+      },
+      {
+        "major": "Bachelor of Business in Finance Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business/finance-major"
+      },
+      {
+        "major": "Graduate Diploma in Secondary Teaching",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/graduate-diploma-in-secondary-teaching"
+      },
+      {
+        "major": "Bachelor of Engineering (Honours) in Study Software Engineering",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-engineering-honours/software-engineering-major"
+      },
+      {
+        "major": "Bachelor of Science in Mathematical Modelling and Computation Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-science/mathematical-modelling-and-computation-major"
+      },
+      {
+        "major": "Master of Business in Economics Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business/economics"
+      },
+      {
+        "major": "Master of Analytics",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/master-of-analytics"
+      },
+      {
+        "major": "Bachelor of Design Te Tohu Paetahi mō te Hoahoa - Study Interaction Design",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-design-te-tohu-paetahi-mo-te-hoahoa/interaction-design-major-bachelor-of-design"
+      },
+      {
+        "major": "Master of Teaching and Learning",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/master-of-teaching-and-learning"
+      },
+      {
+        "major": "Master of Health Practice in Study Acupuncture",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice/acupuncture"
+      },
+      {
+        "major": "Bachelor of Health Science in Counselling Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science/counselling-major"
+      },
+      {
+        "major": "Postgraduate Certificate in Advanced Nursing Practice",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-advanced-nursing-practice"
+      },
+      {
+        "major": "Postgraduate Diploma in Criminology and Criminal Justice",
+        "details_url": "https://www.aut.ac.nz/study/study-options/social-sciences-and-public-policy/courses/postgraduate-diploma-in-criminology-and-criminal-justice"
+      },
+      {
+        "major": "Study Certificate of Proficiency in Group Fitness Instructing",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/certificate-of-proficiency-in-group-fitness-instructing"
+      },
+      {
+        "major": "Bachelor of Communication Studies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/communication-studies/courses/bachelor-of-communication-studies"
+      },
+      {
+        "major": "Bachelor of Engineering (Honours) in Study Mechatronics Engineering",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-engineering-honours/mechatronics-engineering-major"
+      },
+      {
+        "major": "Master of Physiotherapy Practice",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-physiotherapy-practice"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Older Adult Health and Wellness",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/older-adult-health-and-wellness"
+      },
+      {
+        "major": "Master of Design Degree - Art & Design",
+        "details_url": "https://www.aut.ac.nz/study/study-options/art-and-design/courses/master-of-design"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Māori Health",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/maori-health"
+      },
+      {
+        "major": "Master of Health Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-science"
+      },
+      {
+        "major": "Doctor of Health Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/doctor-of-health-science"
+      },
+      {
+        "major": "Graduate Certificate in Business",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/graduate-certificate-in-business"
+      },
+      {
+        "major": "Bachelor of Education in Primary Teaching Course",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/bachelor-of-education/primary-teaching-major"
+      },
+      {
+        "major": "Bachelor of Design in Study Spatial and Interior Design",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-design-te-tohu-paetahi-mo-te-hoahoa/spatial-design-major"
+      },
+      {
+        "major": "Certificate of Proficiency in Medical Terminology course",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/short-course-in-medical-terminology"
+      },
+      {
+        "major": "Postgraduate Certificate in Business Studies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-certificate-in-business-studies"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science in Leadership and Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/leadership-and-management"
+      },
+      {
+        "major": "Postgraduate Diploma in Registered Nurse Prescribing",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-registered-nurse-prescribing"
+      },
+      {
+        "major": "Bachelor of Health Science in Case Management Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science/case-management-major"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Leadership and Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/leadership-and-management"
+      },
+      {
+        "major": "Bachelor of Computer and Information Sciences in Data Science Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences/data-science-major-bachelor-of-computer-and-information-sciences"
+      },
+      {
+        "major": "Bachelor of Health Science in Health Management Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science/health-management-major"
+      },
+      {
+        "major": "Master of Health Practice in Paramedicine",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice/paramedicine"
+      },
+      {
+        "major": "Master of Science (Research)",
+        "details_url": "https://www.aut.ac.nz/study/study-options/science/courses/master-of-science-research"
+      },
+      {
+        "major": "Postgraduate Diploma in Public Health",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-public-health"
+      },
+      {
+        "major": "Bachelor of Engineering (Honours) in Mechanical Engineering Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-engineering-honours/mechanical-engineering-major"
+      },
+      {
+        "major": "Postgraduate Diploma in Human Rights",
+        "details_url": "https://www.aut.ac.nz/study/study-options/social-sciences-and-public-policy/courses/postgraduate-diploma-in-human-rights"
+      },
+      {
+        "major": "Bachelor of Communication Studies in Digital Communication Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/communication-studies/courses/bachelor-of-communication-studies/digital-communication-major"
+      },
+      {
+        "major": "Master of Engineering Project Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/master-of-engineering-project-management"
+      },
+      {
+        "major": "Master of Communication Studies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/communication-studies/courses/master-of-communication-studies"
+      },
+      {
+        "major": "Bachelor of Communication Studies in Journalism Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/communication-studies/courses/bachelor-of-communication-studies/journalism-major"
+      },
+      {
+        "major": "Postgraduate Diploma in Education in Educational Leadership specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/postgraduate-diploma-in-education/educational-leadership-specialisation-postgraduate-diploma-in-education"
+      },
+      {
+        "major": "Postgraduate Certificate in Communication Studies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/communication-studies/courses/postgraduate-certificate-in-communication-studies"
+      },
+      {
+        "major": "Bachelor of Science in Biological Science Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-science/biological-science-major-bachelor-of-science"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Health Care Ethics",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/health-care-ethics"
+      },
+      {
+        "major": "Master of Health Practice in Māori Health",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice/maori-health"
+      },
+      {
+        "major": "Bachelor of Education in Early Childhood Teaching",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/bachelor-of-education/early-childhood-teaching-major"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science"
+      },
+      {
+        "major": "Bachelor of Design Te Tohu Paetahi mō te Hoahoa in Study Industrial Design",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-design-te-tohu-paetahi-mo-te-hoahoa/industrial-design-major"
+      },
+      {
+        "major": "Master of Business in Accounting Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business/accounting"
+      },
+      {
+        "major": "Master of Business in Information Systems Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business/information-systems"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science in Child Health",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/child-health"
+      },
+      {
+        "major": "Postgraduate Certificate in Computer and Information Sciences",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/postgraduate-certificate-in-computer-and-information-sciences"
+      },
+      {
+        "major": "Master of Creative Technologies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/creative-technologies/courses/master-of-creative-technologies"
+      },
+      {
+        "major": "Bachelor of Computer and Information Sciences in Software Development Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences/software-development-major"
+      },
+      {
+        "major": "Postgraduate Certificate in Business Administration",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-certificate-in-business-administration"
+      },
+      {
+        "major": "Bachelor of Health Science in Paramedicine Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science/paramedicine-major"
+      },
+      {
+        "major": "Master of Health Practice in Musculoskeletal Physiotherapy",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice/musculoskeletal-physiotherapy"
+      },
+      {
+        "major": "Postgraduate Diploma in Education",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/postgraduate-diploma-in-education"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Violence and Trauma Studies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/violence-and-trauma-studies"
+      },
+      {
+        "major": "Drug Assisted Airway Management (DAAM) refresher short course",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/drug-assisted-airway-management-daam-refresher-short-course"
+      },
+      {
+        "major": "Bachelor of Computer and Information Sciences in Networks and Cybersecurity Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences/networks-and-cybersecurity-major-bachelor-of-computer-and-information-sciences"
+      },
+      {
+        "major": "Postgraduate Certificate in Human Rights",
+        "details_url": "https://www.aut.ac.nz/study/study-options/social-sciences-and-public-policy/courses/postgraduate-certificate-in-human-rights"
+      },
+      {
+        "major": "Postgraduate Diploma in Business Administration",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-diploma-in-business-administration"
+      },
+      {
+        "major": "Master of Psychotherapy",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-psychotherapy"
+      },
+      {
+        "major": "Postgraduate Certificate in Education",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/postgraduate-certificate-in-education"
+      },
+      {
+        "major": "Bachelor of Health Science in Individual pathway",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science/individual-pathway-major"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science in Midwifery",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/midwifery"
+      },
+      {
+        "major": "Postgraduate Certificate in Public Health",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-public-health"
+      },
+      {
+        "major": "Bachelor of Design Te Tohu Paetahi mō te Hoahoa in Communication Design Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-design-te-tohu-paetahi-mo-te-hoahoa/communication-design-major"
+      },
+      {
+        "major": "Diploma in Engineering",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/diploma-in-engineering"
+      },
+      {
+        "major": "Bachelor of Business in Accounting Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business/accounting-major"
+      },
+      {
+        "major": "Certificate of Proficiency in Pacific Nutrition",
+        "details_url": "https://www.aut.ac.nz/study/study-options/sport-and-recreation/courses/certificate-of-proficiency-in-pacific-nutrition"
+      },
+      {
+        "major": "Bachelor of Health Science (Physiotherapy) (Honours)",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science-physiotherapy-honours"
+      },
+      {
+        "major": "Postgraduate Diploma in Teaching and Learning",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/postgraduate-diploma-in-teaching-and-learning"
+      },
+      {
+        "major": "Postgraduate Certificate in Education in Educational Leadership specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/postgraduate-certificate-in-education/educational-leadership-specialisation-postgraduate-certificate-in-education"
+      },
+      {
+        "major": "Postgraduate Certificate in Professional Accounting",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/postgraduate-certificate-in-professional-accounting"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science in Māori Health",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/maori-health"
+      },
+      {
+        "major": "Bachelor of Business in Management and Leadership Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business/management-major"
+      },
+      {
+        "major": "Bachelor of Business in Economics Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business/economics-major"
+      },
+      {
+        "major": "Bachelor of Design Te Tohu Paetahi mō te Hoahoa in Animation, Visual Effects and Game Design Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-design-te-tohu-paetahi-mo-te-hoahoa/animation-visual-effects-and-game-design-major"
+      },
+      {
+        "major": "Bachelor of Business in International Business and Strategy",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business/international-business-major"
+      },
+      {
+        "major": "Bachelor of Communication Studies in Screen Production Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/communication-studies/courses/bachelor-of-communication-studies/screen-production-major"
+      },
+      {
+        "major": "Master of Health Practice in Violence and Trauma Studies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice/violence-and-trauma-studies"
+      },
+      {
+        "major": "Bachelor of Engineering Technology",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-engineering-technology"
+      },
+      {
+        "major": "Graduate Diploma in Architecture",
+        "details_url": "https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/graduate-diploma-in-architecture"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science in Older Adult Health and Wellness",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/older-adult-health-and-wellness"
+      },
+      {
+        "major": "Master of Cyber Security and Digital Forensics",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/master-of-cyber-security-and-digital-forensics"
+      },
+      {
+        "major": "Bachelor of International Hospitality Management in Hospitality Enterprise Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/bachelor-of-international-hospitality-management/hospitality-enterprise-major-bachelor-of-international-hospitality-management"
+      },
+      {
+        "major": "Bachelor of Business in Information Systems Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business/business-information-systems-major"
+      },
+      {
+        "major": "Postgraduate Diploma in Computer and Information Sciences",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/postgraduate-diploma-in-computer-and-information-sciences"
+      },
+      {
+        "major": "Bachelor of Business (Honours) in International Business Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business-honours/international-business-specialisation-bachelor-of-business-honours"
+      },
+      {
+        "major": "Master of IT Project Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/master-of-it-project-management"
+      },
+      {
+        "major": "Postgraduate Certificate in Disaster Risk Management and Development",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-disaster-risk-management-and-development"
+      },
+      {
+        "major": "Bachelor of Engineering Technology in Mechanical Engineering Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-engineering-technology/mechanical-engineering-major"
+      },
+      {
+        "major": "Bachelor of Arts (Honours) in Criminology and Criminal Justice",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-arts-honours/criminology-and-criminal-justice-bachelor-of-arts-honours"
+      },
+      {
+        "major": "Bachelor of Computer and Information Sciences in Digital Services Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences/digital-services-major-bachelor-of-computer-and-information-sciences"
+      },
+      {
+        "major": "Master of Construction Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/master-of-construction-management"
+      },
+      {
+        "major": "Postgraduate Diploma in Communication Studies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/communication-studies/courses/postgraduate-diploma-in-communication-studies"
+      },
+      {
+        "major": "Bachelor of International Hospitality Management in Hospitality Management Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/bachelor-of-international-hospitality-management/hospitality-management-major-bachelor-of-international-hospitality-management"
+      },
+      {
+        "major": "Postgraduate Diploma in Disaster Risk Management and Development",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-disaster-risk-management-and-development"
+      },
+      {
+        "major": "Bachelor of Health Science in Public and Environmental Health Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science/public-and-environmental-health-major"
+      },
+      {
+        "major": "Barista Course (Beginner)",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/barista-beginner"
+      },
+      {
+        "major": "Bachelor of Construction in Construction Management Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/bachelor-of-construction/construction-management-major-bachelor-of-construction"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science inMental Health and Addictions",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/mental-health-and-addictions"
+      },
+      {
+        "major": "Master of Engineering",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/master-of-engineering"
+      },
+      {
+        "major": "Bachelor of Engineering Technology in Electrical and Electronic Engineering Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-engineering-technology/electrical-engineering-major"
+      },
+      {
+        "major": "Bachelor of Engineering (Honours) in Electrical and Electronic Engineering Major",
+        "details_url": "https://www.aut.ac.nz/courses/bachelor-of-engineering-honours/electrical-and-electronic-engineering-major"
+      },
+      {
+        "major": "Bachelor of Communication Studies in Radio and Audio Media Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/communication-studies/courses/bachelor-of-communication-studies/radio-audio-media-major"
+      },
+      {
+        "major": "Bachelor of International Hospitality Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/bachelor-of-international-hospitality-management"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science in Acupuncture",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/acupuncture"
+      },
+      {
+        "major": "Master of Disaster Risk Management and Development",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-disaster-risk-management-and-development"
+      },
+      {
+        "major": "Graduate Diploma in Psychotherapy Studies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/graduate-diploma-in-psychotherapy-studies"
+      },
+      {
+        "major": "Master of Health Practice in Nursing",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice/nursing"
+      },
+      {
+        "major": "Master of Criminology and Criminal Justice",
+        "details_url": "https://www.aut.ac.nz/study/study-options/social-sciences-and-public-policy/courses/master-of-criminology-and-criminal-justice"
+      },
+      {
+        "major": "Bachelor of Construction in Study Quantity Surveying",
+        "details_url": "https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/bachelor-of-construction/quantity-surveying-major-bachelor-of-construction"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Midwifery",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/midwifery"
+      },
+      {
+        "major": "Master of Business in Finance Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business/finance"
+      },
+      {
+        "major": "Master of Computer and Information Sciences",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/master-of-computer-and-information-sciences"
+      },
+      {
+        "major": "Bachelor of Business (Honours) in Accounting Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business-honours/accounting-specialisation-bachelor-of-business-honours"
+      },
+      {
+        "major": "Diploma in Computer and Information Sciences",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/diploma-in-computer-and-information-sciences"
+      },
+      {
+        "major": "Bachelor of Health Science in Perioperative Practice Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/bachelor-of-health-science/perioperative-practice-major-bachelor-of-health-science"
+      },
+      {
+        "major": "Bachelor of Communication Studies in Public Relations Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/communication-studies/courses/bachelor-of-communication-studies/public-relations-major"
+      },
+      {
+        "major": "Graduate Diploma in Computer and Information Sciences",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/graduate-diploma-in-computer-and-information-sciences"
+      },
+      {
+        "major": "Master of Business in Management Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business/management"
+      },
+      {
+        "major": "Postgraduate Diploma in Counselling Psychology",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-counselling-psychology"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Acupuncture",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/acupuncture"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science in Musculoskeletal Physiotherapy",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/musculoskeletal-physiotherapy"
+      },
+      {
+        "major": "Bachelor of Architecture and Future Environments",
+        "details_url": "https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/bachelor-of-architecture-and-future-environments"
+      },
+      {
+        "major": "Bachelor of Computer and Information Sciences",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/bachelor-of-computer-and-information-sciences"
+      },
+      {
+        "major": "Marketing Specialisation - Master of Business",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/master-of-business/marketing,-advertising,-retailing,-sales"
+      },
+      {
+        "major": "Master of Health Science in Psychology",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-science/psychology-master-of-health-science"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Rehabilitation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/rehabilitation"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Child Health",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/child-health"
+      },
+      {
+        "major": "Bachelor of Communication Studies in Advertising and Brand Creativity Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/communication-studies/courses/bachelor-of-communication-studies/advertising-creativity-major"
+      },
+      {
+        "major": "Graduate Certificate in Computer and Information Sciences",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/graduate-certificate-in-computer-and-information-sciences"
+      },
+      {
+        "major": "Postgraduate Diploma in Engineering",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/postgraduate-diploma-in-engineering"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science - Paramedicine",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/paramedicine"
+      },
+      {
+        "major": "Master of Architecture (Professional)",
+        "details_url": "https://www.aut.ac.nz/study/study-options/architecture-and-built-environment/courses/master-of-architecture-professional"
+      },
+      {
+        "major": "Bachelor of Visual Arts Te Tohu Paetahi mō Toi Ataata in Painting, Printmaking and Drawing major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/art-and-design/courses/bachelor-of-visual-arts/painting-printmaking-and-drawing-major"
+      },
+      {
+        "major": "Bachelor of Business in Human Resource Management and Employment Relations",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business/human-resource-management-and-employment-relation-major"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science in Health Care Ethics",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/health-care-ethics"
+      },
+      {
+        "major": "Graduate Diploma in International Hospitality Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/graduate-diploma-in-international-hospitality-management"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science in Advanced Nursing Practice",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/advanced-nursing-practice"
+      },
+      {
+        "major": "Bachelor of Business (Honours) in Marketing Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business-honours/marketing-specialisation-bachelor-of-business-honours"
+      },
+      {
+        "major": "Graduate Certificate in International Hospitality Management",
+        "details_url": "https://www.aut.ac.nz/study/study-options/hospitality-tourism-and-events/courses/graduate-certificate-in-international-hospitality-management"
+      },
+      {
+        "major": "Bachelor of Visual Arts Te Tohu Paetahi mō Toi Ataata in Photography, Sculpture and Moving-image Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/art-and-design/courses/bachelor-of-visual-arts/photography-sculpture-and-moving-image-major"
+      },
+      {
+        "major": "Bachelor of Business in Marketing Major",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business/marketing,-advertising,-retailing,-sales-major"
+      },
+      {
+        "major": "Bachelor of Business (Honours) in Economics Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business-honours/economics-specialisation-bachelor-of-business-honours"
+      },
+      {
+        "major": "Postgraduate Certificate in Engineering",
+        "details_url": "https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/postgraduate-certificate-in-engineering"
+      },
+      {
+        "major": "Bachelor of Business (Honours) in Information Systems Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business-honours/business-information-systems-specialisation-bachelor-of-business-honours"
+      },
+      {
+        "major": "Bachelor of Business (Honours) in Finance Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business-honours/finance-specialisation-bachelor-of-business-honours"
+      },
+      {
+        "major": "Postgraduate Certificate in Creative Technologies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/creative-technologies/courses/postgraduate-certificate-in-creative-technologies"
+      },
+      {
+        "major": "Master of Health Practice in Study Rehabilitation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-practice/rehabilitation"
+      },
+      {
+        "major": "Master of Education in Educational Leadership specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/education/courses/master-of-education/educational-leadership-specialisation-master-of-education"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science in Rehabilitation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/rehabilitation"
+      },
+      {
+        "major": "Bachelor of Business (Honours) in Management Specialisation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/business/courses/bachelor-of-business-honours/management-specialisation-bachelor-of-business-honours"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Mental Health and Addictions",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/mental-health-and-addictions"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Science - Violence and Trauma Studies",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-diploma-in-health-science/violence-and-trauma-studies"
+      },
+      {
+        "major": "Master of Health Science in Advanced Nursing Practice",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/master-of-health-science/advanced-nursing-practice"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Science in Resuscitation",
+        "details_url": "https://www.aut.ac.nz/study/study-options/health-sciences/courses/postgraduate-certificate-in-health-science/resuscitation"
+      },
+      {
+        "major": "Postgraduate Certificate in Law",
+        "details_url": "https://www.aut.ac.nz/study/study-options/law/courses/postgraduate-certificate-in-law"
+      }
+    ]
+  },
+  {
+    "university": "The University Of Auckland",
+    "country": "NewZealand",
+    "logo": "http://tiny.cc/SS-Auckland",
+    "programs": [
+      {
+        "major": "Bachelor of Architectural Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-architectural-studies-bas.html"
+      },
+      {
+        "major": "Bachelor of Arts",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-ba.html"
+      },
+      {
+        "major": "Bachelor of Arts (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-honours-bahons.html"
+      },
+      {
+        "major": "Bachelor of Biomedical Science (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-biomedical-science-honours-bbiomedschons.html"
+      },
+      {
+        "major": "Bachelor of Commerce",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-bcom.html"
+      },
+      {
+        "major": "Bachelor of Commerce (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-honours-bcomhons.html"
+      },
+      {
+        "major": "Bachelor of Communication",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication.html"
+      },
+      {
+        "major": "Bachelor of Dance Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-bdancest.html"
+      },
+      {
+        "major": "Bachelor of Dance Studies (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-honours-bdancesthons.html"
+      },
+      {
+        "major": "Bachelor of Design",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-design.html"
+      },
+      {
+        "major": "Bachelor of Early Childhood Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-early-childhood-studies.html"
+      },
+      {
+        "major": "Bachelor of Education (Teaching English to Speakers of Other Languages)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-tesol.html"
+      },
+      {
+        "major": "Bachelor of Education (Teaching)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-bedtchg.html"
+      },
+      {
+        "major": "Bachelor of Education (Teaching) (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-honours-bedtchghons.html"
+      },
+      {
+        "major": "Bachelor of Engineering (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-honours-behons.html"
+      },
+      {
+        "major": "Bachelor of Fine Arts",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-bfa.html"
+      },
+      {
+        "major": "Bachelor of Global Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-global-studies-bglobalst.html"
+      },
+      {
+        "major": "Bachelor of Health Sciences",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-health-sciences-bhsc.html"
+      },
+      {
+        "major": "Bachelor of Laws",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-llb.html"
+      },
+      {
+        "major": "Bachelor of Laws (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-honours-llbhons.html"
+      },
+      {
+        "major": "Bachelor of Medical Imaging (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/Medicalimaging.html"
+      },
+      {
+        "major": "Bachelor of Medical Science (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medical-science-honours-bmedschons.html"
+      },
+      {
+        "major": "Bachelor of Medicine and Bachelor of Surgery",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medicine-and-bachelor-of-surgery-mbchb.html"
+      },
+      {
+        "major": "Bachelor of Music",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-bmus.html"
+      },
+      {
+        "major": "Bachelor of Music (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-honours-bmus-hons.html"
+      },
+      {
+        "major": "Bachelor of Nursing",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-bnurs.html"
+      },
+      {
+        "major": "Bachelor of Nursing (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-honours-bnurshons.html"
+      },
+      {
+        "major": "Bachelor of Optometry",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-optometry-boptom.html"
+      },
+      {
+        "major": "Bachelor of Pharmacy",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-bpharm.html"
+      },
+      {
+        "major": "Bachelor of Pharmacy (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-honours-bpharmhons.html"
+      },
+      {
+        "major": "Bachelor of Property",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-property-bprop.html"
+      },
+      {
+        "major": "Bachelor of Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html"
+      },
+      {
+        "major": "Bachelor of Science (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-honours-bschons.html"
+      },
+      {
+        "major": "Bachelor of Social Justice Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-social-justice-studies.html"
+      },
+      {
+        "major": "Bachelor of Social Work (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-social-work-honours-bswhons.html"
+      },
+      {
+        "major": "Bachelor of Sport, Health and Physical Education",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-sport-health-and-physical-education-bsporthpe.html"
+      },
+      {
+        "major": "Bachelor of Urban Planning (Honours)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-urban-planning-honours-burbplanhons.html"
+      },
+      {
+        "major": "Certificate in Health Sciences",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/certificate-in-health-sciences-certhsc.html"
+      },
+      {
+        "major": "Certificate in Languages",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/certificate-in-languages-certlang.html"
+      },
+      {
+        "major": "Certificate of Proficiency",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/certificate-of-proficiency.html"
+      },
+      {
+        "major": "Diploma in Languages",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/diploma-in-languages-diplang.html"
+      },
+      {
+        "major": "Doctor of Clinical Psychology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-clinical-psychology-dclinpsy.html"
+      },
+      {
+        "major": "Doctor of Education",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-education-edd.html"
+      },
+      {
+        "major": "Doctor of Fine Arts",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-fine-arts-docfa.html"
+      },
+      {
+        "major": "Doctor of Health Sciences",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-health-sciences-dhsc.html"
+      },
+      {
+        "major": "Doctor of Medicine",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-medical-sciences-dmedsc.html"
+      },
+      {
+        "major": "Doctor of Philosophy",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html"
+      },
+      {
+        "major": "Graduate Certificate in Law",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-certificate-in-law-gradcertlaw.html"
+      },
+      {
+        "major": "Graduate Diploma in Applied Psychology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-applied-psychology-graddipapppsych.html"
+      },
+      {
+        "major": "Graduate Diploma in Architectural Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-architectural-studies.html"
+      },
+      {
+        "major": "Graduate Diploma in Arts",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-arts-graddiparts.html"
+      },
+      {
+        "major": "Graduate Diploma in Commerce",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-commerce-graddipcom.html"
+      },
+      {
+        "major": "Graduate Diploma in Engineering Project Management",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-engineering-project-management.html"
+      },
+      {
+        "major": "Graduate Diploma in Law",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-law-graddiplaw.html"
+      },
+      {
+        "major": "Graduate Diploma in Music",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-music-graddipmus.html"
+      },
+      {
+        "major": "Graduate Diploma in Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-science-graddipsci.html"
+      },
+      {
+        "major": "Graduate Diploma in Teaching (Early Childhood Education)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-early-childhood-education-graddiptchgece.html"
+      },
+      {
+        "major": "Graduate Diploma in Teaching (Primary)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-primary-graddiptchgprimary.html"
+      },
+      {
+        "major": "Graduate Diploma in Teaching (Secondary)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-secondary-graddiptchgsec.html"
+      },
+      {
+        "major": "Master of Aerospace Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-aerospace-engineering-maerospaceeng.html"
+      },
+      {
+        "major": "Master of Applied Finance",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-applied-finance.html"
+      },
+      {
+        "major": "Master of Architecture",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-march.html"
+      },
+      {
+        "major": "Master of Architecture (Professional)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-marchprof.html"
+      },
+      {
+        "major": "Master of Architecture (Professional) and Urban Design",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-design-marchprofurdes.html"
+      },
+      {
+        "major": "Master of Architecture (Professional) and Urban Planning (Professional)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-planning-professional-marchprofurbplanprof.html"
+      },
+      {
+        "major": "Master of Artificial Intelligence",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-artificial-intelligence--mai-.html"
+      },
+      {
+        "major": "Master of Arts",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-arts-ma.html"
+      },
+      {
+        "major": "Master of Audiology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-audiology-maud.html"
+      },
+      {
+        "major": "Master of Biomedical Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-biomedical-science-mbiomedsc.html"
+      },
+      {
+        "major": "Master of Bioscience Enterprise",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-bioscience-enterprise-mbioent.html"
+      },
+      {
+        "major": "Master of Biotechnology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-biotechnology-mbiotech.html"
+      },
+      {
+        "major": "Master of Business Administration",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-administration-mba.html"
+      },
+      {
+        "major": "Master of Business Analytics",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-analytics.html"
+      },
+      {
+        "major": "Master of Business Management",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-management.html"
+      },
+      {
+        "major": "Master of Chemistry",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-chemistry-mchem.html"
+      },
+      {
+        "major": "Master of Civil Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-civil-engineering-mcivileng.html"
+      },
+      {
+        "major": "Master of Clinical Education",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-education-mclined.html"
+      },
+      {
+        "major": "Master of Clinical Exercise Physiology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-exercise-physiology.html"
+      },
+      {
+        "major": "Master of Clinical Pharmacy",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-pharmacy-mclinpharm.html"
+      },
+      {
+        "major": "Master of Commerce",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-commerce-mcom.html"
+      },
+      {
+        "major": "Master of Communication",
+        "details_url": "https://www.online.auckland.ac.nz/postgraduate-programmes/arts/master-of-communication/"
+      },
+      {
+        "major": "Master of Community Dance",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-community-dance-mcommdance.html"
+      },
+      {
+        "major": "Master of Conflict and Terrorism Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-conflict-and-terrorism-studies-mcts.html"
+      },
+      {
+        "major": "Master of Counselling",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-counselling-mcouns.html"
+      },
+      {
+        "major": "Master of Creative Writing",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-creative-writing-mcw.html"
+      },
+      {
+        "major": "Master of Dance Movement Therapy",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-dance-movement-therapy.html"
+      },
+      {
+        "major": "Master of Dance Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-dance-studies-mdancest.html"
+      },
+      {
+        "major": "Master of Data Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-data-science-mdats.html"
+      },
+      {
+        "major": "Master of Design",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-design-mdes.html"
+      },
+      {
+        "major": "Master of Disaster Management",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-disaster-management-mdismgt.html"
+      },
+      {
+        "major": "Master of Earthquake Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-earthquake-engineering-meqeng.html"
+      },
+      {
+        "major": "Master of Ecology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-ecology-mecology.html"
+      },
+      {
+        "major": "Master of Education",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-med.html"
+      },
+      {
+        "major": "Master of Education Practice",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-practice-medprac.html"
+      },
+      {
+        "major": "Master of Educational Leadership",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-educational-leadership-medld.html"
+      },
+      {
+        "major": "Master of Energy",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-energy-menergy.html"
+      },
+      {
+        "major": "Master of Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-me.html"
+      },
+      {
+        "major": "Master of Engineering Geology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-geology-menggeol.html"
+      },
+      {
+        "major": "Master of Engineering Management",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-management-memgt.html"
+      },
+      {
+        "major": "Master of Engineering Project Management",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-project-management.html"
+      },
+      {
+        "major": "Master of Engineering Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-studies-mengst.html"
+      },
+      {
+        "major": "Master of Environmental Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-environmental-science-menvsci.html"
+      },
+      {
+        "major": "Master of Fine Arts",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-fine-arts-mfa.html"
+      },
+      {
+        "major": "Master of Food Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-food-science-mfoodsci.html"
+      },
+      {
+        "major": "Master of Global Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-global-studies-mglobalst.html"
+      },
+      {
+        "major": "Master of Health Leadership",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-leadership-mhlthld.html"
+      },
+      {
+        "major": "Master of Health Practice",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-practice.html"
+      },
+      {
+        "major": "Master of Health Psychology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-psychology-mhealthpsych.html"
+      },
+      {
+        "major": "Master of Health Sciences",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-sciences-mhsc.html"
+      },
+      {
+        "major": "Master of Indigenous Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-indigenous-studies-mindigst.html"
+      },
+      {
+        "major": "Master of Information Governance",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-information-governance-minfogov.html"
+      },
+      {
+        "major": "Master of Information Technology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-information-technology-minfotech.html"
+      },
+      {
+        "major": "Master of Infrastructure Asset Management",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-infrastructure-asset-management-minfraassetmgt.html"
+      },
+      {
+        "major": "Master of Intellectual Property",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-intellectual-property.html"
+      },
+      {
+        "major": "Master of International Business",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-international-business-mintbus.html"
+      },
+      {
+        "major": "Master of Laws",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-laws-llm.html"
+      },
+      {
+        "major": "Master of Legal Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-legal-studies-mls.html"
+      },
+      {
+        "major": "Master of Literature",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-literature-mlitt.html"
+      },
+      {
+        "major": "Master of Marine Conservation",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marine-conservation-mmarinecons.html"
+      },
+      {
+        "major": "Master of Marine Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marine-studies-mmarinest.html"
+      },
+      {
+        "major": "Master of Marketing",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marketing-mmktg.html"
+      },
+      {
+        "major": "Master of Materials Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-materials-engineering-mmaterialseng.html"
+      },
+      {
+        "major": "Master of Mathematical Modelling",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-mathematical-modelling-mmathmodel.html"
+      },
+      {
+        "major": "Master of Medical Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-medical-engineering-mmedicaleng.html"
+      },
+      {
+        "major": "Master of Music",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-music-mmus.html"
+      },
+      {
+        "major": "Master of Nursing",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-nursing-mnurs.html"
+      },
+      {
+        "major": "Master of Nursing Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-nursing-science-mnsc.html"
+      },
+      {
+        "major": "Master of Operations Research and Analytics",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-operations-research-and-analytics-moran.html"
+      },
+      {
+        "major": "Master of Organisational Psychology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-organisational-psychology-morgpsych.html"
+      },
+      {
+        "major": "Master of Paediatrics",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-paediatrics-.html"
+      },
+      {
+        "major": "Master of Physiotherapy Practice",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-physiotherapy-practice-mphysioprac.html"
+      },
+      {
+        "major": "Master of Professional Accounting",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-accounting-mprofacctg.html"
+      },
+      {
+        "major": "Master of Professional Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-engineering-mprofeng.html"
+      },
+      {
+        "major": "Master of Professional Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-studies-mprofstuds.html"
+      },
+      {
+        "major": "Master of Professional Supervision",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-supervision-mprofsup.html"
+      },
+      {
+        "major": "Master of Professional Supervision Practice",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-supervision-practice-mprofsupprac.html"
+      },
+      {
+        "major": "Master of Property Practice",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-property-practice-mpropprac.html"
+      },
+      {
+        "major": "Master of Public Health",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-health-mph.html"
+      },
+      {
+        "major": "Master of Public Policy",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-policy-mpp.html"
+      },
+      {
+        "major": "Master of Regional Development",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-regional-development-mregdev.html"
+      },
+      {
+        "major": "Master of Robotics and Automation Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-robotics-and-automation-engineering-mroboteng.html"
+      },
+      {
+        "major": "Master of Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-science-msc.html"
+      },
+      {
+        "major": "Master of Social and Community Leadership",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-and-community-leadership-mscl.html"
+      },
+      {
+        "major": "Master of Social Work",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-work-msw.html"
+      },
+      {
+        "major": "Master of Social Work (Professional)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-work-professional-mswprof.html"
+      },
+      {
+        "major": "Master of Speech Language Therapy Practice",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-speech-language-therapy-practice-msltprac.html"
+      },
+      {
+        "major": "Master of Taxation Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-taxation-studies-mtaxs.html"
+      },
+      {
+        "major": "Master of Teaching English to Speakers of Other Languages",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-teaching-english-to-speakers-of-other-languages-mtesol.html"
+      },
+      {
+        "major": "Master of Urban Design",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-design-murbdes.html"
+      },
+      {
+        "major": "Master of Urban Planning",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-murbplan.html"
+      },
+      {
+        "major": "Master of Urban Planning (Professional)",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-professional-murbplanprof.html"
+      },
+      {
+        "major": "Master of Urban Planning (Professional) and Urban Design",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-professional-and-urban-design-murbplanprofurbdes.html"
+      },
+      {
+        "major": "Master of Wine Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-wine-science-mwinesci.html"
+      },
+      {
+        "major": "New Start General",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/preparation-and-foundation-programmes/new-start.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Aerospace Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-aerospace-engineering-pgcertaerospaceeng.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Applied Finance",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-applied-finance.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Business Analytics",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-business-analytics-pgcertbusan.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Business Management",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-business-management-pgcertbm.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Civil Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-civil-engineering-pgcertcivileng.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Clinical Education",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-clinical-education-pgcertclined.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Clinical Pharmacy",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-clinical-pharmacy-pgcertclinpharm.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Data Science",
+        "details_url": "https://www.online.auckland.ac.nz/postgraduate-programmes/science/postgraduate-certificate-in-data-science/"
+      },
+      {
+        "major": "Postgraduate Certificate in Design",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-design-pgcertdes.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Earthquake Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-earthquake-engineering-pgcerteqeng.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Education",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-education-pgcerted.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-engineering-pgcerteng.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Fine Arts",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-fine-arts-pgcertfa.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Geothermal Energy Technology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-geothermal-energy-technology-pgcertgeothermtech.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Health Sciences",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-health-sciences-pgcerthsc.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Information Governance",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-information-governance.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Information Technology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-information-technology-pgcertinfotech.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Infrastructure Asset Management",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-infrastructure-asset-management-pgcertinfraassetmgt.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Intellectual Property",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-intellectual-property.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Law",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-law-pgcertlaw.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Materials Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-materials-engineering-pgcertmaterialseng.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Mathematical Modelling",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-mathematical-modelling-pgcertmathmodel.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Medical Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-medical-engineering-pgcertmedicaleng.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Music",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-music-pgcertmus.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Operations Research and Analytics",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-operations-research-and-analytics-pgcertoran.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Paediatrics",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-paediatrics-.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Professional Supervision",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-professional-supervision-pgcertprofsup.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Property Practice",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-property-practice-pgcertpropprac.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Regional Development",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-regional-development-pgcertregdev.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Robotics and Automation Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-robotics-and-automation-engineering-pgcertroboteng.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Social and Community Leadership",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-social-and-community-leadership-pgcertscl.html"
+      },
+      {
+        "major": "Postgraduate Certificate in Teaching Linguistically Diverse Learners",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-teaching-linguistically-diverse-learners-pgcerttldl.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Aerospace Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-aerospace-engineering-pgdipaerospaceeng.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Applied Psychology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-applied-psychology-pgdipapppsych.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Architecture",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-architecture-pgdiparch.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Artificial Intelligence",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-artificial-intelligence.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Arts",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-arts-pgdiparts.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Biomedical Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-biomedical-science-pgdipbiomedsc.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Bioscience Enterprise",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-bioscience-enterprise-pgdipbioent.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Business",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-business-pgdipbus.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Civil Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-civil-engineering-pgdipcivileng.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Clinical Education",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-clinical-education-pgdipclined.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Clinical Pharmacy",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-clinical-pharmacy-pgdipclinpharm.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Counselling Theory",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-counselling-theory-pgdipcounsth.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Dance Studies",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-dance-studies-pgdipdancest.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Education",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-education-pgdiped.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Educational Leadership",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-educational-leadership-pgdipedld.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-engineering-pgdipeng.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Fine Arts",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-fine-arts-pgdipfa.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Forensic Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-forensic-science-pgdipforensic.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Psychology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-health-psychology-pgdiphealthpsych.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Health Sciences",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-health-sciences-pgdiphsc.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Information Governance",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-information-governance.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Infrastructure Asset Management",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-infrastructure-asset-management-pgdipinfraassetmgt.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Language Teaching",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-language-teaching-pgdiplt.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Materials Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-materials-engineering-pgdipmaterialseng.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Mathematical Modelling",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-mathematical-modelling-pgdipmathmodel.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Medical Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-medical-engineering-pgdipmedicaleng.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Music",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-music-pgdipmus.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Obstetrics and Medical Gynaecology",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-obstetrics-and-medical-gynaecology-pgdipobstmedgyn.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Operations Research and Analytics",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-operations-research-and-analytics-pgdiporan.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Paediatrics",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-paediatrics.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Professional Supervision",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-professional-supervision-pgdipprofsup.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Public Health",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-public-health-pgdipph.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Robotics and Automation Engineering",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-robotics-and-automation-engineering-pgdiproboteng.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Science",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-science-pgdipsci.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Social Work",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-social-work-pgdipsw.html"
+      },
+      {
+        "major": "Postgraduate Diploma in Stroke Care",
+        "details_url": "https://www.online.auckland.ac.nz/postgraduate-programmes/fmhs/postgraduate-diploma-in-stroke-care/"
+      },
+      {
+        "major": "Postgraduate Diploma in Teaching Linguistically Diverse Learners",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-teaching-linguistically-diverse-learners-pgdiptldl.html"
+      },
+      {
+        "major": "Tertiary Foundation Certificate",
+        "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/tertiary-foundation-certificate.html"
+      }
+    ]
+  }
+]

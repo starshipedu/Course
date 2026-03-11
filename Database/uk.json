@@ -1,0 +1,1165 @@
+[
+  {
+    "university": "Anglia Ruskin Unievrsity",
+    "country": "UK",
+    "logo": "http://tiny.cc/SS-ARU",
+    "programs": [
+      {
+        "major": "BSc (Hons) Accounting and Finance",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/accounting-and-finance"
+      },
+      {
+        "major": "BA (Hons) Acting",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/acting"
+      },
+      {
+        "major": "BSc (Hons) Agriculture",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/agriculture"
+      },
+      {
+        "major": "BSc (Hons), CertHE Agriculture (Regenerative Systems and Livestock)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/agriculture-regenerative-systems-and-livestock"
+      },
+      {
+        "major": "BSc (Hons), CertHE Agriculture (Regenerative Systems)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/agriculture-regenerative-systems"
+      },
+      {
+        "major": "BSc (Hons) Animal Behaviour",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-behaviour"
+      },
+      {
+        "major": "BSc (Hons), CertHE Animal Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-management"
+      },
+      {
+        "major": "BSc (Hons), CertHE Animal Management (Bioveterinary Science)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-management-bioveterinary-science"
+      },
+      {
+        "major": "BSc (Hons), CertHE Animal Management (Livestock Technology)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-management-livestock-technology"
+      },
+      {
+        "major": "BSc (Hons), CertHE Animal Management (Pet Behaviour and Welfare)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-management-pet-behaviour-and-welfare"
+      },
+      {
+        "major": "BSc (Hons), CertHE Animal Management (Zoo and Wildlife Conservation)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-management-zoo-and-wildlife-conservation"
+      },
+      {
+        "major": "BSc (Hons), CertHE Animal Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-science"
+      },
+      {
+        "major": "BSc (Hons), CertHE, DipHE Animal Science (Bioveterinary Science)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-science-bioveterinary-science"
+      },
+      {
+        "major": "BSc (Hons), CertHE Animal Science (Livestock Technology)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-science-livestock-technology"
+      },
+      {
+        "major": "BSc (Hons), CertHE Animal Science (Pet Behaviour and Welfare)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-science-pet-behaviour-and-welfare"
+      },
+      {
+        "major": "BSc (Hons), CertHE Animal Science (Zoo and Wildlife Conservation)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-science-zoo-and-wildlife-conservation"
+      },
+      {
+        "major": "BSc (Hons) Animal Therapy",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animal-therapy"
+      },
+      {
+        "major": "BA (Hons) Animation and Illustration",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/animation-and-illustration"
+      },
+      {
+        "major": "BSc (Hons) Applied Sport Science and Coaching (Top Up)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/applied-sport-science-and-coaching-top-up"
+      },
+      {
+        "major": "BA (Hons), BSc (Hons) Architecture",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/architecture"
+      },
+      {
+        "major": "BSc (Hons) Artificial Intelligence",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/artificial-intelligence"
+      },
+      {
+        "major": "BSc (Hons) Audio & Music Technology",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/audio-and-music-technology"
+      },
+      {
+        "major": "BSc (Hons) Banking and Finance",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/banking-and-finance"
+      },
+      {
+        "major": "BSc (Hons) Biology",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/biology"
+      },
+      {
+        "major": "BEng (Hons) Biomedical Engineering",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/biomedical-engineering"
+      },
+      {
+        "major": "BSc (Hons) Biomedical Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/biomedical-science"
+      },
+      {
+        "major": "BSc (Hons) Biomedical Sciences",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/biomedical-sciences"
+      },
+      {
+        "major": "BSc (Hons) Building Surveying",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/building-surveying"
+      },
+      {
+        "major": "BSc (Hons) Business and Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/business-and-management"
+      },
+      {
+        "major": "BSc (Hons) Business Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/business-management"
+      },
+      {
+        "major": "BSc (Hons) Business with Economics",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/business-with-economics"
+      },
+      {
+        "major": "BSc (Hons) Business with Entrepreneurship",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/business-with-entrepreneurship"
+      },
+      {
+        "major": "BSc (Hons) Business with Events Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/business-with-events-management"
+      },
+      {
+        "major": "BSc (Hons) Business with Finance",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/business-with-finance"
+      },
+      {
+        "major": "BSc (Hons) Business with Human Resource Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/business-with-human-resource-management"
+      },
+      {
+        "major": "BSc (Hons) Business with Marketing",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/business-with-marketing"
+      },
+      {
+        "major": "BSc (Hons) Business with Tourism Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/business-with-tourism"
+      },
+      {
+        "major": "BSc (Hons) Canine Therapy",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/canine-therapy"
+      },
+      {
+        "major": "BEng (Hons) Civil Engineering",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/civil-engineering-beng"
+      },
+      {
+        "major": "BA (Hons) Computer Games Art",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/computer-games-art"
+      },
+      {
+        "major": "BA (Hons) Computer Games Design",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/computer-games-design"
+      },
+      {
+        "major": "BSc (Hons) Computer Games Programming",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/computer-games-programming"
+      },
+      {
+        "major": "BSc (Hons) Computer Games Technology",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/computer-games-technology"
+      },
+      {
+        "major": "BSc (Hons) Computer Networking",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/computer-networking"
+      },
+      {
+        "major": "BEng (Hons) Computer Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/computer-science-beng"
+      },
+      {
+        "major": "BSc (Hons) Computer Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/computer-science-bsc"
+      },
+      {
+        "major": "BSc (Hons) Computing",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/computing"
+      },
+      {
+        "major": "BSc (Hons) Conservation and Community Engagement",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/conservation-and-community-engagement"
+      },
+      {
+        "major": "BSc (Hons) Construction Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/construction-management"
+      },
+      {
+        "major": "BA (Hons) Creative Writing",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/creative-writing"
+      },
+      {
+        "major": "BSc (Hons) Crime and Investigative Studies",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/crime-and-investigative-studies"
+      },
+      {
+        "major": "BA (Hons) Criminology",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/criminology"
+      },
+      {
+        "major": "BA (Hons) Criminology and Policing",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/criminology-and-policing"
+      },
+      {
+        "major": "BA (Hons) Criminology and Sociology",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/criminology-and-sociology"
+      },
+      {
+        "major": "BSc (Hons) Cyber Security",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/cyber-security"
+      },
+      {
+        "major": "BSc (Hons) Cyber Security and Digital Forensics",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/cyber-security-and-digital-forensics"
+      },
+      {
+        "major": "BSc (Hons) Cyber Security and Forensic Computing",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/cyber-security-with-forensic-computing"
+      },
+      {
+        "major": "BSc (Hons) Data and Analytical Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/data-and-analytical-science"
+      },
+      {
+        "major": "BA (Hons) Digital Media Production",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/digital-media"
+      },
+      {
+        "major": "BA (Hons) Drama",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/drama"
+      },
+      {
+        "major": "BA (Hons) Drama and English Literature",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/drama-and-english-literature"
+      },
+      {
+        "major": "BA (Hons) Drama and Film",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/drama-and-film"
+      },
+      {
+        "major": "BA (Hons) Early Childhood Studies (Graduate Practitioner)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/early-childhood-studies"
+      },
+      {
+        "major": "BSc (Hons) Ecology and Conservation",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/ecology-and-conservation"
+      },
+      {
+        "major": "MEng (Hons) Electronic and Electrical Engineering",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/electrical-and-electronics-engineering"
+      },
+      {
+        "major": "BEng (Hons) Electronic and Electrical Engineering",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/electronic-and-electrical-engineering-beng"
+      },
+      {
+        "major": "BA (Hons) English",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/english"
+      },
+      {
+        "major": "BA (Hons) English Language and Communication",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/english-language-and-communication"
+      },
+      {
+        "major": "BA (Hons) English Literature",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/english-literature"
+      },
+      {
+        "major": "BSc (Hons), CertHE Equine Behavioural Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/equine-behavioural-science"
+      },
+      {
+        "major": "BSc (Hons), CertHE Equine Bioveterinary Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/equine-bioveterinary-science"
+      },
+      {
+        "major": "BSc (Hons), CertHE Equine Performance and Business Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/equine-performance-and-business-management"
+      },
+      {
+        "major": "BSc (Hons), CertHE Equine Performance Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/equine-performance-science"
+      },
+      {
+        "major": "BSc (Hons), CertHE Equine Sports Therapy and Rehabilitation",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/equine-sports-therapy-and-rehabilitation"
+      },
+      {
+        "major": "BSc (Hons) Events Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/events-management"
+      },
+      {
+        "major": "BA (Hons) Fashion Communication and Branding",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/fashion-communication-and-branding"
+      },
+      {
+        "major": "BA (Hons) Fashion Design",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/fashion-design"
+      },
+      {
+        "major": "BA (Hons) Film",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/film"
+      },
+      {
+        "major": "BA (Hons) Film and Media",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/film-and-media"
+      },
+      {
+        "major": "BA (Hons) Film and Television Production",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/film-and-television-production"
+      },
+      {
+        "major": "BSc (Hons) Finance with Economics",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/finance-with-economics"
+      },
+      {
+        "major": "BA (Hons) Fine Art",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/fine-art"
+      },
+      {
+        "major": "BSc (Hons) Forensic Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/forensic-science"
+      },
+      {
+        "major": "BSc (Hons) Game Design and Development",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/game-design-and-development"
+      },
+      {
+        "major": "BA (Hons) Game Design and Digital Art",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/game-design-and-digital-art"
+      },
+      {
+        "major": "BA (Hons) Graphic Design",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/graphic-design"
+      },
+      {
+        "major": "BSc (Hons), CertHE, DipHE Health, Wellbeing and Community",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/health-wellbeing-and-community"
+      },
+      {
+        "major": "BA (Hons) History",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/history"
+      },
+      {
+        "major": "BSc (Hons), CertHE Horticulture",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/horticulture"
+      },
+      {
+        "major": "BSc (Hons) Human Resource Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/human-resource-management"
+      },
+      {
+        "major": "BA (Hons) Illustration",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/illustration"
+      },
+      {
+        "major": "BSc (Hons) Integrated Health and Social Care",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/integrated-health-and-social-care"
+      },
+      {
+        "major": "BA (Hons) Interior Design",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/interior-design"
+      },
+      {
+        "major": "BSc (Hons) International Business Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/international-business-management"
+      },
+      {
+        "major": "BSc (Hons) International Nursing Studies",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/international-nursing-studies"
+      },
+      {
+        "major": "LLB (Hons) Law",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/law"
+      },
+      {
+        "major": "BA (Hons) Liberal Arts",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/liberal-arts"
+      },
+      {
+        "major": "BSc (Hons) Marketing",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/marketing"
+      },
+      {
+        "major": "MEng (Hons) Mechanical Engineering",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/mechanical-engineering-meng"
+      },
+      {
+        "major": "BEng (Hons) Mechanical Engineering",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/mechanical-engineering-beng"
+      },
+      {
+        "major": "BEng (Hons) Mechatronic Engineering",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/mechatronic-engineering"
+      },
+      {
+        "major": "MEng (Hons) Mechatronics and Robotics Engineering",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/mechatronics-and-robotics-engineering"
+      },
+      {
+        "major": "BEng (Hons) Mechatronics and Robotics Engineering",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/mechatronics-and-robotics-engineering-beng"
+      },
+      {
+        "major": "BA (Hons) Media and Communication",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/media-and-communication"
+      },
+      {
+        "major": "BA (Hons) Media Production",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/media-production"
+      },
+      {
+        "major": "BSc (Hons), CertHE Medical Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/medical-science"
+      },
+      {
+        "major": "BSc (Hons) Midwifery",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/midwifery"
+      },
+      {
+        "major": "BSc (Hons) Mobile Game Design and Development",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/mobile-game-design-and-development"
+      },
+      {
+        "major": "(Hons) Montessori Early Childhood Studies (Graduate Practitioner)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/montessori-early-childhood-studies"
+      },
+      {
+        "major": "BA (Hons) Music and Sound Production",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/music-and-sound-production"
+      },
+      {
+        "major": "BA (Hons) Music Performance",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/music-performance"
+      },
+      {
+        "major": "BA (Hons) Music Production",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/music-production"
+      },
+      {
+        "major": "BA (Hons) Musical Theatre",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/musical-theatre"
+      },
+      {
+        "major": "BSc (Hons) Nursing (Adult)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/nursing-adult"
+      },
+      {
+        "major": "MOptom Optometry",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/optometry"
+      },
+      {
+        "major": "BSc (Hons) Pharmaceutical Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/pharmaceutical-science"
+      },
+      {
+        "major": "BA (Hons) Philosophy",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/philosophy"
+      },
+      {
+        "major": "BA (Hons) Philosophy and English Literature",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/philosophy-and-english-literature"
+      },
+      {
+        "major": "BA (Hons) Photography",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/photography"
+      },
+      {
+        "major": "BSc (Hons) Policing and Criminal Justice",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/policing-and-criminal-justice"
+      },
+      {
+        "major": "BA (Hons) Politics and International Relations",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/politics-and-international-relations"
+      },
+      {
+        "major": "BA (Hons) Primary Education Studies",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/primary-education-studies"
+      },
+      {
+        "major": "BSc (Hons) Psychology",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/psychology"
+      },
+      {
+        "major": "BSc (Hons) Psychology with Clinical Psychology",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/psychology-with-clinical-psychology"
+      },
+      {
+        "major": "BSc (Hons) Psychology with Criminology",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/psychology-with-criminology"
+      },
+      {
+        "major": "BSc (Hons) Public Health",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/public-health"
+      },
+      {
+        "major": "BSc (Hons) Quantity Surveying",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/quantity-surveying"
+      },
+      {
+        "major": "BA (Hons) Sociology",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/sociology"
+      },
+      {
+        "major": "BSc (Hons) Software Development",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/software-development"
+      },
+      {
+        "major": "BSc (Hons) Software Engineering",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/software-engineering"
+      },
+      {
+        "major": "BSc (Hons) Sport and Exercise Science",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/sport-and-exercise-science"
+      },
+      {
+        "major": "BSc (Hons) Sport and Exercise Therapy",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/sport-and-exercise-therapy"
+      },
+      {
+        "major": "BSc (Hons) Sport Coaching and Physical Education",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/sport-coaching-and-physical-education"
+      },
+      {
+        "major": "BSc (Hons), CertHE, DipHE Sports Science with Coaching",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/sports-science-with-coaching"
+      },
+      {
+        "major": "BSc (Hons), CertHE, DipHE Sports Science with Exercise Referral",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/sports-science-with-exercise-referral"
+      },
+      {
+        "major": "BSc (Hons) Strength and Conditioning with Rehabilitation",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/strength-and-conditioning-with-rehabilitation"
+      },
+      {
+        "major": "BSc (Hons) Supply Chain Management",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/supply-chain-management"
+      },
+      {
+        "major": "BSc (Hons) Sustainable Food Production (Fresh Produce)",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/sustainable-food-production-fresh-produce"
+      },
+      {
+        "major": "MVetPhys Veterinary Physiotherapy",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/veterinary-physiotherapy"
+      },
+      {
+        "major": "BA (Hons) Visual Effects",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/visual-effects"
+      },
+      {
+        "major": "BA (Hons) Working with Children, Families and Communities",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/working-with-children-families-and-communities"
+      },
+      {
+        "major": "BA (Hons) Writing and English Literature",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/writing-and-english-literature"
+      },
+      {
+        "major": "BA (Hons) Writing and Film",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/writing-and-film"
+      },
+      {
+        "major": "BSc (Hons) Zoology",
+        "details_url": "https://www.aru.ac.uk/study/undergraduate/zoology"
+      },
+      {
+        "major": "MSc Accounting and Finance",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/accounting-and-finance"
+      },
+      {
+        "major": "MSc Accounting and Financial Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/accounting-and-financial-management"
+      },
+      {
+        "major": "LLM Advanced Professional Legal Practice: SQE Preparation",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/advanced-professional-legal-practice-sqe-preparation"
+      },
+      {
+        "major": "MBA Agribusiness",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/agribusiness"
+      },
+      {
+        "major": "MSc Animal Behaviour Applications for Conservation",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/animal-behaviour-applications-for-conservation"
+      },
+      {
+        "major": "MSc Animal Welfare and Conservation",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/animal-welfare-and-conservation"
+      },
+      {
+        "major": "MSc Applied Bioscience",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/applied-bioscience"
+      },
+      {
+        "major": "MSc Applied Data Science (Conversion)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/applied-data-science"
+      },
+      {
+        "major": "MA Applied Linguistics and TESOL",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/applied-linguistics-and-tesol"
+      },
+      {
+        "major": "MSc Applied Wildlife Conservation",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/applied-wildlife-conservation"
+      },
+      {
+        "major": "Master of Architecture Architecture",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/architecture"
+      },
+      {
+        "major": "MA, PG Cert, PG Dip Art, Health and Wellbeing",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/art-health-and-wellbeing"
+      },
+      {
+        "major": "MSc Artificial Intelligence",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/artificial-intelligence"
+      },
+      {
+        "major": "MSc Automation and Robotics",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/automation-and-robotics"
+      },
+      {
+        "major": "MSc Brand Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/brand-management"
+      },
+      {
+        "major": "MSc Business Data Analytics",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/business-data-analytics"
+      },
+      {
+        "major": "MA Chaplaincy and Pastoral Care",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/chaplaincy-and-pastoral-care"
+      },
+      {
+        "major": "MA Children's Book Illustration",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/childrens-book-illustration"
+      },
+      {
+        "major": "MA Christian Spirituality East and West",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/christian-spirituality-east-and-west"
+      },
+      {
+        "major": "MSc Clinical Child Psychology",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/clinical-child-psychology"
+      },
+      {
+        "major": "MSc Clinical Nursing",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/clinical-nursing"
+      },
+      {
+        "major": "MSc Cognitive and Clinical Neuroscience",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/cognitive-and-clinical-neuroscience"
+      },
+      {
+        "major": "MA Computer Games Development (Art)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/computer-games-development-art"
+      },
+      {
+        "major": "MSc Computer Games Development (Computing)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/computer-games-development-computing"
+      },
+      {
+        "major": "MSc Computer Science",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/computer-science"
+      },
+      {
+        "major": "MSc Conservation Education and Engagement",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/conservation-education-and-engagement"
+      },
+      {
+        "major": "MSc Construction Project Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/construction-project-management"
+      },
+      {
+        "major": "MSc Consumer Psychology",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/consumer-psychology"
+      },
+      {
+        "major": "MA Contemporary Ethics",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/contemporary-ethics"
+      },
+      {
+        "major": "MA Contemporary Faith and Belief in the Global Context",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/contemporary-faith-and-belief-in-the-global-context"
+      },
+      {
+        "major": "MSc Core Concepts in Robotic Surgery",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/core-concepts-in-robotic-surgery"
+      },
+      {
+        "major": "MA, PG Cert, PG Dip Creative Writing",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/creative-writing"
+      },
+      {
+        "major": "MA, PG Cert Creative Writing and Publishing",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/creative-writing-and-publishing"
+      },
+      {
+        "major": "MA Criminology",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/criminology"
+      },
+      {
+        "major": "MSc Crop Production (Agriculture)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/crop-production-agriculture"
+      },
+      {
+        "major": "MSc Crop Production (Horticulture)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/crop-production-horticulture"
+      },
+      {
+        "major": "MA Dramatherapy",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/dramatherapy"
+      },
+      {
+        "major": "PG Dip Education",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/education-pgdip"
+      },
+      {
+        "major": "MA Education",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/education"
+      },
+      {
+        "major": "MA Education with Early Childhood",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/education-with-early-childhood"
+      },
+      {
+        "major": "MA Education with Leadership and Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/education-with-leadership-and-management"
+      },
+      {
+        "major": "MA Education with Montessori",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/education-with-montessori"
+      },
+      {
+        "major": "MSc Electronic and Electrical Engineering",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/electronic-and-electrical-engineering"
+      },
+      {
+        "major": "MSc Engineering Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/engineering-management"
+      },
+      {
+        "major": "MA English Literature",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/english-literature"
+      },
+      {
+        "major": "MBA Entrepreneurship MBA",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/entrepreneurship"
+      },
+      {
+        "major": "MSc Equine Performance Science",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/equine-performance-science"
+      },
+      {
+        "major": "MA Film and Television Production",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/film-and-television-production"
+      },
+      {
+        "major": "MBA Finance",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/finance-mba"
+      },
+      {
+        "major": "MA Fine Art",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/fine-art"
+      },
+      {
+        "major": "MBA FinTech and Data Analytics",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/fintech-and-data-analytics"
+      },
+      {
+        "major": "MSc Forensic Science",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/forensic-science"
+      },
+      {
+        "major": "MSc Foundations in Clinical Psychology",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/foundations-in-clinical-psychology"
+      },
+      {
+        "major": "MPH Global Public Health",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/global-public-health"
+      },
+      {
+        "major": "MA Graphic Design",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/graphic-design"
+      },
+      {
+        "major": "MBA Healthcare Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/healthcare-management-mba"
+      },
+      {
+        "major": "MSc Higher Midwifery Practice",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/higher-midwifery-practice"
+      },
+      {
+        "major": "MA History",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/history"
+      },
+      {
+        "major": "MA Human Resource Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/human-resource-management-ma"
+      },
+      {
+        "major": "MA, PG Cert, PG Dip Human-Centred Design",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/human-centred-design"
+      },
+      {
+        "major": "MA Illustration",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/illustration"
+      },
+      {
+        "major": "MSc Information and Communication Technology (Conversion)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/information-and-communication-technology-conversion"
+      },
+      {
+        "major": "MA Intercultural Communication",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/intercultural-communication"
+      },
+      {
+        "major": "MA, PG Cert, PG Dip Interior Design Innovation",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/interior-design-innovation"
+      },
+      {
+        "major": "MSc International Business",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-business"
+      },
+      {
+        "major": "LLM International Business and Commercial Law",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-business-and-commercial-law"
+      },
+      {
+        "major": "MSc International Business Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-business-management"
+      },
+      {
+        "major": "MSc International Business with Business Analytics",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-business-with-business-analytics"
+      },
+      {
+        "major": "MSc International Business with Economics",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-business-with-economics"
+      },
+      {
+        "major": "MA International Development",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-development"
+      },
+      {
+        "major": "MSc International Hospitality and Tourism Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-hospitality-and-management"
+      },
+      {
+        "major": "MSc International Logistics and Supply Chain Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/supply-chain-management"
+      },
+      {
+        "major": "MSc International Marketing",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-marketing"
+      },
+      {
+        "major": "MSc International Project Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-project-management"
+      },
+      {
+        "major": "MA International Relations",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-relations"
+      },
+      {
+        "major": "MSc International Social Welfare and Social Policy",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-social-welfare-and-social-policy"
+      },
+      {
+        "major": "LLM Law",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/llm-law"
+      },
+      {
+        "major": "MSc Marketing",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/marketing"
+      },
+      {
+        "major": "MBA Master of Business Administration",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/master-of-business-administration-mba"
+      },
+      {
+        "major": "MBA Master of Business Administration MBA - Health and Social Care",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/master-of-business-administration-health-and-social-care"
+      },
+      {
+        "major": "MBA Master of Business Administration MBA - International",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/master-of-business-administration-international"
+      },
+      {
+        "major": "MSc Mechanical Engineering",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/mechanical-engineering"
+      },
+      {
+        "major": "MSc Medical and Healthcare Education",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/medical-and-healthcare-education"
+      },
+      {
+        "major": "MSc Mental Health",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/mental-health"
+      },
+      {
+        "major": "MA Music Therapy",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/music-therapy"
+      },
+      {
+        "major": "MSc Occupational Therapy (Pre-Reg)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/occupational-therapy"
+      },
+      {
+        "major": "MSc Physiotherapy (Pre-Reg)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/physiotherapy"
+      },
+      {
+        "major": "MSc Postharvest Technology",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/postharvest-technology"
+      },
+      {
+        "major": "PG Cert Practice Educator (Social Work)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/practice-educator-social-work"
+      },
+      {
+        "major": "MSc Project Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/project-management"
+      },
+      {
+        "major": "MSc Psychology (Conversion)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/psychology-msc"
+      },
+      {
+        "major": "MSc Public Health and Community Wellbeing",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/public-health-and-community-wellbeing"
+      },
+      {
+        "major": "MSc Public Health Promotion",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/public-health-promotion"
+      },
+      {
+        "major": "MA Publishing",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/publishing"
+      },
+      {
+        "major": "MSc Robotic Surgery (Simulation)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/robotic-surgery-simulation"
+      },
+      {
+        "major": "MA Social Work",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/social-work"
+      },
+      {
+        "major": "MA Sociology",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/sociology"
+      },
+      {
+        "major": "MSc Sport and Exercise Psychology",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/sport-and-exercise-psychology"
+      },
+      {
+        "major": "MSc Sustainability",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/sustainability"
+      },
+      {
+        "major": "MSc Sustainable Supply Chain Management",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/sustainable-supply-chain-management"
+      },
+      {
+        "major": "MSc Town Planning",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/town-planning"
+      },
+      {
+        "major": "Master of Surgery, PG Cert, PG Dip Urology",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/urology"
+      },
+      {
+        "major": "Art and Design MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/art-and-design-research"
+      },
+      {
+        "major": "Audiology and Hearing Disability Research MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/audiology-and-hearing-disability-research"
+      },
+      {
+        "major": "Biology MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/animal-and-environmental-sciences"
+      },
+      {
+        "major": "Biomedical Science MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/biomedical-science-research"
+      },
+      {
+        "major": "Business PhD - School of Economics, Finance and Law MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/business-economics-finance-and-law"
+      },
+      {
+        "major": "Business PhD - School of Management MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/business-and-management"
+      },
+      {
+        "major": "Children's Book Illustration MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/childrens-book-illustration-research"
+      },
+      {
+        "major": "Computing and Information Science MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/computer-science-research"
+      },
+      {
+        "major": "Creative Writing MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/creative-writing-research"
+      },
+      {
+        "major": "Criminology MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/criminology-research"
+      },
+      {
+        "major": "Doctor of Medicine by Research MD (Res)",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/doctor-of-medicine-by-research"
+      },
+      {
+        "major": "Dramatherapy MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/dramatherapy-research"
+      },
+      {
+        "major": "Engineering and the Built Environment MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/built-environment"
+      },
+      {
+        "major": "English Language and Intercultural Communication MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/english-language-and-intercultural-communication-research"
+      },
+      {
+        "major": "English Language and Linguistics MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/english-language-and-linguistics-research"
+      },
+      {
+        "major": "English Literature MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/english-literature-research"
+      },
+      {
+        "major": "Film and Television Production MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/film-and-television-production-research"
+      },
+      {
+        "major": "Film Studies and Media Studies MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/film-studies-and-media-studies"
+      },
+      {
+        "major": "Fine Art MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/fine-art-research"
+      },
+      {
+        "major": "Forensic & Investigative Sciences MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/forensic-science-research"
+      },
+      {
+        "major": "Graphic Design and Typography MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/graphic-design-and-typography-research"
+      },
+      {
+        "major": "History MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/history-research"
+      },
+      {
+        "major": "International Relations MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/international-relations-research"
+      },
+      {
+        "major": "Law MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/law-research"
+      },
+      {
+        "major": "Music Therapy MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/music-therapy-research"
+      },
+      {
+        "major": "Musicology MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/musicology-research"
+      },
+      {
+        "major": "Optometry and Vision Sciences MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/optometry-and-vision-sciences"
+      },
+      {
+        "major": "Philosophy MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/philosophy-research"
+      },
+      {
+        "major": "Professional Doctorate in Business and Management DBA",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/professional-doctorate-in-business-and-management"
+      },
+      {
+        "major": "Professional Doctorate in Education EdD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/professional-doctorate-in-education"
+      },
+      {
+        "major": "Professional Doctorate in Health and Social Care DProf",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/professional-doctorate-in-health-and-social-care"
+      },
+      {
+        "major": "Professional Doctorate in Practical Theology DProf",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/professional-doctorate-in-practical-theology"
+      },
+      {
+        "major": "Professional Doctorate in Science and Engineering DProf",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/professional-doctorate-in-science-and-technology"
+      },
+      {
+        "major": "Psychology MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/psychology"
+      },
+      {
+        "major": "Publishing MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/publishing-research"
+      },
+      {
+        "major": "School of Allied Health and Social Care MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/school-of-allied-health"
+      },
+      {
+        "major": "School of Nursing and Midwifery MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/school-of-nursing-and-midwifery"
+      },
+      {
+        "major": "Sociology MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/sociology-research"
+      },
+      {
+        "major": "Sport and Exercise Sciences MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/sport-and-exercise-sciences-research"
+      },
+      {
+        "major": "Sustainability MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/sustainability-research"
+      },
+      {
+        "major": "Theatre, Drama and Performance MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/theatre-and-performance-research"
+      },
+      {
+        "major": "Theology MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/theology"
+      },
+      {
+        "major": "Writtle School of Agriculture, Animal and Environmental Sciences MPhil, PhD",
+        "details_url": "https://www.aru.ac.uk/study/postgraduate/writtle-school-of-agriculture-animal-and-environmental-sciences"
+      }
+    ]
+  }
+]

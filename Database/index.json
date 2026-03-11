@@ -1,0 +1,249 @@
+{
+  "total_countries": 9,
+  "total_universities": 40,
+  "total_programs": 4593,
+  "last_updated": "2026-03-12 01:01:45",
+  "countries": [
+    {
+      "country_code": "australia",
+      "country_name": "Australia",
+      "file": "australia.json",
+      "universities": 19,
+      "programs": 1505,
+      "university_list": [
+        {
+          "name": " Academia Australia",
+          "programs": 15
+        },
+        {
+          "name": "ACBI (Australian College of Business Intelligence)",
+          "programs": 20
+        },
+        {
+          "name": "Abbey College Australia",
+          "programs": 20
+        },
+        {
+          "name": "Academies Australia",
+          "programs": 16
+        },
+        {
+          "name": "Academique Australia",
+          "programs": 12
+        },
+        {
+          "name": "Acknowledge Education",
+          "programs": 19
+        },
+        {
+          "name": "Australian National University",
+          "programs": 42
+        },
+        {
+          "name": "Curtin University",
+          "programs": 577
+        },
+        {
+          "name": "Macquarie University",
+          "programs": 133
+        },
+        {
+          "name": "Monash University Australia",
+          "programs": 33
+        },
+        {
+          "name": "Novus College",
+          "programs": 28
+        },
+        {
+          "name": "RMIT University",
+          "programs": 74
+        },
+        {
+          "name": "The University Of Queensland (UQ)",
+          "programs": 49
+        },
+        {
+          "name": "The University of Adelaide (UoA)",
+          "programs": 18
+        },
+        {
+          "name": "The University of Melbourne",
+          "programs": 284
+        },
+        {
+          "name": "The University of Sydney",
+          "programs": 12
+        },
+        {
+          "name": "University of New South Wales (UNSW)",
+          "programs": 27
+        },
+        {
+          "name": "University of Technology Sydney (UTS)",
+          "programs": 117
+        },
+        {
+          "name": "University of Western Australia (UWA)",
+          "programs": 9
+        }
+      ]
+    },
+    {
+      "country_code": "canada",
+      "country_name": "Canada",
+      "file": "canada.json",
+      "universities": 1,
+      "programs": 557,
+      "university_list": [
+        {
+          "name": "University Of Toronto",
+          "programs": 557
+        }
+      ]
+    },
+    {
+      "country_code": "china",
+      "country_name": "China",
+      "file": "china.json",
+      "universities": 10,
+      "programs": 410,
+      "university_list": [
+        {
+          "name": "Fudan University",
+          "programs": 71
+        },
+        {
+          "name": "Jiangsu University",
+          "programs": 3
+        },
+        {
+          "name": "Nanchang University",
+          "programs": 5
+        },
+        {
+          "name": "Ningbo University Of Technology",
+          "programs": 3
+        },
+        {
+          "name": "Northeast Forestry University",
+          "programs": 33
+        },
+        {
+          "name": "Peking University",
+          "programs": 144
+        },
+        {
+          "name": "Shenzhen University (SZU)",
+          "programs": 59
+        },
+        {
+          "name": "Tsinghua University",
+          "programs": 89
+        },
+        {
+          "name": "University of Science & Technology Beijing",
+          "programs": 1
+        },
+        {
+          "name": "Wuxi Vocational Institute Of Commerce",
+          "programs": 2
+        }
+      ]
+    },
+    {
+      "country_code": "korea",
+      "country_name": "Korea",
+      "file": "korea.json",
+      "universities": 1,
+      "programs": 688,
+      "university_list": [
+        {
+          "name": "Korea University",
+          "programs": 688
+        }
+      ]
+    },
+    {
+      "country_code": "malaysia",
+      "country_name": "Malaysia",
+      "file": "malaysia.json",
+      "universities": 2,
+      "programs": 187,
+      "university_list": [
+        {
+          "name": "Asia Pacific University of Technology & Innovation (APU)",
+          "programs": 110
+        },
+        {
+          "name": "City University Malaysia",
+          "programs": 77
+        }
+      ]
+    },
+    {
+      "country_code": "new_zealand",
+      "country_name": "NewZealand",
+      "file": "new_zealand.json",
+      "universities": 3,
+      "programs": 536,
+      "university_list": [
+        {
+          "name": "Aotearoa Career and Management Institute (ACMI)",
+          "programs": 6
+        },
+        {
+          "name": "Auckland University of Technology (AUT)",
+          "programs": 306
+        },
+        {
+          "name": "The University Of Auckland",
+          "programs": 224
+        }
+      ]
+    },
+    {
+      "country_code": "singapore",
+      "country_name": "Singapore",
+      "file": "singapore.json",
+      "universities": 2,
+      "programs": 411,
+      "university_list": [
+        {
+          "name": "AMITY Global Institute",
+          "programs": 57
+        },
+        {
+          "name": "National University of Singapore (NUS)",
+          "programs": 354
+        }
+      ]
+    },
+    {
+      "country_code": "uk",
+      "country_name": "UK",
+      "file": "uk.json",
+      "universities": 1,
+      "programs": 289,
+      "university_list": [
+        {
+          "name": "Anglia Ruskin Unievrsity",
+          "programs": 289
+        }
+      ]
+    },
+    {
+      "country_code": "usa",
+      "country_name": "USA",
+      "file": "usa.json",
+      "universities": 1,
+      "programs": 10,
+      "university_list": [
+        {
+          "name": "Adelphi University",
+          "programs": 10
+        }
+      ]
+    }
+  ]
+}
