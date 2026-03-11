@@ -4,2758 +4,694 @@
     "country": "Korea",
     "logo": "http://tiny.cc/ss-koreauniversity",
     "programs": [
-      {
-        "major": "Bachelor of Business Administration",
-        "details_url": "http://biz.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Korean Language and Literature",
-        "details_url": "http://lib001.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Philosophy",
-        "details_url": "http://lib003.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Korean History",
-        "details_url": "http://koreahistory.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of History",
-        "details_url": "http://kuhistory.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Sociology",
-        "details_url": "http://socio.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of English Language and Literature",
-        "details_url": "http://english.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of German Language and Literature",
-        "details_url": "http://kugermanistik.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of French Language and Literature",
-        "details_url": "http://kufra.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Chinese Language and Literature",
-        "details_url": "http://kuchinese.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Russian Language and Literature",
-        "details_url": "http://kuruss.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Japanese Language and Literature",
-        "details_url": "http://www.kujap.com/"
-      },
-      {
-        "major": "Bachelor of Spanish Language and Literature",
-        "details_url": "https://spanish.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Linguistics",
-        "details_url": "https://kling.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Life Sciences",
-        "details_url": "https://ls.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Biotechnology",
-        "details_url": "https://bio.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Food Bioscience and Technology",
-        "details_url": "https://foodscience.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Environmental Science and Ecological Engineering",
-        "details_url": "https://eco.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Food and Resource Economics",
-        "details_url": "https://frecon.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Political Science and International Relations",
-        "details_url": "https://politics.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Economics",
-        "details_url": "https://econ2.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Statistics",
-        "details_url": "https://stat.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Public Administration",
-        "details_url": "https://kupa.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Mathematics",
-        "details_url": "https://math.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Physics",
-        "details_url": "https://physics.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Chemistry",
-        "details_url": "https://chem.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Earth and Environmental Science",
-        "details_url": "https://ees.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Chemical & Biological Engineering",
-        "details_url": "https://cbe.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Materials Science & Engineering",
-        "details_url": "https://mse.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Civil, Environmental, & Architectural Engineering",
-        "details_url": "https://ace.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Architecture",
-        "details_url": "https://archi.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Mechanical Engineering",
-        "details_url": "https://me.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Industrial Management Engineering",
-        "details_url": "https://ie.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Electrical Engineering",
-        "details_url": "https://ee.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Integrative Energy Engineering",
-        "details_url": "https://ienergy.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Medicine",
-        "details_url": "https://medicine.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Education",
-        "details_url": "https://edu.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Korean Language Education",
-        "details_url": "https://koredu.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of English Education",
-        "details_url": "https://eled.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Geography Education",
-        "details_url": "https://geoedu.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of History Education",
-        "details_url": "https://hisedu.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Home Economics Education",
-        "details_url": "https://homedu.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Mathematics Education",
-        "details_url": "https://mathedu.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Physical Education",
-        "details_url": "https://phyedu.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Nursing",
-        "details_url": "https://nursing.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Computer Science and Engineering",
-        "details_url": "https://cs.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Data Science",
-        "details_url": "https://datascience.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Art & Design",
-        "details_url": "https://and.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of International Studies",
-        "details_url": "https://int.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Global Korean Studies",
-        "details_url": "https://int.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Media & Communication",
-        "details_url": "https://mediacom.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Global Entertainment",
-        "details_url": "https://mediacom.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Biomedical Engineering",
-        "details_url": "https://bmeng.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Biosystems & Biomedical Science",
-        "details_url": "https://bsm.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Health Environmental Science",
-        "details_url": "https://hes.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Health Policy & Management",
-        "details_url": "https://hpm.korea.ac.kr/"
-      },
-      {
-        "major": "Bachelor of Smart Security",
-        "details_url": "https://scs.korea.ac.kr/ime/info/smart.do"
-      },
-      {
-        "major": "Bachelor of Psychology",
-        "details_url": "https://psy.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Administrative Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of Civil Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of Civil Procedure",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of Commercial Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of Constitutional Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of Criminal Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of Intellectual Property Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of Interdisciplinary Jurisprudence",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of International Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of Labour Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of Philosophy of Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Master of Logistics Service & Operations Management",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Accounting",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Business Analytics",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Finance",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Global Business",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Information Systems",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Management",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Marketing",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Strategy",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Classical Korean Literature",
-        "details_url": "https://lib001.korea.edu/lib001_en/index.do"
-      },
-      {
-        "major": "Master of Korean Language and Culture Education(As a Foreign Language)",
-        "details_url": "https://lib001.korea.edu/lib001_en/index.do"
-      },
-      {
-        "major": "Master of Korean Linguistics",
-        "details_url": "https://lib001.korea.edu/lib001_en/index.do"
-      },
-      {
-        "major": "Master of Korean Literature In Classical Chinese",
-        "details_url": "https://lib001.korea.edu/lib001_en/index.do"
-      },
-      {
-        "major": "Master of Modern Korean Literature",
-        "details_url": "https://lib001.korea.edu/lib001_en/index.do"
-      },
-      {
-        "major": "Master of American Literature",
-        "details_url": "https://english.korea.edu/english_en/index.do"
-      },
-      {
-        "major": "Master of Classical English Literature",
-        "details_url": "https://english.korea.edu/english_en/index.do"
-      },
-      {
-        "major": "Master of English Linguistics",
-        "details_url": "https://english.korea.edu/english_en/index.do"
-      },
-      {
-        "major": "Master of Modern English Literature",
-        "details_url": "https://english.korea.edu/english_en/index.do"
-      },
-      {
-        "major": "Master of German Area Studies",
-        "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"
-      },
-      {
-        "major": "Master of German Linguistics",
-        "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"
-      },
-      {
-        "major": "Master of German Literature",
-        "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"
-      },
-      {
-        "major": "Master of French Linguistics",
-        "details_url": "https://kufra.korea.edu/kufra_en/index.do"
-      },
-      {
-        "major": "Master of French Literature",
-        "details_url": "https://kufra.korea.edu/kufra_en/index.do"
-      },
-      {
-        "major": "Master of Area and Comparative Cultural Studies of China & Japan",
-        "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"
-      },
-      {
-        "major": "Master of Chinese Linguistics",
-        "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"
-      },
-      {
-        "major": "Master of Chinese Literature",
-        "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"
-      },
-      {
-        "major": "Master of Japanese Linguistics & Education",
-        "details_url": "http://www.kujap.com/"
-      },
-      {
-        "major": "Master of Japanese Literature & Culture",
-        "details_url": "http://www.kujap.com/"
-      },
-      {
-        "major": "Master of Russia-CIS Area Studies",
-        "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"
-      },
-      {
-        "major": "Master of Russian Linguistics",
-        "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"
-      },
-      {
-        "major": "Master of Russian Literature",
-        "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"
-      },
-      {
-        "major": "Master of Iberian & Latin American Studies",
-        "details_url": "https://spanish.korea.edu/spanish_en/index.do"
-      },
-      {
-        "major": "Master of Spanish Linguistics",
-        "details_url": "https://spanish.korea.edu/spanish_en/index.do"
-      },
-      {
-        "major": "Master of Spanish Literature",
-        "details_url": "https://spanish.korea.edu/spanish_en/index.do"
-      },
-      {
-        "major": "Master of Ancient Korean History",
-        "details_url": "https://khistory.korea.ac.kr/khistory/index.do"
-      },
-      {
-        "major": "Master of Asian History",
-        "details_url": "https://khistory.korea.ac.kr/khistory/index.do"
-      },
-      {
-        "major": "Master of Mediaeval Korean History",
-        "details_url": "https://khistory.korea.ac.kr/khistory/index.do"
-      },
-      {
-        "major": "Master of Modern and Contemporary Korean History",
-        "details_url": "https://khistory.korea.ac.kr/khistory/index.do"
-      },
-      {
-        "major": "Master of Western History",
-        "details_url": "https://khistory.korea.ac.kr/khistory/index.do"
-      },
-      {
-        "major": "Master of Computational Linguistics",
-        "details_url": "https://kling.korea.edu/kling_en/index.do"
-      },
-      {
-        "major": "Master of Practical Applied Linguistics",
-        "details_url": "https://kling.korea.edu/kling_en/index.do"
-      },
-      {
-        "major": "Master of Semiotics",
-        "details_url": "https://kling.korea.edu/kling_en/index.do"
-      },
-      {
-        "major": "Master of Theoretical Linguistics",
-        "details_url": "https://kling.korea.edu/kling_en/index.do"
-      },
-      {
-        "major": "Master of Sociology",
-        "details_url": "https://socio.korea.edu/socio_en/index.do"
-      },
-      {
-        "major": "Master of Theory of Comparative Literature & Comparative Culture",
-        "details_url": "https://compare.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Cultural Heritage Studies",
-        "details_url": "https://kuchs.korea.ac.kr/kuchs/index.do"
-      },
-      {
-        "major": "Master of Visual Culture",
-        "details_url": "https://visualculture.korea.ac.kr/visualculture/index.do"
-      },
-      {
-        "major": "Master of Classics Translation",
-        "details_url": "https://kuclt.korea.ac.kr/kuclt/index.do"
-      },
-      {
-        "major": "Master of Labor Studies",
-        "details_url": "https://kupls.korea.ac.kr/kulps/index.do"
-      },
-      {
-        "major": "Master of Global Korean Language and Culture Studies",
-        "details_url": "https://gklc.korea.ac.kr/kuklc/index.do"
-      },
-      {
-        "major": "Master of Hunanities and East Asian Cultural Industry",
-        "details_url": "https://heaci.korea.ac.kr/hci/index.do"
-      },
-      {
-        "major": "Master of Food and Health Economics",
-        "details_url": "https://frecon.korea.edu/frecon_en/index.do"
-      },
-      {
-        "major": "Master of Applied Economics",
-        "details_url": "https://frecon.korea.edu/frecon_en/index.do"
-      },
-      {
-        "major": "Master of Environmental Science and Ecological Engineering",
-        "details_url": "https://eco.korea.ac.kr/?ckattempt=1"
-      },
-      {
-        "major": "Master of Biomedicine & Nanobio Systems",
-        "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"
-      },
-      {
-        "major": "Master of Chemical and Molecular Biology",
-        "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"
-      },
-      {
-        "major": "Master of Molecular Bioengineering",
-        "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"
-      },
-      {
-        "major": "Master of Systems Food Biotechnology",
-        "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"
-      },
-      {
-        "major": "Master of Biochemistry",
-        "details_url": "https://ls.korea.edu/ls_en/index.do"
-      },
-      {
-        "major": "Master of CellBiology",
-        "details_url": "https://ls.korea.edu/ls_en/index.do"
-      },
-      {
-        "major": "Master of Molecular Biology",
-        "details_url": "https://ls.korea.edu/ls_en/index.do"
-      },
-      {
-        "major": "Master of Molecular Medical Science",
-        "details_url": "https://ls.korea.edu/ls_en/index.do"
-      },
-      {
-        "major": "Master of Plant Genetic Biotechnology",
-        "details_url": "https://plant.korea.ac.kr/biosys/index.do"
-      },
-      {
-        "major": "Master of Plant Pathology and Physiology",
-        "details_url": "https://plant.korea.ac.kr/biosys/index.do"
-      },
-      {
-        "major": "Master of Political Science and International Relations",
-        "details_url": "https://politics.korea.edu/kupolitics_en/index.do"
-      },
-      {
-        "major": "Master of Policy Analysis",
-        "details_url": "https://kupa.korea.edu/kupaeng/index.do"
-      },
-      {
-        "major": "Master of Public Administration",
-        "details_url": "https://kupa.korea.edu/kupaeng/index.do"
-      },
-      {
-        "major": "Master of Economics",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Master of Applied Data Analytics",
-        "details_url": "https://stat.korea.edu/stat_en/index.do"
-      },
-      {
-        "major": "Master of Mathematical Statistics",
-        "details_url": "https://stat.korea.edu/stat_en/index.do"
-      },
-      {
-        "major": "Master of Statistical Data Science",
-        "details_url": "https://stat.korea.edu/stat_en/index.do"
-      },
-      {
-        "major": "Master of Communication and Journalism on Science and Technology",
-        "details_url": "https://sts.korea.ac.kr/sts/index.do"
-      },
-      {
-        "major": "Master of History and Philosophy of Science and Technology",
-        "details_url": "https://sts.korea.ac.kr/sts/index.do"
-      },
-      {
-        "major": "Master of Policy and Management of Science and Technology",
-        "details_url": "https://sts.korea.ac.kr/sts/index.do"
-      },
-      {
-        "major": "Master of Sociology of Science and Technology",
-        "details_url": "https://sts.korea.ac.kr/sts/index.do"
-      },
-      {
-        "major": "Master of Algebra and Number Theory",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Master of Analysis",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Master of Applied Mathematics",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Master of Geometry",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Master of Mathematical Data Science",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Master of Probability",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Master of Topology",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Master of Condensed Matter Physics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Master of Elementary Particle(High-Energy) Physics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Master of Nonlinear Dynamics & Biophysics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Master of Nuclear Physics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Master of Quantum Information Physics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Master of Quantum Optics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Master of Statistical Physics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Master of Analytical Chemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Master of Biochemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Master of Inorganic Chemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Master of Organic Chemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Master of Physical Chemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Master of Polymer Chemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Master of Atmospheric Environment",
-        "details_url": "https://ees.korea.edu/ees_en/index.do"
-      },
-      {
-        "major": "Master of Environmental Geology",
-        "details_url": "https://ees.korea.edu/ees_en/index.do"
-      },
-      {
-        "major": "Master of Geology",
-        "details_url": "https://ees.korea.edu/ees_en/index.do"
-      },
-      {
-        "major": "Master of Geophysics",
-        "details_url": "https://ees.korea.edu/ees_en/index.do"
-      },
-      {
-        "major": "Master of Actuarial Science",
-        "details_url": "https://actfe.korea.ac.kr/act/index.do"
-      },
-      {
-        "major": "Master of Financial Engineering",
-        "details_url": "https://actfe.korea.ac.kr/act/index.do"
-      },
-      {
-        "major": "Master of Chemical and Biological Engineering",
-        "details_url": "https://cbe.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Built Environment",
-        "details_url": "https://ace.korea.ac.kr/eng/"
-      },
-      {
-        "major": "Master of Energy Systems",
-        "details_url": "https://ace.korea.ac.kr/eng/"
-      },
-      {
-        "major": "Master of Seismic Resilience",
-        "details_url": "https://ace.korea.ac.kr/eng/"
-      },
-      {
-        "major": "Master of Smart Construction & Mobility",
-        "details_url": "https://ace.korea.ac.kr/eng/"
-      },
-      {
-        "major": "Master of Water & Ecosystems",
-        "details_url": "https://ace.korea.ac.kr/eng/"
-      },
-      {
-        "major": "Master of Urban Planning & Urban Design",
-        "details_url": "https://archi.korea.ac.kr/arch/index.do"
-      },
-      {
-        "major": "Master of Architectual Planning",
-        "details_url": "https://archi.korea.ac.kr/arch/index.do"
-      },
-      {
-        "major": "Master of Mechanical Engineering",
-        "details_url": "https://me.korea.edu/me_en/index.do"
-      },
-      {
-        "major": "Master of Advanced Materials Science and Engineering",
-        "details_url": "https://mse.korea.edu/mse_en/index.do"
-      },
-      {
-        "major": "Master of Industrial Artificial Intelligence",
-        "details_url": "https://ie.korea.ac.kr/ie/index.do"
-      },
-      {
-        "major": "Master of Industrial Management Engineering",
-        "details_url": "https://ie.korea.ac.kr/ie/index.do"
-      },
-      {
-        "major": "Master of Control，Robotics and Systems",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Communication and Networks",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Computer Engineering",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Electrical Energy",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Integrated Circuits",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Semiconductor and Nano Systems",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Signal Processing and Multimedia",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Master of Smart City",
-        "details_url": "http://ucr.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Urban Regeneration and Management",
-        "details_url": "http://ucr.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Nanoscale Semiconductor Circuit Design",
-        "details_url": "http://nanosemi.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Nanoscale Semiconductor Materials and Device",
-        "details_url": "http://nanosemi.korea.ac.kr/"
-      },
-      {
-        "major": "Master of System and Software",
-        "details_url": "http://nanosemi.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Electronic Control",
-        "details_url": "https://hyundai.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Smart Convergence",
-        "details_url": "http://lgsc.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Smart City",
-        "details_url": "https://kusc.korea.edu/kusc_en/index.do"
-      },
-      {
-        "major": "Master of Anatomy",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Anesthesiology & Pain Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Biochemistry",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Chest Surgery",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Clinical Biomedical Engineering",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Dentistry",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Dermatology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Emergency Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Family Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Forensic Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Fusion Translational Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Integrative Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Internal Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Laboratory Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Medical Education",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Medical Humanities",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Microbiology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Neuro Surgery",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Neurology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Nuclear Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Obstetrics and Gynecology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Ophthalmology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Orthopedic Surgery",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Otolaryngology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Parasitology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Pathology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Pediatrics",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Pharmacology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Physiology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Plastic Surgery",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Master of Biomedical Engineering",
-        "details_url": "https://medicine.korea.ac.kr/web/www/-102"
-      },
-      {
-        "major": "Master of Biomedical Science",
-        "details_url": "https://medicine.korea.ac.kr/web/www/-102"
-      },
-      {
-        "major": "Master of Medical Bio Convergence",
-        "details_url": "https://medicine.korea.ac.kr/web/www/-102"
-      },
-      {
-        "major": "Master of Biomedical Informatics",
-        "details_url": "https://medicine.korea.ac.kr/web/www/-101"
-      },
-      {
-        "major": "Master of Community Health and Social Epidemiology)",
-        "details_url": "https://phealth.korea.ac.kr/phealth/index.do"
-      },
-      {
-        "major": "Master of Environmental and Occupational Health",
-        "details_url": "https://phealth.korea.ac.kr/phealth/index.do"
-      },
-      {
-        "major": "Master of Epidemiology and Medical Informatics",
-        "details_url": "https://phealth.korea.ac.kr/phealth/index.do"
-      },
-      {
-        "major": "Master of Global Health",
-        "details_url": "https://phealth.korea.ac.kr/phealth/index.do"
-      },
-      {
-        "major": "Master of Health Policy and Hospital Management",
-        "details_url": "https://phealth.korea.ac.kr/phealth/index.do"
-      },
-      {
-        "major": "Master of Biostatistics",
-        "details_url": "https://biostat.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Healthcare and Medicine for Unified Korea",
-        "details_url": "https://unmedi.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Human Geography",
-        "details_url": "https://geoedu.korea.edu/geoedu_en/index.do"
-      },
-      {
-        "major": "Master of Physical Geography",
-        "details_url": "https://geoedu.korea.edu/geoedu_en/index.do"
-      },
-      {
-        "major": "Master of Counseling",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Master of Curriculum Studies",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Master of Educational Administration & Higher Education",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Master of Educational Measurement and Statistics",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Master of Educational Psychology",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Master of Educational Technology and Learning Sciences",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Master of History and Philosophy of Education",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Master of Human Resource Development & Adult Continuing Education",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Master of Sociology of Education",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Master of Special Education",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Master of History Education",
-        "details_url": "https://hisedu.korea.edu/hisedu_en/index.do"
-      },
-      {
-        "major": "Master of Mathematics Education",
-        "details_url": "https://mathedu.korea.edu/mathedu_en/index.do"
-      },
-      {
-        "major": "Master of Korean Language Education",
-        "details_url": "https://koredu.korea.edu/koredu_eng/index.do"
-      },
-      {
-        "major": "Master of English Education",
-        "details_url": "https://eled.korea.edu/eled_en/index.do"
-      },
-      {
-        "major": "Master of Child Studies",
-        "details_url": "https://homedu.korea.edu/homedu_en/index.do"
-      },
-      {
-        "major": "Master of Consumer Science",
-        "details_url": "https://homedu.korea.edu/homedu_en/index.do"
-      },
-      {
-        "major": "Master of Fashion Design & Merchandising",
-        "details_url": "https://homedu.korea.edu/homedu_en/index.do"
-      },
-      {
-        "major": "Master of Food Science and Nutrition",
-        "details_url": "https://homedu.korea.edu/homedu_en/index.do"
-      },
-      {
-        "major": "Master of Home Economics Education",
-        "details_url": "https://homedu.korea.edu/homedu_en/index.do"
-      },
-      {
-        "major": "Master of Physical Education",
-        "details_url": "https://phyedu.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Clinical",
-        "details_url": "https://nursingeng.korea.ac.kr/nursing_en/index.do"
-      },
-      {
-        "major": "Master of Gerontological",
-        "details_url": "https://nursingeng.korea.ac.kr/nursing_en/index.do"
-      },
-      {
-        "major": "Master of Nursing Science",
-        "details_url": "https://nursingeng.korea.ac.kr/nursing_en/index.do"
-      },
-      {
-        "major": "Master of Brain and Cognitive Engineering",
-        "details_url": "https://bce.korea.edu/bce_en/index.do"
-      },
-      {
-        "major": "Master of Artificial Intelligence",
-        "details_url": "http://xai.korea.ac.kr/?language=eng"
-      },
-      {
-        "major": "Master of Artificial Intelligence Applications",
-        "details_url": "https://cs.korea.edu/en_cs/index.do"
-      },
-      {
-        "major": "Master of Computer Education",
-        "details_url": "https://cs.korea.edu/en_cs/index.do"
-      },
-      {
-        "major": "Master of Computer Security",
-        "details_url": "https://cs.korea.edu/en_cs/index.do"
-      },
-      {
-        "major": "Master of Radio Communications Engineering",
-        "details_url": "https://cs.korea.edu/en_cs/index.do"
-      },
-      {
-        "major": "Master of Software",
-        "details_url": "https://cs.korea.edu/en_cs/index.do"
-      },
-      {
-        "major": "Master of Art & Culture",
-        "details_url": "https://and.korea.edu/kuand_en/index.do"
-      },
-      {
-        "major": "Master of Industrial Design",
-        "details_url": "https://and.korea.edu/kuand_en/index.do"
-      },
-      {
-        "major": "Master of Creative Convergence Design",
-        "details_url": "https://and.korea.edu/kuand_en/index.do"
-      },
-      {
-        "major": "Master of Media and Communication",
-        "details_url": "https://mediacom.korea.edu/mediacom_en/index.do"
-      },
-      {
-        "major": "Master of Biomedical and Food Sciences",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Master of Dental Laboratory Science and Engineering",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Master of Environmental Health Sciences",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Master of Epidemiology & Risk Management",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Master of Health Policy & Management",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Master of Rehabilitation Sciences",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Master of Biofood and Medical Science",
-        "details_url": "https://chs.korea.ac.kr/chs/grad/lifefusion_1.do"
-      },
-      {
-        "major": "Master of Biomedical Science",
-        "details_url": "https://bsm.korea.ac.kr/bsm/index.do"
-      },
-      {
-        "major": "Master of Bioengineering",
-        "details_url": "https://bmeng.korea.edu/bmeng_en/index.do"
-      },
-      {
-        "major": "Master of Clinical Laboratory Science",
-        "details_url": "https://hes.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Environmental Health and Safety",
-        "details_url": "https://hes.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Particulate matter Management",
-        "details_url": "https://hes.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Radiomedical Science",
-        "details_url": "https://hes.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Economics and Policy",
-        "details_url": "Economics and Policy"
-      },
-      {
-        "major": "Master of Major in Digital Health Statistics",
-        "details_url": "Economics and Policy"
-      },
-      {
-        "major": "Master of Major in Health Law",
-        "details_url": "Economics and Policy"
-      },
-      {
-        "major": "Master of Major in Healthcare Industry",
-        "details_url": "Economics and Policy"
-      },
-      {
-        "major": "Master of Cyber Defence",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Master of Digital Forensic",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Master of Financial Security",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Master of Information Security Policy",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Master of Information Security Theory",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Master of Major in Copyright Digital Forensics",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Master of Network Security",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Master of Security of Physical System",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Master of Software Security",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Master of Behavioral and Cognitive Neuroscience",
-        "details_url": "https://psy.korea.edu/"
-      },
-      {
-        "major": "Master of Clinical and Counseling Psychology",
-        "details_url": "https://psy.korea.edu/"
-      },
-      {
-        "major": "Master of Consumer & Advertising Psychology",
-        "details_url": "https://psy.korea.edu/"
-      },
-      {
-        "major": "Master of Cultural Social and Personality Psychology",
-        "details_url": "https://psy.korea.edu/"
-      },
-      {
-        "major": "Master of Psychological Data Science",
-        "details_url": "https://psy.korea.edu/"
-      },
-      {
-        "major": "Master of Computer Science",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Condensed Matter Physics",
-        "details_url": "http://aphy.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Display and Semiconductor",
-        "details_url": "http://aphy.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Energy Materials Chemistry",
-        "details_url": "http://newchem.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Inorganic Chemistry of Materials",
-        "details_url": "http://newchem.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Organic Chemistry of Materials",
-        "details_url": "http://newchem.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Physical Chemistry of Materials",
-        "details_url": "http://newchem.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Precise Analytical Chemistry",
-        "details_url": "http://newchem.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Electronics and Information Engineering",
-        "details_url": "http://eie.korea.ac.kr/"
-      },
-      {
-        "major": "Master of ICT Convergence Technology",
-        "details_url": "http://eie.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Environmental Engineering",
-        "details_url": "http://env.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Instrumentation and Sensor System",
-        "details_url": "http://emse.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Intelligent Mobility",
-        "details_url": "http://emse.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Mechatronics",
-        "details_url": "http://emse.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Biotechnology and Bioinformatics",
-        "details_url": "https://bio.korea.edu/"
-      },
-      {
-        "major": "Master of Food and Biotechnology",
-        "details_url": "http://kfbt.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Accelerator Application",
-        "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/kuacc/index.do"
-      },
-      {
-        "major": "Master of Accelerator Science",
-        "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/kuacc/index.do"
-      },
-      {
-        "major": "Master of Cyber Security",
-        "details_url": "https://aisecu.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Environmental Policy",
-        "details_url": "http://env.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Environmental Technology",
-        "details_url": "http://env.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Major in Functional Food Science",
-        "details_url": "http://kffs.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Clinical Pharmacy",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Industrial Pharmacy",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Life Science in Pharmacy",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Pharmacal Science",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Pharmaceutical Regulatory Science",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Social and Administrative Pharmacy",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Master of EC System",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"
-      },
-      {
-        "major": "Master of Internet Trade",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"
-      },
-      {
-        "major": "Master of e-Business",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"
-      },
-      {
-        "major": "Master of Accounting and Taxation",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Finance",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Global Business",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Information and Strategy",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Marketing",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Operations Management",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Organization Management",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Conformity Assessment",
-        "details_url": "http://stdexperts.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Standards Engineering",
-        "details_url": "http://stdexperts.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Social Policy",
-        "details_url": "http://socialwelfare.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Social Welfare",
-        "details_url": "http://socialwelfare.korea.ac.kr/"
-      },
-      {
-        "major": "Master of North Korean Studies",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/nknologyeng/"
-      },
-      {
-        "major": "Master of Studies of Unification Policy",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/nknologyeng/"
-      },
-      {
-        "major": "Master of Applied Macroeconometrics",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Applied Microeconometrics",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Broadcasting and Telecommunications Policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Fiscal Policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Governmental Statistics",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Industrial policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Macroeconomic policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Microeconomic policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Regional Economic Policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Big Data Science",
-        "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/bigdatascience/index.do"
-      },
-      {
-        "major": "Master of National and Urban Policy",
-        "details_url": "http://gup.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Literary Writing",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/kacweng/"
-      },
-      {
-        "major": "Master of Writing for the Stage & Screen",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/kacweng/"
-      },
-      {
-        "major": "Master of Archaeology",
-        "details_url": "http://cuhc.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Art History",
-        "details_url": "http://cuhc.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Sport Business",
-        "details_url": "http://sfa.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Sport Science",
-        "details_url": "http://sfa.korea.ac.kr/"
-      },
-      {
-        "major": "Master of Cultural Contents",
-        "details_url": "http://culc.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Administrative Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of Civil Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of Civil Procedure",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of Commercial Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of Constitutional Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of Criminal Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of Intellectual Property Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of Interdisciplinary Jurisprudence",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of International Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of Labour Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of Philosophy of Law",
-        "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"
-      },
-      {
-        "major": "Doctoral of Logistics Service & Operations Management",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Accounting",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Finance",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Global Business",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Information Systems",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Management",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Marketing",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Strategy",
-        "details_url": "https://biz.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Classical Korean Literature",
-        "details_url": "https://lib001.korea.edu/lib001_en/index.do"
-      },
-      {
-        "major": "Doctoral of Korean Language and Culture Education(As a Foreign Language)",
-        "details_url": "https://lib001.korea.edu/lib001_en/index.do"
-      },
-      {
-        "major": "Doctoral of Korean Linguistics",
-        "details_url": "https://lib001.korea.edu/lib001_en/index.do"
-      },
-      {
-        "major": "Doctoral of Korean Literature In Classical Chinese",
-        "details_url": "https://lib001.korea.edu/lib001_en/index.do"
-      },
-      {
-        "major": "Doctoral of Modern Korean Literature",
-        "details_url": "https://lib001.korea.edu/lib001_en/index.do"
-      },
-      {
-        "major": "Doctoral of American Literature",
-        "details_url": "https://english.korea.edu/english_en/index.do"
-      },
-      {
-        "major": "Doctoral of Classical English Literature",
-        "details_url": "https://english.korea.edu/english_en/index.do"
-      },
-      {
-        "major": "Doctoral of English Linguistics",
-        "details_url": "https://english.korea.edu/english_en/index.do"
-      },
-      {
-        "major": "Doctoral of Modern English Literature",
-        "details_url": "https://english.korea.edu/english_en/index.do"
-      },
-      {
-        "major": "Doctoral of German Area Studies",
-        "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"
-      },
-      {
-        "major": "Doctoral of German Linguistics",
-        "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"
-      },
-      {
-        "major": "Doctoral of German Literature",
-        "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"
-      },
-      {
-        "major": "Doctoral of French Linguistics",
-        "details_url": "https://kufra.korea.edu/kufra_en/index.do"
-      },
-      {
-        "major": "Doctoral of French Literature",
-        "details_url": "https://kufra.korea.edu/kufra_en/index.do"
-      },
-      {
-        "major": "Doctoral of Area and Comparative Cultural Studies of China & Japan",
-        "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"
-      },
-      {
-        "major": "Doctoral of Chinese Linguistics",
-        "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"
-      },
-      {
-        "major": "Doctoral of Chinese Literature",
-        "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"
-      },
-      {
-        "major": "Doctoral of Japanese Linguistics & Education",
-        "details_url": "http://www.kujap.com/"
-      },
-      {
-        "major": "Doctoral of Japanese Literature & Culture",
-        "details_url": "http://www.kujap.com/"
-      },
-      {
-        "major": "Doctoral of Russia-CIS Area Studies",
-        "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"
-      },
-      {
-        "major": "Doctoral of Russian Linguistics",
-        "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"
-      },
-      {
-        "major": "Doctoral of Russian Literature",
-        "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"
-      },
-      {
-        "major": "Doctoral of Iberian & Latin American Studies",
-        "details_url": "https://spanish.korea.edu/spanish_en/index.do"
-      },
-      {
-        "major": "Doctoral of Spanish Linguistics",
-        "details_url": "https://spanish.korea.edu/spanish_en/index.do"
-      },
-      {
-        "major": "Doctoral of Spanish Literature",
-        "details_url": "https://spanish.korea.edu/spanish_en/index.do"
-      },
-      {
-        "major": "Doctoral of Ancient Korean History",
-        "details_url": "https://khistory.korea.ac.kr/khistory/index.do"
-      },
-      {
-        "major": "Doctoral of Asian History",
-        "details_url": "https://khistory.korea.ac.kr/khistory/index.do"
-      },
-      {
-        "major": "Doctoral of Mediaeval Korean History",
-        "details_url": "https://khistory.korea.ac.kr/khistory/index.do"
-      },
-      {
-        "major": "Doctoral of Modern and Contemporary Korean History",
-        "details_url": "https://khistory.korea.ac.kr/khistory/index.do"
-      },
-      {
-        "major": "Doctoral of Western History",
-        "details_url": "https://khistory.korea.ac.kr/khistory/index.do"
-      },
-      {
-        "major": "Doctoral of Computational Linguistics",
-        "details_url": "https://kling.korea.edu/kling_en/index.do"
-      },
-      {
-        "major": "Doctoral of Practical Applied Linguistics",
-        "details_url": "https://kling.korea.edu/kling_en/index.do"
-      },
-      {
-        "major": "Doctoral of Semiotics",
-        "details_url": "https://kling.korea.edu/kling_en/index.do"
-      },
-      {
-        "major": "Doctoral of Theoretical Linguistics",
-        "details_url": "https://kling.korea.edu/kling_en/index.do"
-      },
-      {
-        "major": "Doctoral of Sociology",
-        "details_url": "https://socio.korea.edu/socio_en/index.do"
-      },
-      {
-        "major": "Doctoral of Theory of Comparative Literature & Comparative Culture",
-        "details_url": "https://compare.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Cultural Heritage Studies",
-        "details_url": "https://kuchs.korea.ac.kr/kuchs/index.do"
-      },
-      {
-        "major": "Doctoral of Visual Culture",
-        "details_url": "Visual Culture"
-      },
-      {
-        "major": "Doctoral of Classics Translation",
-        "details_url": "https://kuclt.korea.ac.kr/kuclt/index.do"
-      },
-      {
-        "major": "Doctoral of Labor Studies",
-        "details_url": "https://kupls.korea.ac.kr/kulps/index.do"
-      },
-      {
-        "major": "Doctoral of Global Korean Language and Culture Studies",
-        "details_url": "https://gklc.korea.ac.kr/kuklc/index.do"
-      },
-      {
-        "major": "Doctoral of Hunanities and East Asian Cultural Industry",
-        "details_url": "https://heaci.korea.ac.kr/hci/index.do"
-      },
-      {
-        "major": "Doctoral of Food and Health Economics",
-        "details_url": "https://frecon.korea.edu/frecon_en/index.do"
-      },
-      {
-        "major": "Doctoral of Applied Economics",
-        "details_url": "https://frecon.korea.edu/frecon_en/index.do"
-      },
-      {
-        "major": "Doctoral of Environmental Science and Ecological Engineering",
-        "details_url": "https://eco.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Biomedicine & Nanobio Systems",
-        "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"
-      },
-      {
-        "major": "Doctoral of Chemical and Molecular Biology",
-        "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"
-      },
-      {
-        "major": "Doctoral of Molecular Bioengineering",
-        "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"
-      },
-      {
-        "major": "Doctoral of Systems Food Biotechnology",
-        "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"
-      },
-      {
-        "major": "Doctoral of Biochemistry",
-        "details_url": "https://ls.korea.edu/ls_en/index.do"
-      },
-      {
-        "major": "Doctoral of CellBiology",
-        "details_url": "https://ls.korea.edu/ls_en/index.do"
-      },
-      {
-        "major": "Doctoral of Molecular Biology",
-        "details_url": "https://ls.korea.edu/ls_en/index.do"
-      },
-      {
-        "major": "Doctoral of Molecular Medical Science",
-        "details_url": "https://ls.korea.edu/ls_en/index.do"
-      },
-      {
-        "major": "Doctoral of Plant Genetic Biotechnology",
-        "details_url": "https://plant.korea.ac.kr/biosys/index.do"
-      },
-      {
-        "major": "Doctoral of Plant Pathology and Physiology",
-        "details_url": "https://plant.korea.ac.kr/biosys/index.do"
-      },
-      {
-        "major": "Doctoral of Political Science and International Relations",
-        "details_url": "https://politics.korea.edu/kupolitics_en/index.do"
-      },
-      {
-        "major": "Doctoral of Policy Analysis",
-        "details_url": "https://kupa.korea.edu/kupaeng/index.do"
-      },
-      {
-        "major": "Doctoral of Public Administration",
-        "details_url": "https://kupa.korea.edu/kupaeng/index.do"
-      },
-      {
-        "major": "Doctoral of Development Economics",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Econometrics",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Economic History",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Economic Theory",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Environmental & Regional Economics",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Health Economics",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Industrial Organization",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of International Economics",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Labor Economics",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Macroeconomics",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Monetary Economics",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Political Economy",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Public Finance",
-        "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"
-      },
-      {
-        "major": "Doctoral of Mathematical Statistics",
-        "details_url": "https://stat.korea.edu/stat_en/index.do"
-      },
-      {
-        "major": "Doctoral of Statistical Data Science",
-        "details_url": "https://stat.korea.edu/stat_en/index.do"
-      },
-      {
-        "major": "Doctoral of Communication and Journalism on Science and Technology",
-        "details_url": "https://sts.korea.ac.kr/sts/index.do"
-      },
-      {
-        "major": "Doctoral of History and Philosophy of Science and Technology",
-        "details_url": "https://sts.korea.ac.kr/sts/index.do"
-      },
-      {
-        "major": "Doctoral of Policy and Management of Science and Technology",
-        "details_url": "https://sts.korea.ac.kr/sts/index.do"
-      },
-      {
-        "major": "Doctoral of Sociology of Science and Technology",
-        "details_url": "https://sts.korea.ac.kr/sts/index.do"
-      },
-      {
-        "major": "Doctoral of Algebra and Number Theory",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Doctoral of Analysis",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Doctoral of Applied Mathematics",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Doctoral of Geometry",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Doctoral of Probability",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Doctoral of Topology",
-        "details_url": "https://math.korea.edu/math_en/index.do"
-      },
-      {
-        "major": "Doctoral of Condensed Matter Physics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Doctoral of Elementary Particle(High-Energy) Physics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Doctoral of Nonlinear Dynamics & Biophysics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Doctoral of Nuclear Physics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Doctoral of Quantum Information Physics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Doctoral of Quantum Optics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Doctoral of Statistical Physics",
-        "details_url": "https://physics.korea.edu/phys_en/index.do"
-      },
-      {
-        "major": "Doctoral of Analytical Chemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Biochemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Inorganic Chemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Organic Chemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Physical Chemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Polymer Chemistry",
-        "details_url": "http://chem.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Atmospheric Environment",
-        "details_url": "https://ees.korea.edu/ees_en/index.do"
-      },
-      {
-        "major": "Doctoral of Environmental Geology",
-        "details_url": "https://ees.korea.edu/ees_en/index.do"
-      },
-      {
-        "major": "Doctoral of Geology",
-        "details_url": "https://ees.korea.edu/ees_en/index.do"
-      },
-      {
-        "major": "Doctoral of Geophysics",
-        "details_url": "https://ees.korea.edu/ees_en/index.do"
-      },
-      {
-        "major": "Doctoral of Chemical and Biological Engineering",
-        "details_url": "https://cbe.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Built Environment",
-        "details_url": "https://ace.korea.ac.kr/eng/"
-      },
-      {
-        "major": "Doctoral of Energy Systems",
-        "details_url": "https://ace.korea.ac.kr/eng/"
-      },
-      {
-        "major": "Doctoral of Seismic Resilience",
-        "details_url": "https://ace.korea.ac.kr/eng/"
-      },
-      {
-        "major": "Doctoral of Smart Construction & Mobility",
-        "details_url": "https://ace.korea.ac.kr/eng/"
-      },
-      {
-        "major": "Doctoral of Water & Ecosystems",
-        "details_url": "https://ace.korea.ac.kr/eng/"
-      },
-      {
-        "major": "Doctoral of Urban Planning & Urban Design",
-        "details_url": "https://archi.korea.ac.kr/arch/index.do"
-      },
-      {
-        "major": "Doctoral of Architectual Planning",
-        "details_url": "https://archi.korea.ac.kr/arch/index.do"
-      },
-      {
-        "major": "Doctoral of Mechanical Engineering",
-        "details_url": "https://me.korea.edu/me_en/index.do"
-      },
-      {
-        "major": "Doctoral of Advanced Materials Science and Engineering",
-        "details_url": "https://mse.korea.edu/mse_en/index.do"
-      },
-      {
-        "major": "Doctoral of Industrial Artificial Intelligence",
-        "details_url": "https://ie.korea.ac.kr/ie/index.do"
-      },
-      {
-        "major": "Doctoral of Industrial Management Engineering",
-        "details_url": "https://ie.korea.ac.kr/ie/index.do"
-      },
-      {
-        "major": "Doctoral of Control，Robotics and Systems",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Communication and Networks",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Computer Engineering",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Electrical Energy",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Integrated Circuits",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Semiconductor and Nano Systems",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Signal Processing and Multimedia",
-        "details_url": "https://ee.korea.ac.kr/eng/main/main.html"
-      },
-      {
-        "major": "Doctoral of Smart City",
-        "details_url": "http://ucr.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Urban Regeneration and Management",
-        "details_url": "http://ucr.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Nanoscale Semiconductor Circuit Design",
-        "details_url": "http://nanosemi.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Nanoscale Semiconductor Materials and Device",
-        "details_url": "http://nanosemi.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of System and Software",
-        "details_url": "http://nanosemi.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Smart Convergence",
-        "details_url": "http://lgsc.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Smart City",
-        "details_url": "https://kusc.korea.edu/kusc_en/index.do"
-      },
-      {
-        "major": "Doctoral of Anatomy",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Anesthesiology & Pain Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Biochemistry",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Chest Surgery",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Clinical Biomedical Engineering",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Dentistry",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Dermatology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Emergency Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Family Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Forensic Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Fusion Translational Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Integrative Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Internal Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Laboratory Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Medical Education",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Medical Humanities",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Microbiology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Neuro Surgery",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Neurology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Nuclear Medicine",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Obstetrics and Gynecology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Ophthalmology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Orthopedic Surgery",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Otolaryngology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Parasitology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Pathology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Pediatrics",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Pharmacology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Physiology",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Plastic Surgery",
-        "details_url": "https://medicine.korea.ac.kr/en/index.do"
-      },
-      {
-        "major": "Doctoral of Biomedical Engineering",
-        "details_url": "https://medicine.korea.ac.kr/web/www/-102"
-      },
-      {
-        "major": "Doctoral of Biomedical Science",
-        "details_url": "https://medicine.korea.ac.kr/web/www/-102"
-      },
-      {
-        "major": "Doctoral of Medical Bio Convergence",
-        "details_url": "https://medicine.korea.ac.kr/web/www/-102"
-      },
-      {
-        "major": "Doctoral of Biomedical Informatics",
-        "details_url": "https://medicine.korea.ac.kr/web/www/-101"
-      },
-      {
-        "major": "Doctoral of Community Health and Social Epidemiology)",
-        "details_url": "https://phealth.korea.ac.kr/phealth/index.do"
-      },
-      {
-        "major": "Doctoral of Environmental and Occupational Health",
-        "details_url": "https://phealth.korea.ac.kr/phealth/index.do"
-      },
-      {
-        "major": "Doctoral of Epidemiology and Medical Informatics",
-        "details_url": "https://phealth.korea.ac.kr/phealth/index.do"
-      },
-      {
-        "major": "Doctoral of Global Health",
-        "details_url": "https://phealth.korea.ac.kr/phealth/index.do"
-      },
-      {
-        "major": "Doctoral of Health Policy and Hospital Management",
-        "details_url": "https://phealth.korea.ac.kr/phealth/index.do"
-      },
-      {
-        "major": "Doctoral of Biostatistics",
-        "details_url": "https://biostat.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Human Geography",
-        "details_url": "https://geoedu.korea.edu/geoedu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Physical Geography",
-        "details_url": "https://geoedu.korea.edu/geoedu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Counseling",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Curriculum Studies",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Educational Administration & Higher Education",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Educational Measurement and Statistics",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Educational Psychology",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Educational Technology and Learning Sciences",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Doctoral of History and Philosophy of Education",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Human Resource Development & Adult Continuing Education",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Sociology of Education",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Special Education",
-        "details_url": "https://edu.korea.edu/edu_en/index.do"
-      },
-      {
-        "major": "Doctoral of History Education",
-        "details_url": "https://hisedu.korea.edu/hisedu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Mathematics Education",
-        "details_url": "https://mathedu.korea.edu/mathedu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Korean Language Education",
-        "details_url": "https://koredu.korea.edu/koredu_eng/index.do"
-      },
-      {
-        "major": "Doctoral of English Education",
-        "details_url": "https://eled.korea.edu/eled_en/index.do"
-      },
-      {
-        "major": "Doctoral of Child Studies",
-        "details_url": "https://homedu.korea.edu/homedu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Consumer Science",
-        "details_url": "https://homedu.korea.edu/homedu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Fashion Design & Merchandising",
-        "details_url": "https://homedu.korea.edu/homedu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Food Science and Nutrition",
-        "details_url": "https://homedu.korea.edu/homedu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Home Economics Education",
-        "details_url": "https://homedu.korea.edu/homedu_en/index.do"
-      },
-      {
-        "major": "Doctoral of Physical Education",
-        "details_url": "https://phyedu.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Nursing Science",
-        "details_url": "https://nursingeng.korea.ac.kr/nursing_en/index.do"
-      },
-      {
-        "major": "Doctoral of Brain and Cognitive Engineering",
-        "details_url": "https://bce.korea.edu/bce_en/index.do"
-      },
-      {
-        "major": "Doctoral of Artificial Intelligence",
-        "details_url": "http://xai.korea.ac.kr/?language=eng"
-      },
-      {
-        "major": "Doctoral of Artificial Intelligence Applications",
-        "details_url": "https://cs.korea.edu/en_cs/index.do"
-      },
-      {
-        "major": "Doctoral of Computer Education",
-        "details_url": "https://cs.korea.edu/en_cs/index.do"
-      },
-      {
-        "major": "Doctoral of Computer Security",
-        "details_url": "https://cs.korea.edu/en_cs/index.do"
-      },
-      {
-        "major": "Doctoral of Radio Communications Engineering",
-        "details_url": "https://cs.korea.edu/en_cs/index.do"
-      },
-      {
-        "major": "Doctoral of Software",
-        "details_url": "https://cs.korea.edu/en_cs/index.do"
-      },
-      {
-        "major": "Doctoral of Creative Convergence Design",
-        "details_url": "https://and.korea.edu/kuand_en/index.do"
-      },
-      {
-        "major": "Doctoral of Media and Communication",
-        "details_url": "https://mediacom.korea.edu/mediacom_en/index.do"
-      },
-      {
-        "major": "Doctoral of Biomedical and Food Sciences",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Dental Laboratory Science and Engineering",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Environmental Health Sciences",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Epidemiology & Risk Management",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Health Policy & Management",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Rehabilitation Sciences",
-        "details_url": "https://hpm.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Biofood and Medical Science",
-        "details_url": "https://chs.korea.ac.kr/chs/grad/lifefusion_1.do"
-      },
-      {
-        "major": "Doctoral of Biomedical Science",
-        "details_url": "https://bsm.korea.ac.kr/bsm/index.do"
-      },
-      {
-        "major": "Doctoral of Bioengineering",
-        "details_url": "https://bmeng.korea.edu/bmeng_en/index.do"
-      },
-      {
-        "major": "Doctoral of Clinical Laboratory Science",
-        "details_url": "https://hes.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Environmental Health and Safety",
-        "details_url": "https://hes.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Particulate matter Management",
-        "details_url": "https://hes.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Radiomedical Science",
-        "details_url": "https://hes.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Economics and Policy",
-        "details_url": "Economics and Policy"
-      },
-      {
-        "major": "Doctoral of Major in Digital Health Statistics",
-        "details_url": "Economics and Policy"
-      },
-      {
-        "major": "Doctoral of Major in Health Law",
-        "details_url": "Economics and Policy"
-      },
-      {
-        "major": "Doctoral of Major in Healthcare Industry",
-        "details_url": "Economics and Policy"
-      },
-      {
-        "major": "Doctoral of Cyber Defence",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Digital Forensic",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Financial Security",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Information Security Policy",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Information Security Theory",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Network Security",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Security of Physical System",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Software Security",
-        "details_url": "https://gss.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Behavioral and Cognitive Neuroscience",
-        "details_url": "https://psy.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Clinical and Counseling Psychology",
-        "details_url": "https://psy.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Consumer & Advertising Psychology",
-        "details_url": "https://psy.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Cultural Social and Personality Psychology",
-        "details_url": "https://psy.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Psychological Data Science",
-        "details_url": "https://psy.korea.edu/"
-      },
-      {
-        "major": "Doctoral of AI & Biomedical Computation",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Autonomous Mobile Architecture",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of DB and Data Mining",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Information- Communication Convergence",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Intelligent Cyber-physical Systems",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Intelligent Computer System",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Internet of Things & Artificial Intelligence",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Network Management",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Security and Parallel Algorithm",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Software Engineering",
-        "details_url": "http://software.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Condensed Matter Physics",
-        "details_url": "http://aphy.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Display and Semiconductor",
-        "details_url": "http://aphy.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Energy Materials Chemistry",
-        "details_url": "http://newchem.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Inorganic Chemistry of Materials",
-        "details_url": "http://newchem.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Organic Chemistry of Materials",
-        "details_url": "http://newchem.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Physical Chemistry of Materials",
-        "details_url": "http://newchem.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Precise Analytical Chemistry",
-        "details_url": "http://newchem.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Computer Systems",
-        "details_url": "http://eie.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Electromagnetics and Microwave Engineering",
-        "details_url": "http://eie.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of ICT Convergence Technology",
-        "details_url": "http://eie.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Medical Electronic Engineering",
-        "details_url": "http://eie.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Semiconductor Engineering",
-        "details_url": "http://eie.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Signal Processing and Communications Engineering",
-        "details_url": "http://eie.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Environmental Engineering",
-        "details_url": "http://env.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Instrumentation and Sensor System",
-        "details_url": "http://emse.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Intelligent Mobility",
-        "details_url": "http://emse.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Mechatronics",
-        "details_url": "http://emse.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Biotechnology and Bioinformatics",
-        "details_url": "https://bio.korea.edu/"
-      },
-      {
-        "major": "Doctoral of Food and Biotechnology",
-        "details_url": "http://kfbt.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Accelerator Application",
-        "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/kuacc/index.do"
-      },
-      {
-        "major": "Doctoral of Accelerator Science",
-        "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/kuacc/index.do"
-      },
-      {
-        "major": "Doctoral of Cyber Security",
-        "details_url": "https://aisecu.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Environmental Policy",
-        "details_url": "http://env.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Environmental Technology",
-        "details_url": "http://env.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Clinical Pharmacy",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Industrial Pharmacy",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Life Science in Pharmacy",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Pharmacal Science",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Pharmaceutical Regulatory Science",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Social and Administrative Pharmacy",
-        "details_url": "http://pharm.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of EC System",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"
-      },
-      {
-        "major": "Doctoral of Internet Trade",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"
-      },
-      {
-        "major": "Doctoral of e-Business",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"
-      },
-      {
-        "major": "Doctoral of Accounting and Taxation",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Finance",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Global Business",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Information and Strategy",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Marketing",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Operations Management",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Organization Management",
-        "details_url": "http://ba.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Conformity Assessment",
-        "details_url": "http://stdexperts.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Standards Engineering",
-        "details_url": "http://stdexperts.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Social Policy",
-        "details_url": "http://socialwelfare.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Social Welfare",
-        "details_url": "http://socialwelfare.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of North Korean Studies",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/nknologyeng/"
-      },
-      {
-        "major": "Doctoral of Studies of Unification Policy",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/nknologyeng/"
-      },
-      {
-        "major": "Doctoral of Applied Macroeconometrics",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Applied Microeconometrics",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Broadcasting and Telecommunications Policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Fiscal Policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Governmental Statistics",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Industrial policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Macroeconomic policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Microeconomic policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Regional Economic Policy",
-        "details_url": "http://economics.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Big Data Science",
-        "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/bigdatascience/index.do"
-      },
-      {
-        "major": "Doctoral of National and Urban Policy",
-        "details_url": "http://gup.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Literary Writing",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/kacweng/"
-      },
-      {
-        "major": "Doctoral of Writing for the Stage & Screen",
-        "details_url": "http://sejongjwizard.korea.ac.kr/user/kacweng/"
-      },
-      {
-        "major": "Doctoral of Archaeology",
-        "details_url": "http://cuhc.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Art History",
-        "details_url": "http://cuhc.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Sport Business",
-        "details_url": "http://sfa.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Sport Science",
-        "details_url": "http://sfa.korea.ac.kr/"
-      },
-      {
-        "major": "Doctoral of Cultural Contents",
-        "details_url": "http://culc.korea.ac.kr/"
-      }
+      {"major": "Bachelor of Business Administration", "details_url": "http://biz.korea.ac.kr/"},
+      {"major": "Bachelor of Korean Language and Literature", "details_url": "http://lib001.korea.ac.kr/"},
+      {"major": "Bachelor of Philosophy", "details_url": "http://lib003.korea.ac.kr/"},
+      {"major": "Bachelor of Korean History", "details_url": "http://koreahistory.korea.ac.kr/"},
+      {"major": "Bachelor of History", "details_url": "http://kuhistory.korea.ac.kr/"},
+      {"major": "Bachelor of Sociology", "details_url": "http://socio.korea.ac.kr/"},
+      {"major": "Bachelor of English Language and Literature", "details_url": "http://english.korea.ac.kr/"},
+      {"major": "Bachelor of German Language and Literature", "details_url": "http://kugermanistik.korea.ac.kr/"},
+      {"major": "Bachelor of French Language and Literature", "details_url": "http://kufra.korea.ac.kr/"},
+      {"major": "Bachelor of Chinese Language and Literature", "details_url": "http://kuchinese.korea.ac.kr/"},
+      {"major": "Bachelor of Russian Language and Literature", "details_url": "http://kuruss.korea.ac.kr/"},
+      {"major": "Bachelor of Japanese Language and Literature", "details_url": "http://www.kujap.com/"},
+      {"major": "Bachelor of Spanish Language and Literature", "details_url": "https://spanish.korea.ac.kr/"},
+      {"major": "Bachelor of Linguistics", "details_url": "https://kling.korea.ac.kr/"},
+      {"major": "Bachelor of Life Sciences", "details_url": "https://ls.korea.ac.kr/"},
+      {"major": "Bachelor of Biotechnology", "details_url": "https://bio.korea.ac.kr/"},
+      {"major": "Bachelor of Food Bioscience and Technology", "details_url": "https://foodscience.korea.ac.kr/"},
+      {"major": "Bachelor of Environmental Science and Ecological Engineering", "details_url": "https://eco.korea.ac.kr/"},
+      {"major": "Bachelor of Food and Resource Economics", "details_url": "https://frecon.korea.ac.kr/"},
+      {"major": "Bachelor of Political Science and International Relations", "details_url": "https://politics.korea.ac.kr/"},
+      {"major": "Bachelor of Economics", "details_url": "https://econ2.korea.ac.kr/"},
+      {"major": "Bachelor of Statistics", "details_url": "https://stat.korea.ac.kr/"},
+      {"major": "Bachelor of Public Administration", "details_url": "https://kupa.korea.ac.kr/"},
+      {"major": "Bachelor of Mathematics", "details_url": "https://math.korea.ac.kr/"},
+      {"major": "Bachelor of Physics", "details_url": "https://physics.korea.ac.kr/"},
+      {"major": "Bachelor of Chemistry", "details_url": "https://chem.korea.ac.kr/"},
+      {"major": "Bachelor of Earth and Environmental Science", "details_url": "https://ees.korea.ac.kr/"},
+      {"major": "Bachelor of Chemical & Biological Engineering", "details_url": "https://cbe.korea.ac.kr/"},
+      {"major": "Bachelor of Materials Science & Engineering", "details_url": "https://mse.korea.ac.kr/"},
+      {"major": "Bachelor of Civil, Environmental, & Architectural Engineering", "details_url": "https://ace.korea.ac.kr/"},
+      {"major": "Bachelor of Architecture", "details_url": "https://archi.korea.ac.kr/"},
+      {"major": "Bachelor of Mechanical Engineering", "details_url": "https://me.korea.ac.kr/"},
+      {"major": "Bachelor of Industrial Management Engineering", "details_url": "https://ie.korea.ac.kr/"},
+      {"major": "Bachelor of Electrical Engineering", "details_url": "https://ee.korea.ac.kr/"},
+      {"major": "Bachelor of Integrative Energy Engineering", "details_url": "https://ienergy.korea.ac.kr/"},
+      {"major": "Bachelor of Medicine", "details_url": "https://medicine.korea.ac.kr/"},
+      {"major": "Bachelor of Education", "details_url": "https://edu.korea.ac.kr/"},
+      {"major": "Bachelor of Korean Language Education", "details_url": "https://koredu.korea.ac.kr/"},
+      {"major": "Bachelor of English Education", "details_url": "https://eled.korea.ac.kr/"},
+      {"major": "Bachelor of Geography Education", "details_url": "https://geoedu.korea.ac.kr/"},
+      {"major": "Bachelor of History Education", "details_url": "https://hisedu.korea.ac.kr/"},
+      {"major": "Bachelor of Home Economics Education", "details_url": "https://homedu.korea.ac.kr/"},
+      {"major": "Bachelor of Mathematics Education", "details_url": "https://mathedu.korea.ac.kr/"},
+      {"major": "Bachelor of Physical Education", "details_url": "https://phyedu.korea.ac.kr/"},
+      {"major": "Bachelor of Nursing", "details_url": "https://nursing.korea.ac.kr/"},
+      {"major": "Bachelor of Computer Science and Engineering", "details_url": "https://cs.korea.ac.kr/"},
+      {"major": "Bachelor of Data Science", "details_url": "https://datascience.korea.ac.kr/"},
+      {"major": "Bachelor of Art & Design", "details_url": "https://and.korea.ac.kr/"},
+      {"major": "Bachelor of International Studies", "details_url": "https://int.korea.ac.kr/"},
+      {"major": "Bachelor of Global Korean Studies", "details_url": "https://int.korea.ac.kr/"},
+      {"major": "Bachelor of Media & Communication", "details_url": "https://mediacom.korea.ac.kr/"},
+      {"major": "Bachelor of Global Entertainment", "details_url": "https://mediacom.korea.ac.kr/"},
+      {"major": "Bachelor of Biomedical Engineering", "details_url": "https://bmeng.korea.ac.kr/"},
+      {"major": "Bachelor of Biosystems & Biomedical Science", "details_url": "https://bsm.korea.ac.kr/"},
+      {"major": "Bachelor of Health Environmental Science", "details_url": "https://hes.korea.ac.kr/"},
+      {"major": "Bachelor of Health Policy & Management", "details_url": "https://hpm.korea.ac.kr/"},
+      {"major": "Bachelor of Smart Security", "details_url": "https://scs.korea.ac.kr/ime/info/smart.do"},
+      {"major": "Bachelor of Psychology", "details_url": "https://psy.korea.ac.kr/"},
+      {"major": "Master of Administrative Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of Civil Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of Civil Procedure", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of Commercial Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of Constitutional Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of Criminal Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of Intellectual Property Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of Interdisciplinary Jurisprudence", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of International Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of Labour Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of Philosophy of Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Master of Logistics Service & Operations Management", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Accounting", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Business Analytics", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Finance", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Global Business", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Information Systems", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Management", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Marketing", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Strategy", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Classical Korean Literature", "details_url": "https://lib001.korea.edu/lib001_en/index.do"},
+      {"major": "Master of Korean Language and Culture Education(As a Foreign Language)", "details_url": "https://lib001.korea.edu/lib001_en/index.do"},
+      {"major": "Master of Korean Linguistics", "details_url": "https://lib001.korea.edu/lib001_en/index.do"},
+      {"major": "Master of Korean Literature In Classical Chinese", "details_url": "https://lib001.korea.edu/lib001_en/index.do"},
+      {"major": "Master of Modern Korean Literature", "details_url": "https://lib001.korea.edu/lib001_en/index.do"},
+      {"major": "Master of American Literature", "details_url": "https://english.korea.edu/english_en/index.do"},
+      {"major": "Master of Classical English Literature", "details_url": "https://english.korea.edu/english_en/index.do"},
+      {"major": "Master of English Linguistics", "details_url": "https://english.korea.edu/english_en/index.do"},
+      {"major": "Master of Modern English Literature", "details_url": "https://english.korea.edu/english_en/index.do"},
+      {"major": "Master of German Area Studies", "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"},
+      {"major": "Master of German Linguistics", "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"},
+      {"major": "Master of German Literature", "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"},
+      {"major": "Master of French Linguistics", "details_url": "https://kufra.korea.edu/kufra_en/index.do"},
+      {"major": "Master of French Literature", "details_url": "https://kufra.korea.edu/kufra_en/index.do"},
+      {"major": "Master of Area and Comparative Cultural Studies of China & Japan", "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"},
+      {"major": "Master of Chinese Linguistics", "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"},
+      {"major": "Master of Chinese Literature", "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"},
+      {"major": "Master of Japanese Linguistics & Education", "details_url": "http://www.kujap.com/"},
+      {"major": "Master of Japanese Literature & Culture", "details_url": "http://www.kujap.com/"},
+      {"major": "Master of Russia-CIS Area Studies", "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"},
+      {"major": "Master of Russian Linguistics", "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"},
+      {"major": "Master of Russian Literature", "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"},
+      {"major": "Master of Iberian & Latin American Studies", "details_url": "https://spanish.korea.edu/spanish_en/index.do"},
+      {"major": "Master of Spanish Linguistics", "details_url": "https://spanish.korea.edu/spanish_en/index.do"},
+      {"major": "Master of Spanish Literature", "details_url": "https://spanish.korea.edu/spanish_en/index.do"},
+      {"major": "Master of Ancient Korean History", "details_url": "https://khistory.korea.ac.kr/khistory/index.do"},
+      {"major": "Master of Asian History", "details_url": "https://khistory.korea.ac.kr/khistory/index.do"},
+      {"major": "Master of Mediaeval Korean History", "details_url": "https://khistory.korea.ac.kr/khistory/index.do"},
+      {"major": "Master of Modern and Contemporary Korean History", "details_url": "https://khistory.korea.ac.kr/khistory/index.do"},
+      {"major": "Master of Western History", "details_url": "https://khistory.korea.ac.kr/khistory/index.do"},
+      {"major": "Master of Computational Linguistics", "details_url": "https://kling.korea.edu/kling_en/index.do"},
+      {"major": "Master of Practical Applied Linguistics", "details_url": "https://kling.korea.edu/kling_en/index.do"},
+      {"major": "Master of Semiotics", "details_url": "https://kling.korea.edu/kling_en/index.do"},
+      {"major": "Master of Theoretical Linguistics", "details_url": "https://kling.korea.edu/kling_en/index.do"},
+      {"major": "Master of Sociology", "details_url": "https://socio.korea.edu/socio_en/index.do"},
+      {"major": "Master of Theory of Comparative Literature & Comparative Culture", "details_url": "https://compare.korea.ac.kr/"},
+      {"major": "Master of Cultural Heritage Studies", "details_url": "https://kuchs.korea.ac.kr/kuchs/index.do"},
+      {"major": "Master of Visual Culture", "details_url": "https://visualculture.korea.ac.kr/visualculture/index.do"},
+      {"major": "Master of Classics Translation", "details_url": "https://kuclt.korea.ac.kr/kuclt/index.do"},
+      {"major": "Master of Labor Studies", "details_url": "https://kupls.korea.ac.kr/kulps/index.do"},
+      {"major": "Master of Global Korean Language and Culture Studies", "details_url": "https://gklc.korea.ac.kr/kuklc/index.do"},
+      {"major": "Master of Hunanities and East Asian Cultural Industry", "details_url": "https://heaci.korea.ac.kr/hci/index.do"},
+      {"major": "Master of Food and Health Economics", "details_url": "https://frecon.korea.edu/frecon_en/index.do"},
+      {"major": "Master of Applied Economics", "details_url": "https://frecon.korea.edu/frecon_en/index.do"},
+      {"major": "Master of Environmental Science and Ecological Engineering", "details_url": "https://eco.korea.ac.kr/?ckattempt=1"},
+      {"major": "Master of Biomedicine & Nanobio Systems", "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"},
+      {"major": "Master of Chemical and Molecular Biology", "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"},
+      {"major": "Master of Molecular Bioengineering", "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"},
+      {"major": "Master of Systems Food Biotechnology", "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"},
+      {"major": "Master of Biochemistry", "details_url": "https://ls.korea.edu/ls_en/index.do"},
+      {"major": "Master of CellBiology", "details_url": "https://ls.korea.edu/ls_en/index.do"},
+      {"major": "Master of Molecular Biology", "details_url": "https://ls.korea.edu/ls_en/index.do"},
+      {"major": "Master of Molecular Medical Science", "details_url": "https://ls.korea.edu/ls_en/index.do"},
+      {"major": "Master of Plant Genetic Biotechnology", "details_url": "https://plant.korea.ac.kr/biosys/index.do"},
+      {"major": "Master of Plant Pathology and Physiology", "details_url": "https://plant.korea.ac.kr/biosys/index.do"},
+      {"major": "Master of Political Science and International Relations", "details_url": "https://politics.korea.edu/kupolitics_en/index.do"},
+      {"major": "Master of Policy Analysis", "details_url": "https://kupa.korea.edu/kupaeng/index.do"},
+      {"major": "Master of Public Administration", "details_url": "https://kupa.korea.edu/kupaeng/index.do"},
+      {"major": "Master of Economics", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Master of Applied Data Analytics", "details_url": "https://stat.korea.edu/stat_en/index.do"},
+      {"major": "Master of Mathematical Statistics", "details_url": "https://stat.korea.edu/stat_en/index.do"},
+      {"major": "Master of Statistical Data Science", "details_url": "https://stat.korea.edu/stat_en/index.do"},
+      {"major": "Master of Communication and Journalism on Science and Technology", "details_url": "https://sts.korea.ac.kr/sts/index.do"},
+      {"major": "Master of History and Philosophy of Science and Technology", "details_url": "https://sts.korea.ac.kr/sts/index.do"},
+      {"major": "Master of Policy and Management of Science and Technology", "details_url": "https://sts.korea.ac.kr/sts/index.do"},
+      {"major": "Master of Sociology of Science and Technology", "details_url": "https://sts.korea.ac.kr/sts/index.do"},
+      {"major": "Master of Algebra and Number Theory", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Master of Analysis", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Master of Applied Mathematics", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Master of Geometry", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Master of Mathematical Data Science", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Master of Probability", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Master of Topology", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Master of Condensed Matter Physics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Master of Elementary Particle(High-Energy) Physics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Master of Nonlinear Dynamics & Biophysics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Master of Nuclear Physics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Master of Quantum Information Physics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Master of Quantum Optics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Master of Statistical Physics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Master of Analytical Chemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Master of Biochemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Master of Inorganic Chemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Master of Organic Chemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Master of Physical Chemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Master of Polymer Chemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Master of Atmospheric Environment", "details_url": "https://ees.korea.edu/ees_en/index.do"},
+      {"major": "Master of Environmental Geology", "details_url": "https://ees.korea.edu/ees_en/index.do"},
+      {"major": "Master of Geology", "details_url": "https://ees.korea.edu/ees_en/index.do"},
+      {"major": "Master of Geophysics", "details_url": "https://ees.korea.edu/ees_en/index.do"},
+      {"major": "Master of Actuarial Science", "details_url": "https://actfe.korea.ac.kr/act/index.do"},
+      {"major": "Master of Financial Engineering", "details_url": "https://actfe.korea.ac.kr/act/index.do"},
+      {"major": "Master of Chemical and Biological Engineering", "details_url": "https://cbe.korea.ac.kr/"},
+      {"major": "Master of Built Environment", "details_url": "https://ace.korea.ac.kr/eng/"},
+      {"major": "Master of Energy Systems", "details_url": "https://ace.korea.ac.kr/eng/"},
+      {"major": "Master of Seismic Resilience", "details_url": "https://ace.korea.ac.kr/eng/"},
+      {"major": "Master of Smart Construction & Mobility", "details_url": "https://ace.korea.ac.kr/eng/"},
+      {"major": "Master of Water & Ecosystems", "details_url": "https://ace.korea.ac.kr/eng/"},
+      {"major": "Master of Urban Planning & Urban Design", "details_url": "https://archi.korea.ac.kr/arch/index.do"},
+      {"major": "Master of Architectual Planning", "details_url": "https://archi.korea.ac.kr/arch/index.do"},
+      {"major": "Master of Mechanical Engineering", "details_url": "https://me.korea.edu/me_en/index.do"},
+      {"major": "Master of Advanced Materials Science and Engineering", "details_url": "https://mse.korea.edu/mse_en/index.do"},
+      {"major": "Master of Industrial Artificial Intelligence", "details_url": "https://ie.korea.ac.kr/ie/index.do"},
+      {"major": "Master of Industrial Management Engineering", "details_url": "https://ie.korea.ac.kr/ie/index.do"},
+      {"major": "Master of Control，Robotics and Systems", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Communication and Networks", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Computer Engineering", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Electrical Energy", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Integrated Circuits", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Semiconductor and Nano Systems", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Signal Processing and Multimedia", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Master of Smart City", "details_url": "http://ucr.korea.ac.kr/"},
+      {"major": "Master of Urban Regeneration and Management", "details_url": "http://ucr.korea.ac.kr/"},
+      {"major": "Master of Nanoscale Semiconductor Circuit Design", "details_url": "http://nanosemi.korea.ac.kr/"},
+      {"major": "Master of Nanoscale Semiconductor Materials and Device", "details_url": "http://nanosemi.korea.ac.kr/"},
+      {"major": "Master of System and Software", "details_url": "http://nanosemi.korea.ac.kr/"},
+      {"major": "Master of Electronic Control", "details_url": "https://hyundai.korea.ac.kr/"},
+      {"major": "Master of Smart Convergence", "details_url": "http://lgsc.korea.ac.kr/"},
+      {"major": "Master of Smart City", "details_url": "https://kusc.korea.edu/kusc_en/index.do"},
+      {"major": "Master of Anatomy", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Anesthesiology & Pain Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Biochemistry", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Chest Surgery", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Clinical Biomedical Engineering", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Dentistry", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Dermatology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Emergency Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Family Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Forensic Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Fusion Translational Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Integrative Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Internal Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Laboratory Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Medical Education", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Medical Humanities", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Microbiology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Neuro Surgery", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Neurology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Nuclear Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Obstetrics and Gynecology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Ophthalmology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Orthopedic Surgery", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Otolaryngology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Parasitology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Pathology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Pediatrics", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Pharmacology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Physiology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Plastic Surgery", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Master of Biomedical Engineering", "details_url": "https://medicine.korea.ac.kr/web/www/-102"},
+      {"major": "Master of Biomedical Science", "details_url": "https://medicine.korea.ac.kr/web/www/-102"},
+      {"major": "Master of Medical Bio Convergence", "details_url": "https://medicine.korea.ac.kr/web/www/-102"},
+      {"major": "Master of Biomedical Informatics", "details_url": "https://medicine.korea.ac.kr/web/www/-101"},
+      {"major": "Master of Community Health and Social Epidemiology)", "details_url": "https://phealth.korea.ac.kr/phealth/index.do"},
+      {"major": "Master of Environmental and Occupational Health", "details_url": "https://phealth.korea.ac.kr/phealth/index.do"},
+      {"major": "Master of Epidemiology and Medical Informatics", "details_url": "https://phealth.korea.ac.kr/phealth/index.do"},
+      {"major": "Master of Global Health", "details_url": "https://phealth.korea.ac.kr/phealth/index.do"},
+      {"major": "Master of Health Policy and Hospital Management", "details_url": "https://phealth.korea.ac.kr/phealth/index.do"},
+      {"major": "Master of Biostatistics", "details_url": "https://biostat.korea.ac.kr/"},
+      {"major": "Master of Healthcare and Medicine for Unified Korea", "details_url": "https://unmedi.korea.ac.kr/"},
+      {"major": "Master of Human Geography", "details_url": "https://geoedu.korea.edu/geoedu_en/index.do"},
+      {"major": "Master of Physical Geography", "details_url": "https://geoedu.korea.edu/geoedu_en/index.do"},
+      {"major": "Master of Counseling", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Master of Curriculum Studies", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Master of Educational Administration & Higher Education", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Master of Educational Measurement and Statistics", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Master of Educational Psychology", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Master of Educational Technology and Learning Sciences", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Master of History and Philosophy of Education", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Master of Human Resource Development & Adult Continuing Education", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Master of Sociology of Education", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Master of Special Education", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Master of History Education", "details_url": "https://hisedu.korea.edu/hisedu_en/index.do"},
+      {"major": "Master of Mathematics Education", "details_url": "https://mathedu.korea.edu/mathedu_en/index.do"},
+      {"major": "Master of Korean Language Education", "details_url": "https://koredu.korea.edu/koredu_eng/index.do"},
+      {"major": "Master of English Education", "details_url": "https://eled.korea.edu/eled_en/index.do"},
+      {"major": "Master of Child Studies", "details_url": "https://homedu.korea.edu/homedu_en/index.do"},
+      {"major": "Master of Consumer Science", "details_url": "https://homedu.korea.edu/homedu_en/index.do"},
+      {"major": "Master of Fashion Design & Merchandising", "details_url": "https://homedu.korea.edu/homedu_en/index.do"},
+      {"major": "Master of Food Science and Nutrition", "details_url": "https://homedu.korea.edu/homedu_en/index.do"},
+      {"major": "Master of Home Economics Education", "details_url": "https://homedu.korea.edu/homedu_en/index.do"},
+      {"major": "Master of Physical Education", "details_url": "https://phyedu.korea.ac.kr/"},
+      {"major": "Master of Clinical", "details_url": "https://nursingeng.korea.ac.kr/nursing_en/index.do"},
+      {"major": "Master of Gerontological", "details_url": "https://nursingeng.korea.ac.kr/nursing_en/index.do"},
+      {"major": "Master of Nursing Science", "details_url": "https://nursingeng.korea.ac.kr/nursing_en/index.do"},
+      {"major": "Master of Brain and Cognitive Engineering", "details_url": "https://bce.korea.edu/bce_en/index.do"},
+      {"major": "Master of Artificial Intelligence", "details_url": "http://xai.korea.ac.kr/?language=eng"},
+      {"major": "Master of Artificial Intelligence Applications", "details_url": "https://cs.korea.edu/en_cs/index.do"},
+      {"major": "Master of Computer Education", "details_url": "https://cs.korea.edu/en_cs/index.do"},
+      {"major": "Master of Computer Security", "details_url": "https://cs.korea.edu/en_cs/index.do"},
+      {"major": "Master of Radio Communications Engineering", "details_url": "https://cs.korea.edu/en_cs/index.do"},
+      {"major": "Master of Software", "details_url": "https://cs.korea.edu/en_cs/index.do"},
+      {"major": "Master of Art & Culture", "details_url": "https://and.korea.edu/kuand_en/index.do"},
+      {"major": "Master of Industrial Design", "details_url": "https://and.korea.edu/kuand_en/index.do"},
+      {"major": "Master of Creative Convergence Design", "details_url": "https://and.korea.edu/kuand_en/index.do"},
+      {"major": "Master of Media and Communication", "details_url": "https://mediacom.korea.edu/mediacom_en/index.do"},
+      {"major": "Master of Biomedical and Food Sciences", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Master of Dental Laboratory Science and Engineering", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Master of Environmental Health Sciences", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Master of Epidemiology & Risk Management", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Master of Health Policy & Management", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Master of Rehabilitation Sciences", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Master of Biofood and Medical Science", "details_url": "https://chs.korea.ac.kr/chs/grad/lifefusion_1.do"},
+      {"major": "Master of Biomedical Science", "details_url": "https://bsm.korea.ac.kr/bsm/index.do"},
+      {"major": "Master of Bioengineering", "details_url": "https://bmeng.korea.edu/bmeng_en/index.do"},
+      {"major": "Master of Clinical Laboratory Science", "details_url": "https://hes.korea.ac.kr/"},
+      {"major": "Master of Environmental Health and Safety", "details_url": "https://hes.korea.ac.kr/"},
+      {"major": "Master of Particulate matter Management", "details_url": "https://hes.korea.ac.kr/"},
+      {"major": "Master of Radiomedical Science", "details_url": "https://hes.korea.ac.kr/"},
+      {"major": "Master of Economics and Policy", "details_url": "Economics and Policy"},
+      {"major": "Master of Major in Digital Health Statistics", "details_url": "Economics and Policy"},
+      {"major": "Master of Major in Health Law", "details_url": "Economics and Policy"},
+      {"major": "Master of Major in Healthcare Industry", "details_url": "Economics and Policy"},
+      {"major": "Master of Cyber Defence", "details_url": "https://gss.korea.edu/"},
+      {"major": "Master of Digital Forensic", "details_url": "https://gss.korea.edu/"},
+      {"major": "Master of Financial Security", "details_url": "https://gss.korea.edu/"},
+      {"major": "Master of Information Security Policy", "details_url": "https://gss.korea.edu/"},
+      {"major": "Master of Information Security Theory", "details_url": "https://gss.korea.edu/"},
+      {"major": "Master of Major in Copyright Digital Forensics", "details_url": "https://gss.korea.edu/"},
+      {"major": "Master of Network Security", "details_url": "https://gss.korea.edu/"},
+      {"major": "Master of Security of Physical System", "details_url": "https://gss.korea.edu/"},
+      {"major": "Master of Software Security", "details_url": "https://gss.korea.edu/"},
+      {"major": "Master of Behavioral and Cognitive Neuroscience", "details_url": "https://psy.korea.edu/"},
+      {"major": "Master of Clinical and Counseling Psychology", "details_url": "https://psy.korea.edu/"},
+      {"major": "Master of Consumer & Advertising Psychology", "details_url": "https://psy.korea.edu/"},
+      {"major": "Master of Cultural Social and Personality Psychology", "details_url": "https://psy.korea.edu/"},
+      {"major": "Master of Psychological Data Science", "details_url": "https://psy.korea.edu/"},
+      {"major": "Master of Computer Science", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Master of Condensed Matter Physics", "details_url": "http://aphy.korea.ac.kr/"},
+      {"major": "Master of Display and Semiconductor", "details_url": "http://aphy.korea.ac.kr/"},
+      {"major": "Master of Energy Materials Chemistry", "details_url": "http://newchem.korea.ac.kr/"},
+      {"major": "Master of Inorganic Chemistry of Materials", "details_url": "http://newchem.korea.ac.kr/"},
+      {"major": "Master of Organic Chemistry of Materials", "details_url": "http://newchem.korea.ac.kr/"},
+      {"major": "Master of Physical Chemistry of Materials", "details_url": "http://newchem.korea.ac.kr/"},
+      {"major": "Master of Precise Analytical Chemistry", "details_url": "http://newchem.korea.ac.kr/"},
+      {"major": "Master of Electronics and Information Engineering", "details_url": "http://eie.korea.ac.kr/"},
+      {"major": "Master of ICT Convergence Technology", "details_url": "http://eie.korea.ac.kr/"},
+      {"major": "Master of Environmental Engineering", "details_url": "http://env.korea.ac.kr/"},
+      {"major": "Master of Instrumentation and Sensor System", "details_url": "http://emse.korea.ac.kr/"},
+      {"major": "Master of Intelligent Mobility", "details_url": "http://emse.korea.ac.kr/"},
+      {"major": "Master of Mechatronics", "details_url": "http://emse.korea.ac.kr/"},
+      {"major": "Master of Biotechnology and Bioinformatics", "details_url": "https://bio.korea.edu/"},
+      {"major": "Master of Food and Biotechnology", "details_url": "http://kfbt.korea.ac.kr/"},
+      {"major": "Master of Accelerator Application", "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/kuacc/index.do"},
+      {"major": "Master of Accelerator Science", "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/kuacc/index.do"},
+      {"major": "Master of Cyber Security", "details_url": "https://aisecu.korea.ac.kr/"},
+      {"major": "Master of Environmental Policy", "details_url": "http://env.korea.ac.kr/"},
+      {"major": "Master of Environmental Technology", "details_url": "http://env.korea.ac.kr/"},
+      {"major": "Master of Major in Functional Food Science", "details_url": "http://kffs.korea.ac.kr/"},
+      {"major": "Master of Clinical Pharmacy", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Master of Industrial Pharmacy", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Master of Life Science in Pharmacy", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Master of Pharmacal Science", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Master of Pharmaceutical Regulatory Science", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Master of Social and Administrative Pharmacy", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Master of EC System", "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"},
+      {"major": "Master of Internet Trade", "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"},
+      {"major": "Master of e-Business", "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"},
+      {"major": "Master of Accounting and Taxation", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Master of Finance", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Master of Global Business", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Master of Information and Strategy", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Master of Marketing", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Master of Operations Management", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Master of Organization Management", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Master of Conformity Assessment", "details_url": "http://stdexperts.korea.ac.kr/"},
+      {"major": "Master of Standards Engineering", "details_url": "http://stdexperts.korea.ac.kr/"},
+      {"major": "Master of Social Policy", "details_url": "http://socialwelfare.korea.ac.kr/"},
+      {"major": "Master of Social Welfare", "details_url": "http://socialwelfare.korea.ac.kr/"},
+      {"major": "Master of North Korean Studies", "details_url": "http://sejongjwizard.korea.ac.kr/user/nknologyeng/"},
+      {"major": "Master of Studies of Unification Policy", "details_url": "http://sejongjwizard.korea.ac.kr/user/nknologyeng/"},
+      {"major": "Master of Applied Macroeconometrics", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Master of Applied Microeconometrics", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Master of Broadcasting and Telecommunications Policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Master of Fiscal Policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Master of Governmental Statistics", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Master of Industrial policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Master of Macroeconomic policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Master of Microeconomic policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Master of Regional Economic Policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Master of Big Data Science", "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/bigdatascience/index.do"},
+      {"major": "Master of National and Urban Policy", "details_url": "http://gup.korea.ac.kr/"},
+      {"major": "Master of Literary Writing", "details_url": "http://sejongjwizard.korea.ac.kr/user/kacweng/"},
+      {"major": "Master of Writing for the Stage & Screen", "details_url": "http://sejongjwizard.korea.ac.kr/user/kacweng/"},
+      {"major": "Master of Archaeology", "details_url": "http://cuhc.korea.ac.kr/"},
+      {"major": "Master of Art History", "details_url": "http://cuhc.korea.ac.kr/"},
+      {"major": "Master of Sport Business", "details_url": "http://sfa.korea.ac.kr/"},
+      {"major": "Master of Sport Science", "details_url": "http://sfa.korea.ac.kr/"},
+      {"major": "Master of Cultural Contents", "details_url": "http://culc.korea.ac.kr/"},
+      {"major": "Doctoral of Administrative Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of Civil Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of Civil Procedure", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of Commercial Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of Constitutional Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of Criminal Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of Intellectual Property Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of Interdisciplinary Jurisprudence", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of International Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of Labour Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of Philosophy of Law", "details_url": "https://kulawschooleng.korea.ac.kr/kulawschooleng/index.do"},
+      {"major": "Doctoral of Logistics Service & Operations Management", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Accounting", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Finance", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Global Business", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Information Systems", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Management", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Marketing", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Strategy", "details_url": "https://biz.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Classical Korean Literature", "details_url": "https://lib001.korea.edu/lib001_en/index.do"},
+      {"major": "Doctoral of Korean Language and Culture Education(As a Foreign Language)", "details_url": "https://lib001.korea.edu/lib001_en/index.do"},
+      {"major": "Doctoral of Korean Linguistics", "details_url": "https://lib001.korea.edu/lib001_en/index.do"},
+      {"major": "Doctoral of Korean Literature In Classical Chinese", "details_url": "https://lib001.korea.edu/lib001_en/index.do"},
+      {"major": "Doctoral of Modern Korean Literature", "details_url": "https://lib001.korea.edu/lib001_en/index.do"},
+      {"major": "Doctoral of American Literature", "details_url": "https://english.korea.edu/english_en/index.do"},
+      {"major": "Doctoral of Classical English Literature", "details_url": "https://english.korea.edu/english_en/index.do"},
+      {"major": "Doctoral of English Linguistics", "details_url": "https://english.korea.edu/english_en/index.do"},
+      {"major": "Doctoral of Modern English Literature", "details_url": "https://english.korea.edu/english_en/index.do"},
+      {"major": "Doctoral of German Area Studies", "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"},
+      {"major": "Doctoral of German Linguistics", "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"},
+      {"major": "Doctoral of German Literature", "details_url": "https://kugermanistik.korea.edu/kugermanistik_en/index.do"},
+      {"major": "Doctoral of French Linguistics", "details_url": "https://kufra.korea.edu/kufra_en/index.do"},
+      {"major": "Doctoral of French Literature", "details_url": "https://kufra.korea.edu/kufra_en/index.do"},
+      {"major": "Doctoral of Area and Comparative Cultural Studies of China & Japan", "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"},
+      {"major": "Doctoral of Chinese Linguistics", "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"},
+      {"major": "Doctoral of Chinese Literature", "details_url": "https://kuchinese.korea.edu/kuchinese_en/index.do"},
+      {"major": "Doctoral of Japanese Linguistics & Education", "details_url": "http://www.kujap.com/"},
+      {"major": "Doctoral of Japanese Literature & Culture", "details_url": "http://www.kujap.com/"},
+      {"major": "Doctoral of Russia-CIS Area Studies", "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"},
+      {"major": "Doctoral of Russian Linguistics", "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"},
+      {"major": "Doctoral of Russian Literature", "details_url": "https://kuruss.korea.edu/kuruss_en/index.do"},
+      {"major": "Doctoral of Iberian & Latin American Studies", "details_url": "https://spanish.korea.edu/spanish_en/index.do"},
+      {"major": "Doctoral of Spanish Linguistics", "details_url": "https://spanish.korea.edu/spanish_en/index.do"},
+      {"major": "Doctoral of Spanish Literature", "details_url": "https://spanish.korea.edu/spanish_en/index.do"},
+      {"major": "Doctoral of Ancient Korean History", "details_url": "https://khistory.korea.ac.kr/khistory/index.do"},
+      {"major": "Doctoral of Asian History", "details_url": "https://khistory.korea.ac.kr/khistory/index.do"},
+      {"major": "Doctoral of Mediaeval Korean History", "details_url": "https://khistory.korea.ac.kr/khistory/index.do"},
+      {"major": "Doctoral of Modern and Contemporary Korean History", "details_url": "https://khistory.korea.ac.kr/khistory/index.do"},
+      {"major": "Doctoral of Western History", "details_url": "https://khistory.korea.ac.kr/khistory/index.do"},
+      {"major": "Doctoral of Computational Linguistics", "details_url": "https://kling.korea.edu/kling_en/index.do"},
+      {"major": "Doctoral of Practical Applied Linguistics", "details_url": "https://kling.korea.edu/kling_en/index.do"},
+      {"major": "Doctoral of Semiotics", "details_url": "https://kling.korea.edu/kling_en/index.do"},
+      {"major": "Doctoral of Theoretical Linguistics", "details_url": "https://kling.korea.edu/kling_en/index.do"},
+      {"major": "Doctoral of Sociology", "details_url": "https://socio.korea.edu/socio_en/index.do"},
+      {"major": "Doctoral of Theory of Comparative Literature & Comparative Culture", "details_url": "https://compare.korea.ac.kr/"},
+      {"major": "Doctoral of Cultural Heritage Studies", "details_url": "https://kuchs.korea.ac.kr/kuchs/index.do"},
+      {"major": "Doctoral of Visual Culture", "details_url": "Visual Culture"},
+      {"major": "Doctoral of Classics Translation", "details_url": "https://kuclt.korea.ac.kr/kuclt/index.do"},
+      {"major": "Doctoral of Labor Studies", "details_url": "https://kupls.korea.ac.kr/kulps/index.do"},
+      {"major": "Doctoral of Global Korean Language and Culture Studies", "details_url": "https://gklc.korea.ac.kr/kuklc/index.do"},
+      {"major": "Doctoral of Hunanities and East Asian Cultural Industry", "details_url": "https://heaci.korea.ac.kr/hci/index.do"},
+      {"major": "Doctoral of Food and Health Economics", "details_url": "https://frecon.korea.edu/frecon_en/index.do"},
+      {"major": "Doctoral of Applied Economics", "details_url": "https://frecon.korea.edu/frecon_en/index.do"},
+      {"major": "Doctoral of Environmental Science and Ecological Engineering", "details_url": "https://eco.korea.ac.kr/"},
+      {"major": "Doctoral of Biomedicine & Nanobio Systems", "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"},
+      {"major": "Doctoral of Chemical and Molecular Biology", "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"},
+      {"major": "Doctoral of Molecular Bioengineering", "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"},
+      {"major": "Doctoral of Systems Food Biotechnology", "details_url": "https://biograduate.korea.ac.kr/biograd/index.do"},
+      {"major": "Doctoral of Biochemistry", "details_url": "https://ls.korea.edu/ls_en/index.do"},
+      {"major": "Doctoral of CellBiology", "details_url": "https://ls.korea.edu/ls_en/index.do"},
+      {"major": "Doctoral of Molecular Biology", "details_url": "https://ls.korea.edu/ls_en/index.do"},
+      {"major": "Doctoral of Molecular Medical Science", "details_url": "https://ls.korea.edu/ls_en/index.do"},
+      {"major": "Doctoral of Plant Genetic Biotechnology", "details_url": "https://plant.korea.ac.kr/biosys/index.do"},
+      {"major": "Doctoral of Plant Pathology and Physiology", "details_url": "https://plant.korea.ac.kr/biosys/index.do"},
+      {"major": "Doctoral of Political Science and International Relations", "details_url": "https://politics.korea.edu/kupolitics_en/index.do"},
+      {"major": "Doctoral of Policy Analysis", "details_url": "https://kupa.korea.edu/kupaeng/index.do"},
+      {"major": "Doctoral of Public Administration", "details_url": "https://kupa.korea.edu/kupaeng/index.do"},
+      {"major": "Doctoral of Development Economics", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Econometrics", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Economic History", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Economic Theory", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Environmental & Regional Economics", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Health Economics", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Industrial Organization", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of International Economics", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Labor Economics", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Macroeconomics", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Monetary Economics", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Political Economy", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Public Finance", "details_url": "http://econ.korea.ac.kr/econ/?page_id=57180&lang=en"},
+      {"major": "Doctoral of Mathematical Statistics", "details_url": "https://stat.korea.edu/stat_en/index.do"},
+      {"major": "Doctoral of Statistical Data Science", "details_url": "https://stat.korea.edu/stat_en/index.do"},
+      {"major": "Doctoral of Communication and Journalism on Science and Technology", "details_url": "https://sts.korea.ac.kr/sts/index.do"},
+      {"major": "Doctoral of History and Philosophy of Science and Technology", "details_url": "https://sts.korea.ac.kr/sts/index.do"},
+      {"major": "Doctoral of Policy and Management of Science and Technology", "details_url": "https://sts.korea.ac.kr/sts/index.do"},
+      {"major": "Doctoral of Sociology of Science and Technology", "details_url": "https://sts.korea.ac.kr/sts/index.do"},
+      {"major": "Doctoral of Algebra and Number Theory", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Doctoral of Analysis", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Doctoral of Applied Mathematics", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Doctoral of Geometry", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Doctoral of Probability", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Doctoral of Topology", "details_url": "https://math.korea.edu/math_en/index.do"},
+      {"major": "Doctoral of Condensed Matter Physics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Doctoral of Elementary Particle(High-Energy) Physics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Doctoral of Nonlinear Dynamics & Biophysics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Doctoral of Nuclear Physics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Doctoral of Quantum Information Physics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Doctoral of Quantum Optics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Doctoral of Statistical Physics", "details_url": "https://physics.korea.edu/phys_en/index.do"},
+      {"major": "Doctoral of Analytical Chemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Doctoral of Biochemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Doctoral of Inorganic Chemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Doctoral of Organic Chemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Doctoral of Physical Chemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Doctoral of Polymer Chemistry", "details_url": "http://chem.korea.edu/"},
+      {"major": "Doctoral of Atmospheric Environment", "details_url": "https://ees.korea.edu/ees_en/index.do"},
+      {"major": "Doctoral of Environmental Geology", "details_url": "https://ees.korea.edu/ees_en/index.do"},
+      {"major": "Doctoral of Geology", "details_url": "https://ees.korea.edu/ees_en/index.do"},
+      {"major": "Doctoral of Geophysics", "details_url": "https://ees.korea.edu/ees_en/index.do"},
+      {"major": "Doctoral of Chemical and Biological Engineering", "details_url": "https://cbe.korea.ac.kr/"},
+      {"major": "Doctoral of Built Environment", "details_url": "https://ace.korea.ac.kr/eng/"},
+      {"major": "Doctoral of Energy Systems", "details_url": "https://ace.korea.ac.kr/eng/"},
+      {"major": "Doctoral of Seismic Resilience", "details_url": "https://ace.korea.ac.kr/eng/"},
+      {"major": "Doctoral of Smart Construction & Mobility", "details_url": "https://ace.korea.ac.kr/eng/"},
+      {"major": "Doctoral of Water & Ecosystems", "details_url": "https://ace.korea.ac.kr/eng/"},
+      {"major": "Doctoral of Urban Planning & Urban Design", "details_url": "https://archi.korea.ac.kr/arch/index.do"},
+      {"major": "Doctoral of Architectual Planning", "details_url": "https://archi.korea.ac.kr/arch/index.do"},
+      {"major": "Doctoral of Mechanical Engineering", "details_url": "https://me.korea.edu/me_en/index.do"},
+      {"major": "Doctoral of Advanced Materials Science and Engineering", "details_url": "https://mse.korea.edu/mse_en/index.do"},
+      {"major": "Doctoral of Industrial Artificial Intelligence", "details_url": "https://ie.korea.ac.kr/ie/index.do"},
+      {"major": "Doctoral of Industrial Management Engineering", "details_url": "https://ie.korea.ac.kr/ie/index.do"},
+      {"major": "Doctoral of Control，Robotics and Systems", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Communication and Networks", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Computer Engineering", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Electrical Energy", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Integrated Circuits", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Semiconductor and Nano Systems", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Signal Processing and Multimedia", "details_url": "https://ee.korea.ac.kr/eng/main/main.html"},
+      {"major": "Doctoral of Smart City", "details_url": "http://ucr.korea.ac.kr/"},
+      {"major": "Doctoral of Urban Regeneration and Management", "details_url": "http://ucr.korea.ac.kr/"},
+      {"major": "Doctoral of Nanoscale Semiconductor Circuit Design", "details_url": "http://nanosemi.korea.ac.kr/"},
+      {"major": "Doctoral of Nanoscale Semiconductor Materials and Device", "details_url": "http://nanosemi.korea.ac.kr/"},
+      {"major": "Doctoral of System and Software", "details_url": "http://nanosemi.korea.ac.kr/"},
+      {"major": "Doctoral of Smart Convergence", "details_url": "http://lgsc.korea.ac.kr/"},
+      {"major": "Doctoral of Smart City", "details_url": "https://kusc.korea.edu/kusc_en/index.do"},
+      {"major": "Doctoral of Anatomy", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Anesthesiology & Pain Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Biochemistry", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Chest Surgery", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Clinical Biomedical Engineering", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Dentistry", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Dermatology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Emergency Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Family Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Forensic Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Fusion Translational Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Integrative Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Internal Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Laboratory Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Medical Education", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Medical Humanities", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Microbiology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Neuro Surgery", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Neurology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Nuclear Medicine", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Obstetrics and Gynecology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Ophthalmology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Orthopedic Surgery", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Otolaryngology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Parasitology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Pathology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Pediatrics", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Pharmacology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Physiology", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Plastic Surgery", "details_url": "https://medicine.korea.ac.kr/en/index.do"},
+      {"major": "Doctoral of Biomedical Engineering", "details_url": "https://medicine.korea.ac.kr/web/www/-102"},
+      {"major": "Doctoral of Biomedical Science", "details_url": "https://medicine.korea.ac.kr/web/www/-102"},
+      {"major": "Doctoral of Medical Bio Convergence", "details_url": "https://medicine.korea.ac.kr/web/www/-102"},
+      {"major": "Doctoral of Biomedical Informatics", "details_url": "https://medicine.korea.ac.kr/web/www/-101"},
+      {"major": "Doctoral of Community Health and Social Epidemiology)", "details_url": "https://phealth.korea.ac.kr/phealth/index.do"},
+      {"major": "Doctoral of Environmental and Occupational Health", "details_url": "https://phealth.korea.ac.kr/phealth/index.do"},
+      {"major": "Doctoral of Epidemiology and Medical Informatics", "details_url": "https://phealth.korea.ac.kr/phealth/index.do"},
+      {"major": "Doctoral of Global Health", "details_url": "https://phealth.korea.ac.kr/phealth/index.do"},
+      {"major": "Doctoral of Health Policy and Hospital Management", "details_url": "https://phealth.korea.ac.kr/phealth/index.do"},
+      {"major": "Doctoral of Biostatistics", "details_url": "https://biostat.korea.ac.kr/"},
+      {"major": "Doctoral of Human Geography", "details_url": "https://geoedu.korea.edu/geoedu_en/index.do"},
+      {"major": "Doctoral of Physical Geography", "details_url": "https://geoedu.korea.edu/geoedu_en/index.do"},
+      {"major": "Doctoral of Counseling", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Doctoral of Curriculum Studies", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Doctoral of Educational Administration & Higher Education", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Doctoral of Educational Measurement and Statistics", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Doctoral of Educational Psychology", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Doctoral of Educational Technology and Learning Sciences", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Doctoral of History and Philosophy of Education", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Doctoral of Human Resource Development & Adult Continuing Education", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Doctoral of Sociology of Education", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Doctoral of Special Education", "details_url": "https://edu.korea.edu/edu_en/index.do"},
+      {"major": "Doctoral of History Education", "details_url": "https://hisedu.korea.edu/hisedu_en/index.do"},
+      {"major": "Doctoral of Mathematics Education", "details_url": "https://mathedu.korea.edu/mathedu_en/index.do"},
+      {"major": "Doctoral of Korean Language Education", "details_url": "https://koredu.korea.edu/koredu_eng/index.do"},
+      {"major": "Doctoral of English Education", "details_url": "https://eled.korea.edu/eled_en/index.do"},
+      {"major": "Doctoral of Child Studies", "details_url": "https://homedu.korea.edu/homedu_en/index.do"},
+      {"major": "Doctoral of Consumer Science", "details_url": "https://homedu.korea.edu/homedu_en/index.do"},
+      {"major": "Doctoral of Fashion Design & Merchandising", "details_url": "https://homedu.korea.edu/homedu_en/index.do"},
+      {"major": "Doctoral of Food Science and Nutrition", "details_url": "https://homedu.korea.edu/homedu_en/index.do"},
+      {"major": "Doctoral of Home Economics Education", "details_url": "https://homedu.korea.edu/homedu_en/index.do"},
+      {"major": "Doctoral of Physical Education", "details_url": "https://phyedu.korea.ac.kr/"},
+      {"major": "Doctoral of Nursing Science", "details_url": "https://nursingeng.korea.ac.kr/nursing_en/index.do"},
+      {"major": "Doctoral of Brain and Cognitive Engineering", "details_url": "https://bce.korea.edu/bce_en/index.do"},
+      {"major": "Doctoral of Artificial Intelligence", "details_url": "http://xai.korea.ac.kr/?language=eng"},
+      {"major": "Doctoral of Artificial Intelligence Applications", "details_url": "https://cs.korea.edu/en_cs/index.do"},
+      {"major": "Doctoral of Computer Education", "details_url": "https://cs.korea.edu/en_cs/index.do"},
+      {"major": "Doctoral of Computer Security", "details_url": "https://cs.korea.edu/en_cs/index.do"},
+      {"major": "Doctoral of Radio Communications Engineering", "details_url": "https://cs.korea.edu/en_cs/index.do"},
+      {"major": "Doctoral of Software", "details_url": "https://cs.korea.edu/en_cs/index.do"},
+      {"major": "Doctoral of Creative Convergence Design", "details_url": "https://and.korea.edu/kuand_en/index.do"},
+      {"major": "Doctoral of Media and Communication", "details_url": "https://mediacom.korea.edu/mediacom_en/index.do"},
+      {"major": "Doctoral of Biomedical and Food Sciences", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Doctoral of Dental Laboratory Science and Engineering", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Doctoral of Environmental Health Sciences", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Doctoral of Epidemiology & Risk Management", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Doctoral of Health Policy & Management", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Doctoral of Rehabilitation Sciences", "details_url": "https://hpm.korea.edu/"},
+      {"major": "Doctoral of Biofood and Medical Science", "details_url": "https://chs.korea.ac.kr/chs/grad/lifefusion_1.do"},
+      {"major": "Doctoral of Biomedical Science", "details_url": "https://bsm.korea.ac.kr/bsm/index.do"},
+      {"major": "Doctoral of Bioengineering", "details_url": "https://bmeng.korea.edu/bmeng_en/index.do"},
+      {"major": "Doctoral of Clinical Laboratory Science", "details_url": "https://hes.korea.ac.kr/"},
+      {"major": "Doctoral of Environmental Health and Safety", "details_url": "https://hes.korea.ac.kr/"},
+      {"major": "Doctoral of Particulate matter Management", "details_url": "https://hes.korea.ac.kr/"},
+      {"major": "Doctoral of Radiomedical Science", "details_url": "https://hes.korea.ac.kr/"},
+      {"major": "Doctoral of Economics and Policy", "details_url": "Economics and Policy"},
+      {"major": "Doctoral of Major in Digital Health Statistics", "details_url": "Economics and Policy"},
+      {"major": "Doctoral of Major in Health Law", "details_url": "Economics and Policy"},
+      {"major": "Doctoral of Major in Healthcare Industry", "details_url": "Economics and Policy"},
+      {"major": "Doctoral of Cyber Defence", "details_url": "https://gss.korea.edu/"},
+      {"major": "Doctoral of Digital Forensic", "details_url": "https://gss.korea.edu/"},
+      {"major": "Doctoral of Financial Security", "details_url": "https://gss.korea.edu/"},
+      {"major": "Doctoral of Information Security Policy", "details_url": "https://gss.korea.edu/"},
+      {"major": "Doctoral of Information Security Theory", "details_url": "https://gss.korea.edu/"},
+      {"major": "Doctoral of Network Security", "details_url": "https://gss.korea.edu/"},
+      {"major": "Doctoral of Security of Physical System", "details_url": "https://gss.korea.edu/"},
+      {"major": "Doctoral of Software Security", "details_url": "https://gss.korea.edu/"},
+      {"major": "Doctoral of Behavioral and Cognitive Neuroscience", "details_url": "https://psy.korea.edu/"},
+      {"major": "Doctoral of Clinical and Counseling Psychology", "details_url": "https://psy.korea.edu/"},
+      {"major": "Doctoral of Consumer & Advertising Psychology", "details_url": "https://psy.korea.edu/"},
+      {"major": "Doctoral of Cultural Social and Personality Psychology", "details_url": "https://psy.korea.edu/"},
+      {"major": "Doctoral of Psychological Data Science", "details_url": "https://psy.korea.edu/"},
+      {"major": "Doctoral of AI & Biomedical Computation", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Doctoral of Autonomous Mobile Architecture", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Doctoral of DB and Data Mining", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Doctoral of Information- Communication Convergence", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Doctoral of Intelligent Cyber-physical Systems", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Doctoral of Intelligent Computer System", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Doctoral of Internet of Things & Artificial Intelligence", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Doctoral of Network Management", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Doctoral of Security and Parallel Algorithm", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Doctoral of Software Engineering", "details_url": "http://software.korea.ac.kr/"},
+      {"major": "Doctoral of Condensed Matter Physics", "details_url": "http://aphy.korea.ac.kr/"},
+      {"major": "Doctoral of Display and Semiconductor", "details_url": "http://aphy.korea.ac.kr/"},
+      {"major": "Doctoral of Energy Materials Chemistry", "details_url": "http://newchem.korea.ac.kr/"},
+      {"major": "Doctoral of Inorganic Chemistry of Materials", "details_url": "http://newchem.korea.ac.kr/"},
+      {"major": "Doctoral of Organic Chemistry of Materials", "details_url": "http://newchem.korea.ac.kr/"},
+      {"major": "Doctoral of Physical Chemistry of Materials", "details_url": "http://newchem.korea.ac.kr/"},
+      {"major": "Doctoral of Precise Analytical Chemistry", "details_url": "http://newchem.korea.ac.kr/"},
+      {"major": "Doctoral of Computer Systems", "details_url": "http://eie.korea.ac.kr/"},
+      {"major": "Doctoral of Electromagnetics and Microwave Engineering", "details_url": "http://eie.korea.ac.kr/"},
+      {"major": "Doctoral of ICT Convergence Technology", "details_url": "http://eie.korea.ac.kr/"},
+      {"major": "Doctoral of Medical Electronic Engineering", "details_url": "http://eie.korea.ac.kr/"},
+      {"major": "Doctoral of Semiconductor Engineering", "details_url": "http://eie.korea.ac.kr/"},
+      {"major": "Doctoral of Signal Processing and Communications Engineering", "details_url": "http://eie.korea.ac.kr/"},
+      {"major": "Doctoral of Environmental Engineering", "details_url": "http://env.korea.ac.kr/"},
+      {"major": "Doctoral of Instrumentation and Sensor System", "details_url": "http://emse.korea.ac.kr/"},
+      {"major": "Doctoral of Intelligent Mobility", "details_url": "http://emse.korea.ac.kr/"},
+      {"major": "Doctoral of Mechatronics", "details_url": "http://emse.korea.ac.kr/"},
+      {"major": "Doctoral of Biotechnology and Bioinformatics", "details_url": "https://bio.korea.edu/"},
+      {"major": "Doctoral of Food and Biotechnology", "details_url": "http://kfbt.korea.ac.kr/"},
+      {"major": "Doctoral of Accelerator Application", "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/kuacc/index.do"},
+      {"major": "Doctoral of Accelerator Science", "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/kuacc/index.do"},
+      {"major": "Doctoral of Cyber Security", "details_url": "https://aisecu.korea.ac.kr/"},
+      {"major": "Doctoral of Environmental Policy", "details_url": "http://env.korea.ac.kr/"},
+      {"major": "Doctoral of Environmental Technology", "details_url": "http://env.korea.ac.kr/"},
+      {"major": "Doctoral of Clinical Pharmacy", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Doctoral of Industrial Pharmacy", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Doctoral of Life Science in Pharmacy", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Doctoral of Pharmacal Science", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Doctoral of Pharmaceutical Regulatory Science", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Doctoral of Social and Administrative Pharmacy", "details_url": "http://pharm.korea.ac.kr/"},
+      {"major": "Doctoral of EC System", "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"},
+      {"major": "Doctoral of Internet Trade", "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"},
+      {"major": "Doctoral of e-Business", "details_url": "http://sejongjwizard.korea.ac.kr/user/ddmeng/"},
+      {"major": "Doctoral of Accounting and Taxation", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Doctoral of Finance", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Doctoral of Global Business", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Doctoral of Information and Strategy", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Doctoral of Marketing", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Doctoral of Operations Management", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Doctoral of Organization Management", "details_url": "http://ba.korea.ac.kr/"},
+      {"major": "Doctoral of Conformity Assessment", "details_url": "http://stdexperts.korea.ac.kr/"},
+      {"major": "Doctoral of Standards Engineering", "details_url": "http://stdexperts.korea.ac.kr/"},
+      {"major": "Doctoral of Social Policy", "details_url": "http://socialwelfare.korea.ac.kr/"},
+      {"major": "Doctoral of Social Welfare", "details_url": "http://socialwelfare.korea.ac.kr/"},
+      {"major": "Doctoral of North Korean Studies", "details_url": "http://sejongjwizard.korea.ac.kr/user/nknologyeng/"},
+      {"major": "Doctoral of Studies of Unification Policy", "details_url": "http://sejongjwizard.korea.ac.kr/user/nknologyeng/"},
+      {"major": "Doctoral of Applied Macroeconometrics", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Doctoral of Applied Microeconometrics", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Doctoral of Broadcasting and Telecommunications Policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Doctoral of Fiscal Policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Doctoral of Governmental Statistics", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Doctoral of Industrial policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Doctoral of Macroeconomic policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Doctoral of Microeconomic policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Doctoral of Regional Economic Policy", "details_url": "http://economics.korea.ac.kr/"},
+      {"major": "Doctoral of Big Data Science", "details_url": "https://sejong.korea.ac.kr/mbshome/mbs/bigdatascience/index.do"},
+      {"major": "Doctoral of National and Urban Policy", "details_url": "http://gup.korea.ac.kr/"},
+      {"major": "Doctoral of Literary Writing", "details_url": "http://sejongjwizard.korea.ac.kr/user/kacweng/"},
+      {"major": "Doctoral of Writing for the Stage & Screen", "details_url": "http://sejongjwizard.korea.ac.kr/user/kacweng/"},
+      {"major": "Doctoral of Archaeology", "details_url": "http://cuhc.korea.ac.kr/"},
+      {"major": "Doctoral of Art History", "details_url": "http://cuhc.korea.ac.kr/"},
+      {"major": "Doctoral of Sport Business", "details_url": "http://sfa.korea.ac.kr/"},
+      {"major": "Doctoral of Sport Science", "details_url": "http://sfa.korea.ac.kr/"},
+      {"major": "Doctoral of Cultural Contents", "details_url": "http://culc.korea.ac.kr/"}
     ]
   }
 ]
