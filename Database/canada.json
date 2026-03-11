@@ -4,2234 +4,563 @@
     "country": "Canada",
     "logo": "http://tiny.cc/SS-torontologo",
     "programs": [
-      {
-        "major": "Bachelor of Commerce in Accounting",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Rotman-Commerce"
-      },
-      {
-        "major": "Bachelor of ScienceS in Actuarial Science (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Actuarial-Science"
-      },
-      {
-        "major": "Bachelor of Arts in African Studies",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/African-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in African Studies(Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/African-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Aging and Society (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Health-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in American Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/American-Studies"
-      },
-      {
-        "major": "Bachelor of Science in Animal Physiolog (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Cell-and-Systems-Biology"
-      },
-      {
-        "major": "Bachelor of Arts in Anthropology (Honours) ",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/anthropology"
-      },
-      {
-        "major": "Bachelor of Science in Anthropology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Anthropology"
-      },
-      {
-        "major": "Bachelor of Arts in Anthropology: Society, Culture and LanguageSpecialist (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Anthropology"
-      },
-      {
-        "major": "Bachelor of Science in Applied Climatology (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Environmental-Science"
-      },
-      {
-        "major": "Bachelor of Science in Applied Data Science (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Data-Science"
-      },
-      {
-        "major": "Bachelor of Science in Applied Mathematics (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Mathematical-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Applied Mathematics, Experiential Learning (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Science in Applied Statistics (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Statistics"
-      },
-      {
-        "major": "Bachelor of Arts in Archaeology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Archaeology"
-      },
-      {
-        "major": "Bachelor of Arts in Architectural Studies (Honours)",
-        "details_url": "https://daniels.calendar.utoronto.ca/section/Architectural-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Art and Art History (joint program with Sheridan College) (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Art"
-      },
-      {
-        "major": "Bachelor of Arts in Art History (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Art-History"
-      },
-      {
-        "major": "Bachelor of Arts in Art History and Visual Culture (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Art-History-and-Visual-Culture"
-      },
-      {
-        "major": "Bachelor of Arts in Arts and Media Management (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Arts-Management"
-      },
-      {
-        "major": "Bachelor of Arts in Arts Management (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Arts-Management"
-      },
-      {
-        "major": "Bachelor of Arts in Asian Canadian Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/University-College"
-      },
-      {
-        "major": "Bachelor of Science in Astronomical Sciences (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Astronomy"
-      },
-      {
-        "major": "Bachelor of Science in Astronomy (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Astronomy"
-      },
-      {
-        "major": "Bachelor of Science in Astronomy and Astrophysics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Astronomy-and-Astrophysics"
-      },
-      {
-        "major": "Bachelor of Science in Astronomy and Physics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Astronomy-and-Astrophysics"
-      },
-      {
-        "major": "Bachelor of Science in Biochemistry (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Chemistry"
-      },
-      {
-        "major": "Bachelor of Science in Biodiversity and Conservation Biology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Ecology-and-Evolutionary-Biology"
-      },
-      {
-        "major": "Bachelor of Arts in Bioethics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Philosophy"
-      },
-      {
-        "major": "Bachelor of Science in Bioinformatics and Computational Biology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Cell-and-Systems-Biology"
-      },
-      {
-        "major": "Bachelor of Science in Biological Chemistry (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Chemistry"
-      },
-      {
-        "major": "Bachelor of Science in Biological Physics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Physics"
-      },
-      {
-        "major": "Bachelor of Science in Biology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Biology"
-      },
-      {
-        "major": "Bachelor of Science in Biology for Health Sciences (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Biology"
-      },
-      {
-        "major": "Bachelor of Science in Biomedical Communications (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Biomedical-Communications"
-      },
-      {
-        "major": "Bachelor of Arts in Biomedical Ethics (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Philosophy"
-      },
-      {
-        "major": "Bachelor of Science in Biomedical Toxicology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Pharmacology-and-Toxicology"
-      },
-      {
-        "major": "Bachelor of Science in Biophysics (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Physics"
-      },
-      {
-        "major": "Bachelor of Science in Biotechnology (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Biology"
-      },
-      {
-        "major": "Bachelor of Arts in Book and Media Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/St.-Michael's-College"
-      },
-      {
-        "major": "Bachelor of Arts in Buddhism, Psychology and Mental Health (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/New-College"
-      },
-      {
-        "major": "Bachelor of Arts in Buddhist Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Religion"
-      },
-      {
-        "major": "Bachelor of Arts in Business German (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/German"
-      },
-      {
-        "major": "Bachelor of Science in Business, Science and Entrepreneurship (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Business,-Science-and-Entrepreneurship"
-      },
-      {
-        "major": "Bachelor of Arts in Canadian Studies (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Canadian-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Caribbean Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Centre-for-Caribbean-Studies"
-      },
-      {
-        "major": "Bachelor of Science in Cell and Molecular Biology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Cell-and-Systems-Biology"
-      },
-      {
-        "major": "Bachelor of Arts in Celtic Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/St.-Michael's-College"
-      },
-      {
-        "major": "Bachelor of Applied Science in Chemical Engineering",
-        "details_url": "https://engineering.calendar.utoronto.ca/section/Chemical-Engineering-and-Applied-Chemistry"
-      },
-      {
-        "major": "Bachelor of Science in Chemical Physics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Chemistry"
-      },
-      {
-        "major": "Bachelor of Science in Chemistry (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Chemistry"
-      },
-      {
-        "major": "Bachelor of Arts in Chinese Language and Culture (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Chinese"
-      },
-      {
-        "major": "Bachelor of Arts in Christianity and Culture (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/St.-Michael's-College"
-      },
-      {
-        "major": "Bachelor of Arts in Christianity and Education (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/St.-Michael's-College"
-      },
-      {
-        "major": "Bachelor of Arts in Cinema Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Cinema-Studies-Institute"
-      },
-      {
-        "major": "Bachelor of Arts in City Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/City-Studies"
-      },
-      {
-        "major": "Bachelor of Applied Science in Civil Engineering",
-        "details_url": "https://engineering.calendar.utoronto.ca/section/Civil-Engineering"
-      },
-      {
-        "major": "Bachelor of Arts in Classical Civilization (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Classics"
-      },
-      {
-        "major": "Bachelor of Arts in Classical Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Classical-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Classics (Greek and Latin) (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Classics"
-      },
-      {
-        "major": "Bachelor of Arts in Cognitive Science (Arts) (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/University-College"
-      },
-      {
-        "major": "Bachelor of Science in Cognitive Science (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/University-College"
-      },
-      {
-        "major": "Bachelor of Arts in Commerce (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Commerce"
-      },
-      {
-        "major": "Bachelor of Commerce in Commerce",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Commerce"
-      },
-      {
-        "major": "Bachelor of Arts in Communication, Culture, Information and Technology (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Communication,-Culture,-Information-and-Technology"
-      },
-      {
-        "major": "Bachelor of Science in Comparative Physiology (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Biology"
-      },
-      {
-        "major": "Bachelor of Applied Science in Computer Engineering",
-        "details_url": "https://engineering.calendar.utoronto.ca/section/Electrical-and-Computer-Engineering"
-      },
-      {
-        "major": "Bachelor of Science in Computer Science (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Computer-Science"
-      },
-      {
-        "major": "Bachelor of Science in Computer Science: Comprehensive Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Computer-Science"
-      },
-      {
-        "major": "Bachelor of Science in Computer Science: Entrepreneurship Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Computer-Science"
-      },
-      {
-        "major": "Bachelor of Science in Computer Science: Information Systems Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Computer-Science"
-      },
-      {
-        "major": "Bachelor of Science in Computer Science: Software Engineering Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Computer-Science"
-      },
-      {
-        "major": "Bachelor of Science in Conservation and Biodiversity (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Biological-Sciences"
-      },
-      {
-        "major": "Bachelor of Arts in Contemporary Asian Studies (Dr. David Chu Program in) (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Contemporary-Asian-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Creative Writing (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/English"
-      },
-      {
-        "major": "Bachelor of Arts in Creativity and Society (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Victoria-College"
-      },
-      {
-        "major": "Bachelor of Arts in Criminology and Sociolegal Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Criminology-and-Sociolegal-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Criminology, Law and Society in (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Criminology,-Law-and-Society"
-      },
-      {
-        "major": "Bachelor of Arts in Critical Migration Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Sociology"
-      },
-      {
-        "major": "Bachelor of Arts in Critical Studies in Equity and Solidarity (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/New-College"
-      },
-      {
-        "major": "Bachelor of Arts in Culture, Creativity and Cities (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Sociology"
-      },
-      {
-        "major": "Bachelor of Science in Data Science (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Data-Science"
-      },
-      {
-        "major": "Bachelor of Arts in Diaspora and Transnational Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Diaspora-and-Transnational-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Diaspora and Transnational (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Diaspora-and-Transnational-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Digital Enterprise Management (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Communication,-Culture,-Information-and-Technology"
-      },
-      {
-        "major": "Bachelor of Arts in Digital Humanities (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Woodsworth-College"
-      },
-      {
-        "major": "Bachelor of Arts in Drama (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Drama,-Theatre-and-Performance-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Dramaturgy and Drama Studies (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Theatre,-Drama-and-Performance-Studies"
-      },
-      {
-        "major": "Bachelor of Science in Earth and Environmental Systems (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Earth-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Earth Science (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Earth-Science"
-      },
-      {
-        "major": "Bachelor of Arts in East Asian Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/East-Asian-Studies"
-      },
-      {
-        "major": "Bachelor of Science in Ecology and Evolution (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Biology"
-      },
-      {
-        "major": "Bachelor of Science in Ecology and Evolutionary Biology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Ecology-and-Evolutionary-Biology"
-      },
-      {
-        "major": "Bachelor of Arts in Economics (Arts) (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Economics"
-      },
-      {
-        "major": "Bachelor of Commerce in Economics (Commerce)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Economics"
-      },
-      {
-        "major": "Bachelor of Science in Economics and Mathematics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Economics"
-      },
-      {
-        "major": "Honours Bachelor in Economics and Political Science",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Economics"
-      },
-      {
-        "major": "Bachelor of Arts in Economics for Management Studies (Arts) (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Business Administration in Economics for Management Studies (Business)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Arts in Education and Society (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Victoria-College"
-      },
-      {
-        "major": "Bachelor of Arts in Education Studies (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Education-Studies"
-      },
-      {
-        "major": "Bachelor of Applied Science in Electrical Engineering",
-        "details_url": "https://engineering.calendar.utoronto.ca/section/Electrical-and-Computer-Engineering"
-      },
-      {
-        "major": "Bachelor of Applied Science in Engineering Science",
-        "details_url": "https://engineering.calendar.utoronto.ca/section/Engineering-Science"
-      },
-      {
-        "major": "Bachelor of Arts in English (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/English"
-      },
-      {
-        "major": "Bachelor of Arts in English and Chinese Translation (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Languages"
-      },
-      {
-        "major": "Bachelor of Arts in English Language Linguistics (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Linguistics"
-      },
-      {
-        "major": "Bachelor of Science in Environment and Behaviour (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"
-      },
-      {
-        "major": "Bachelor of Science in Environment and Energy (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"
-      },
-      {
-        "major": "Bachelor of Science in Environment and Health (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"
-      },
-      {
-        "major": "Bachelor of Science in Environment and Toxicology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"
-      },
-      {
-        "major": "Bachelor of Arts in Environmental Anthropology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Anthropology"
-      },
-      {
-        "major": "Bachelor of Science in Environmental Biology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Ecology-and-Evolutionary-Biology"
-      },
-      {
-        "major": "Bachelor of Science in Environmental Chemistry (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Chemistry"
-      },
-      {
-        "major": "Bachelor of Arts in Environmental Economics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"
-      },
-      {
-        "major": "Bachelor of Arts in Environmental Ethics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"
-      },
-      {
-        "major": "Bachelor of Arts in Environmental Geography (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"
-      },
-      {
-        "major": "Bachelor of Science in Environmental Geoscience (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Environmental-Science"
-      },
-      {
-        "major": "Bachelor of Science in Environmental Geosciences (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Environmental-Geosciences"
-      },
-      {
-        "major": "Bachelor of Arts in Environmental Law and Policy (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Environmental-Management"
-      },
-      {
-        "major": "Bachelor of Arts in Environmental Management (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Environmental-Management"
-      },
-      {
-        "major": "Bachelor of Science in Environmental Physics (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Physics-and-Astrophysics"
-      },
-      {
-        "major": "Bachelor of Science in Environmental Science (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"
-      },
-      {
-        "major": "Bachelor of Arts in Environmental Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Environmental-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Ethics, Law and Society (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Philosophy"
-      },
-      {
-        "major": "Bachelor of Arts in Ethics, Society and Law (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Trinity-College"
-      },
-      {
-        "major": "Bachelor of Arts in European Affairs (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/European-Affairs"
-      },
-      {
-        "major": "Bachelor of Science in Evolutionary Anthropology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Anthropology"
-      },
-      {
-        "major": "Bachelor of Science in Exceptionality in Human Learning (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Exceptionality-in-Human-Learning"
-      },
-      {
-        "major": "Bachelor of Arts in Film Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/English"
-      },
-      {
-        "major": "Commerce in Finance",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Economics"
-      },
-      {
-        "major": "Commerce in Finance and Economics",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Rotman-Commerce"
-      },
-      {
-        "major": "Bachelor of Science in Financial Economics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Economics"
-      },
-      {
-        "major": "Bachelor of Arts in Food Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Food-Studies"
-      },
-      {
-        "major": "Bachelor of Science in Forensic Anthropology (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Forensic-Science"
-      },
-      {
-        "major": "Bachelor of Science in Forensic Biology (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Forensic-Science"
-      },
-      {
-        "major": "Bachelor of Science in Forensic Chemistry (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Forensic-Science"
-      },
-      {
-        "major": "Bachelor of Science inForensic Psychology (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Forensic-Science"
-      },
-      {
-        "major": "Bachelor of Science in Forensic Science (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Forensic-Science"
-      },
-      {
-        "major": "Bachelor of Arts in Forest Conservation (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Forest-Conservation-and-Forest-Biomaterials-Science"
-      },
-      {
-        "major": "Bachelor of Science in Forest Conservation Science (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Forest-Conservation-and-Forest-Biomaterials-Science"
-      },
-      {
-        "major": "Bachelor of Arts in French (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/French"
-      },
-      {
-        "major": "Bachelor of Arts inFrench Language (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/French"
-      },
-      {
-        "major": "Bachelor of Arts in French Language and French Linguistics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/French"
-      },
-      {
-        "major": "Bachelor of Arts in French Language and Literature (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/French"
-      },
-      {
-        "major": "Bachelor of Arts in French Language Learning (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/French"
-      },
-      {
-        "major": "Bachelor of Arts in French Studies (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/French"
-      },
-      {
-        "major": "Bachelor of Arts in Functional French (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/French"
-      },
-      {
-        "major": "Bachelor of Science in Fundamental Genetics and its Applications (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Human-Biology"
-      },
-      {
-        "major": "Bachelor of Arts in Game Studies (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/English"
-      },
-      {
-        "major": "Bachelor of Science in Genome Biology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Biology"
-      },
-      {
-        "major": "Bachelor of Arts in Geographic Information Science (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Geography"
-      },
-      {
-        "major": "Bachelor of Science in Geographical Information Systems (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Geographical-Information-Systems"
-      },
-      {
-        "major": "Bachelor of Arts in Geography (Arts) (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Geography"
-      },
-      {
-        "major": "Bachelor of Science in Geography (Science) (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Geography"
-      },
-      {
-        "major": "Bachelor of Science in Geology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Earth-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Geophysics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Earth-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Geoscience (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Earth-Sciences"
-      },
-      {
-        "major": "Bachelor of Arts in German Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/German"
-      },
-      {
-        "major": "Bachelor of Arts in German Studies in English (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/German"
-      },
-      {
-        "major": "Bachelor of Arts in Global Asia Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Global-Asia-Studies"
-      },
-      {
-        "major": "Bachelor of Science in Global Environmental Change (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Environmental-Science"
-      },
-      {
-        "major": "Bachelor of Science in Global Health (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Human-Biology"
-      },
-      {
-        "major": "Bachelor of Business Administration in Global Leadership",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Global-Leadership"
-      },
-      {
-        "major": "Bachelor of Arts in Global Leadership (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Language-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Greek (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Classics"
-      },
-      {
-        "major": "Bachelor of Science in Health and Disease (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Human-Biology"
-      },
-      {
-        "major": "Bachelor of Arts in Health Humanities (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Health-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Health Studies: Health Policy (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Health-Studies"
-      },
-      {
-        "major": "Bachelor of Science in Health Studies: Population Health (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Health-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in History (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/history"
-      },
-      {
-        "major": "Bachelor of Arts in History and Philosophy of Science and Technology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/History-and-Philosophy-of-Science-and-Technology"
-      },
-      {
-        "major": "Bachelor of Arts in History and Political Science (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/History"
-      },
-      {
-        "major": "Bachelor of Arts in History of Religions (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/History-of-Religions"
-      },
-      {
-        "major": "Bachelor of Science in Human Biology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Human-Biology"
-      },
-      {
-        "major": "Bachelor of Arts in Human Geography (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Geography-and-Planning"
-      },
-      {
-        "major": "Business Administration in Human Resource Management",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Science in Immunology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Immunology"
-      },
-      {
-        "major": "Bachelor of Arts in Indigenous Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Indigenous-Studies"
-      },
-      {
-        "major": "Bachelor of Applied Science in Industrial Engineering",
-        "details_url": "https://engineering.calendar.utoronto.ca/section/Industrial-Engineering"
-      },
-      {
-        "major": "Bachelor of Arts in Industrial Relations and Human Resources (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Industrial-Relations-and-Human-Resources"
-      },
-      {
-        "major": "Bachelor of Information in Information Professional Program",
-        "details_url": "https://ischool.utoronto.ca/bachelor-of-information/"
-      },
-      {
-        "major": "Bachelor of Science in Information Security (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Computer-Science"
-      },
-      {
-        "major": "Bachelor of Science in Integrative Biology (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Biological-Sciences"
-      },
-      {
-        "major": "Bachelor of Music in Interdisciplinary Music Studies: Classical or Jazz",
-        "details_url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music"
-      },
-      {
-        "major": "Bachelor of Arts in International Affairs (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/International-Affairs"
-      },
-      {
-        "major": "Bachelor of Arts in International Development Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/international-development-studies"
-      },
-      {
-        "major": "Bachelor of Science in International Development Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/international-development-studies"
-      },
-      {
-        "major": "Bachelor of Arts in International Relations (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Trinity-College"
-      },
-      {
-        "major": "Bachelor of Arts in Islamic Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Religion"
-      },
-      {
-        "major": "Bachelor of Arts in Italian (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Italian"
-      },
-      {
-        "major": "Bachelor of Arts in Italian Culture and Communication Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Italian"
-      },
-      {
-        "major": "Bachelor of Arts in Italian Language and Culture (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Italian"
-      },
-      {
-        "major": "Bachelor of Arts in Jewish Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Centre-for-Jewish-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Journalism (joint program with Centennial College) (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Journalism"
-      },
-      {
-        "major": "Bachelor of Kinesiology in Kinesiology and Physical Education",
-        "details_url": "https://kpe.utoronto.ca/academics-researchfuture-students/bachelor-kinesiology-bkin"
-      },
-      {
-        "major": "Bachelor of Arts in Language Teaching and Learning: French (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/french"
-      },
-      {
-        "major": "Bachelor of Arts in Language Teaching and Learning: French and Italian (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/french"
-      },
-      {
-        "major": "Bachelor of Arts in Language Teaching and Learning: Italian (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Italian"
-      },
-      {
-        "major": "Bachelor of Arts in Latin (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Classics"
-      },
-      {
-        "major": "Bachelor of Arts in Latin American and Caribbean Studies (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Latin-American-and-Caribbean-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Latin American Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Latin-American-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Linguistic Studies (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Linguistics"
-      },
-      {
-        "major": "Bachelor of Arts in Linguistics (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/linguistics"
-      },
-      {
-        "major": "Bachelor of Arts in Literature and Critical Theory (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Victoria-College"
-      },
-      {
-        "major": "Bachelor of Arts in Management (Arts) (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Business Administration in Management (Business)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Commerce in Management (Commerce)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Rotman-Commerce"
-      },
-      {
-        "major": "Bachelor of Business Administration in Management and Accounting",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Business Administration in Management and Finance",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Business Administration + Honours Bachelor of Science in Management and Finance + Statistics: Quantitative Finance Stream",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Double-Degree-Programs"
-      },
-      {
-        "major": "Bachelor of Business Administration in Management and Human Resources",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Business Administration in Management and Information Technology",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Business Administration in Management and International Business",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Business Administration in Management and Marketing",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Commerce in Marketing",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Commerce"
-      },
-      {
-        "major": "Bachelor of Arts in Material Culture and Semiotics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Victoria-College"
-      },
-      {
-        "major": "Bachelor of Applied Science in Materials Engineering",
-        "details_url": "https://engineering.calendar.utoronto.ca/section/Materials-Science-and-Engineering"
-      },
-      {
-        "major": "Bachelor of Science in Materials Science (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Materials-Science"
-      },
-      {
-        "major": "Bachelor of Science in Mathematical Applications in Economics and Finance (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Science in Mathematical Sciences (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Mathematical-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Mathematics (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Science in Mathematics and its Applications: Physical Science (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Science in Mathematics and its Applications: Probability/Statistics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Science in Mathematics and its Applications: Teaching (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Science in Mathematics and Philosophy (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Science in Mathematics and Physics (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Science in Mathematics: Comprehensive Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Science in Mathematics: Statistics Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Science in Mathematics: Teaching Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Mathematics"
-      },
-      {
-        "major": "Bachelor of Applied Science in Mechanical Engineering",
-        "details_url": "https://engineering.calendar.utoronto.ca/section/Mechanical-Engineering"
-      },
-      {
-        "major": "Bachelor of Arts in Media and Communication Studies: Journalism Studies Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Media-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Media and Communication Studies: Media Studies Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Media-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Media Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Media-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Medical Anthropology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Anthropology"
-      },
-      {
-        "major": "Bachelor of Science in Medical Radiation Science",
-        "details_url": "https://radonc.utoronto.ca/bachelor-science-medical-radiation-sciences"
-      },
-      {
-        "major": "Bachelor of Science in Medicinal and Biological ChemistrySpecialist (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/chemistry"
-      },
-      {
-        "major": "Bachelor of Science in Mental Health Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Psychology"
-      },
-      {
-        "major": "Bachelor of Applied Science in Mineral Engineering",
-        "details_url": "https://engineering.calendar.utoronto.ca/section/Mineral-Engineering"
-      },
-      {
-        "major": "Bachelor of Science Molecular Biology (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Biology"
-      },
-      {
-        "major": "Bachelor of Science in Molecular Biology and Biotechnology (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Biological-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Molecular Biology, Immunology and Disease (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Biological-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Molecular Genetics and Microbiology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Molecular-Genetics-and-Microbiology"
-      },
-      {
-        "major": "Bachelor of Arts in Music (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Music"
-      },
-      {
-        "major": "Bachelor of Arts in Music and Culture (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Music-and-Culture"
-      },
-      {
-        "major": "Bachelor of Music in Music Education: Classical or Jazz",
-        "details_url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music"
-      },
-      {
-        "major": "Bachelor of Arts in Music History and Culture (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Music"
-      },
-      {
-        "major": "Bachelor of Arts in Music Industry and Technology (joint program with Centennial College) (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Music-Industry-and-Technology"
-      },
-      {
-        "major": "Bachelor of Music in Performance in Music Performance: Classical or Jazz",
-        "details_url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance"
-      },
-      {
-        "major": "Bachelor of Arts in Music with Ensemble Option (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Music"
-      },
-      {
-        "major": "Bachelor of Music in Music: Composition",
-        "details_url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music"
-      },
-      {
-        "major": "Bachelor of Music in Music: History, Culture and Theory",
-        "details_url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music"
-      },
-      {
-        "major": "Bachelor of Science in Natural Sciences and Environmental Management (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Environmental-Science"
-      },
-      {
-        "major": "Bachelor of Arts in Near and Middle Eastern Civilizations (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Near-and-Middle-Eastern-Civilizations"
-      },
-      {
-        "major": "Bachelor of Science in Neuroscience (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Neuroscience"
-      },
-      {
-        "major": "Bachelor of Science in Nursing",
-        "details_url": "https://bloomberg.nursing.utoronto.ca/learn-with-us/bachelor-of-science-in-nursing/"
-      },
-      {
-        "major": "Bachelor of Science in Nutritional Sciences (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Nutritional-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Paleontology (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Biology"
-      },
-      {
-        "major": "Bachelor of Science in Paramedicine (joint program with Centennial College) (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Paramedicine"
-      },
-      {
-        "major": "Bachelor of Science in Pathobiology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Laboratory-Medicine-and-Pathobiology"
-      },
-      {
-        "major": "Bachelor of Arts in Peace, Conflict and Justice (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Peace,-Conflict-and-Justice"
-      },
-      {
-        "major": "Bachelor of Science in Pharmaceutical Chemistry (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Chemistry"
-      },
-      {
-        "major": "Bachelor of Science in Pharmacology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Pharmacology-and-Toxicology"
-      },
-      {
-        "major": "Bachelor of Science in Pharmacology and Biomedical Toxicology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Pharmacology-and-Toxicology"
-      },
-      {
-        "major": "Bachelor of Arts in Philosophy (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Philosophy"
-      },
-      {
-        "major": "Bachelor of Arts in Philosophy of Science (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Philosophy"
-      },
-      {
-        "major": "Bachelor of Science in Physical and Environmental Geography (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Geography-and-Planning"
-      },
-      {
-        "major": "Bachelor of Arts in Physical and Human Geography (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Geography"
-      },
-      {
-        "major": "Bachelor of Science in Physical and Mathematical Sciences (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Physical-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Physical Sciences (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Physical-Sciences"
-      },
-      {
-        "major": "Bachelor of Science Physician Assistant",
-        "details_url": "https://paconsortium.ca/overview-prospective-students"
-      },
-      {
-        "major": "Bachelor of Science in Physics (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Physics"
-      },
-      {
-        "major": "Bachelor of Science in Physics and Astrophysics (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Physics-and-Astrophysics"
-      },
-      {
-        "major": "Bachelor of Science in Physics and Philosophy (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Physics"
-      },
-      {
-        "major": "Bachelor of Science in Physiology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Physiology"
-      },
-      {
-        "major": "Bachelor of Science in Planetary Science (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Planetary-Science"
-      },
-      {
-        "major": "Bachelor of Science in Plant Biology (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Biological-Sciences"
-      },
-      {
-        "major": "Bachelor of Arts in Political Science (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Political-Science"
-      },
-      {
-        "major": "Bachelor of Arts in Portuguese (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Portuguese"
-      },
-      {
-        "major": "Bachelor of Arts in Professional Writing and Communication (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Communication,-Culture,-Information-and-Technology"
-      },
-      {
-        "major": "Bachelor of Science in Psycholinguistics (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Linguistics"
-      },
-      {
-        "major": "Bachelor of Science in Psychology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Psychology"
-      },
-      {
-        "major": "Bachelor of Science in Psychology Research (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Psychology"
-      },
-      {
-        "major": "Bachelor of Arts in Public Health (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/University-College"
-      },
-      {
-        "major": "Bachelor of Arts in Public Law (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Public-Law"
-      },
-      {
-        "major": "Bachelor of Arts inPublic Policy (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Public-Policy"
-      },
-      {
-        "major": "Bachelor of Science in Quantitative Biology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Biology"
-      },
-      {
-        "major": "Bachelor of Arts in Religion (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Religion"
-      },
-      {
-        "major": "Bachelor of Arts in Renaissance Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Victoria-College"
-      },
-      {
-        "major": "Bachelor of Arts in Science, Technology and Society (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/History-and-Philosophy-of-Science-and-Technology"
-      },
-      {
-        "major": "Bachelor of Arts in Sexual Diversity Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Sexual-Diversity-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Slavic and East European Languages and Culture (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Slavic-and-East-European-Languages-and-Cultures"
-      },
-      {
-        "major": "Bachelor of Arts in Slavic and East European Literature in Translation (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Slavic-and-East-European-Languages-and-Cultures"
-      },
-      {
-        "major": "Bachelor of Arts in Socio-Cultural Anthropology (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/anthropology"
-      },
-      {
-        "major": "Bachelor of Arts in Sociology (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Sociology"
-      },
-      {
-        "major": "Bachelor of Arts in South Asian Humanities (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/South-Asian-Humanities"
-      },
-      {
-        "major": "Bachelor of Arts in South Asian Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/South-Asian-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Spanish (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Spanish"
-      },
-      {
-        "major": "Bachelor of Science in Statistical Science: Methods and Practice (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Statistical-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Statistical Science: Theory and Methods (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Statistical-Sciences"
-      },
-      {
-        "major": "Bachelor of Science in Statistics (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Statistics"
-      },
-      {
-        "major": "Bachelor of Science in Statistics: Quantitative Finance Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Statistics"
-      },
-      {
-        "major": "Bachelor of Science in Statistics: Statistical Machine Learning and Data Science Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Statistics"
-      },
-      {
-        "major": "Bachelor of Science in Statistics: Statistical Sciences Stream (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Statistics"
-      },
-      {
-        "major": "Bachelor of Business Administration in Strategic Management",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Management"
-      },
-      {
-        "major": "Bachelor of Arts in Studio Art (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Studio-Art"
-      },
-      {
-        "major": "Bachelor of Arts in Sustainability (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Environmental-Management"
-      },
-      {
-        "major": "Bachelor of Science in Synthetic and Catalytic Chemistry (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Chemistry"
-      },
-      {
-        "major": "Bachelor of Arts in Technology, Coding and Society (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Communication,-Culture,-Information-and-Technology"
-      },
-      {
-        "major": "Bachelor of Arts in Theatre and Drama Studies (joint program with Sheridan College) (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Theatre,-Drama-and-Performance-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Theatre and Performance (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Theatre-and-Performance"
-      },
-      {
-        "major": "Bachelor of Applied Science inTrack One: Undeclared Engineering",
-        "details_url": "https://engineering.calendar.utoronto.ca/section/Track-One"
-      },
-      {
-        "major": "Bachelor of Arts in Urban Public Policy and Governance (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Public-Policy"
-      },
-      {
-        "major": "Bachelor of Arts in Urban Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Innis-College"
-      },
-      {
-        "major": "Bachelor of Arts in Visual Culture (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Visual-Culture-and-Communication"
-      },
-      {
-        "major": "Bachelor of Arts inVisual Culture and Communication (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Visual-Culture-and-Communication"
-      },
-      {
-        "major": "Bachelor of Arts in Visual Studies (Arts) (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Architecture-and-Visual-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Visual Studies (Design) (Honours)",
-        "details_url": "https://daniels.calendar.utoronto.ca/section/Visual-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Women and Gender Studies (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Women-and-Gender-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Women's and Gender Studies (Honours)",
-        "details_url": "https://utsc.calendar.utoronto.ca/section/Women's-and-Gender-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Women, Gender and Sexuality Studies (Honours)",
-        "details_url": "https://utm.calendar.utoronto.ca/section/Women,-Gender-and-Sexuality-Studies"
-      },
-      {
-        "major": "Bachelor of Arts in Work and Organizations: Humanities Contexts (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Industrial-Relations-and-Human-Resources"
-      },
-      {
-        "major": "Bachelor of Arts in Work and Organizations: Sciences Contexts (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Industrial-Relations-and-Human-Resources"
-      },
-      {
-        "major": "Bachelor of Arts in Work and Organizations: Social Sciences Contexts (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Industrial-Relations-and-Human-Resources"
-      },
-      {
-        "major": "Bachelor of Arts in Writing and Rhetoric (Honours)",
-        "details_url": "https://artsci.calendar.utoronto.ca/section/Innis-College"
-      },
-      {
-        "major": "Master of Accounting and Finance",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-University-of-Toronto-Scarborough"
-      },
-      {
-        "major": "Doctor of Philosophy in Adult Education and Community Development",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Master of Arts in Adult Education and Community Development",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Master of Education in Adult Education and Community Development",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Doctor of Philosophy in Aerospace Studies: Aerospace Science and Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Aerospace-Studies"
-      },
-      {
-        "major": "Master of Applied Science in Aerospace Studies: Aerospace Science and Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Aerospace-Studies"
-      },
-      {
-        "major": "Master of Engineering in Aerospace Studies: Aerospace Science and Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Aerospace-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Anthropology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Anthropology"
-      },
-      {
-        "major": "Master of Arts in Anthropology (Arts)",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Anthropology"
-      },
-      {
-        "major": "Master of Science in Anthropology (Science)",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Anthropology"
-      },
-      {
-        "major": "Master of Science in Applied Computing",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Computer-Science"
-      },
-      {
-        "major": "Master of Architecture in Architecture",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Architecture,-Landscape,-and-Design"
-      },
-      {
-        "major": "Doctor of Philosophy in Architecture, Landscape and Design",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Architecture,-Landscape,-and-Design"
-      },
-      {
-        "major": "Master of Arts in Art History",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Art-History"
-      },
-      {
-        "major": "Doctor of Philosophy in Art History",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Art-History"
-      },
-      {
-        "major": "Doctor of Philosophy in Astronomy and Astrophysics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics"
-      },
-      {
-        "major": "Master of Science in Astronomy and Astrophysics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics"
-      },
-      {
-        "major": "Doctor of Philosophy in Biochemistry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Biochemistry"
-      },
-      {
-        "major": "Master of Science in Biochemistry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Biochemistry"
-      },
-      {
-        "major": "Master of Health Science in Bioethics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"
-      },
-      {
-        "major": "Master of Science in Biomedical Communications",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Medical-Science"
-      },
-      {
-        "major": "Master of Applied Science in Biomedical Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Biomedical-Engineering"
-      },
-      {
-        "major": "Doctor of Philosophy in Biomedical Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Biomedical-Engineering"
-      },
-      {
-        "major": "Master of Biotechnology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"
-      },
-      {
-        "major": "Doctor of Philosophy in Cell and Systems Biology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Cell-and-Systems-Biology"
-      },
-      {
-        "major": "Master of Science in Cell and Systems Biology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Cell-and-Systems-Biology"
-      },
-      {
-        "major": "Doctor of Philosophy in Chemical Engineering and Applied Chemistry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Chemical-Engineering-and-Applied-Chemistry"
-      },
-      {
-        "major": "Master of Applied Science in Chemical Engineering and Applied Chemistry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Chemical-Engineering-and-Applied-Chemistry"
-      },
-      {
-        "major": "Master of Engineering in Chemical Engineering and Applied Chemistry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Chemical-Engineering-and-Applied-Chemistry"
-      },
-      {
-        "major": "Doctor of Philosophy in Chemistry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Chemistry"
-      },
-      {
-        "major": "Master of Science in Chemistry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Chemistry"
-      },
-      {
-        "major": "Master of Arts in Child Study and Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Doctor of Education in Child Study and Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Master of Arts in Cinema Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Cinema-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Cinema Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Cinema-Studies"
-      },
-      {
-        "major": "Master of Engineering in Cities Engineering and Management",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Civil-and-Mineral-Engineering"
-      },
-      {
-        "major": "Doctor of Philosophy in Civil Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Civil-and-Mineral-Engineering"
-      },
-      {
-        "major": "Master of Applied Science in Civil Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Civil-and-Mineral-Engineering"
-      },
-      {
-        "major": "Master of Engineering in Civil Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Civil-and-Mineral-Engineering"
-      },
-      {
-        "major": "Master of Arts in Classics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Classics"
-      },
-      {
-        "major": "Doctor of Philosophy in Classics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Classics"
-      },
-      {
-        "major": "Master of Arts in Clinical and Counselling Psychology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Doctor of Philosophy in Clinical and Counselling Psychology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Doctor of Philosophy in Clinical Psychology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Master of Arts in Clinical Psychology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Master of Science in Community Health",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"
-      },
-      {
-        "major": "Doctor of Philosophy in Comparative Literature",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Comparative-Literature"
-      },
-      {
-        "major": "Master of Arts in Comparative Literature",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Comparative-Literature"
-      },
-      {
-        "major": "Doctor of Philosophy in Computer Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Computer-Science"
-      },
-      {
-        "major": "Master of Science in Computer Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Computer-Science"
-      },
-      {
-        "major": "Master of Arts in Counselling and Clinical Psychology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Psychological-Clinical-Science"
-      },
-      {
-        "major": "Doctor of Philosophy in Counselling and Clinical Psychology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Psychological-Clinical-Science"
-      },
-      {
-        "major": "Doctor of Education in Counselling Psychology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Master of Education in Counselling Psychology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Master of Arts in Criminology and Sociolegal Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Criminology-and-Sociolegal-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Criminology and Sociolegal Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Criminology-and-Sociolegal-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Curriculum and Pedagogy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"
-      },
-      {
-        "major": "Master of Arts in Curriculum and Pedagogy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"
-      },
-      {
-        "major": "Master of Education in Curriculum and Pedagogy",
-        "details_url": "https://www.sgs.utoronto.ca/programs/curriculum-and-pedagogy/"
-      },
-      {
-        "major": "Master of Science in Dentistry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Dentistry"
-      },
-      {
-        "major": "Doctor of Philosophy in Dentistry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Dentistry"
-      },
-      {
-        "major": "Doctor of Philosophy in Developmental Psychology and Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Master of Arts in Developmental Psychology and Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Master of Education in Developmental Psychology and Education",
-        "details_url": "https://www.sgs.utoronto.ca/programs/developmental-psychology-and-education/"
-      },
-      {
-        "major": "Master of Arts in Drama, Theatre and Performance Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Drama,-Theatre-and-Performance-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Drama, Theatre and Performance Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Drama,-Theatre-and-Performance-Studies"
-      },
-      {
-        "major": "Master of Applied Science in Earth Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Earth-Sciences"
-      },
-      {
-        "major": "Master of Science in Earth Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Earth-Sciences"
-      },
-      {
-        "major": "Doctor of Philosophy in Earth Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Earth-Sciences"
-      },
-      {
-        "major": "Doctor of Philosophy in East Asian Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/East-Asian-Studies"
-      },
-      {
-        "major": "Master of Arts in East Asian Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/East-Asian-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Ecology and Evolutionary Biology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Ecology-and-Evolutionary-Biology"
-      },
-      {
-        "major": "Master of Science in Ecology and Evolutionary Biology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Ecology-and-Evolutionary-Biology"
-      },
-      {
-        "major": "Master of Arts in Economics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Economics"
-      },
-      {
-        "major": "Doctor of Philosophy in Economics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Economics"
-      },
-      {
-        "major": "Doctor of Education in Educational Leadership and Policy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Doctor of Philosophy in Educational Leadership and Policy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Master of Education in Educational Leadership and Policy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Master of Arts in Educational Leadership and Policy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Doctor of Philosophy in Electrical and Computer Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Electrical-and-Computer-Engineering"
-      },
-      {
-        "major": "Master of Applied Science in Electrical and Computer Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Electrical-and-Computer-Engineering"
-      },
-      {
-        "major": "Master of Engineering in Electrical and Computer Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Electrical-and-Computer-Engineering"
-      },
-      {
-        "major": "Master of Arts in English",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/English"
-      },
-      {
-        "major": "Doctor of Philosophy in English",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/English"
-      },
-      {
-        "major": "Master of Environmental Science in Environment and Sustainability",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Environment"
-      },
-      {
-        "major": "Master of Science in Environmental Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Physical-and-Environmental-Sciences"
-      },
-      {
-        "major": "Master of Environmental Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Physical-and-Environmental-Sciences"
-      },
-      {
-        "major": "Doctor of Philosophy in Environmental Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Physical-and-Environmental-Sciences"
-      },
-      {
-        "major": "Master of Arts in European and Eurasian Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/European-and-Eurasian-Studies"
-      },
-      {
-        "major": "Master of Finance in Finance",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-Rotman-School-of-Management"
-      },
-      {
-        "major": "Master of Financial Economics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Financial-Economics"
-      },
-      {
-        "major": "Master of Financial Insurance",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Statistical-Sciences"
-      },
-      {
-        "major": "Master of Financial Risk Management",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-Rotman-School-of-Management"
-      },
-      {
-        "major": "Master of Forensic Accounting",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"
-      },
-      {
-        "major": "Master of Forest Conservation",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Forestry"
-      },
-      {
-        "major": "Master of Science in Forestry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Forestry"
-      },
-      {
-        "major": "Doctor of Philosophy in Forestry",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Forestry"
-      },
-      {
-        "major": "Doctor of Philosophy in French Language and Literature",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/French-Language-and-Literature"
-      },
-      {
-        "major": "Master of Arts in French Language and Literature",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/French-Language-and-Literature"
-      },
-      {
-        "major": "Master of Science in Genetic Counselling",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics"
-      },
-      {
-        "major": "Master of Arts in Geography",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Geography-and-Planning"
-      },
-      {
-        "major": "Master of Science in Geography",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Geography-and-Planning"
-      },
-      {
-        "major": "Doctor of Philosophy in Geography",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Geography-and-Planning"
-      },
-      {
-        "major": "Master of Arts in Germanic Languages and Literatures",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Germanic-Languages-and-Literatures"
-      },
-      {
-        "major": "Doctor of Philosophy in Germanic Literature, Culture and Theory",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Germanic-Languages-and-Literatures"
-      },
-      {
-        "major": "Master of Global Affairs in Global Affairs",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Global-Affairs-and-Public-Policy"
-      },
-      {
-        "major": "Master of Laws in Global Professional Law",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Law"
-      },
-      {
-        "major": "Master of Health Science in Health Administration",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Health-Policy,-Management-and-Evaluation"
-      },
-      {
-        "major": "Master of Health Informatics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Health-Policy,-Management-and-Evaluation"
-      },
-      {
-        "major": "Doctor of Philosophy in Health Policy, Management and Evaluation",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Health-Policy,-Management-and-Evaluation"
-      },
-      {
-        "major": "Master of Science in Health Policy, Management and Evaluation",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Health-Policy,-Management-and-Evaluation"
-      },
-      {
-        "major": "Doctor of Education in Higher Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Doctor of Philosophy in Higher Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Master of Education in Higher Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Master of Arts in Higher Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"
-      },
-      {
-        "major": "Doctor of Philosophy in History",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/History"
-      },
-      {
-        "major": "Master of Arts in History",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/History"
-      },
-      {
-        "major": "Master of Arts in History and Philosophy of Science and Technology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/History-and-Philosophy-of-Science-and-Technology"
-      },
-      {
-        "major": "Doctor of Philosophy in History and Philosophy of Science and Technology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/History-and-Philosophy-of-Science-and-Technology"
-      },
-      {
-        "major": "Doctor of Philosophy in Immunology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Immunology"
-      },
-      {
-        "major": "Master of Science in Immunology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Immunology"
-      },
-      {
-        "major": "Master of Industrial Relations and Human Resources",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Industrial-Relations-and-Human-Resources"
-      },
-      {
-        "major": "Doctor of Philosophy in Industrial Relations and Human Resources",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Industrial-Relations-and-Human-Resources"
-      },
-      {
-        "major": "Master of Information",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Information"
-      },
-      {
-        "major": "Doctor of Philosophy in Information",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Information"
-      },
-      {
-        "major": "Master of Arts in Italian Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Italian-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Italian Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Italian-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Kinesiology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Kinesiology"
-      },
-      {
-        "major": "Master of Science in Kinesiology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Kinesiology"
-      },
-      {
-        "major": "Master of Arts in Kinesiology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Kinesiology"
-      },
-      {
-        "major": "Master of Health Science in Laboratory Medicine",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology"
-      },
-      {
-        "major": "Doctor of Philosophy in Laboratory Medicine and Pathobiology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology"
-      },
-      {
-        "major": "Master of Science in Laboratory Medicine and Pathobiology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology"
-      },
-      {
-        "major": "Master of Landscape Architecture in Landscape Architecture",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Architecture,-Landscape,-and-Design"
-      },
-      {
-        "major": "Doctor of Philosophy in Language and Literacies Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"
-      },
-      {
-        "major": "Master of Arts in Language and Literacies Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"
-      },
-      {
-        "major": "Master of Education in Language and Literacies Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"
-      },
-      {
-        "major": "Doctor of Juridical Science in Law",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Law"
-      },
-      {
-        "major": "Master of Laws",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Law"
-      },
-      {
-        "major": "Master of Studies in Law",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Law"
-      },
-      {
-        "major": "Doctor of Philosophy in Linguistics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Linguistics"
-      },
-      {
-        "major": "Master of Arts in Linguistics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Linguistics"
-      },
-      {
-        "major": "Master of Business Administration in Management",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-Rotman-School-of-Management"
-      },
-      {
-        "major": "Master of Management Analytics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-Rotman-School-of-Management"
-      },
-      {
-        "major": "Master of Management and Professional Accounting",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"
-      },
-      {
-        "major": "Master of Management of Innovation",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"
-      },
-      {
-        "major": "Doctor of Philosophy in Management, Tri-Campus",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-Tri~campus"
-      },
-      {
-        "major": "Doctor of Philosophy in Materials Science and Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Materials-Science-and-Engineering"
-      },
-      {
-        "major": "Master of Applied Science in Materials Science and Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Materials-Science-and-Engineering"
-      },
-      {
-        "major": "Master of Engineering in Materials Science and Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Materials-Science-and-Engineering"
-      },
-      {
-        "major": "Master of Mathematical Finance",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Mathematical-Finance"
-      },
-      {
-        "major": "Master of Science in Mathematics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Mathematics"
-      },
-      {
-        "major": "Doctor of Philosophy in Mathematics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Mathematics"
-      },
-      {
-        "major": "Doctor of Philosophy in Mechanical and Industrial Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Mechanical-and-Industrial-Engineering"
-      },
-      {
-        "major": "Master of Applied Science in Mechanical and Industrial Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Mechanical-and-Industrial-Engineering"
-      },
-      {
-        "major": "Master of Engineering in Mechanical and Industrial Engineering",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Mechanical-and-Industrial-Engineering"
-      },
-      {
-        "major": "Doctor of Philosophy in Medical Biophysics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Medical-Biophysics"
-      },
-      {
-        "major": "Master of Science in Medical Biophysics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Medical-Biophysics"
-      },
-      {
-        "major": "Master of Health Science in Medical Genomics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics"
-      },
-      {
-        "major": "Master of Health Science in Medical Physiology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Physiology"
-      },
-      {
-        "major": "Master of Science in Medical Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Medical-Science"
-      },
-      {
-        "major": "Doctor of Philosophy in Medical Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Medical-Science"
-      },
-      {
-        "major": "Doctor of Medicine",
-        "details_url": "https://applymd.utoronto.ca/"
-      },
-      {
-        "major": "Master of Arts in Medieval Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Medieval-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Medieval Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Medieval-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Molecular Genetics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics"
-      },
-      {
-        "major": "Master of Science in Molecular Genetics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics"
-      },
-      {
-        "major": "Master of Museum Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Information"
-      },
-      {
-        "major": "Doctor of Philosophy in Music",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Music"
-      },
-      {
-        "major": "Master of Arts in Music",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Music"
-      },
-      {
-        "major": "Master of Music in Music Performance",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Music"
-      },
-      {
-        "major": "Doctor of Musical Arts in Music Performance",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Music"
-      },
-      {
-        "major": "Master of Arts in Near and Middle Eastern Civilizations",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Near-and-Middle-Eastern-Civilizations"
-      },
-      {
-        "major": "Doctor of Philosophy in Near and Middle Eastern Civilizations",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Near-and-Middle-Eastern-Civilizations"
-      },
-      {
-        "major": "Master of Nursing in Nursing Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Nursing-Science"
-      },
-      {
-        "major": "Doctor of Philosophy in Nursing Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Nursing-Science"
-      },
-      {
-        "major": "Doctor of Nursing in Nursing Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Nursing-Science"
-      },
-      {
-        "major": "Master of Science in Nutritional Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Nutritional-Sciences"
-      },
-      {
-        "major": "Doctor of Philosophy in Nutritional Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Nutritional-Sciences"
-      },
-      {
-        "major": "Master of Science in Occupational Therapy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Occupational-Science-and-Occupational-Therapy"
-      },
-      {
-        "major": "Master of Science in Pharmaceutical Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences"
-      },
-      {
-        "major": "Doctor of Philosophy in Pharmaceutical Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences"
-      },
-      {
-        "major": "Doctor of Philosophy in Pharmacology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Pharmacology-and-Toxicology"
-      },
-      {
-        "major": "Master of Science in Pharmacology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Pharmacology-and-Toxicology"
-      },
-      {
-        "major": "Master of Science in Pharmacy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences"
-      },
-      {
-        "major": "Doctor of Philosophy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Philosophy"
-      },
-      {
-        "major": "Master of Arts in Philosophy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Philosophy"
-      },
-      {
-        "major": "Master of Science in Physical Therapy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Physical-Therapy"
-      },
-      {
-        "major": "Doctor of Philosophy in Physics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Physics"
-      },
-      {
-        "major": "Master of Science in Physics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Physics"
-      },
-      {
-        "major": "Master of Science in Physiology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Physiology"
-      },
-      {
-        "major": "Doctor of Philosophy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Physiology"
-      },
-      {
-        "major": "Master of Science in Planning",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Geography-and-Planning"
-      },
-      {
-        "major": "Doctor of Philosophy in Planning",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Geography-and-Planning"
-      },
-      {
-        "major": "Master of Arts in Political Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Political-Science"
-      },
-      {
-        "major": "Doctor of Philosophy in Political Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Political-Science"
-      },
-      {
-        "major": "Master of Professional Kinesiology",
-        "details_url": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Professional-Kinesiology.aspx"
-      },
-      {
-        "major": "Doctor of Philosophy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Psychology"
-      },
-      {
-        "major": "Doctor of Philosophy in Public Health Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"
-      },
-      {
-        "major": "Master of Public Health Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"
-      },
-      {
-        "major": "Master of Science in Public Health Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"
-      },
-      {
-        "major": "Doctor of Public Health Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"
-      },
-      {
-        "major": "Master of Public Policy",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Global-Affairs-and-Public-Policy"
-      },
-      {
-        "major": "Doctor of Philosophy in Rehabilitation Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Rehabilitation-Sciences"
-      },
-      {
-        "major": "Master of Science in Rehabilitation Science",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Rehabilitation-Sciences"
-      },
-      {
-        "major": "Master of Arts in Religion",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Religion"
-      },
-      {
-        "major": "Doctor of Philosophy in Religion",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Religion"
-      },
-      {
-        "major": "Master of Arts in School and Clinical Child Psychology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Doctor of Philosophy in School and Clinical Child Psychology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"
-      },
-      {
-        "major": "Master of Arts in Slavic and East European Languages and Cultures",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Slavic-and-East-European-Languages-and-Cultures"
-      },
-      {
-        "major": "Doctor of Philosophy in Slavic and East European Languages and Cultures",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Slavic-and-East-European-Languages-and-Cultures"
-      },
-      {
-        "major": "Doctor of Education in Social Justice Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Justice-Education"
-      },
-      {
-        "major": "Doctor of Philosophy in Social Justice Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Justice-Education"
-      },
-      {
-        "major": "Master of Education in Social Justice Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Justice-Education"
-      },
-      {
-        "major": "Master of Arts in Social Justice Education",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Justice-Education"
-      },
-      {
-        "major": "Master of Social Work in Social Work",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Work"
-      },
-      {
-        "major": "Doctor of Philosophy in Social Work",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Work"
-      },
-      {
-        "major": "Master of Arts in Sociology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Sociology"
-      },
-      {
-        "major": "Doctor of Philosophy in Sociology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Sociology"
-      },
-      {
-        "major": "Doctor of Philosophy in Spanish",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Spanish"
-      },
-      {
-        "major": "Master of Arts in Spanish",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Spanish"
-      },
-      {
-        "major": "Master of Health Science in Speech-Language Pathology",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Speech~Language-Pathology"
-      },
-      {
-        "major": "Master of Science in Statistics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Statistical-Sciences"
-      },
-      {
-        "major": "Doctor of Philosophy in Statistics",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Statistical-Sciences"
-      },
-      {
-        "major": "Master of Science in Sustainability Management",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"
-      },
-      {
-        "major": "Master's DegreeMaster of Teaching",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"
-      },
-      {
-        "major": "Master of Health Science in Translational Research in the Health Sciences",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology"
-      },
-      {
-        "major": "Master of Urban Design in Urban Design",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Architecture,-Landscape,-and-Design"
-      },
-      {
-        "major": "Master of Urban Innovation",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"
-      },
-      {
-        "major": "Master of Visual Studies in Visual Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Architecture,-Landscape,-and-Design"
-      },
-      {
-        "major": "Master of Arts in Women and Gender Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Women-and-Gender-Studies"
-      },
-      {
-        "major": "Doctor of Philosophy in Women and Gender Studies",
-        "details_url": "https://sgs.calendar.utoronto.ca/degree/Women-and-Gender-Studies"
-      }
+      {"major": "Bachelor of Commerce in Accounting", "details_url": "https://artsci.calendar.utoronto.ca/section/Rotman-Commerce"},
+      {"major": "Bachelor of ScienceS in Actuarial Science (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Actuarial-Science"},
+      {"major": "Bachelor of Arts in African Studies", "details_url": "https://utsc.calendar.utoronto.ca/section/African-Studies"},
+      {"major": "Bachelor of Arts in African Studies(Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/African-Studies"},
+      {"major": "Bachelor of Arts in Aging and Society (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Health-Studies"},
+      {"major": "Bachelor of Arts in American Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/American-Studies"},
+      {"major": "Bachelor of Science in Animal Physiolog (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Cell-and-Systems-Biology"},
+      {"major": "Bachelor of Arts in Anthropology (Honours) ", "details_url": "https://utsc.calendar.utoronto.ca/section/anthropology"},
+      {"major": "Bachelor of Science in Anthropology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Anthropology"},
+      {"major": "Bachelor of Arts in Anthropology: Society, Culture and LanguageSpecialist (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Anthropology"},
+      {"major": "Bachelor of Science in Applied Climatology (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Environmental-Science"},
+      {"major": "Bachelor of Science in Applied Data Science (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Data-Science"},
+      {"major": "Bachelor of Science in Applied Mathematics (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Mathematical-Sciences"},
+      {"major": "Bachelor of Science in Applied Mathematics, Experiential Learning (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Science in Applied Statistics (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Statistics"},
+      {"major": "Bachelor of Arts in Archaeology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Archaeology"},
+      {"major": "Bachelor of Arts in Architectural Studies (Honours)", "details_url": "https://daniels.calendar.utoronto.ca/section/Architectural-Studies"},
+      {"major": "Bachelor of Arts in Art and Art History (joint program with Sheridan College) (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Art"},
+      {"major": "Bachelor of Arts in Art History (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Art-History"},
+      {"major": "Bachelor of Arts in Art History and Visual Culture (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Art-History-and-Visual-Culture"},
+      {"major": "Bachelor of Arts in Arts and Media Management (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Arts-Management"},
+      {"major": "Bachelor of Arts in Arts Management (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Arts-Management"},
+      {"major": "Bachelor of Arts in Asian Canadian Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/University-College"},
+      {"major": "Bachelor of Science in Astronomical Sciences (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Astronomy"},
+      {"major": "Bachelor of Science in Astronomy (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Astronomy"},
+      {"major": "Bachelor of Science in Astronomy and Astrophysics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Astronomy-and-Astrophysics"},
+      {"major": "Bachelor of Science in Astronomy and Physics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Astronomy-and-Astrophysics"},
+      {"major": "Bachelor of Science in Biochemistry (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Chemistry"},
+      {"major": "Bachelor of Science in Biodiversity and Conservation Biology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Ecology-and-Evolutionary-Biology"},
+      {"major": "Bachelor of Arts in Bioethics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Philosophy"},
+      {"major": "Bachelor of Science in Bioinformatics and Computational Biology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Cell-and-Systems-Biology"},
+      {"major": "Bachelor of Science in Biological Chemistry (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Chemistry"},
+      {"major": "Bachelor of Science in Biological Physics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Physics"},
+      {"major": "Bachelor of Science in Biology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Biology"},
+      {"major": "Bachelor of Science in Biology for Health Sciences (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Biology"},
+      {"major": "Bachelor of Science in Biomedical Communications (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Biomedical-Communications"},
+      {"major": "Bachelor of Arts in Biomedical Ethics (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Philosophy"},
+      {"major": "Bachelor of Science in Biomedical Toxicology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Pharmacology-and-Toxicology"},
+      {"major": "Bachelor of Science in Biophysics (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Physics"},
+      {"major": "Bachelor of Science in Biotechnology (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Biology"},
+      {"major": "Bachelor of Arts in Book and Media Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/St.-Michael's-College"},
+      {"major": "Bachelor of Arts in Buddhism, Psychology and Mental Health (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/New-College"},
+      {"major": "Bachelor of Arts in Buddhist Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Religion"},
+      {"major": "Bachelor of Arts in Business German (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/German"},
+      {"major": "Bachelor of Science in Business, Science and Entrepreneurship (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Business,-Science-and-Entrepreneurship"},
+      {"major": "Bachelor of Arts in Canadian Studies (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Canadian-Studies"},
+      {"major": "Bachelor of Arts in Caribbean Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Centre-for-Caribbean-Studies"},
+      {"major": "Bachelor of Science in Cell and Molecular Biology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Cell-and-Systems-Biology"},
+      {"major": "Bachelor of Arts in Celtic Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/St.-Michael's-College"},
+      {"major": "Bachelor of Applied Science in Chemical Engineering", "details_url": "https://engineering.calendar.utoronto.ca/section/Chemical-Engineering-and-Applied-Chemistry"},
+      {"major": "Bachelor of Science in Chemical Physics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Chemistry"},
+      {"major": "Bachelor of Science in Chemistry (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Chemistry"},
+      {"major": "Bachelor of Arts in Chinese Language and Culture (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Chinese"},
+      {"major": "Bachelor of Arts in Christianity and Culture (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/St.-Michael's-College"},
+      {"major": "Bachelor of Arts in Christianity and Education (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/St.-Michael's-College"},
+      {"major": "Bachelor of Arts in Cinema Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Cinema-Studies-Institute"},
+      {"major": "Bachelor of Arts in City Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/City-Studies"},
+      {"major": "Bachelor of Applied Science in Civil Engineering", "details_url": "https://engineering.calendar.utoronto.ca/section/Civil-Engineering"},
+      {"major": "Bachelor of Arts in Classical Civilization (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Classics"},
+      {"major": "Bachelor of Arts in Classical Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Classical-Studies"},
+      {"major": "Bachelor of Arts in Classics (Greek and Latin) (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Classics"},
+      {"major": "Bachelor of Arts in Cognitive Science (Arts) (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/University-College"},
+      {"major": "Bachelor of Science in Cognitive Science (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/University-College"},
+      {"major": "Bachelor of Arts in Commerce (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Commerce"},
+      {"major": "Bachelor of Commerce in Commerce", "details_url": "https://utm.calendar.utoronto.ca/section/Commerce"},
+      {"major": "Bachelor of Arts in Communication, Culture, Information and Technology (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Communication,-Culture,-Information-and-Technology"},
+      {"major": "Bachelor of Science in Comparative Physiology (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Biology"},
+      {"major": "Bachelor of Applied Science in Computer Engineering", "details_url": "https://engineering.calendar.utoronto.ca/section/Electrical-and-Computer-Engineering"},
+      {"major": "Bachelor of Science in Computer Science (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Computer-Science"},
+      {"major": "Bachelor of Science in Computer Science: Comprehensive Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Computer-Science"},
+      {"major": "Bachelor of Science in Computer Science: Entrepreneurship Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Computer-Science"},
+      {"major": "Bachelor of Science in Computer Science: Information Systems Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Computer-Science"},
+      {"major": "Bachelor of Science in Computer Science: Software Engineering Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Computer-Science"},
+      {"major": "Bachelor of Science in Conservation and Biodiversity (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Biological-Sciences"},
+      {"major": "Bachelor of Arts in Contemporary Asian Studies (Dr. David Chu Program in) (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Contemporary-Asian-Studies"},
+      {"major": "Bachelor of Arts in Creative Writing (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/English"},
+      {"major": "Bachelor of Arts in Creativity and Society (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Victoria-College"},
+      {"major": "Bachelor of Arts in Criminology and Sociolegal Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Criminology-and-Sociolegal-Studies"},
+      {"major": "Bachelor of Arts in Criminology, Law and Society in (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Criminology,-Law-and-Society"},
+      {"major": "Bachelor of Arts in Critical Migration Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Sociology"},
+      {"major": "Bachelor of Arts in Critical Studies in Equity and Solidarity (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/New-College"},
+      {"major": "Bachelor of Arts in Culture, Creativity and Cities (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Sociology"},
+      {"major": "Bachelor of Science in Data Science (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Data-Science"},
+      {"major": "Bachelor of Arts in Diaspora and Transnational Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Diaspora-and-Transnational-Studies"},
+      {"major": "Bachelor of Arts in Diaspora and Transnational (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Diaspora-and-Transnational-Studies"},
+      {"major": "Bachelor of Arts in Digital Enterprise Management (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Communication,-Culture,-Information-and-Technology"},
+      {"major": "Bachelor of Arts in Digital Humanities (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Woodsworth-College"},
+      {"major": "Bachelor of Arts in Drama (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Drama,-Theatre-and-Performance-Studies"},
+      {"major": "Bachelor of Arts in Dramaturgy and Drama Studies (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Theatre,-Drama-and-Performance-Studies"},
+      {"major": "Bachelor of Science in Earth and Environmental Systems (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Earth-Sciences"},
+      {"major": "Bachelor of Science in Earth Science (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Earth-Science"},
+      {"major": "Bachelor of Arts in East Asian Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/East-Asian-Studies"},
+      {"major": "Bachelor of Science in Ecology and Evolution (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Biology"},
+      {"major": "Bachelor of Science in Ecology and Evolutionary Biology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Ecology-and-Evolutionary-Biology"},
+      {"major": "Bachelor of Arts in Economics (Arts) (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Economics"},
+      {"major": "Bachelor of Commerce in Economics (Commerce)", "details_url": "https://utm.calendar.utoronto.ca/section/Economics"},
+      {"major": "Bachelor of Science in Economics and Mathematics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Economics"},
+      {"major": "Honours Bachelor in Economics and Political Science", "details_url": "https://utm.calendar.utoronto.ca/section/Economics"},
+      {"major": "Bachelor of Arts in Economics for Management Studies (Arts) (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Business Administration in Economics for Management Studies (Business)", "details_url": "https://utsc.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Arts in Education and Society (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Victoria-College"},
+      {"major": "Bachelor of Arts in Education Studies (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Education-Studies"},
+      {"major": "Bachelor of Applied Science in Electrical Engineering", "details_url": "https://engineering.calendar.utoronto.ca/section/Electrical-and-Computer-Engineering"},
+      {"major": "Bachelor of Applied Science in Engineering Science", "details_url": "https://engineering.calendar.utoronto.ca/section/Engineering-Science"},
+      {"major": "Bachelor of Arts in English (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/English"},
+      {"major": "Bachelor of Arts in English and Chinese Translation (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Languages"},
+      {"major": "Bachelor of Arts in English Language Linguistics (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Linguistics"},
+      {"major": "Bachelor of Science in Environment and Behaviour (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"},
+      {"major": "Bachelor of Science in Environment and Energy (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"},
+      {"major": "Bachelor of Science in Environment and Health (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"},
+      {"major": "Bachelor of Science in Environment and Toxicology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"},
+      {"major": "Bachelor of Arts in Environmental Anthropology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Anthropology"},
+      {"major": "Bachelor of Science in Environmental Biology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Ecology-and-Evolutionary-Biology"},
+      {"major": "Bachelor of Science in Environmental Chemistry (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Chemistry"},
+      {"major": "Bachelor of Arts in Environmental Economics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"},
+      {"major": "Bachelor of Arts in Environmental Ethics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"},
+      {"major": "Bachelor of Arts in Environmental Geography (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"},
+      {"major": "Bachelor of Science in Environmental Geoscience (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Environmental-Science"},
+      {"major": "Bachelor of Science in Environmental Geosciences (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Environmental-Geosciences"},
+      {"major": "Bachelor of Arts in Environmental Law and Policy (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Environmental-Management"},
+      {"major": "Bachelor of Arts in Environmental Management (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Environmental-Management"},
+      {"major": "Bachelor of Science in Environmental Physics (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Physics-and-Astrophysics"},
+      {"major": "Bachelor of Science in Environmental Science (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/School-of-the-Environment"},
+      {"major": "Bachelor of Arts in Environmental Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Environmental-Studies"},
+      {"major": "Bachelor of Arts in Ethics, Law and Society (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Philosophy"},
+      {"major": "Bachelor of Arts in Ethics, Society and Law (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Trinity-College"},
+      {"major": "Bachelor of Arts in European Affairs (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/European-Affairs"},
+      {"major": "Bachelor of Science in Evolutionary Anthropology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Anthropology"},
+      {"major": "Bachelor of Science in Exceptionality in Human Learning (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Exceptionality-in-Human-Learning"},
+      {"major": "Bachelor of Arts in Film Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/English"},
+      {"major": "Commerce in Finance", "details_url": "https://utm.calendar.utoronto.ca/section/Economics"},
+      {"major": "Commerce in Finance and Economics", "details_url": "https://artsci.calendar.utoronto.ca/section/Rotman-Commerce"},
+      {"major": "Bachelor of Science in Financial Economics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Economics"},
+      {"major": "Bachelor of Arts in Food Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Food-Studies"},
+      {"major": "Bachelor of Science in Forensic Anthropology (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Forensic-Science"},
+      {"major": "Bachelor of Science in Forensic Biology (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Forensic-Science"},
+      {"major": "Bachelor of Science in Forensic Chemistry (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Forensic-Science"},
+      {"major": "Bachelor of Science inForensic Psychology (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Forensic-Science"},
+      {"major": "Bachelor of Science in Forensic Science (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Forensic-Science"},
+      {"major": "Bachelor of Arts in Forest Conservation (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Forest-Conservation-and-Forest-Biomaterials-Science"},
+      {"major": "Bachelor of Science in Forest Conservation Science (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Forest-Conservation-and-Forest-Biomaterials-Science"},
+      {"major": "Bachelor of Arts in French (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/French"},
+      {"major": "Bachelor of Arts inFrench Language (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/French"},
+      {"major": "Bachelor of Arts in French Language and French Linguistics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/French"},
+      {"major": "Bachelor of Arts in French Language and Literature (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/French"},
+      {"major": "Bachelor of Arts in French Language Learning (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/French"},
+      {"major": "Bachelor of Arts in French Studies (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/French"},
+      {"major": "Bachelor of Arts in Functional French (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/French"},
+      {"major": "Bachelor of Science in Fundamental Genetics and its Applications (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Human-Biology"},
+      {"major": "Bachelor of Arts in Game Studies (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/English"},
+      {"major": "Bachelor of Science in Genome Biology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Biology"},
+      {"major": "Bachelor of Arts in Geographic Information Science (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Geography"},
+      {"major": "Bachelor of Science in Geographical Information Systems (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Geographical-Information-Systems"},
+      {"major": "Bachelor of Arts in Geography (Arts) (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Geography"},
+      {"major": "Bachelor of Science in Geography (Science) (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Geography"},
+      {"major": "Bachelor of Science in Geology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Earth-Sciences"},
+      {"major": "Bachelor of Science in Geophysics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Earth-Sciences"},
+      {"major": "Bachelor of Science in Geoscience (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Earth-Sciences"},
+      {"major": "Bachelor of Arts in German Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/German"},
+      {"major": "Bachelor of Arts in German Studies in English (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/German"},
+      {"major": "Bachelor of Arts in Global Asia Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Global-Asia-Studies"},
+      {"major": "Bachelor of Science in Global Environmental Change (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Environmental-Science"},
+      {"major": "Bachelor of Science in Global Health (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Human-Biology"},
+      {"major": "Bachelor of Business Administration in Global Leadership", "details_url": "https://utsc.calendar.utoronto.ca/section/Global-Leadership"},
+      {"major": "Bachelor of Arts in Global Leadership (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Language-Studies"},
+      {"major": "Bachelor of Arts in Greek (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Classics"},
+      {"major": "Bachelor of Science in Health and Disease (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Human-Biology"},
+      {"major": "Bachelor of Arts in Health Humanities (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Health-Studies"},
+      {"major": "Bachelor of Arts in Health Studies: Health Policy (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Health-Studies"},
+      {"major": "Bachelor of Science in Health Studies: Population Health (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Health-Studies"},
+      {"major": "Bachelor of Arts in History (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/history"},
+      {"major": "Bachelor of Arts in History and Philosophy of Science and Technology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/History-and-Philosophy-of-Science-and-Technology"},
+      {"major": "Bachelor of Arts in History and Political Science (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/History"},
+      {"major": "Bachelor of Arts in History of Religions (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/History-of-Religions"},
+      {"major": "Bachelor of Science in Human Biology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Human-Biology"},
+      {"major": "Bachelor of Arts in Human Geography (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Geography-and-Planning"},
+      {"major": "Business Administration in Human Resource Management", "details_url": "https://utm.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Science in Immunology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Immunology"},
+      {"major": "Bachelor of Arts in Indigenous Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Indigenous-Studies"},
+      {"major": "Bachelor of Applied Science in Industrial Engineering", "details_url": "https://engineering.calendar.utoronto.ca/section/Industrial-Engineering"},
+      {"major": "Bachelor of Arts in Industrial Relations and Human Resources (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Industrial-Relations-and-Human-Resources"},
+      {"major": "Bachelor of Information in Information Professional Program", "details_url": "https://ischool.utoronto.ca/bachelor-of-information/"},
+      {"major": "Bachelor of Science in Information Security (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Computer-Science"},
+      {"major": "Bachelor of Science in Integrative Biology (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Biological-Sciences"},
+      {"major": "Bachelor of Music in Interdisciplinary Music Studies: Classical or Jazz", "details_url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music"},
+      {"major": "Bachelor of Arts in International Affairs (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/International-Affairs"},
+      {"major": "Bachelor of Arts in International Development Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/international-development-studies"},
+      {"major": "Bachelor of Science in International Development Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/international-development-studies"},
+      {"major": "Bachelor of Arts in International Relations (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Trinity-College"},
+      {"major": "Bachelor of Arts in Islamic Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Religion"},
+      {"major": "Bachelor of Arts in Italian (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Italian"},
+      {"major": "Bachelor of Arts in Italian Culture and Communication Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Italian"},
+      {"major": "Bachelor of Arts in Italian Language and Culture (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Italian"},
+      {"major": "Bachelor of Arts in Jewish Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Centre-for-Jewish-Studies"},
+      {"major": "Bachelor of Arts in Journalism (joint program with Centennial College) (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Journalism"},
+      {"major": "Bachelor of Kinesiology in Kinesiology and Physical Education", "details_url": "https://kpe.utoronto.ca/academics-researchfuture-students/bachelor-kinesiology-bkin"},
+      {"major": "Bachelor of Arts in Language Teaching and Learning: French (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/french"},
+      {"major": "Bachelor of Arts in Language Teaching and Learning: French and Italian (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/french"},
+      {"major": "Bachelor of Arts in Language Teaching and Learning: Italian (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Italian"},
+      {"major": "Bachelor of Arts in Latin (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Classics"},
+      {"major": "Bachelor of Arts in Latin American and Caribbean Studies (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Latin-American-and-Caribbean-Studies"},
+      {"major": "Bachelor of Arts in Latin American Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Latin-American-Studies"},
+      {"major": "Bachelor of Arts in Linguistic Studies (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Linguistics"},
+      {"major": "Bachelor of Arts in Linguistics (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/linguistics"},
+      {"major": "Bachelor of Arts in Literature and Critical Theory (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Victoria-College"},
+      {"major": "Bachelor of Arts in Management (Arts) (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Business Administration in Management (Business)", "details_url": "https://utm.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Commerce in Management (Commerce)", "details_url": "https://artsci.calendar.utoronto.ca/section/Rotman-Commerce"},
+      {"major": "Bachelor of Business Administration in Management and Accounting", "details_url": "https://utsc.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Business Administration in Management and Finance", "details_url": "https://utsc.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Business Administration + Honours Bachelor of Science in Management and Finance + Statistics: Quantitative Finance Stream", "details_url": "https://utsc.calendar.utoronto.ca/section/Double-Degree-Programs"},
+      {"major": "Bachelor of Business Administration in Management and Human Resources", "details_url": "https://utsc.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Business Administration in Management and Information Technology", "details_url": "https://utsc.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Business Administration in Management and International Business", "details_url": "https://utsc.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Business Administration in Management and Marketing", "details_url": "https://utsc.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Commerce in Marketing", "details_url": "https://utm.calendar.utoronto.ca/section/Commerce"},
+      {"major": "Bachelor of Arts in Material Culture and Semiotics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Victoria-College"},
+      {"major": "Bachelor of Applied Science in Materials Engineering", "details_url": "https://engineering.calendar.utoronto.ca/section/Materials-Science-and-Engineering"},
+      {"major": "Bachelor of Science in Materials Science (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Materials-Science"},
+      {"major": "Bachelor of Science in Mathematical Applications in Economics and Finance (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Science in Mathematical Sciences (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Mathematical-Sciences"},
+      {"major": "Bachelor of Science in Mathematics (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Science in Mathematics and its Applications: Physical Science (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Science in Mathematics and its Applications: Probability/Statistics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Science in Mathematics and its Applications: Teaching (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Science in Mathematics and Philosophy (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Science in Mathematics and Physics (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Science in Mathematics: Comprehensive Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Science in Mathematics: Statistics Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Science in Mathematics: Teaching Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Mathematics"},
+      {"major": "Bachelor of Applied Science in Mechanical Engineering", "details_url": "https://engineering.calendar.utoronto.ca/section/Mechanical-Engineering"},
+      {"major": "Bachelor of Arts in Media and Communication Studies: Journalism Studies Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Media-Studies"},
+      {"major": "Bachelor of Arts in Media and Communication Studies: Media Studies Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Media-Studies"},
+      {"major": "Bachelor of Arts in Media Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Media-Studies"},
+      {"major": "Bachelor of Arts in Medical Anthropology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Anthropology"},
+      {"major": "Bachelor of Science in Medical Radiation Science", "details_url": "https://radonc.utoronto.ca/bachelor-science-medical-radiation-sciences"},
+      {"major": "Bachelor of Science in Medicinal and Biological ChemistrySpecialist (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/chemistry"},
+      {"major": "Bachelor of Science in Mental Health Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Psychology"},
+      {"major": "Bachelor of Applied Science in Mineral Engineering", "details_url": "https://engineering.calendar.utoronto.ca/section/Mineral-Engineering"},
+      {"major": "Bachelor of Science Molecular Biology (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Biology"},
+      {"major": "Bachelor of Science in Molecular Biology and Biotechnology (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Biological-Sciences"},
+      {"major": "Bachelor of Science in Molecular Biology, Immunology and Disease (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Biological-Sciences"},
+      {"major": "Bachelor of Science in Molecular Genetics and Microbiology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Molecular-Genetics-and-Microbiology"},
+      {"major": "Bachelor of Arts in Music (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Music"},
+      {"major": "Bachelor of Arts in Music and Culture (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Music-and-Culture"},
+      {"major": "Bachelor of Music in Music Education: Classical or Jazz", "details_url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music"},
+      {"major": "Bachelor of Arts in Music History and Culture (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Music"},
+      {"major": "Bachelor of Arts in Music Industry and Technology (joint program with Centennial College) (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Music-Industry-and-Technology"},
+      {"major": "Bachelor of Music in Performance in Music Performance: Classical or Jazz", "details_url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music-in-Performance"},
+      {"major": "Bachelor of Arts in Music with Ensemble Option (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Music"},
+      {"major": "Bachelor of Music in Music: Composition", "details_url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music"},
+      {"major": "Bachelor of Music in Music: History, Culture and Theory", "details_url": "https://music.calendar.utoronto.ca/section/Bachelor-of-Music"},
+      {"major": "Bachelor of Science in Natural Sciences and Environmental Management (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Environmental-Science"},
+      {"major": "Bachelor of Arts in Near and Middle Eastern Civilizations (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Near-and-Middle-Eastern-Civilizations"},
+      {"major": "Bachelor of Science in Neuroscience (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Neuroscience"},
+      {"major": "Bachelor of Science in Nursing", "details_url": "https://bloomberg.nursing.utoronto.ca/learn-with-us/bachelor-of-science-in-nursing/"},
+      {"major": "Bachelor of Science in Nutritional Sciences (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Nutritional-Sciences"},
+      {"major": "Bachelor of Science in Paleontology (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Biology"},
+      {"major": "Bachelor of Science in Paramedicine (joint program with Centennial College) (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Paramedicine"},
+      {"major": "Bachelor of Science in Pathobiology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Laboratory-Medicine-and-Pathobiology"},
+      {"major": "Bachelor of Arts in Peace, Conflict and Justice (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Peace,-Conflict-and-Justice"},
+      {"major": "Bachelor of Science in Pharmaceutical Chemistry (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Chemistry"},
+      {"major": "Bachelor of Science in Pharmacology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Pharmacology-and-Toxicology"},
+      {"major": "Bachelor of Science in Pharmacology and Biomedical Toxicology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Pharmacology-and-Toxicology"},
+      {"major": "Bachelor of Arts in Philosophy (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Philosophy"},
+      {"major": "Bachelor of Arts in Philosophy of Science (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Philosophy"},
+      {"major": "Bachelor of Science in Physical and Environmental Geography (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Geography-and-Planning"},
+      {"major": "Bachelor of Arts in Physical and Human Geography (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Geography"},
+      {"major": "Bachelor of Science in Physical and Mathematical Sciences (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Physical-Sciences"},
+      {"major": "Bachelor of Science in Physical Sciences (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Physical-Sciences"},
+      {"major": "Bachelor of Science Physician Assistant", "details_url": "https://paconsortium.ca/overview-prospective-students"},
+      {"major": "Bachelor of Science in Physics (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Physics"},
+      {"major": "Bachelor of Science in Physics and Astrophysics (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Physics-and-Astrophysics"},
+      {"major": "Bachelor of Science in Physics and Philosophy (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Physics"},
+      {"major": "Bachelor of Science in Physiology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Physiology"},
+      {"major": "Bachelor of Science in Planetary Science (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Planetary-Science"},
+      {"major": "Bachelor of Science in Plant Biology (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Biological-Sciences"},
+      {"major": "Bachelor of Arts in Political Science (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Political-Science"},
+      {"major": "Bachelor of Arts in Portuguese (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Portuguese"},
+      {"major": "Bachelor of Arts in Professional Writing and Communication (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Communication,-Culture,-Information-and-Technology"},
+      {"major": "Bachelor of Science in Psycholinguistics (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Linguistics"},
+      {"major": "Bachelor of Science in Psychology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Psychology"},
+      {"major": "Bachelor of Science in Psychology Research (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Psychology"},
+      {"major": "Bachelor of Arts in Public Health (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/University-College"},
+      {"major": "Bachelor of Arts in Public Law (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Public-Law"},
+      {"major": "Bachelor of Arts inPublic Policy (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Public-Policy"},
+      {"major": "Bachelor of Science in Quantitative Biology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Biology"},
+      {"major": "Bachelor of Arts in Religion (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Religion"},
+      {"major": "Bachelor of Arts in Renaissance Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Victoria-College"},
+      {"major": "Bachelor of Arts in Science, Technology and Society (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/History-and-Philosophy-of-Science-and-Technology"},
+      {"major": "Bachelor of Arts in Sexual Diversity Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Sexual-Diversity-Studies"},
+      {"major": "Bachelor of Arts in Slavic and East European Languages and Culture (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Slavic-and-East-European-Languages-and-Cultures"},
+      {"major": "Bachelor of Arts in Slavic and East European Literature in Translation (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Slavic-and-East-European-Languages-and-Cultures"},
+      {"major": "Bachelor of Arts in Socio-Cultural Anthropology (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/anthropology"},
+      {"major": "Bachelor of Arts in Sociology (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Sociology"},
+      {"major": "Bachelor of Arts in South Asian Humanities (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/South-Asian-Humanities"},
+      {"major": "Bachelor of Arts in South Asian Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/South-Asian-Studies"},
+      {"major": "Bachelor of Arts in Spanish (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Spanish"},
+      {"major": "Bachelor of Science in Statistical Science: Methods and Practice (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Statistical-Sciences"},
+      {"major": "Bachelor of Science in Statistical Science: Theory and Methods (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Statistical-Sciences"},
+      {"major": "Bachelor of Science in Statistics (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Statistics"},
+      {"major": "Bachelor of Science in Statistics: Quantitative Finance Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Statistics"},
+      {"major": "Bachelor of Science in Statistics: Statistical Machine Learning and Data Science Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Statistics"},
+      {"major": "Bachelor of Science in Statistics: Statistical Sciences Stream (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Statistics"},
+      {"major": "Bachelor of Business Administration in Strategic Management", "details_url": "https://utsc.calendar.utoronto.ca/section/Management"},
+      {"major": "Bachelor of Arts in Studio Art (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Studio-Art"},
+      {"major": "Bachelor of Arts in Sustainability (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Environmental-Management"},
+      {"major": "Bachelor of Science in Synthetic and Catalytic Chemistry (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Chemistry"},
+      {"major": "Bachelor of Arts in Technology, Coding and Society (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Communication,-Culture,-Information-and-Technology"},
+      {"major": "Bachelor of Arts in Theatre and Drama Studies (joint program with Sheridan College) (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Theatre,-Drama-and-Performance-Studies"},
+      {"major": "Bachelor of Arts in Theatre and Performance (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Theatre-and-Performance"},
+      {"major": "Bachelor of Applied Science inTrack One: Undeclared Engineering", "details_url": "https://engineering.calendar.utoronto.ca/section/Track-One"},
+      {"major": "Bachelor of Arts in Urban Public Policy and Governance (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Public-Policy"},
+      {"major": "Bachelor of Arts in Urban Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Innis-College"},
+      {"major": "Bachelor of Arts in Visual Culture (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Visual-Culture-and-Communication"},
+      {"major": "Bachelor of Arts inVisual Culture and Communication (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Visual-Culture-and-Communication"},
+      {"major": "Bachelor of Arts in Visual Studies (Arts) (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Architecture-and-Visual-Studies"},
+      {"major": "Bachelor of Arts in Visual Studies (Design) (Honours)", "details_url": "https://daniels.calendar.utoronto.ca/section/Visual-Studies"},
+      {"major": "Bachelor of Arts in Women and Gender Studies (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Women-and-Gender-Studies"},
+      {"major": "Bachelor of Arts in Women's and Gender Studies (Honours)", "details_url": "https://utsc.calendar.utoronto.ca/section/Women's-and-Gender-Studies"},
+      {"major": "Bachelor of Arts in Women, Gender and Sexuality Studies (Honours)", "details_url": "https://utm.calendar.utoronto.ca/section/Women,-Gender-and-Sexuality-Studies"},
+      {"major": "Bachelor of Arts in Work and Organizations: Humanities Contexts (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Industrial-Relations-and-Human-Resources"},
+      {"major": "Bachelor of Arts in Work and Organizations: Sciences Contexts (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Industrial-Relations-and-Human-Resources"},
+      {"major": "Bachelor of Arts in Work and Organizations: Social Sciences Contexts (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Industrial-Relations-and-Human-Resources"},
+      {"major": "Bachelor of Arts in Writing and Rhetoric (Honours)", "details_url": "https://artsci.calendar.utoronto.ca/section/Innis-College"},
+      {"major": "Master of Accounting and Finance", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-University-of-Toronto-Scarborough"},
+      {"major": "Doctor of Philosophy in Adult Education and Community Development", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Master of Arts in Adult Education and Community Development", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Master of Education in Adult Education and Community Development", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Doctor of Philosophy in Aerospace Studies: Aerospace Science and Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Aerospace-Studies"},
+      {"major": "Master of Applied Science in Aerospace Studies: Aerospace Science and Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Aerospace-Studies"},
+      {"major": "Master of Engineering in Aerospace Studies: Aerospace Science and Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Aerospace-Studies"},
+      {"major": "Doctor of Philosophy in Anthropology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Anthropology"},
+      {"major": "Master of Arts in Anthropology (Arts)", "details_url": "https://sgs.calendar.utoronto.ca/degree/Anthropology"},
+      {"major": "Master of Science in Anthropology (Science)", "details_url": "https://sgs.calendar.utoronto.ca/degree/Anthropology"},
+      {"major": "Master of Science in Applied Computing", "details_url": "https://sgs.calendar.utoronto.ca/degree/Computer-Science"},
+      {"major": "Master of Architecture in Architecture", "details_url": "https://sgs.calendar.utoronto.ca/degree/Architecture,-Landscape,-and-Design"},
+      {"major": "Doctor of Philosophy in Architecture, Landscape and Design", "details_url": "https://sgs.calendar.utoronto.ca/degree/Architecture,-Landscape,-and-Design"},
+      {"major": "Master of Arts in Art History", "details_url": "https://sgs.calendar.utoronto.ca/degree/Art-History"},
+      {"major": "Doctor of Philosophy in Art History", "details_url": "https://sgs.calendar.utoronto.ca/degree/Art-History"},
+      {"major": "Doctor of Philosophy in Astronomy and Astrophysics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics"},
+      {"major": "Master of Science in Astronomy and Astrophysics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Astronomy-and-Astrophysics"},
+      {"major": "Doctor of Philosophy in Biochemistry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Biochemistry"},
+      {"major": "Master of Science in Biochemistry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Biochemistry"},
+      {"major": "Master of Health Science in Bioethics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"},
+      {"major": "Master of Science in Biomedical Communications", "details_url": "https://sgs.calendar.utoronto.ca/degree/Medical-Science"},
+      {"major": "Master of Applied Science in Biomedical Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Biomedical-Engineering"},
+      {"major": "Doctor of Philosophy in Biomedical Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Biomedical-Engineering"},
+      {"major": "Master of Biotechnology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"},
+      {"major": "Doctor of Philosophy in Cell and Systems Biology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Cell-and-Systems-Biology"},
+      {"major": "Master of Science in Cell and Systems Biology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Cell-and-Systems-Biology"},
+      {"major": "Doctor of Philosophy in Chemical Engineering and Applied Chemistry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Chemical-Engineering-and-Applied-Chemistry"},
+      {"major": "Master of Applied Science in Chemical Engineering and Applied Chemistry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Chemical-Engineering-and-Applied-Chemistry"},
+      {"major": "Master of Engineering in Chemical Engineering and Applied Chemistry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Chemical-Engineering-and-Applied-Chemistry"},
+      {"major": "Doctor of Philosophy in Chemistry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Chemistry"},
+      {"major": "Master of Science in Chemistry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Chemistry"},
+      {"major": "Master of Arts in Child Study and Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Doctor of Education in Child Study and Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Master of Arts in Cinema Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Cinema-Studies"},
+      {"major": "Doctor of Philosophy in Cinema Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Cinema-Studies"},
+      {"major": "Master of Engineering in Cities Engineering and Management", "details_url": "https://sgs.calendar.utoronto.ca/degree/Civil-and-Mineral-Engineering"},
+      {"major": "Doctor of Philosophy in Civil Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Civil-and-Mineral-Engineering"},
+      {"major": "Master of Applied Science in Civil Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Civil-and-Mineral-Engineering"},
+      {"major": "Master of Engineering in Civil Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Civil-and-Mineral-Engineering"},
+      {"major": "Master of Arts in Classics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Classics"},
+      {"major": "Doctor of Philosophy in Classics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Classics"},
+      {"major": "Master of Arts in Clinical and Counselling Psychology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Doctor of Philosophy in Clinical and Counselling Psychology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Doctor of Philosophy in Clinical Psychology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Master of Arts in Clinical Psychology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Master of Science in Community Health", "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"},
+      {"major": "Doctor of Philosophy in Comparative Literature", "details_url": "https://sgs.calendar.utoronto.ca/degree/Comparative-Literature"},
+      {"major": "Master of Arts in Comparative Literature", "details_url": "https://sgs.calendar.utoronto.ca/degree/Comparative-Literature"},
+      {"major": "Doctor of Philosophy in Computer Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Computer-Science"},
+      {"major": "Master of Science in Computer Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Computer-Science"},
+      {"major": "Master of Arts in Counselling and Clinical Psychology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Psychological-Clinical-Science"},
+      {"major": "Doctor of Philosophy in Counselling and Clinical Psychology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Psychological-Clinical-Science"},
+      {"major": "Doctor of Education in Counselling Psychology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Master of Education in Counselling Psychology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Master of Arts in Criminology and Sociolegal Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Criminology-and-Sociolegal-Studies"},
+      {"major": "Doctor of Philosophy in Criminology and Sociolegal Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Criminology-and-Sociolegal-Studies"},
+      {"major": "Doctor of Philosophy in Curriculum and Pedagogy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"},
+      {"major": "Master of Arts in Curriculum and Pedagogy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"},
+      {"major": "Master of Education in Curriculum and Pedagogy", "details_url": "https://www.sgs.utoronto.ca/programs/curriculum-and-pedagogy/"},
+      {"major": "Master of Science in Dentistry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Dentistry"},
+      {"major": "Doctor of Philosophy in Dentistry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Dentistry"},
+      {"major": "Doctor of Philosophy in Developmental Psychology and Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Master of Arts in Developmental Psychology and Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Master of Education in Developmental Psychology and Education", "details_url": "https://www.sgs.utoronto.ca/programs/developmental-psychology-and-education/"},
+      {"major": "Master of Arts in Drama, Theatre and Performance Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Drama,-Theatre-and-Performance-Studies"},
+      {"major": "Doctor of Philosophy in Drama, Theatre and Performance Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Drama,-Theatre-and-Performance-Studies"},
+      {"major": "Master of Applied Science in Earth Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Earth-Sciences"},
+      {"major": "Master of Science in Earth Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Earth-Sciences"},
+      {"major": "Doctor of Philosophy in Earth Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Earth-Sciences"},
+      {"major": "Doctor of Philosophy in East Asian Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/East-Asian-Studies"},
+      {"major": "Master of Arts in East Asian Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/East-Asian-Studies"},
+      {"major": "Doctor of Philosophy in Ecology and Evolutionary Biology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Ecology-and-Evolutionary-Biology"},
+      {"major": "Master of Science in Ecology and Evolutionary Biology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Ecology-and-Evolutionary-Biology"},
+      {"major": "Master of Arts in Economics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Economics"},
+      {"major": "Doctor of Philosophy in Economics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Economics"},
+      {"major": "Doctor of Education in Educational Leadership and Policy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Doctor of Philosophy in Educational Leadership and Policy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Master of Education in Educational Leadership and Policy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Master of Arts in Educational Leadership and Policy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Doctor of Philosophy in Electrical and Computer Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Electrical-and-Computer-Engineering"},
+      {"major": "Master of Applied Science in Electrical and Computer Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Electrical-and-Computer-Engineering"},
+      {"major": "Master of Engineering in Electrical and Computer Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Electrical-and-Computer-Engineering"},
+      {"major": "Master of Arts in English", "details_url": "https://sgs.calendar.utoronto.ca/degree/English"},
+      {"major": "Doctor of Philosophy in English", "details_url": "https://sgs.calendar.utoronto.ca/degree/English"},
+      {"major": "Master of Environmental Science in Environment and Sustainability", "details_url": "https://sgs.calendar.utoronto.ca/degree/Environment"},
+      {"major": "Master of Science in Environmental Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Physical-and-Environmental-Sciences"},
+      {"major": "Master of Environmental Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Physical-and-Environmental-Sciences"},
+      {"major": "Doctor of Philosophy in Environmental Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Physical-and-Environmental-Sciences"},
+      {"major": "Master of Arts in European and Eurasian Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/European-and-Eurasian-Studies"},
+      {"major": "Master of Finance in Finance", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-Rotman-School-of-Management"},
+      {"major": "Master of Financial Economics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Financial-Economics"},
+      {"major": "Master of Financial Insurance", "details_url": "https://sgs.calendar.utoronto.ca/degree/Statistical-Sciences"},
+      {"major": "Master of Financial Risk Management", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-Rotman-School-of-Management"},
+      {"major": "Master of Forensic Accounting", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"},
+      {"major": "Master of Forest Conservation", "details_url": "https://sgs.calendar.utoronto.ca/degree/Forestry"},
+      {"major": "Master of Science in Forestry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Forestry"},
+      {"major": "Doctor of Philosophy in Forestry", "details_url": "https://sgs.calendar.utoronto.ca/degree/Forestry"},
+      {"major": "Doctor of Philosophy in French Language and Literature", "details_url": "https://sgs.calendar.utoronto.ca/degree/French-Language-and-Literature"},
+      {"major": "Master of Arts in French Language and Literature", "details_url": "https://sgs.calendar.utoronto.ca/degree/French-Language-and-Literature"},
+      {"major": "Master of Science in Genetic Counselling", "details_url": "https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics"},
+      {"major": "Master of Arts in Geography", "details_url": "https://sgs.calendar.utoronto.ca/degree/Geography-and-Planning"},
+      {"major": "Master of Science in Geography", "details_url": "https://sgs.calendar.utoronto.ca/degree/Geography-and-Planning"},
+      {"major": "Doctor of Philosophy in Geography", "details_url": "https://sgs.calendar.utoronto.ca/degree/Geography-and-Planning"},
+      {"major": "Master of Arts in Germanic Languages and Literatures", "details_url": "https://sgs.calendar.utoronto.ca/degree/Germanic-Languages-and-Literatures"},
+      {"major": "Doctor of Philosophy in Germanic Literature, Culture and Theory", "details_url": "https://sgs.calendar.utoronto.ca/degree/Germanic-Languages-and-Literatures"},
+      {"major": "Master of Global Affairs in Global Affairs", "details_url": "https://sgs.calendar.utoronto.ca/degree/Global-Affairs-and-Public-Policy"},
+      {"major": "Master of Laws in Global Professional Law", "details_url": "https://sgs.calendar.utoronto.ca/degree/Law"},
+      {"major": "Master of Health Science in Health Administration", "details_url": "https://sgs.calendar.utoronto.ca/degree/Health-Policy,-Management-and-Evaluation"},
+      {"major": "Master of Health Informatics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Health-Policy,-Management-and-Evaluation"},
+      {"major": "Doctor of Philosophy in Health Policy, Management and Evaluation", "details_url": "https://sgs.calendar.utoronto.ca/degree/Health-Policy,-Management-and-Evaluation"},
+      {"major": "Master of Science in Health Policy, Management and Evaluation", "details_url": "https://sgs.calendar.utoronto.ca/degree/Health-Policy,-Management-and-Evaluation"},
+      {"major": "Doctor of Education in Higher Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Doctor of Philosophy in Higher Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Master of Education in Higher Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Master of Arts in Higher Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Leadership,-Higher-and-Adult-Education"},
+      {"major": "Doctor of Philosophy in History", "details_url": "https://sgs.calendar.utoronto.ca/degree/History"},
+      {"major": "Master of Arts in History", "details_url": "https://sgs.calendar.utoronto.ca/degree/History"},
+      {"major": "Master of Arts in History and Philosophy of Science and Technology", "details_url": "https://sgs.calendar.utoronto.ca/degree/History-and-Philosophy-of-Science-and-Technology"},
+      {"major": "Doctor of Philosophy in History and Philosophy of Science and Technology", "details_url": "https://sgs.calendar.utoronto.ca/degree/History-and-Philosophy-of-Science-and-Technology"},
+      {"major": "Doctor of Philosophy in Immunology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Immunology"},
+      {"major": "Master of Science in Immunology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Immunology"},
+      {"major": "Master of Industrial Relations and Human Resources", "details_url": "https://sgs.calendar.utoronto.ca/degree/Industrial-Relations-and-Human-Resources"},
+      {"major": "Doctor of Philosophy in Industrial Relations and Human Resources", "details_url": "https://sgs.calendar.utoronto.ca/degree/Industrial-Relations-and-Human-Resources"},
+      {"major": "Master of Information", "details_url": "https://sgs.calendar.utoronto.ca/degree/Information"},
+      {"major": "Doctor of Philosophy in Information", "details_url": "https://sgs.calendar.utoronto.ca/degree/Information"},
+      {"major": "Master of Arts in Italian Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Italian-Studies"},
+      {"major": "Doctor of Philosophy in Italian Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Italian-Studies"},
+      {"major": "Doctor of Philosophy in Kinesiology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Kinesiology"},
+      {"major": "Master of Science in Kinesiology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Kinesiology"},
+      {"major": "Master of Arts in Kinesiology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Kinesiology"},
+      {"major": "Master of Health Science in Laboratory Medicine", "details_url": "https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology"},
+      {"major": "Doctor of Philosophy in Laboratory Medicine and Pathobiology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology"},
+      {"major": "Master of Science in Laboratory Medicine and Pathobiology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology"},
+      {"major": "Master of Landscape Architecture in Landscape Architecture", "details_url": "https://sgs.calendar.utoronto.ca/degree/Architecture,-Landscape,-and-Design"},
+      {"major": "Doctor of Philosophy in Language and Literacies Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"},
+      {"major": "Master of Arts in Language and Literacies Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"},
+      {"major": "Master of Education in Language and Literacies Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"},
+      {"major": "Doctor of Juridical Science in Law", "details_url": "https://sgs.calendar.utoronto.ca/degree/Law"},
+      {"major": "Master of Laws", "details_url": "https://sgs.calendar.utoronto.ca/degree/Law"},
+      {"major": "Master of Studies in Law", "details_url": "https://sgs.calendar.utoronto.ca/degree/Law"},
+      {"major": "Doctor of Philosophy in Linguistics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Linguistics"},
+      {"major": "Master of Arts in Linguistics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Linguistics"},
+      {"major": "Master of Business Administration in Management", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-Rotman-School-of-Management"},
+      {"major": "Master of Management Analytics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-Rotman-School-of-Management"},
+      {"major": "Master of Management and Professional Accounting", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"},
+      {"major": "Master of Management of Innovation", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"},
+      {"major": "Doctor of Philosophy in Management, Tri-Campus", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management,-Tri~campus"},
+      {"major": "Doctor of Philosophy in Materials Science and Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Materials-Science-and-Engineering"},
+      {"major": "Master of Applied Science in Materials Science and Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Materials-Science-and-Engineering"},
+      {"major": "Master of Engineering in Materials Science and Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Materials-Science-and-Engineering"},
+      {"major": "Master of Mathematical Finance", "details_url": "https://sgs.calendar.utoronto.ca/degree/Mathematical-Finance"},
+      {"major": "Master of Science in Mathematics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Mathematics"},
+      {"major": "Doctor of Philosophy in Mathematics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Mathematics"},
+      {"major": "Doctor of Philosophy in Mechanical and Industrial Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Mechanical-and-Industrial-Engineering"},
+      {"major": "Master of Applied Science in Mechanical and Industrial Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Mechanical-and-Industrial-Engineering"},
+      {"major": "Master of Engineering in Mechanical and Industrial Engineering", "details_url": "https://sgs.calendar.utoronto.ca/degree/Mechanical-and-Industrial-Engineering"},
+      {"major": "Doctor of Philosophy in Medical Biophysics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Medical-Biophysics"},
+      {"major": "Master of Science in Medical Biophysics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Medical-Biophysics"},
+      {"major": "Master of Health Science in Medical Genomics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics"},
+      {"major": "Master of Health Science in Medical Physiology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Physiology"},
+      {"major": "Master of Science in Medical Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Medical-Science"},
+      {"major": "Doctor of Philosophy in Medical Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Medical-Science"},
+      {"major": "Doctor of Medicine", "details_url": "https://applymd.utoronto.ca/"},
+      {"major": "Master of Arts in Medieval Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Medieval-Studies"},
+      {"major": "Doctor of Philosophy in Medieval Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Medieval-Studies"},
+      {"major": "Doctor of Philosophy in Molecular Genetics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics"},
+      {"major": "Master of Science in Molecular Genetics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Molecular-Genetics"},
+      {"major": "Master of Museum Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Information"},
+      {"major": "Doctor of Philosophy in Music", "details_url": "https://sgs.calendar.utoronto.ca/degree/Music"},
+      {"major": "Master of Arts in Music", "details_url": "https://sgs.calendar.utoronto.ca/degree/Music"},
+      {"major": "Master of Music in Music Performance", "details_url": "https://sgs.calendar.utoronto.ca/degree/Music"},
+      {"major": "Doctor of Musical Arts in Music Performance", "details_url": "https://sgs.calendar.utoronto.ca/degree/Music"},
+      {"major": "Master of Arts in Near and Middle Eastern Civilizations", "details_url": "https://sgs.calendar.utoronto.ca/degree/Near-and-Middle-Eastern-Civilizations"},
+      {"major": "Doctor of Philosophy in Near and Middle Eastern Civilizations", "details_url": "https://sgs.calendar.utoronto.ca/degree/Near-and-Middle-Eastern-Civilizations"},
+      {"major": "Master of Nursing in Nursing Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Nursing-Science"},
+      {"major": "Doctor of Philosophy in Nursing Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Nursing-Science"},
+      {"major": "Doctor of Nursing in Nursing Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Nursing-Science"},
+      {"major": "Master of Science in Nutritional Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Nutritional-Sciences"},
+      {"major": "Doctor of Philosophy in Nutritional Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Nutritional-Sciences"},
+      {"major": "Master of Science in Occupational Therapy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Occupational-Science-and-Occupational-Therapy"},
+      {"major": "Master of Science in Pharmaceutical Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences"},
+      {"major": "Doctor of Philosophy in Pharmaceutical Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences"},
+      {"major": "Doctor of Philosophy in Pharmacology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Pharmacology-and-Toxicology"},
+      {"major": "Master of Science in Pharmacology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Pharmacology-and-Toxicology"},
+      {"major": "Master of Science in Pharmacy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Pharmaceutical-Sciences"},
+      {"major": "Doctor of Philosophy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Philosophy"},
+      {"major": "Master of Arts in Philosophy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Philosophy"},
+      {"major": "Master of Science in Physical Therapy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Physical-Therapy"},
+      {"major": "Doctor of Philosophy in Physics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Physics"},
+      {"major": "Master of Science in Physics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Physics"},
+      {"major": "Master of Science in Physiology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Physiology"},
+      {"major": "Doctor of Philosophy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Physiology"},
+      {"major": "Master of Science in Planning", "details_url": "https://sgs.calendar.utoronto.ca/degree/Geography-and-Planning"},
+      {"major": "Doctor of Philosophy in Planning", "details_url": "https://sgs.calendar.utoronto.ca/degree/Geography-and-Planning"},
+      {"major": "Master of Arts in Political Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Political-Science"},
+      {"major": "Doctor of Philosophy in Political Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Political-Science"},
+      {"major": "Master of Professional Kinesiology", "details_url": "http://www.sgs.utoronto.ca/prospectivestudents/Pages/Programs/Professional-Kinesiology.aspx"},
+      {"major": "Doctor of Philosophy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Psychology"},
+      {"major": "Doctor of Philosophy in Public Health Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"},
+      {"major": "Master of Public Health Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"},
+      {"major": "Master of Science in Public Health Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"},
+      {"major": "Doctor of Public Health Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Public-Health-Sciences"},
+      {"major": "Master of Public Policy", "details_url": "https://sgs.calendar.utoronto.ca/degree/Global-Affairs-and-Public-Policy"},
+      {"major": "Doctor of Philosophy in Rehabilitation Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Rehabilitation-Sciences"},
+      {"major": "Master of Science in Rehabilitation Science", "details_url": "https://sgs.calendar.utoronto.ca/degree/Rehabilitation-Sciences"},
+      {"major": "Master of Arts in Religion", "details_url": "https://sgs.calendar.utoronto.ca/degree/Religion"},
+      {"major": "Doctor of Philosophy in Religion", "details_url": "https://sgs.calendar.utoronto.ca/degree/Religion"},
+      {"major": "Master of Arts in School and Clinical Child Psychology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Doctor of Philosophy in School and Clinical Child Psychology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Applied-Psychology-and-Human-Development"},
+      {"major": "Master of Arts in Slavic and East European Languages and Cultures", "details_url": "https://sgs.calendar.utoronto.ca/degree/Slavic-and-East-European-Languages-and-Cultures"},
+      {"major": "Doctor of Philosophy in Slavic and East European Languages and Cultures", "details_url": "https://sgs.calendar.utoronto.ca/degree/Slavic-and-East-European-Languages-and-Cultures"},
+      {"major": "Doctor of Education in Social Justice Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Justice-Education"},
+      {"major": "Doctor of Philosophy in Social Justice Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Justice-Education"},
+      {"major": "Master of Education in Social Justice Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Justice-Education"},
+      {"major": "Master of Arts in Social Justice Education", "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Justice-Education"},
+      {"major": "Master of Social Work in Social Work", "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Work"},
+      {"major": "Doctor of Philosophy in Social Work", "details_url": "https://sgs.calendar.utoronto.ca/degree/Social-Work"},
+      {"major": "Master of Arts in Sociology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Sociology"},
+      {"major": "Doctor of Philosophy in Sociology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Sociology"},
+      {"major": "Doctor of Philosophy in Spanish", "details_url": "https://sgs.calendar.utoronto.ca/degree/Spanish"},
+      {"major": "Master of Arts in Spanish", "details_url": "https://sgs.calendar.utoronto.ca/degree/Spanish"},
+      {"major": "Master of Health Science in Speech-Language Pathology", "details_url": "https://sgs.calendar.utoronto.ca/degree/Speech~Language-Pathology"},
+      {"major": "Master of Science in Statistics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Statistical-Sciences"},
+      {"major": "Doctor of Philosophy in Statistics", "details_url": "https://sgs.calendar.utoronto.ca/degree/Statistical-Sciences"},
+      {"major": "Master of Science in Sustainability Management", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"},
+      {"major": "Master's DegreeMaster of Teaching", "details_url": "https://sgs.calendar.utoronto.ca/degree/Curriculum,-Teaching-and-Learning"},
+      {"major": "Master of Health Science in Translational Research in the Health Sciences", "details_url": "https://sgs.calendar.utoronto.ca/degree/Laboratory-Medicine-and-Pathobiology"},
+      {"major": "Master of Urban Design in Urban Design", "details_url": "https://sgs.calendar.utoronto.ca/degree/Architecture,-Landscape,-and-Design"},
+      {"major": "Master of Urban Innovation", "details_url": "https://sgs.calendar.utoronto.ca/degree/Management-and-Innovation"},
+      {"major": "Master of Visual Studies in Visual Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Architecture,-Landscape,-and-Design"},
+      {"major": "Master of Arts in Women and Gender Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Women-and-Gender-Studies"},
+      {"major": "Doctor of Philosophy in Women and Gender Studies", "details_url": "https://sgs.calendar.utoronto.ca/degree/Women-and-Gender-Studies"}
     ]
   }
 ]
