@@ -1,0 +1,907 @@
+{
+  "id": "the_university_of_auckland",
+  "name": "The University Of Auckland",
+  "country": "new_zealand",
+  "countryDisplay": "New_zealand",
+  "logo": "http://tiny.cc/SS-Auckland",
+  "totalPrograms": 224,
+  "lastUpdated": "2026-05-04",
+  "programs": [
+    {
+      "major": "Bachelor of Architectural Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-architectural-studies-bas.html"
+    },
+    {
+      "major": "Bachelor of Arts",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-ba.html"
+    },
+    {
+      "major": "Bachelor of Arts (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-honours-bahons.html"
+    },
+    {
+      "major": "Bachelor of Biomedical Science (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-biomedical-science-honours-bbiomedschons.html"
+    },
+    {
+      "major": "Bachelor of Commerce",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-bcom.html"
+    },
+    {
+      "major": "Bachelor of Commerce (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-honours-bcomhons.html"
+    },
+    {
+      "major": "Bachelor of Communication",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication.html"
+    },
+    {
+      "major": "Bachelor of Dance Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-bdancest.html"
+    },
+    {
+      "major": "Bachelor of Dance Studies (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-honours-bdancesthons.html"
+    },
+    {
+      "major": "Bachelor of Design",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-design.html"
+    },
+    {
+      "major": "Bachelor of Early Childhood Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-early-childhood-studies.html"
+    },
+    {
+      "major": "Bachelor of Education (Teaching English to Speakers of Other Languages)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-tesol.html"
+    },
+    {
+      "major": "Bachelor of Education (Teaching)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-bedtchg.html"
+    },
+    {
+      "major": "Bachelor of Education (Teaching) (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-honours-bedtchghons.html"
+    },
+    {
+      "major": "Bachelor of Engineering (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-honours-behons.html"
+    },
+    {
+      "major": "Bachelor of Fine Arts",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-bfa.html"
+    },
+    {
+      "major": "Bachelor of Global Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-global-studies-bglobalst.html"
+    },
+    {
+      "major": "Bachelor of Health Sciences",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-health-sciences-bhsc.html"
+    },
+    {
+      "major": "Bachelor of Laws",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-llb.html"
+    },
+    {
+      "major": "Bachelor of Laws (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-honours-llbhons.html"
+    },
+    {
+      "major": "Bachelor of Medical Imaging (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/Medicalimaging.html"
+    },
+    {
+      "major": "Bachelor of Medical Science (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medical-science-honours-bmedschons.html"
+    },
+    {
+      "major": "Bachelor of Medicine and Bachelor of Surgery",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medicine-and-bachelor-of-surgery-mbchb.html"
+    },
+    {
+      "major": "Bachelor of Music",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-bmus.html"
+    },
+    {
+      "major": "Bachelor of Music (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-honours-bmus-hons.html"
+    },
+    {
+      "major": "Bachelor of Nursing",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-bnurs.html"
+    },
+    {
+      "major": "Bachelor of Nursing (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-honours-bnurshons.html"
+    },
+    {
+      "major": "Bachelor of Optometry",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-optometry-boptom.html"
+    },
+    {
+      "major": "Bachelor of Pharmacy",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-bpharm.html"
+    },
+    {
+      "major": "Bachelor of Pharmacy (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-honours-bpharmhons.html"
+    },
+    {
+      "major": "Bachelor of Property",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-property-bprop.html"
+    },
+    {
+      "major": "Bachelor of Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html"
+    },
+    {
+      "major": "Bachelor of Science (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-honours-bschons.html"
+    },
+    {
+      "major": "Bachelor of Social Justice Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-social-justice-studies.html"
+    },
+    {
+      "major": "Bachelor of Social Work (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-social-work-honours-bswhons.html"
+    },
+    {
+      "major": "Bachelor of Sport, Health and Physical Education",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-sport-health-and-physical-education-bsporthpe.html"
+    },
+    {
+      "major": "Bachelor of Urban Planning (Honours)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-urban-planning-honours-burbplanhons.html"
+    },
+    {
+      "major": "Certificate in Health Sciences",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/certificate-in-health-sciences-certhsc.html"
+    },
+    {
+      "major": "Certificate in Languages",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/certificate-in-languages-certlang.html"
+    },
+    {
+      "major": "Certificate of Proficiency",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/certificate-of-proficiency.html"
+    },
+    {
+      "major": "Diploma in Languages",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/diploma-in-languages-diplang.html"
+    },
+    {
+      "major": "Doctor of Clinical Psychology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-clinical-psychology-dclinpsy.html"
+    },
+    {
+      "major": "Doctor of Education",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-education-edd.html"
+    },
+    {
+      "major": "Doctor of Fine Arts",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-fine-arts-docfa.html"
+    },
+    {
+      "major": "Doctor of Health Sciences",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-health-sciences-dhsc.html"
+    },
+    {
+      "major": "Doctor of Medicine",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-medical-sciences-dmedsc.html"
+    },
+    {
+      "major": "Doctor of Philosophy",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html"
+    },
+    {
+      "major": "Graduate Certificate in Law",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-certificate-in-law-gradcertlaw.html"
+    },
+    {
+      "major": "Graduate Diploma in Applied Psychology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-applied-psychology-graddipapppsych.html"
+    },
+    {
+      "major": "Graduate Diploma in Architectural Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-architectural-studies.html"
+    },
+    {
+      "major": "Graduate Diploma in Arts",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-arts-graddiparts.html"
+    },
+    {
+      "major": "Graduate Diploma in Commerce",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-commerce-graddipcom.html"
+    },
+    {
+      "major": "Graduate Diploma in Engineering Project Management",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-engineering-project-management.html"
+    },
+    {
+      "major": "Graduate Diploma in Law",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-law-graddiplaw.html"
+    },
+    {
+      "major": "Graduate Diploma in Music",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-music-graddipmus.html"
+    },
+    {
+      "major": "Graduate Diploma in Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-science-graddipsci.html"
+    },
+    {
+      "major": "Graduate Diploma in Teaching (Early Childhood Education)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-early-childhood-education-graddiptchgece.html"
+    },
+    {
+      "major": "Graduate Diploma in Teaching (Primary)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-primary-graddiptchgprimary.html"
+    },
+    {
+      "major": "Graduate Diploma in Teaching (Secondary)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-secondary-graddiptchgsec.html"
+    },
+    {
+      "major": "Master of Aerospace Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-aerospace-engineering-maerospaceeng.html"
+    },
+    {
+      "major": "Master of Applied Finance",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-applied-finance.html"
+    },
+    {
+      "major": "Master of Architecture",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-march.html"
+    },
+    {
+      "major": "Master of Architecture (Professional)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-marchprof.html"
+    },
+    {
+      "major": "Master of Architecture (Professional) and Urban Design",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-design-marchprofurdes.html"
+    },
+    {
+      "major": "Master of Architecture (Professional) and Urban Planning (Professional)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-planning-professional-marchprofurbplanprof.html"
+    },
+    {
+      "major": "Master of Artificial Intelligence",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-artificial-intelligence--mai-.html"
+    },
+    {
+      "major": "Master of Arts",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-arts-ma.html"
+    },
+    {
+      "major": "Master of Audiology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-audiology-maud.html"
+    },
+    {
+      "major": "Master of Biomedical Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-biomedical-science-mbiomedsc.html"
+    },
+    {
+      "major": "Master of Bioscience Enterprise",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-bioscience-enterprise-mbioent.html"
+    },
+    {
+      "major": "Master of Biotechnology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-biotechnology-mbiotech.html"
+    },
+    {
+      "major": "Master of Business Administration",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-administration-mba.html"
+    },
+    {
+      "major": "Master of Business Analytics",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-analytics.html"
+    },
+    {
+      "major": "Master of Business Management",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-management.html"
+    },
+    {
+      "major": "Master of Chemistry",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-chemistry-mchem.html"
+    },
+    {
+      "major": "Master of Civil Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-civil-engineering-mcivileng.html"
+    },
+    {
+      "major": "Master of Clinical Education",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-education-mclined.html"
+    },
+    {
+      "major": "Master of Clinical Exercise Physiology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-exercise-physiology.html"
+    },
+    {
+      "major": "Master of Clinical Pharmacy",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-pharmacy-mclinpharm.html"
+    },
+    {
+      "major": "Master of Commerce",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-commerce-mcom.html"
+    },
+    {
+      "major": "Master of Communication",
+      "details_url": "https://www.online.auckland.ac.nz/postgraduate-programmes/arts/master-of-communication/"
+    },
+    {
+      "major": "Master of Community Dance",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-community-dance-mcommdance.html"
+    },
+    {
+      "major": "Master of Conflict and Terrorism Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-conflict-and-terrorism-studies-mcts.html"
+    },
+    {
+      "major": "Master of Counselling",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-counselling-mcouns.html"
+    },
+    {
+      "major": "Master of Creative Writing",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-creative-writing-mcw.html"
+    },
+    {
+      "major": "Master of Dance Movement Therapy",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-dance-movement-therapy.html"
+    },
+    {
+      "major": "Master of Dance Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-dance-studies-mdancest.html"
+    },
+    {
+      "major": "Master of Data Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-data-science-mdats.html"
+    },
+    {
+      "major": "Master of Design",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-design-mdes.html"
+    },
+    {
+      "major": "Master of Disaster Management",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-disaster-management-mdismgt.html"
+    },
+    {
+      "major": "Master of Earthquake Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-earthquake-engineering-meqeng.html"
+    },
+    {
+      "major": "Master of Ecology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-ecology-mecology.html"
+    },
+    {
+      "major": "Master of Education",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-med.html"
+    },
+    {
+      "major": "Master of Education Practice",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-practice-medprac.html"
+    },
+    {
+      "major": "Master of Educational Leadership",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-educational-leadership-medld.html"
+    },
+    {
+      "major": "Master of Energy",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-energy-menergy.html"
+    },
+    {
+      "major": "Master of Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-me.html"
+    },
+    {
+      "major": "Master of Engineering Geology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-geology-menggeol.html"
+    },
+    {
+      "major": "Master of Engineering Management",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-management-memgt.html"
+    },
+    {
+      "major": "Master of Engineering Project Management",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-project-management.html"
+    },
+    {
+      "major": "Master of Engineering Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-studies-mengst.html"
+    },
+    {
+      "major": "Master of Environmental Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-environmental-science-menvsci.html"
+    },
+    {
+      "major": "Master of Fine Arts",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-fine-arts-mfa.html"
+    },
+    {
+      "major": "Master of Food Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-food-science-mfoodsci.html"
+    },
+    {
+      "major": "Master of Global Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-global-studies-mglobalst.html"
+    },
+    {
+      "major": "Master of Health Leadership",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-leadership-mhlthld.html"
+    },
+    {
+      "major": "Master of Health Practice",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-practice.html"
+    },
+    {
+      "major": "Master of Health Psychology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-psychology-mhealthpsych.html"
+    },
+    {
+      "major": "Master of Health Sciences",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-sciences-mhsc.html"
+    },
+    {
+      "major": "Master of Indigenous Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-indigenous-studies-mindigst.html"
+    },
+    {
+      "major": "Master of Information Governance",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-information-governance-minfogov.html"
+    },
+    {
+      "major": "Master of Information Technology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-information-technology-minfotech.html"
+    },
+    {
+      "major": "Master of Infrastructure Asset Management",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-infrastructure-asset-management-minfraassetmgt.html"
+    },
+    {
+      "major": "Master of Intellectual Property",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-intellectual-property.html"
+    },
+    {
+      "major": "Master of International Business",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-international-business-mintbus.html"
+    },
+    {
+      "major": "Master of Laws",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-laws-llm.html"
+    },
+    {
+      "major": "Master of Legal Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-legal-studies-mls.html"
+    },
+    {
+      "major": "Master of Literature",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-literature-mlitt.html"
+    },
+    {
+      "major": "Master of Marine Conservation",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marine-conservation-mmarinecons.html"
+    },
+    {
+      "major": "Master of Marine Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marine-studies-mmarinest.html"
+    },
+    {
+      "major": "Master of Marketing",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marketing-mmktg.html"
+    },
+    {
+      "major": "Master of Materials Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-materials-engineering-mmaterialseng.html"
+    },
+    {
+      "major": "Master of Mathematical Modelling",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-mathematical-modelling-mmathmodel.html"
+    },
+    {
+      "major": "Master of Medical Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-medical-engineering-mmedicaleng.html"
+    },
+    {
+      "major": "Master of Music",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-music-mmus.html"
+    },
+    {
+      "major": "Master of Nursing",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-nursing-mnurs.html"
+    },
+    {
+      "major": "Master of Nursing Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-nursing-science-mnsc.html"
+    },
+    {
+      "major": "Master of Operations Research and Analytics",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-operations-research-and-analytics-moran.html"
+    },
+    {
+      "major": "Master of Organisational Psychology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-organisational-psychology-morgpsych.html"
+    },
+    {
+      "major": "Master of Paediatrics",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-paediatrics-.html"
+    },
+    {
+      "major": "Master of Physiotherapy Practice",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-physiotherapy-practice-mphysioprac.html"
+    },
+    {
+      "major": "Master of Professional Accounting",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-accounting-mprofacctg.html"
+    },
+    {
+      "major": "Master of Professional Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-engineering-mprofeng.html"
+    },
+    {
+      "major": "Master of Professional Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-studies-mprofstuds.html"
+    },
+    {
+      "major": "Master of Professional Supervision",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-supervision-mprofsup.html"
+    },
+    {
+      "major": "Master of Professional Supervision Practice",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-supervision-practice-mprofsupprac.html"
+    },
+    {
+      "major": "Master of Property Practice",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-property-practice-mpropprac.html"
+    },
+    {
+      "major": "Master of Public Health",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-health-mph.html"
+    },
+    {
+      "major": "Master of Public Policy",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-policy-mpp.html"
+    },
+    {
+      "major": "Master of Regional Development",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-regional-development-mregdev.html"
+    },
+    {
+      "major": "Master of Robotics and Automation Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-robotics-and-automation-engineering-mroboteng.html"
+    },
+    {
+      "major": "Master of Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-science-msc.html"
+    },
+    {
+      "major": "Master of Social and Community Leadership",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-and-community-leadership-mscl.html"
+    },
+    {
+      "major": "Master of Social Work",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-work-msw.html"
+    },
+    {
+      "major": "Master of Social Work (Professional)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-work-professional-mswprof.html"
+    },
+    {
+      "major": "Master of Speech Language Therapy Practice",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-speech-language-therapy-practice-msltprac.html"
+    },
+    {
+      "major": "Master of Taxation Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-taxation-studies-mtaxs.html"
+    },
+    {
+      "major": "Master of Teaching English to Speakers of Other Languages",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-teaching-english-to-speakers-of-other-languages-mtesol.html"
+    },
+    {
+      "major": "Master of Urban Design",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-design-murbdes.html"
+    },
+    {
+      "major": "Master of Urban Planning",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-murbplan.html"
+    },
+    {
+      "major": "Master of Urban Planning (Professional)",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-professional-murbplanprof.html"
+    },
+    {
+      "major": "Master of Urban Planning (Professional) and Urban Design",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-professional-and-urban-design-murbplanprofurbdes.html"
+    },
+    {
+      "major": "Master of Wine Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-wine-science-mwinesci.html"
+    },
+    {
+      "major": "New Start General",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/preparation-and-foundation-programmes/new-start.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Aerospace Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-aerospace-engineering-pgcertaerospaceeng.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Applied Finance",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-applied-finance.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Business Analytics",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-business-analytics-pgcertbusan.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Business Management",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-business-management-pgcertbm.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Civil Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-civil-engineering-pgcertcivileng.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Clinical Education",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-clinical-education-pgcertclined.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Clinical Pharmacy",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-clinical-pharmacy-pgcertclinpharm.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Data Science",
+      "details_url": "https://www.online.auckland.ac.nz/postgraduate-programmes/science/postgraduate-certificate-in-data-science/"
+    },
+    {
+      "major": "Postgraduate Certificate in Design",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-design-pgcertdes.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Earthquake Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-earthquake-engineering-pgcerteqeng.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Education",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-education-pgcerted.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-engineering-pgcerteng.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Fine Arts",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-fine-arts-pgcertfa.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Geothermal Energy Technology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-geothermal-energy-technology-pgcertgeothermtech.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Health Sciences",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-health-sciences-pgcerthsc.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Information Governance",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-information-governance.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Information Technology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-information-technology-pgcertinfotech.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Infrastructure Asset Management",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-infrastructure-asset-management-pgcertinfraassetmgt.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Intellectual Property",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-intellectual-property.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Law",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-law-pgcertlaw.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Materials Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-materials-engineering-pgcertmaterialseng.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Mathematical Modelling",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-mathematical-modelling-pgcertmathmodel.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Medical Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-medical-engineering-pgcertmedicaleng.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Music",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-music-pgcertmus.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Operations Research and Analytics",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-operations-research-and-analytics-pgcertoran.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Paediatrics",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-paediatrics-.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Professional Supervision",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-professional-supervision-pgcertprofsup.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Property Practice",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-property-practice-pgcertpropprac.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Regional Development",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-regional-development-pgcertregdev.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Robotics and Automation Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-robotics-and-automation-engineering-pgcertroboteng.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Social and Community Leadership",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-social-and-community-leadership-pgcertscl.html"
+    },
+    {
+      "major": "Postgraduate Certificate in Teaching Linguistically Diverse Learners",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-teaching-linguistically-diverse-learners-pgcerttldl.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Aerospace Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-aerospace-engineering-pgdipaerospaceeng.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Applied Psychology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-applied-psychology-pgdipapppsych.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Architecture",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-architecture-pgdiparch.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Artificial Intelligence",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-artificial-intelligence.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Arts",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-arts-pgdiparts.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Biomedical Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-biomedical-science-pgdipbiomedsc.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Bioscience Enterprise",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-bioscience-enterprise-pgdipbioent.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Business",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-business-pgdipbus.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Civil Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-civil-engineering-pgdipcivileng.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Clinical Education",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-clinical-education-pgdipclined.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Clinical Pharmacy",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-clinical-pharmacy-pgdipclinpharm.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Counselling Theory",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-counselling-theory-pgdipcounsth.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Dance Studies",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-dance-studies-pgdipdancest.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Education",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-education-pgdiped.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Educational Leadership",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-educational-leadership-pgdipedld.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-engineering-pgdipeng.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Fine Arts",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-fine-arts-pgdipfa.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Forensic Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-forensic-science-pgdipforensic.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Health Psychology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-health-psychology-pgdiphealthpsych.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Health Sciences",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-health-sciences-pgdiphsc.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Information Governance",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-information-governance.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Infrastructure Asset Management",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-infrastructure-asset-management-pgdipinfraassetmgt.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Language Teaching",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-language-teaching-pgdiplt.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Materials Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-materials-engineering-pgdipmaterialseng.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Mathematical Modelling",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-mathematical-modelling-pgdipmathmodel.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Medical Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-medical-engineering-pgdipmedicaleng.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Music",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-music-pgdipmus.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Obstetrics and Medical Gynaecology",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-obstetrics-and-medical-gynaecology-pgdipobstmedgyn.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Operations Research and Analytics",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-operations-research-and-analytics-pgdiporan.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Paediatrics",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-paediatrics.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Professional Supervision",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-professional-supervision-pgdipprofsup.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Public Health",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-public-health-pgdipph.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Robotics and Automation Engineering",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-robotics-and-automation-engineering-pgdiproboteng.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Science",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-science-pgdipsci.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Social Work",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-social-work-pgdipsw.html"
+    },
+    {
+      "major": "Postgraduate Diploma in Stroke Care",
+      "details_url": "https://www.online.auckland.ac.nz/postgraduate-programmes/fmhs/postgraduate-diploma-in-stroke-care/"
+    },
+    {
+      "major": "Postgraduate Diploma in Teaching Linguistically Diverse Learners",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-teaching-linguistically-diverse-learners-pgdiptldl.html"
+    },
+    {
+      "major": "Tertiary Foundation Certificate",
+      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/tertiary-foundation-certificate.html"
+    }
+  ]
+}

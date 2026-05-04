@@ -1,0 +1,20 @@
+[
+  {
+    "id": "aotearoa_career_and_management_institute_acmi",
+    "name": "Aotearoa Career and Management Institute (ACMI)",
+    "totalPrograms": 6,
+    "logo": "http://tiny.cc/SS-ACMI"
+  },
+  {
+    "id": "auckland_university_of_technology_aut",
+    "name": "Auckland University of Technology (AUT)",
+    "totalPrograms": 306,
+    "logo": "http://tiny.cc/SS-AUT"
+  },
+  {
+    "id": "the_university_of_auckland",
+    "name": "The University Of Auckland",
+    "totalPrograms": 224,
+    "logo": "http://tiny.cc/SS-Auckland"
+  }
+]
