@@ -1,0 +1,219 @@
+{
+  "id": "acknowledge_education",
+  "name": "Acknowledge Education",
+  "country": "australia",
+  "countryDisplay": "Australia",
+  "logo": "http://tiny.cc/oh7i001",
+  "totalPrograms": 19,
+  "lastUpdated": "2026-05-04",
+  "programs": [
+    {
+      "major": "Civil Construction Design",
+      "program": "Advanced Diploma",
+      "duration": "2 years full-time",
+      "entryRequirements": "Pre-requisite: Diploma of Civil Construction Design (RII50520); Completion of Year 12 or equivalent; IELTS 5.5 or equivalent (PTE 36, TOEFL iBT 46, TOEFL PBT 453, CAE 162); Minimum age: 18 years",
+      "fees": "AUD $24,000 total tuition; Materials: AUD $400",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/advanced-diploma-of-civil-construction-design",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/advanced-diploma-of-civil-construction-design",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/kj7i001"
+    },
+    {
+      "major": "Civil Construction Design",
+      "program": "Diploma",
+      "duration": "1.5 years full-time",
+      "entryRequirements": "Completion of Year 12 or equivalent; IELTS 5.5 or equivalent; Minimum age: 18 years",
+      "fees": "AUD $18,300 total tuition; Materials: AUD $400",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-civil-construction-design",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-civil-construction-design",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/kj7i001"
+    },
+    {
+      "major": "Commercial Cookery",
+      "program": "Certificate III",
+      "duration": "1 year",
+      "entryRequirements": "Completion of Year 11 or equivalent; IELTS 5.5 or equivalent",
+      "fees": "AUD $10,000 tuition + AUD $500 materials",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iii-in-commercial-cookery",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/certificate-iii-in-commercial-cookery",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/gl7i001"
+    },
+    {
+      "major": "Community Services",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time",
+      "entryRequirements": "Academic: Completion of Year 12 or equivalent | English: IELTS 6.0 (no band <5.5) or equivalent",
+      "fees": "AUD $22,000 per year (indicative)",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/bachelor-of-community-services",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/bachelor-of-community-services",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/jk7i001"
+    },
+    {
+      "major": "Community Services (1 year)",
+      "program": "Diploma",
+      "duration": "1 year full-time",
+      "entryRequirements": "Academic: Completion of Year 12 or equivalent | English: IELTS 6.0 (no band <5.5) or equivalent",
+      "fees": "AUD $15,000 (indicative total fee)",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-community-services-1-year",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-community-services-1-year",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/jk7i001"
+    },
+    {
+      "major": "Construction Project Management",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time (9 trimesters)",
+      "entryRequirements": "IELTS: 6.5 (no band <6.0) | TOEFL iBT: 79 (R13, L13, S18, W21) | Academic: Completion of Year 12 or equivalent",
+      "fees": "AUD $48,000 total (24 units x $2,000 per unit)",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/bachelor-of-construction-project-management",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/bachelor-of-construction-project-management",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/wi7i001"
+    },
+    {
+      "major": "Counselling",
+      "program": "Master Degree",
+      "duration": "2 years full-time",
+      "entryRequirements": "Academic: Bachelor degree in any discipline | English: IELTS 6.5 (no band <6.0) or equivalent",
+      "fees": "AUD $28,000 per year (indicative)",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/master-of-counselling",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/master-of-counselling",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/dk7i001"
+    },
+    {
+      "major": "Early Childhood Education",
+      "program": "Graduate Diploma",
+      "duration": "1 year full-time (3 trimesters)",
+      "entryRequirements": "IELTS: 6.5 (no band <6.0) | TOEFL iBT: 79 (R13, L13, S18, W21) | Academic: Bachelor degree or equivalent in any discipline",
+      "fees": "AUD $25,200 total (On-campus: $3,150 per unit x 8 units)",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/graduate-diploma-of-early-childhood-education",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/graduate-diploma-of-early-childhood-education",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/ni7i001"
+    },
+    {
+      "major": "General English",
+      "program": "English Language Course",
+      "duration": "1–52 weeks",
+      "entryRequirements": "Minimum age: 18 years",
+      "fees": "AUD $340 per week; Materials: AUD $100 (1–4 weeks), AUD $200 (5–20 weeks), AUD $300 (21–30 weeks); Books to be purchased as required for durations over 30 weeks",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/general-english",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/general-english",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/nj7i001"
+    },
+    {
+      "major": "Health and Community",
+      "program": "Graduate Certificate",
+      "duration": "14 weeks full-time",
+      "entryRequirements": "Academic: Bachelor degree in a related field | English: IELTS 6.5 (no band <6.0) or equivalent",
+      "fees": "AUD $7,000 (indicative total fee)",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/graduate-certificate-of-health-and-community",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/graduate-certificate-of-health-and-community",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/7k7i001"
+    },
+    {
+      "major": "Hospitality Management",
+      "program": "Advanced Diploma",
+      "duration": "6 months",
+      "entryRequirements": "Completion of Diploma of Hospitality Management or equivalent; IELTS 5.5 or equivalent",
+      "fees": "AUD $4,200 tuition + AUD $200 materials",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/advanced-diploma-of-hospitality-management",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/advanced-diploma-of-hospitality-management",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/fl7i001"
+    },
+    {
+      "major": "Hospitality Management – Commercial Cookery",
+      "program": "Diploma",
+      "duration": "6 months",
+      "entryRequirements": "Completion of Certificate IV in Kitchen Management or equivalent; IELTS 5.5 or equivalent",
+      "fees": "AUD $4,200 tuition + AUD $100 materials",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-hospitality-management-commercial-cookery",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-hospitality-management-commercial-cookery",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/fl7i001"
+    },
+    {
+      "major": "Hospitality Management – Patisserie Stream",
+      "program": "Diploma",
+      "duration": "6 months",
+      "entryRequirements": "Completion of Certificate IV in Patisserie or equivalent; IELTS 5.5 or equivalent",
+      "fees": "AUD $4,200 tuition + AUD $100 materials",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-hospitality-management",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-hospitality-management",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/fl7i001"
+    },
+    {
+      "major": "Kitchen Management",
+      "program": "Certificate IV",
+      "duration": "6 months",
+      "entryRequirements": "Completion of Certificate III in Commercial Cookery or equivalent; IELTS 5.5 or equivalent",
+      "fees": "AUD $4,200 tuition + AUD $100 materials",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iv-in-kitchen-management",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/certificate-iv-in-kitchen-management",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/pl7i001"
+    },
+    {
+      "major": "Nursing",
+      "program": "Diploma",
+      "duration": "2 years full-time",
+      "entryRequirements": "Academic: Completion of Year 12 or equivalent | English: IELTS 7.0 (no band <7.0) or equivalent",
+      "fees": "AUD $30,000 (indicative total fee)",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-nursing",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/diploma-of-nursing",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/mk7i001"
+    },
+    {
+      "major": "Patisserie",
+      "program": "Certificate IV",
+      "duration": "6 months",
+      "entryRequirements": "Completion of Year 11 or equivalent; IELTS 5.5 or equivalent",
+      "fees": "AUD $4,725 tuition + AUD $100 materials",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iv-in-patisserie",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/certificate-iv-in-patisserie",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/cl7i001"
+    },
+    {
+      "major": "Patisserie",
+      "program": "Certificate III",
+      "duration": "1 year",
+      "entryRequirements": "Completion of Year 11 or equivalent; IELTS 5.5 or equivalent",
+      "fees": "AUD $10,500 tuition + AUD $500 materials",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/certificate-iii-in-patisserie",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/certificate-iii-in-patisserie",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/cl7i001"
+    },
+    {
+      "major": "Social Work",
+      "program": "Bachelor Degree",
+      "duration": "4 years full-time",
+      "entryRequirements": "Academic: Completion of Year 12 or equivalent | English: IELTS 6.5 (no band <6.0) or equivalent",
+      "fees": "AUD $24,000 per year (indicative)",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/bachelor-of-social-work",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/bachelor-of-social-work",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees"
+    },
+    {
+      "major": "Tourism and Hospitality Management",
+      "program": "Bachelor Degree",
+      "duration": "3 years",
+      "entryRequirements": "Completion of Year 12 or equivalent; IELTS 6.0 or equivalent",
+      "fees": "AUD $6,750 per trimester",
+      "details_url": "https://www.acknowledgeeducation.edu.au/courses/bachelor-of-tourism-and-hospitality-management",
+      "courseDetail": "https://www.acknowledgeeducation.edu.au/courses/bachelor-of-tourism-and-hospitality-management",
+      "scholarship": "https://www.acknowledgeeducation.edu.au/international-student-fees",
+      "otherInstitution": "http://tiny.cc/ml7i001"
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "id": "acbi_australian_college_of_business_intelligence",
+  "name": "ACBI (Australian College of Business Intelligence)",
+  "country": "australia",
+  "countryDisplay": "Australia",
+  "logo": "http://tiny.cc/bzjk001",
+  "totalPrograms": 20,
+  "lastUpdated": "2026-05-04",
+  "programs": [
+    {
+      "major": "Artificial Intelligence",
+      "program": "Diploma",
+      "duration": "52 Weeks",
+      "entryRequirements": "Upper Intermediate English (IELTS 6.0) for international students",
+      "fees": "AUD 1,800 / Term",
+      "details_url": "https://www.acbi.edu.au/11287nat-diploma-of-artificial-intelligence/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/04/diploma-of-artificial-intelligence-ai.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/g6kk001"
+    },
+    {
+      "major": "Design",
+      "program": "Certificate IV",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,700 / Term",
+      "details_url": "https://www.acbi.edu.au/cua40720-certificate-iv-in-design/",
+      "courseDetail": "https://www.acbi.edu.au/cua40720-certificate-iv-in-design/",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/w6kk001"
+    },
+    {
+      "major": "Digital Marketing",
+      "program": "Diploma",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,700 / Term",
+      "details_url": "https://www.acbi.edu.au/10931nat-diploma-of-digital-marketing-1/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/05/diploma-of-digital-marketing-acbi.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/r6kk001"
+    },
+    {
+      "major": "Digital Marketing",
+      "program": "Advanced Diploma",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent plus one year relevant experience; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,800 / Term",
+      "details_url": "https://www.acbi.edu.au/courses/digital-marketing/11266nat-advanced-diploma-of-digital-marketing/",
+      "courseDetail": "https://www.acbi.edu.au/courses/digital-marketing/11266nat-advanced-diploma-of-digital-marketing/",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/r6kk001"
+    },
+    {
+      "major": "Environmentally Sustainable Management",
+      "program": "Certificate IV",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 10 or Certificate III (Business); IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,700 / Term",
+      "details_url": "https://www.acbi.edu.au/certificate-iv-environmentally-sustainable-management/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/04/apa-itu-jurusan-certificate-iv-in.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/d6kk001"
+    },
+    {
+      "major": "Graphic Design",
+      "program": "Diploma",
+      "duration": "78 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 2,100 / Term",
+      "details_url": "https://www.acbi.edu.au/cua50720-diploma-of-graphic-design/",
+      "courseDetail": "https://www.acbi.edu.au/cua50720-diploma-of-graphic-design/",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/37kk001"
+    },
+    {
+      "major": "Graphic Design",
+      "program": "Advanced Diploma",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 2,100 / Term",
+      "details_url": "https://www.acbi.edu.au/cua60320-advanced-diploma-of-graphic-design/",
+      "courseDetail": "https://www.acbi.edu.au/cua60320-advanced-diploma-of-graphic-design/",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/37kk001"
+    },
+    {
+      "major": "Health Administration",
+      "program": "Certificate IV",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,600 / Term",
+      "details_url": "https://www.acbi.edu.au/hlt47321-certificate-iv-in-health-administration/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/04/certificate-iv-in-health-administration.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/s5kk001"
+    },
+    {
+      "major": "Information Technology",
+      "program": "Certificate IV",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 11 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,600 / Term",
+      "details_url": "https://www.acbi.edu.au/ict40120-certificate-iv-in-information-technology/",
+      "courseDetail": "https://blog.starshipeducation.com/2025/08/ACBI-certificate-iv-information-technology.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/r9rh001"
+    },
+    {
+      "major": "Information Technology",
+      "program": "Advanced Diploma",
+      "duration": "104 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,800 / Term",
+      "details_url": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-management/",
+      "courseDetail": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-management/",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/r9rh001"
+    },
+    {
+      "major": "Information Technology (Cyber Security)",
+      "program": "Advanced Diploma",
+      "duration": "104 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,800 / Term",
+      "details_url": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-cyber-security/",
+      "courseDetail": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-cyber-security/",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/c7kk001"
+    },
+    {
+      "major": "Information Technology (Front End Web Development)",
+      "program": "Diploma",
+      "duration": "78 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,700 / Term",
+      "details_url": "https://www.acbi.edu.au/ict50220-diploma-of-it-website-development/",
+      "courseDetail": "https://www.acbi.edu.au/ict50220-diploma-of-it-website-development/",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/b7kk001"
+    },
+    {
+      "major": "Information Technology (Telecommunications Network Engineering)",
+      "program": "Advanced Diploma",
+      "duration": "104 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,800 / Term",
+      "details_url": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-telecommunications-network-engineering/",
+      "courseDetail": "https://www.acbi.edu.au/ict60220-advanced-diploma-of-information-technology-telecommunications-network-engineering/",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/e7kk001"
+    },
+    {
+      "major": "Leadership & Management",
+      "program": "Diploma",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,700 / Term",
+      "details_url": "https://www.acbi.edu.au/bsb50420-diploma-of-leadership-and-management/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/04/diploma-of-leadership-and-management.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/ryrh001"
+    },
+    {
+      "major": "Leadership & Management",
+      "program": "Advanced Diploma",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,800 / Term",
+      "details_url": "https://www.acbi.edu.au/bsb60420-advanced-diploma-of-leadership-and-management-2/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/04/advanced-diploma-of-leadership-and.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/ryrh001"
+    },
+    {
+      "major": "Program Management",
+      "program": "Advanced Diploma",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed BSB50820 Diploma of Project Management (or equivalent) or two years relevant work experience",
+      "fees": "AUD 1,800 / Term",
+      "details_url": "https://www.acbi.edu.au/bsb60720-advanced-diploma-of-program-management/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/04/advanced-diploma-of-program-management.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/kzrh001"
+    },
+    {
+      "major": "Project Management",
+      "program": "Diploma",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,700 / Term",
+      "details_url": "https://www.acbi.edu.au/bsb50820-diploma-of-project-management/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/04/diploma-of-project-management-acbi.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/kzrh001"
+    },
+    {
+      "major": "Social Media and Digital Marketing",
+      "program": "Certificate IV",
+      "duration": "52 Weeks",
+      "entryRequirements": "Completed Australian Year 10 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,600 / Term",
+      "details_url": "https://www.acbi.edu.au/11302nat-certificate-iv-in-social-media-and-digital-marketing/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/05/certificate-iv-in-social-media-and.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/n6kk001"
+    },
+    {
+      "major": "Strategic Leadership",
+      "program": "Graduate Diploma",
+      "duration": "104 Weeks",
+      "entryRequirements": "Completed Australian Year 10 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 2,000 / Term",
+      "details_url": "https://www.acbi.edu.au/courses/management/bsb80320-graduate-diploma-of-strategic-leadership/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/04/graduate-diploma-of-strategic.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/ryrh001"
+    },
+    {
+      "major": "Sustainable Operations",
+      "program": "Diploma",
+      "duration": "78 Weeks",
+      "entryRequirements": "Completed Australian Year 12 or equivalent; IELTS 6.0 (non-native English speakers)",
+      "fees": "AUD 1,700 / Term",
+      "details_url": "https://www.acbi.edu.au/mss50122-diploma-of-sustainable-operations/",
+      "courseDetail": "https://blog.starshipeducation.com/2026/04/diploma-of-sustainable-operations-acbi.html",
+      "scholarship": "https://www.acbi.edu.au/current-students/student-support/financial-support/",
+      "otherInstitution": "http://tiny.cc/d6kk001"
+    }
+  ]
+}

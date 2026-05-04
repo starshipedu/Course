@@ -1,0 +1,209 @@
+{
+  "id": "the_university_of_adelaide_uoa",
+  "name": "The University of Adelaide (UoA)",
+  "country": "australia",
+  "countryDisplay": "Australia",
+  "logo": "http://tiny.cc/ss-adelaidelogo",
+  "totalPrograms": 18,
+  "lastUpdated": "2026-05-04",
+  "programs": [
+    {
+      "major": "Agricultural Sciences",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 in each band) | TOEFL 79 (R13, L13, S18, W21) | ATAR 75 | International Baccalaureate: 24 | GCE A Levels: 7 | Indonesia – SMA3: 75% / Foundation studies",
+      "fees": "AUD 52,300 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/bags_bagricsci.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/bags_bagricsci.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/jgce001"
+    },
+    {
+      "major": "Applied Data Analytics",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL 79 (R13, L13, S18, W21) | ATAR 75 | International Baccalaureate: 24 | GCE A Levels: 7 | Indonesia – SMA3: 75% / Foundation studies",
+      "fees": "AUD 50,800 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/bada_bapda.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/bada_bapda.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/tjce001"
+    },
+    {
+      "major": "Architectural Design",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL 79 (R13, L13, S18, W21) | ATAR 80 | International Baccalaureate: 26 | GCE A Levels: 8 | Indonesia – SMA3: 77% / Foundation studies",
+      "fees": "AUD 48,100 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/bdest_bdesignst.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/bdest_bdesignst.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/7lce001"
+    },
+    {
+      "major": "Arts",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL 79 (R13, L13, S18, W21) | ATAR 70 | International Baccalaureate: 24 | GCE A Levels: 7 | Indonesia – SMA3: 75% / Foundation studies",
+      "fees": "AUD 41,300 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/barts_bart.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/barts_bart.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/olce001"
+    },
+    {
+      "major": "Biotechnology",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL 79 (R13, L13, S18, W21) | ATAR 75 | International Baccalaureate: 26 | GCE A Levels: 8 | Indonesia – SMA3: 77% / Foundation studies",
+      "fees": "AUD 50,800 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/bbio_bbiotec.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/bbio_bbiotec.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/fmce001"
+    },
+    {
+      "major": "Biotechnology (Honours)",
+      "program": "Bachelor Degree (Honours)",
+      "duration": "4 years",
+      "entryRequirements": "IELTS: 6.5 overall, TOEFL: 79 overall, ATAR: 75, IB: 26, A Level: 8, Indonesia- SMA3: 77%, Foundation: 74%}",
+      "fees": "AUD 50,800 per year",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/hbio_hbbiotec.html",
+      "courseDetail": "https://calendar.adelaide.edu.au/aprcw/2024/hbio_hbbiotec",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/fmce001"
+    },
+    {
+      "major": "Business",
+      "program": "Bachelor Degree",
+      "duration": "3 years",
+      "entryRequirements": "IELTS: 6.5 overall, TOEFL: 79 overall, ATAR: 73, IB: 26, A Level: 7, Indonesia - SMA3: 75%, Foundation: 73%",
+      "fees": "AUD 48,100 per year",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/bbus_bbusiness.html",
+      "courseDetail": "https://calendar.adelaide.edu.au/aprcw/2024/bbus_bbusiness",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/5a4j001"
+    },
+    {
+      "major": "Commerce",
+      "program": "Bachelor Degree",
+      "duration": "3 years",
+      "entryRequirements": "IELTS: 6.5 overall, TOEFL: 79 overall, ATAR: 75, IB: 26, A Level: 8, Indonesia - SMA3: 77%, Foundation: 74",
+      "fees": "$49,700 per year",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/bcom_bcom.html",
+      "courseDetail": "https://calendar.adelaide.edu.au/aprcw/2024/bcom_bcombcomacctbcomacctosbcomcorfin",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/aa4j001"
+    },
+    {
+      "major": "Computer Science",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 79 (R13, L13, S18, W21) | Guaranteed Entry Score - ATAR: 80 | International Baccalaureate: 29.5",
+      "fees": "AUD $50,800 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/bcomp_bcmpsci.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/bcomp_bcmpsci.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/45lt001"
+    },
+    {
+      "major": "Computer Science (Advanced)",
+      "program": "Bachelor Degree (Advanced)",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 79 (R13, L13, S18, W21) | Guaranteed Entry Score - ATAR: 95 | International Baccalaureate: 38.25",
+      "fees": "AUD $50,800 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/bcmsa_bcmpscadv.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/bcmsa_bcmpscadv.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/45lt001"
+    },
+    {
+      "major": "Construction Management",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 79 (R13, L13, S18, W21) | Guaranteed Entry Score - ATAR: 75 | International Baccalaureate: 27.5",
+      "fees": "AUD $49,000 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/bcm_bconsmgt.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/bcm_bconsmgt.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/95lt001"
+    },
+    {
+      "major": "Construction Management (Honours)",
+      "program": "Bachelor Degree (Honours)",
+      "duration": "4 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 79 (R13, L13, S18, W21) | Guaranteed Entry Score - ATAR: 75 | International Baccalaureate: 27.5",
+      "fees": "AUD $49,000 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/hcm_hbcm.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/hcm_hbcm.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/95lt001"
+    },
+    {
+      "major": "Criminology",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 79 (R13, L13, S18, W21) | Guaranteed Entry Score - ATAR: 70 | International Baccalaureate: 25.5",
+      "fees": "AUD $41,300 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/bcrim_bcrim.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/bcrim_bcrim.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/b5lt001"
+    },
+    {
+      "major": "Dental Surgery",
+      "program": "Bachelor Degree (professional)",
+      "duration": "5 years full-time",
+      "entryRequirements": "English/professional registration requirement: IELTS academic level 7.0 (or equivalent) — dentistry programs require higher English standard; ATAR: N/A (program has strict quotas and selection criteria)",
+      "fees": "AUD $99,100 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/bds_bds.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/bds_bds.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/c5lt001"
+    },
+    {
+      "major": "Economics",
+      "program": "Bachelor Degree",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 79 (R13, L13, S18, W21) | Guaranteed Entry Score - ATAR: 75 | International Baccalaureate: 27.5",
+      "fees": "AUD $49,700 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/bec_becon.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/bec_becon.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/e5lt001"
+    },
+    {
+      "major": "Economics (Advanced)",
+      "program": "Bachelor Degree (Advanced)",
+      "duration": "3 years full-time",
+      "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 79 (R13, L13, S18, W21) | Guaranteed Entry Score - ATAR: 95 | International Baccalaureate: 38.25",
+      "fees": "AUD $49,700 per year (Indicative international fee)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/beca_beconadv.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/beca_beconadv.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/e5lt001"
+    },
+    {
+      "major": "Engineering (Honours) - Engineering Pathway",
+      "program": "Pathway (1 year)",
+      "duration": "1 year full-time",
+      "entryRequirements": "Not available for international students (program notes: this pathway is not open to international applicants)",
+      "fees": "N/A (program not available for international students)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/behep_behengpath.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/behep_behengpath.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/g5lt001"
+    },
+    {
+      "major": "Engineering (Honours) - Flexible Entry",
+      "program": "Pathway (1 year)",
+      "duration": "1 year full-time",
+      "entryRequirements": "Not available for international students (program not open to international applicants at this time)",
+      "fees": "N/A (program not available for international students)",
+      "details_url": "https://www.adelaide.edu.au/degree-finder/2025/behf_behflex.html",
+      "courseDetail": "https://www.adelaide.edu.au/degree-finder/2025/behf_behflex.html#course-structure",
+      "scholarship": "https://international.adelaide.edu.au/admissions/scholarships",
+      "otherInstitution": "http://tiny.cc/g5lt001"
+    }
+  ]
+}

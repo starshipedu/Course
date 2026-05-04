@@ -1,0 +1,116 @@
+[
+  {
+    "id": "abbey_college_australia",
+    "name": "Abbey College Australia",
+    "totalPrograms": 20,
+    "logo": "http://tiny.cc/6ubp001"
+  },
+  {
+    "id": "academia_australia",
+    "name": "Academia Australia",
+    "totalPrograms": 15,
+    "logo": "http://tiny.cc/qw8h001"
+  },
+  {
+    "id": "academies_australia",
+    "name": "Academies Australia",
+    "totalPrograms": 16,
+    "logo": "http://tiny.cc/t6rh001"
+  },
+  {
+    "id": "academique_australia",
+    "name": "Academique Australia",
+    "totalPrograms": 12,
+    "logo": "http://tiny.cc/kxvh001"
+  },
+  {
+    "id": "acbi_australian_college_of_business_intelligence",
+    "name": "ACBI (Australian College of Business Intelligence)",
+    "totalPrograms": 20,
+    "logo": "http://tiny.cc/bzjk001"
+  },
+  {
+    "id": "acknowledge_education",
+    "name": "Acknowledge Education",
+    "totalPrograms": 19,
+    "logo": "http://tiny.cc/oh7i001"
+  },
+  {
+    "id": "australian_national_university",
+    "name": "Australian National University",
+    "totalPrograms": 42,
+    "logo": "http://tiny.cc/SS-ANU"
+  },
+  {
+    "id": "curtin_university",
+    "name": "Curtin University",
+    "totalPrograms": 577,
+    "logo": "http://tiny.cc/2xpt001"
+  },
+  {
+    "id": "macquarie_university",
+    "name": "Macquarie University",
+    "totalPrograms": 68,
+    "logo": "http://tiny.cc/w4pq001"
+  },
+  {
+    "id": "monash_university_australia",
+    "name": "Monash University Australia",
+    "totalPrograms": 33,
+    "logo": "http://tiny.cc/SS-Monashuniversity"
+  },
+  {
+    "id": "novus_college",
+    "name": "Novus College",
+    "totalPrograms": 28,
+    "logo": "http://tiny.cc/11bu001"
+  },
+  {
+    "id": "rmit_university",
+    "name": "RMIT University",
+    "totalPrograms": 74,
+    "logo": "http://tiny.cc/SS-RMIT"
+  },
+  {
+    "id": "the_university_of_adelaide_uoa",
+    "name": "The University of Adelaide (UoA)",
+    "totalPrograms": 18,
+    "logo": "http://tiny.cc/ss-adelaidelogo"
+  },
+  {
+    "id": "the_university_of_melbourne",
+    "name": "The University of Melbourne",
+    "totalPrograms": 284,
+    "logo": "http://tiny.cc/SS-Unimelb"
+  },
+  {
+    "id": "the_university_of_queensland_uq",
+    "name": "The University Of Queensland (UQ)",
+    "totalPrograms": 49,
+    "logo": "http://tiny.cc/SS-UQ"
+  },
+  {
+    "id": "the_university_of_sydney",
+    "name": "The University of Sydney",
+    "totalPrograms": 12,
+    "logo": "http://tiny.cc/SS-usyd"
+  },
+  {
+    "id": "university_of_new_south_wales_unsw",
+    "name": "University of New South Wales (UNSW)",
+    "totalPrograms": 27,
+    "logo": "http://tiny.cc/SS-UNSW"
+  },
+  {
+    "id": "university_of_technology_sydney_uts",
+    "name": "University of Technology Sydney (UTS)",
+    "totalPrograms": 117,
+    "logo": "http://tiny.cc/2sbq001"
+  },
+  {
+    "id": "university_of_western_australia_uwa",
+    "name": "University of Western Australia (UWA)",
+    "totalPrograms": 9,
+    "logo": "http://tiny.cc/SS-UWAlogo"
+  }
+]

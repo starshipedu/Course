@@ -1,0 +1,187 @@
+{
+  "id": "academies_australia",
+  "name": "Academies Australia",
+  "country": "australia",
+  "countryDisplay": "Australia",
+  "logo": "http://tiny.cc/t6rh001",
+  "totalPrograms": 16,
+  "lastUpdated": "2026-05-04",
+  "programs": [
+    {
+      "major": "Community Services",
+      "program": "Diploma",
+      "duration": "8 terms (72 college weeks)",
+      "entryRequirements": "IELTS: 6.0 overall (no band less than 5.5) | TOEFL iBT: 60 | Equivalent qualifications accepted",
+      "fees": "AUD $2,250 per term (Total indicative: AUD $18,000)",
+      "details_url": "https://academies.edu.au/courses-syd-community-services/",
+      "courseDetail": "https://academies.edu.au/courses-syd-community-services/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/49rh001"
+    },
+    {
+      "major": "Early Childhood Education and Care",
+      "program": "Certificate III",
+      "duration": "4 terms (approximately 36 college weeks)",
+      "entryRequirements": "IELTS: 5.5 overall (no band less than 5.0) or equivalent English proficiency",
+      "fees": "AUD $2,500 per term",
+      "details_url": "https://academies.edu.au/courses-syd-ecec/",
+      "courseDetail": "https://academies.edu.au/courses-syd-ecec/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/b9rh001"
+    },
+    {
+      "major": "Early Childhood Education and Care",
+      "program": "Diploma",
+      "duration": "4 terms (approximately 36 college weeks)",
+      "entryRequirements": "Direct entry requires Certificate III in Early Childhood Education and Care (CHC30121 or CHC30113); IELTS: 5.5 overall (no band less than 5.0) or equivalent English proficiency",
+      "fees": "AUD $2,500 per term",
+      "details_url": "https://academies.edu.au/courses-syd-ecec/",
+      "courseDetail": "https://academies.edu.au/courses-syd-ecec/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/b9rh001"
+    },
+    {
+      "major": "Holistic Classical Yoga Teaching and Therapy",
+      "program": "Advanced Diploma",
+      "duration": "45 college weeks (5 terms)",
+      "entryRequirements": "IELTS 5.5 (no band lower than 5.0) or equivalent | Completion of Year 12 or equivalent",
+      "fees": "AUD $15,000 total (AUD $3,000 per term)",
+      "details_url": "https://academies.edu.au/courses-syd-sports-fitness/",
+      "courseDetail": "https://academies.edu.au/wp-content/uploads/2025/03/Sydney_Yoga_T22025.pdf",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/uzrh001"
+    },
+    {
+      "major": "Hospitality Management",
+      "program": "Diploma",
+      "duration": "6 terms (54 college weeks)",
+      "entryRequirements": "IELTS 5.5 (no band less than 5.0) or equivalent; Academic: Australian Year 11 or equivalent",
+      "fees": "AUD $2,000 per term (Indicative international fee)",
+      "details_url": "https://academies.edu.au/courses-sydney-hospitality-management/",
+      "courseDetail": "https://academies.edu.au/courses-sydney-hospitality-management/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/g9rh001"
+    },
+    {
+      "major": "Hospitality Management",
+      "program": "Advanced Diploma",
+      "duration": "2 terms (18 college weeks) after completing Diploma",
+      "entryRequirements": "Must complete Diploma of Hospitality Management (SIT50422); IELTS 5.5 (no band less than 5.0) or equivalent",
+      "fees": "AUD $2,000 per term (Indicative international fee)",
+      "details_url": "https://academies.edu.au/courses-sydney-hospitality-management/",
+      "courseDetail": "https://academies.edu.au/courses-sydney-hospitality-management/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/g9rh001"
+    },
+    {
+      "major": "Information Technology",
+      "program": "Certificate IV",
+      "duration": "27 college weeks (approximately 9 months)",
+      "entryRequirements": "IELTS: 5.5 or equivalent",
+      "fees": "AUD $6,000 total (AUD $2,000 per term)",
+      "details_url": "https://academies.edu.au/courses-syd-it/",
+      "courseDetail": "https://academies.edu.au/courses-syd-it/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/r9rh001"
+    },
+    {
+      "major": "Information Technology",
+      "program": "Diploma",
+      "duration": "27 college weeks (approximately 9 months)",
+      "entryRequirements": "IELTS: 5.5 or equivalent",
+      "fees": "AUD $6,000 total (AUD $2,000 per term)",
+      "details_url": "https://academies.edu.au/courses-syd-it/",
+      "courseDetail": "https://academies.edu.au/courses-syd-it/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/r9rh001"
+    },
+    {
+      "major": "Information Technology",
+      "program": "Advanced Diploma",
+      "duration": "18 college weeks (approximately 6 months)",
+      "entryRequirements": "IELTS: 5.5 or equivalent",
+      "fees": "AUD $4,000 total (AUD $2,000 per term)",
+      "details_url": "https://academies.edu.au/courses-syd-it/",
+      "courseDetail": "https://academies.edu.au/courses-syd-it/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/r9rh001"
+    },
+    {
+      "major": "Leadership and Management",
+      "program": "Diploma",
+      "duration": "36 college weeks (4 terms)",
+      "entryRequirements": "IELTS 5.5 (no band lower than 5.0) or equivalent | Completion of Year 12 or equivalent",
+      "fees": "AUD $8,000 total (AUD $2,000 per term)",
+      "details_url": "https://academies.edu.au/courses-syd-leadership-management/",
+      "courseDetail": "https://academies.edu.au/courses-syd-leadership-management/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/ryrh001"
+    },
+    {
+      "major": "Leadership and Management",
+      "program": "Advanced Diploma",
+      "duration": "36 college weeks (4 terms)",
+      "entryRequirements": "IELTS 5.5 (no band lower than 5.0) or equivalent | Completion of Diploma of Leadership and Management or equivalent experience",
+      "fees": "AUD $8,000 total (AUD $2,000 per term)",
+      "details_url": "https://academies.edu.au/courses-syd-leadership-management/",
+      "courseDetail": "https://academies.edu.au/courses-syd-leadership-management/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/ryrh001"
+    },
+    {
+      "major": "Program Management",
+      "program": "Advanced Diploma",
+      "duration": "36 college weeks (4 terms)",
+      "entryRequirements": "IELTS 5.5 (no band lower than 5.0) or equivalent | Completion of Diploma of Project Management or 2 years relevant experience",
+      "fees": "AUD $8,000 total (AUD $2,000 per term)",
+      "details_url": "https://academies.edu.au/courses-per-project-management/",
+      "courseDetail": "https://academies.edu.au/courses-per-project-management/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/tjce001"
+    },
+    {
+      "major": "Project Management",
+      "program": "Diploma",
+      "duration": "36 college weeks (4 terms)",
+      "entryRequirements": "IELTS 5.5 (no band lower than 5.0) or equivalent | Completion of Year 12 or equivalent",
+      "fees": "AUD $8,000 total (AUD $2,000 per term)",
+      "details_url": "https://academies.edu.au/courses-per-project-management/",
+      "courseDetail": "https://academies.edu.au/courses-per-project-management/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/kzrh001"
+    },
+    {
+      "major": "Travel and Tourism",
+      "program": "Certificate IV",
+      "duration": "27 college weeks (3 terms)",
+      "entryRequirements": "IELTS 5.5 (no band lower than 5.0) or equivalent | Completion of Year 12 or equivalent",
+      "fees": "AUD $4,500 total (AUD $1,500 per term)",
+      "details_url": "https://academies.edu.au/courses-syd-travel-tourism/",
+      "courseDetail": "https://academies.edu.au/courses-syd-travel-tourism/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/i0sh001"
+    },
+    {
+      "major": "Travel and Tourism Management",
+      "program": "Diploma",
+      "duration": "27 college weeks (3 terms)",
+      "entryRequirements": "IELTS 5.5 (no band lower than 5.0) or equivalent | Completion of Certificate IV in Travel and Tourism",
+      "fees": "AUD $4,500 total (AUD $1,500 per term)",
+      "details_url": "https://academies.edu.au/courses-syd-travel-tourism/",
+      "courseDetail": "https://academies.edu.au/courses-syd-travel-tourism/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/i0sh001"
+    },
+    {
+      "major": "Travel and Tourism Management",
+      "program": "Advanced Diploma",
+      "duration": "18 college weeks (2 terms)",
+      "entryRequirements": "IELTS 5.5 (no band lower than 5.0) or equivalent | Completion of Diploma of Travel and Tourism Management",
+      "fees": "AUD $3,000 total (AUD $1,500 per term)",
+      "details_url": "https://academies.edu.au/courses-syd-travel-tourism/",
+      "courseDetail": "https://academies.edu.au/courses-syd-travel-tourism/",
+      "scholarship": "https://academies.edu.au/2021/11/26/international-students-to-return-to-australia/",
+      "otherInstitution": "http://tiny.cc/i0sh001"
+    }
+  ]
+}

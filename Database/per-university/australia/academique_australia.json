@@ -1,0 +1,143 @@
+{
+  "id": "academique_australia",
+  "name": "Academique Australia",
+  "country": "australia",
+  "countryDisplay": "Australia",
+  "logo": "http://tiny.cc/kxvh001",
+  "totalPrograms": 12,
+  "lastUpdated": "2026-05-04",
+  "programs": [
+    {
+      "major": "Advanced Diploma of Business",
+      "program": "Advanced Diploma",
+      "duration": "40 study weeks (plus breaks)",
+      "entryRequirements": "IELTS 6.0 or equivalent | Academique English test 80%+ | Minimum age 18",
+      "fees": "Contact provider for latest fee details",
+      "details_url": "https://www.academique.com.au/courses/business-and-management/advanced-diploma-of-business/",
+      "courseDetail": "https://www.academique.com.au/courses/business-and-management/advanced-diploma-of-business/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/zzvh001"
+    },
+    {
+      "major": "Advanced Diploma of Leadership and Management",
+      "program": "Advanced Diploma",
+      "duration": "40 study weeks",
+      "entryRequirements": "IELTS 5.5 or equivalent | Academique Test 80%+ | Must be 18 years old or above",
+      "fees": "Hubungi Academique untuk detail biaya terbaru",
+      "details_url": "https://www.academique.com.au/courses/leadership-and-management/advanced-diploma-of-leadership-and-management/",
+      "courseDetail": "https://www.academique.com.au/courses/leadership-and-management/advanced-diploma-of-leadership-and-management/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/newh001"
+    },
+    {
+      "major": "Advanced Diploma of Management (Human Resources)",
+      "program": "Advanced Diploma",
+      "duration": "40 study weeks (tidak termasuk Research Break)",
+      "entryRequirements": "IELTS 6.0 atau setara | Tes internal Academique (≥80%) | Bukti studi sebelumnya (Foundation/Certificate IV atau lebih tinggi) | Usia minimal 18 tahun",
+      "fees": "Informasi biaya tidak tersedia secara publik; hubungi institusi untuk detail",
+      "details_url": "https://www.academique.com.au/courses/human-resource-management/advanced-diploma-of-management-human-resources/",
+      "courseDetail": "https://www.academique.com.au/courses/human-resource-management/advanced-diploma-of-management-human-resources/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/92wh001"
+    },
+    {
+      "major": "Certificate III in Carpentry",
+      "program": "Certificate III",
+      "duration": "64 study weeks (up to 94 weeks including holidays)",
+      "entryRequirements": "IELTS 6.0 or equivalent | Academique internal test (80%) | Proof of successful Foundation, Certificate IV, or higher studies | Minimum age 18 years",
+      "fees": "AUD $16,596 per year (Indicative international fee)",
+      "details_url": "https://www.academique.com.au/courses/trades/certificate-iii-in-carpentry/",
+      "courseDetail": "https://www.academique.com.au/courses/trades/certificate-iii-in-carpentry/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/dfwh001"
+    },
+    {
+      "major": "Certificate III in Individual Support",
+      "program": "Certificate",
+      "duration": "Approximately 12 months full-time",
+      "entryRequirements": "Minimum IELTS 5.5 overall or equivalent, must be 18 years or older, Year 12 completion or equivalent",
+      "fees": "AUD $9,000 (tuition only) + additional fees may apply",
+      "details_url": "https://www.academique.com.au/courses/aged-care/certificate-iii-in-individual-support/",
+      "courseDetail": "https://www.academique.com.au/courses/aged-care/certificate-iii-in-individual-support/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/b3wh001"
+    },
+    {
+      "major": "Certificate III in Painting and Decorating",
+      "program": "Certificate III",
+      "duration": "64 study weeks (up to 94 weeks including holidays)",
+      "entryRequirements": "IELTS 6.0 or equivalent | Academique internal test (80%) | Proof of successful Foundation, Certificate IV, or higher studies | Minimum age 18 years",
+      "fees": "Please contact Academique for current fees",
+      "details_url": "https://www.academique.com.au/courses/trades/certificate-iii-painting-decorating-2/",
+      "courseDetail": "https://www.academique.com.au/courses/trades/certificate-iii-painting-decorating-2/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/3fwh001"
+    },
+    {
+      "major": "Certificate IV in Ageing Support",
+      "program": "Certificate",
+      "duration": "Approximately 12 months full-time",
+      "entryRequirements": "Minimum IELTS 5.5 overall or equivalent, must be 18 years or older, Year 12 completion or equivalent",
+      "fees": "AUD $9,500 (tuition only) + additional fees may apply",
+      "details_url": "https://www.academique.com.au/courses/aged-care/certificate-iv-in-ageing-support/",
+      "courseDetail": "https://www.academique.com.au/courses/aged-care/certificate-iv-in-ageing-support/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/b3wh001"
+    },
+    {
+      "major": "Certificate IV in Building and Construction",
+      "program": "Certificate IV",
+      "duration": "36 study weeks (up to 52 weeks including holidays)",
+      "entryRequirements": "IELTS 6.0 or equivalent | Academique internal test (80%) | Proof of successful Foundation, Certificate IV, or higher studies | Minimum age 18 years",
+      "fees": "Please contact Academique for current fees",
+      "details_url": "https://www.academique.com.au/courses/trades/certificate-iv-in-building-construction/",
+      "courseDetail": "https://www.academique.com.au/courses/trades/certificate-iv-in-building-construction/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/hfwh001"
+    },
+    {
+      "major": "Certificate IV in Business",
+      "program": "Certificate IV",
+      "duration": "28 study weeks (plus breaks)",
+      "entryRequirements": "IELTS 6.0 or equivalent | Academique English test 80%+ | Minimum age 18",
+      "fees": "Contact provider for latest fee details",
+      "details_url": "https://www.academique.com.au/courses/business-and-management/certificate-iv-business/",
+      "courseDetail": "https://www.academique.com.au/courses/business-and-management/certificate-iv-business/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/zzvh001"
+    },
+    {
+      "major": "Diploma of Business",
+      "program": "Diploma",
+      "duration": "48 study weeks (plus breaks)",
+      "entryRequirements": "IELTS 6.0 or equivalent | Academique English test 80%+ | Minimum age 18",
+      "fees": "Contact provider for latest fee details",
+      "details_url": "https://www.academique.com.au/courses/business-and-management/diploma-of-business/",
+      "courseDetail": "https://www.academique.com.au/courses/business-and-management/diploma-of-business/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/zzvh001"
+    },
+    {
+      "major": "Diploma of Human Resources Management",
+      "program": "Diploma",
+      "duration": "74 weeks (termasuk libur dan Research Break)",
+      "entryRequirements": "IELTS 6.0 atau setara | Tes internal Academique (≥80%) | Bukti studi sebelumnya (Foundation/Certificate IV atau lebih tinggi) | Usia minimal 18 tahun",
+      "fees": "AUD $6,957 total (perkiraan berdasarkan data Februari 2025)",
+      "details_url": "https://www.academique.com.au/courses/human-resource-management/diploma-of-human-resources-management/",
+      "courseDetail": "https://www.academique.com.au/courses/human-resource-management/diploma-of-human-resources-management/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/92wh001"
+    },
+    {
+      "major": "Diploma of Leadership and Management",
+      "program": "Diploma",
+      "duration": "48 study weeks",
+      "entryRequirements": "IELTS 5.5 or equivalent | Academique Test 80%+ | Must be 18 years old or above",
+      "fees": "Hubungi Academique untuk detail biaya terbaru",
+      "details_url": "https://www.academique.com.au/courses/leadership-and-management/diploma-leadership-management/",
+      "courseDetail": "https://www.academique.com.au/courses/leadership-and-management/diploma-leadership-management/",
+      "scholarship": "https://www.academique.com.au/student-services/download/",
+      "otherInstitution": "http://tiny.cc/newh001"
+    }
+  ]
+}

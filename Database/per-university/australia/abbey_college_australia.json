@@ -1,0 +1,231 @@
+{
+  "id": "abbey_college_australia",
+  "name": "Abbey College Australia",
+  "country": "australia",
+  "countryDisplay": "Australia",
+  "logo": "http://tiny.cc/6ubp001",
+  "totalPrograms": 20,
+  "lastUpdated": "2026-05-04",
+  "programs": [
+    {
+      "major": "Ageing Support",
+      "program": "Certificate IV",
+      "duration": "52 weeks (1 year) full-time",
+      "entryRequirements": "IELTS: 6.0 (no band <5.5) | Completion of Year 12 or equivalent | Age 18+",
+      "fees": "AUD $12,000 per year (indicative international fee)",
+      "details_url": "https://abbeycollege.edu.au/certificate-iv-in-ageing-support",
+      "courseDetail": "https://abbeycollege.edu.au/certificate-iv-in-ageing-support#course-structure",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/8xbp001"
+    },
+    {
+      "major": "Business",
+      "program": "Diploma",
+      "duration": "52 weeks full-time",
+      "entryRequirements": "Age ≥18 | No prerequisites | IELTS 6.0 or pass Abbey entry test | Computer & internet access",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/diploma-of-business/",
+      "courseDetail": "https://abbeycollege.edu.au/diploma-of-business/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/5a4j001"
+    },
+    {
+      "major": "Business",
+      "program": "Advanced Diploma",
+      "duration": "78 weeks full-time",
+      "entryRequirements": "Completed Diploma of Business or 2 years relevant experience | Age ≥18 | Year 12 or equivalent | IELTS 6.0 or pass Abbey entry test",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/advanced-diploma-of-business/",
+      "courseDetail": "https://abbeycollege.edu.au/advanced-diploma-of-business/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/5a4j001"
+    },
+    {
+      "major": "Business (Operations)",
+      "program": "Certificate IV",
+      "duration": "52 weeks full-time",
+      "entryRequirements": "Age ≥18 | Year 12 or equivalent | IELTS 6.0 or pass Abbey entry test | Computer & internet access",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/certificate-iv-in-businessoperations/",
+      "courseDetail": "https://abbeycollege.edu.au/certificate-iv-in-businessoperations/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/5a4j001"
+    },
+    {
+      "major": "Civil Construction Design",
+      "program": "Diploma",
+      "duration": "78 weeks (1.5 years) full-time",
+      "entryRequirements": "IELTS: 5.5 | Completion of Year 12 or equivalent | Age 18+",
+      "fees": "AUD $18,300 per year (indicative international fee)",
+      "details_url": "https://abbeycollege.edu.au/diploma-of-civil-construction-design",
+      "courseDetail": "https://abbeycollege.edu.au/diploma-of-civil-construction-design#course-structure",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/gxbp001"
+    },
+    {
+      "major": "Civil Construction Design",
+      "program": "Advanced Diploma",
+      "duration": "104 weeks (2 years) full-time",
+      "entryRequirements": "IELTS: 6.0 | Completion of Year 12 or equivalent | Age 18+",
+      "fees": "AUD $20,600 per year (indicative international fee)",
+      "details_url": "https://abbeycollege.edu.au/advanced-diploma-of-civil-construction-design",
+      "courseDetail": "https://abbeycollege.edu.au/advanced-diploma-of-civil-construction-design#course-structure",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/gxbp001"
+    },
+    {
+      "major": "Community Services",
+      "program": "Diploma",
+      "duration": "104 weeks (2 years) full-time",
+      "entryRequirements": "IELTS: 6.0 (no band <5.5) | Completion of Year 12 or equivalent | Age 18+",
+      "fees": "AUD $16,000 per year (indicative international fee)",
+      "details_url": "https://abbeycollege.edu.au/diploma-of-community-services",
+      "courseDetail": "https://abbeycollege.edu.au/diploma-of-community-services#course-structure",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/cxbp001"
+    },
+    {
+      "major": "Disability Support",
+      "program": "Certificate IV",
+      "duration": "52 weeks (1 year) full-time",
+      "entryRequirements": "IELTS: 6.0 (no band <5.5) | Completion of Year 12 or equivalent | Age 18+",
+      "fees": "AUD $8,000 per year (indicative international fee)",
+      "details_url": "https://abbeycollege.edu.au/certificate-iv-in-disability-support",
+      "courseDetail": "https://abbeycollege.edu.au/certificate-iv-in-disability-support#course-structure",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/axbp001"
+    },
+    {
+      "major": "Individual Support",
+      "program": "Certificate III",
+      "duration": "52 weeks (1 year) full-time",
+      "entryRequirements": "IELTS: 6.0 (no band <5.5) | Completion of Year 11 or equivalent | Age 18+",
+      "fees": "AUD $8,000 per year (indicative international fee)",
+      "details_url": "https://abbeycollege.edu.au/certificate-iii-in-individual-support",
+      "courseDetail": "https://abbeycollege.edu.au/certificate-iii-in-individual-support#course-structure",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/0xbp001"
+    },
+    {
+      "major": "Information Technology",
+      "program": "Certificate IV",
+      "duration": "52 weeks (1 year) full-time",
+      "entryRequirements": "IELTS: 6.0 (no band <5.5) | Completion of Year 12 or equivalent | Age 18+",
+      "fees": "AUD $6,000 per year (indicative international fee",
+      "details_url": "https://abbeycollege.edu.au/certificate-iv-in-information-technology",
+      "courseDetail": "https://abbeycollege.edu.au/certificate-iv-in-information-technology#course-structure",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/r9rh001"
+    },
+    {
+      "major": "Information Technology (Cyber Security, Systems Administration and Database & Data Management)",
+      "program": "Diploma",
+      "duration": "52 weeks (1 year) full-time",
+      "entryRequirements": "IELTS: 6.0 | Completion of Year 12 or equivalent | Age 18+",
+      "fees": "AUD $12,000 per year (indicative international fee)",
+      "details_url": "https://abbeycollege.edu.au/diploma-of-information-technology-cyber-security-systems-administration-and-database-and-data-management",
+      "courseDetail": "https://abbeycollege.edu.au/diploma-of-information-technology-cyber-security-systems-administration-and-database-and-data-management#course-structure",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/r9rh001"
+    },
+    {
+      "major": "Information Technology (Telecommunication Network Engineering)",
+      "program": "Advanced Diploma",
+      "duration": "104 weeks (2 years) full-time",
+      "entryRequirements": "IELTS: 6.0 | Completion of Year 12 or equivalent | Age 18+",
+      "fees": "AUD $16,000 per year (indicative international fee)",
+      "details_url": "https://abbeycollege.edu.au/advanced-diploma-of-information-technologytelecommunication-network-engineering",
+      "courseDetail": "https://abbeycollege.edu.au/advanced-diploma-of-information-technologytelecommunication-network-engineering#course-structure",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/r9rh001"
+    },
+    {
+      "major": "Interpreting",
+      "program": "Diploma",
+      "duration": "52 weeks full-time",
+      "entryRequirements": "Age ≥18 | Year 12 or equivalent | IELTS 6.0 or pass Abbey entry test | Placement required as per NSW",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/diploma-of-interpreting/",
+      "courseDetail": "https://abbeycollege.edu.au/diploma-of-interpreting/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/l29q001"
+    },
+    {
+      "major": "Management (Learning)",
+      "program": "Graduate Diploma",
+      "duration": "78 weeks full-time",
+      "entryRequirements": "Age ≥18 | Year 12 or equivalent | IELTS 6.0 or pass Abbey entry test | Computer & internet access",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/graduate-diploma-of-management/",
+      "courseDetail": "https://abbeycollege.edu.au/graduate-diploma-of-management/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/939q001"
+    },
+    {
+      "major": "Marketing and Communication",
+      "program": "Certificate IV",
+      "duration": "52 weeks full-time",
+      "entryRequirements": "Age ≥18 | Year 12 or equivalent | IELTS 6.0 or pass Abbey entry test",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/certificate-iv-in-marketingandcommunication/",
+      "courseDetail": "https://abbeycollege.edu.au/certificate-iv-in-marketingandcommunication/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/j39q001"
+    },
+    {
+      "major": "Marketing and Communication",
+      "program": "Diploma",
+      "duration": "52 weeks full-time",
+      "entryRequirements": "Age ≥18 | Year 12 or equivalent | IELTS 6.0 or pass Abbey entry test",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/diploma-of-marketing-and-communication/",
+      "courseDetail": "https://abbeycollege.edu.au/diploma-of-marketing-and-communication/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/j39q001"
+    },
+    {
+      "major": "Marketing and Communication",
+      "program": "Advanced Diploma",
+      "duration": "104 weeks full-time",
+      "entryRequirements": "Completed Diploma of Marketing and Communication or 4 years work experience | IELTS 6.0 or pass Abbey entry test",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/advanced-diplomaof-marketing-and-communication/",
+      "courseDetail": "https://abbeycollege.edu.au/advanced-diplomaof-marketing-and-communication/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/j39q001"
+    },
+    {
+      "major": "Project Management",
+      "program": "Diploma",
+      "duration": "52 weeks full-time",
+      "entryRequirements": "Age ≥18 | Year 12 or equivalent | IELTS 6.0 or pass Abbey entry test | Computer & internet access",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/diploma-of-project-management/",
+      "courseDetail": "https://abbeycollege.edu.au/diploma-of-project-management/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/kzrh001"
+    },
+    {
+      "major": "Project Management",
+      "program": "Advanced Diploma",
+      "duration": "78 weeks full-time",
+      "entryRequirements": "Completed Diploma of Project Management or 2 years full-time relevant experience | Age ≥18 | Year 12 or equivalent | IELTS 6.0 or pass Abbey entry test",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/advanced-diploma-of-project-management/",
+      "courseDetail": "https://abbeycollege.edu.au/advanced-diploma-of-project-management/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/kzrh001"
+    },
+    {
+      "major": "Translating",
+      "program": "Advanced Diploma",
+      "duration": "52 weeks full-time / 26 weeks intensive",
+      "entryRequirements": "Age ≥18 | Year 12 or equivalent | IELTS 6.0 or completion of recognised degree/diploma in English",
+      "fees": "Refer to Student Handbook (includes facilities, computers, training)",
+      "details_url": "https://abbeycollege.edu.au/advanced-diploma-of-translating/",
+      "courseDetail": "https://abbeycollege.edu.au/advanced-diploma-of-translating/",
+      "scholarship": "https://abbeycollege.edu.au/scholarships/",
+      "otherInstitution": "http://tiny.cc/z29q001"
+    }
+  ]
+}
