@@ -1,0 +1,97 @@
+[
+  {
+    "id": "abbey_college_australia",
+    "name": "Abbey College Australia",
+    "totalCourses": 1
+  },
+  {
+    "id": "academia_australia",
+    "name": "Academia Australia",
+    "totalCourses": 1
+  },
+  {
+    "id": "academies_australia",
+    "name": "Academies Australia",
+    "totalCourses": 1
+  },
+  {
+    "id": "academique_australia",
+    "name": "Academique Australia",
+    "totalCourses": 1
+  },
+  {
+    "id": "acbi_australian_college_of_business_intelligence",
+    "name": "ACBI (Australian College of Business Intelligence)",
+    "totalCourses": 1
+  },
+  {
+    "id": "acknowledge_education",
+    "name": "Acknowledge Education",
+    "totalCourses": 1
+  },
+  {
+    "id": "australian_national_university",
+    "name": "Australian National University",
+    "totalCourses": 1
+  },
+  {
+    "id": "curtin_university",
+    "name": "Curtin University",
+    "totalCourses": 1
+  },
+  {
+    "id": "macquarie_university",
+    "name": "Macquarie University",
+    "totalCourses": 1
+  },
+  {
+    "id": "monash_university_australia",
+    "name": "Monash University Australia",
+    "totalCourses": 1
+  },
+  {
+    "id": "novus_college",
+    "name": "Novus College",
+    "totalCourses": 1
+  },
+  {
+    "id": "rmit_university",
+    "name": "RMIT University",
+    "totalCourses": 1
+  },
+  {
+    "id": "the_university_of_adelaide_uoa",
+    "name": "The University of Adelaide (UoA)",
+    "totalCourses": 1
+  },
+  {
+    "id": "the_university_of_melbourne",
+    "name": "The University of Melbourne",
+    "totalCourses": 1
+  },
+  {
+    "id": "the_university_of_queensland_uq",
+    "name": "The University Of Queensland (UQ)",
+    "totalCourses": 1
+  },
+  {
+    "id": "the_university_of_sydney",
+    "name": "The University of Sydney",
+    "totalCourses": 1
+  },
+  {
+    "id": "university_of_new_south_wales_unsw",
+    "name": "University of New South Wales (UNSW)",
+    "totalCourses": 1
+  },
+  {
+    "id": "university_of_technology_sydney_uts",
+    "name": "University of Technology Sydney (UTS)",
+    "totalCourses": 1
+  },
+  {
+    "id": "university_of_western_australia_uwa",
+    "name": "University of Western Australia (UWA)",
+    "totalCourses": 1
+  }
+]
