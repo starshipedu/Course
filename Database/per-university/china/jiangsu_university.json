@@ -1,0 +1,27 @@
+{
+  "id": "jiangsu_university",
+  "name": "Jiangsu University",
+  "country": "china",
+  "totalCourses": 1,
+  "courses": [
+    {
+      "university": "Jiangsu University",
+      "country": "China",
+      "logo": "http://tiny.cc/ss-jiangsu-university",
+      "programs": [
+        {
+          "major": "Bachelor of Economics in International Economy and Trade (English)",
+          "details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economy-and-Trade&ProgramID=SBE2310120701"
+        },
+        {
+          "major": "Bachelor of Management in Business Administration (English)",
+          "details_url": "https://www.eduprchina.com/self-financed/details?program=Business-Administration&ProgramID=SBE2310120700"
+        },
+        {
+          "major": "Bachelor of Management in Accounting (English)",
+          "details_url": "https://www.eduprchina.com/self-financed/details?program=Accounting&ProgramID=SBE23032815118"
+        }
+      ]
+    }
+  ]
+}
