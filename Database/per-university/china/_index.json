@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fudan_university",
+    "name": "Fudan University",
+    "totalPrograms": 130,
+    "logo": "http://tiny.cc/7170101"
+  },
+  {
+    "id": "jiangsu_university",
+    "name": "Jiangsu University",
+    "totalPrograms": 3,
+    "logo": "http://tiny.cc/ss-jiangsu-university"
+  },
+  {
+    "id": "nanchang_university",
+    "name": "Nanchang University",
+    "totalPrograms": 5,
+    "logo": "http://tiny.cc/SS-Nanchang-University"
+  },
+  {
+    "id": "ningbo_university_of_technology",
+    "name": "Ningbo University Of Technology",
+    "totalPrograms": 3,
+    "logo": "http://tiny.cc/SS-ningbo"
+  },
+  {
+    "id": "northeast_forestry_university",
+    "name": "Northeast Forestry University",
+    "totalPrograms": 33,
+    "logo": "http://tiny.cc/SS-Northeast"
+  },
+  {
+    "id": "peking_university",
+    "name": "Peking University",
+    "totalPrograms": 144,
+    "logo": "http://tiny.cc/xwxr001"
+  },
+  {
+    "id": "shenzhen_university_szu",
+    "name": "Shenzhen University (SZU)",
+    "totalPrograms": 59,
+    "logo": "http://tiny.cc/ss-shenzhen-university"
+  },
+  {
+    "id": "tsinghua_university",
+    "name": "Tsinghua University",
+    "totalPrograms": 89,
+    "logo": "http://tiny.cc/y4ly001"
+  },
+  {
+    "id": "university_of_science_technology_beijing",
+    "name": "University of Science & Technology Beijing",
+    "totalPrograms": 1,
+    "logo": "http://tiny.cc/SS-USTB"
+  },
+  {
+    "id": "wuxi_vocational_institute_of_commerce",
+    "name": "Wuxi Vocational Institute Of Commerce",
+    "totalPrograms": 2,
+    "logo": "http://tiny.cc/ss-wuxi-vocational"
+  }
+]

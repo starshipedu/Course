@@ -1,0 +1,19 @@
+{
+  "id": "wuxi_vocational_institute_of_commerce",
+  "name": "Wuxi Vocational Institute Of Commerce",
+  "country": "china",
+  "countryDisplay": "China",
+  "logo": "http://tiny.cc/ss-wuxi-vocational",
+  "totalPrograms": 2,
+  "lastUpdated": "2026-05-04",
+  "programs": [
+    {
+      "major": "Bachelor of Economics in Financial Services and Management (Chinese)",
+      "details_url": "https://www.eduprchina.com/self-financed/details?program=Financial-Services-and-Management&ProgramID=BAC24072914054"
+    },
+    {
+      "major": "Bachelor of Economics in International Economics and Trade (Chinese)",
+      "details_url": "https://www.eduprchina.com/self-financed/details?program=International-Economics-and-Trade&ProgramID=BAC24072914049"
+    }
+  ]
+}
