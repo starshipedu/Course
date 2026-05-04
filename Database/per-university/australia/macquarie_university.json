@@ -1,0 +1,15 @@
+{
+  "id": "macquarie_university",
+  "name": "Macquarie University",
+  "country": "australia",
+  "countryDisplay": "Australia",
+  "country_code": "",
+  "totalCourses": 1,
+  "lastUpdated": "2026-05-04",
+  "courses": [
+    {
+      "id": "course_8",
+      "name": "Course Name"
+    }
+  ]
+}

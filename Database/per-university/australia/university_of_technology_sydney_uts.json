@@ -1,0 +1,15 @@
+{
+  "id": "university_of_technology_sydney_uts",
+  "name": "University of Technology Sydney (UTS)",
+  "country": "australia",
+  "countryDisplay": "Australia",
+  "country_code": "",
+  "totalCourses": 1,
+  "lastUpdated": "2026-05-04",
+  "courses": [
+    {
+      "id": "course_17",
+      "name": "Course Name"
+    }
+  ]
+}

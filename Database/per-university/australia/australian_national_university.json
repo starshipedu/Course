@@ -1,0 +1,15 @@
+{
+  "id": "australian_national_university",
+  "name": "Australian National University",
+  "country": "australia",
+  "countryDisplay": "Australia",
+  "country_code": "",
+  "totalCourses": 1,
+  "lastUpdated": "2026-05-04",
+  "courses": [
+    {
+      "id": "course_6",
+      "name": "Course Name"
+    }
+  ]
+}

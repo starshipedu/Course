@@ -1,0 +1,15 @@
+{
+  "id": "the_university_of_adelaide_uoa",
+  "name": "The University of Adelaide (UoA)",
+  "country": "australia",
+  "countryDisplay": "Australia",
+  "country_code": "",
+  "totalCourses": 1,
+  "lastUpdated": "2026-05-04",
+  "courses": [
+    {
+      "id": "course_13",
+      "name": "Course Name"
+    }
+  ]
+}
