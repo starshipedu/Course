@@ -1,0 +1,52 @@
+[
+  {
+    "id": "fudan_university",
+    "name": "Fudan University",
+    "totalCourses": 1
+  },
+  {
+    "id": "jiangsu_university",
+    "name": "Jiangsu University",
+    "totalCourses": 1
+  },
+  {
+    "id": "nanchang_university",
+    "name": "Nanchang University",
+    "totalCourses": 1
+  },
+  {
+    "id": "ningbo_university_of_technology",
+    "name": "Ningbo University Of Technology",
+    "totalCourses": 1
+  },
+  {
+    "id": "northeast_forestry_university",
+    "name": "Northeast Forestry University",
+    "totalCourses": 1
+  },
+  {
+    "id": "peking_university",
+    "name": "Peking University",
+    "totalCourses": 1
+  },
+  {
+    "id": "shenzhen_university_szu",
+    "name": "Shenzhen University (SZU)",
+    "totalCourses": 1
+  },
+  {
+    "id": "tsinghua_university",
+    "name": "Tsinghua University",
+    "totalCourses": 1
+  },
+  {
+    "id": "university_of_science_technology_beijing",
+    "name": "University of Science & Technology Beijing",
+    "totalCourses": 1
+  },
+  {
+    "id": "wuxi_vocational_institute_of_commerce",
+    "name": "Wuxi Vocational Institute Of Commerce",
+    "totalCourses": 1
+  }
+]
