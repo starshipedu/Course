@@ -1,0 +1,114 @@
+{
+  "id": "university_of_western_australia_uwa",
+  "name": "University of Western Australia (UWA)",
+  "country": "australia",
+  "totalCourses": 1,
+  "courses": [
+    {
+      "university": "University of Western Australia (UWA)",
+      "country": "Australia",
+      "logo": "http://tiny.cc/SS-UWAlogo",
+      "programs": [
+        {
+          "major": "Aboriginal Health and Wellbeing",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.uwa.edu.au/study/courses/aboriginal-health-and-wellbeing",
+          "duration": "3 years (BBiomedSc), 4 years (BBiomedSc Hons)",
+          "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 26, GCE A-Levels 9 (CCC), Minimum overall IELTS score of 6.5, with no band less than 6.0.",
+          "fees": "$48,700",
+          "courseDetail": "https://blog.starshipeducation.com/2025/02/bedah-jurusan-aboriginal-health-and.html",
+          "otherInstitution": "http://tiny.cc/9cga001",
+          "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"
+        },
+        {
+          "major": "Accounting",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.uwa.edu.au/study/courses/accounting",
+          "duration": "3 years (BCom); 4 years (BPhil Hons)",
+          "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 26, GCE A-Levels 9 (CCC), Minimum overall IELTS score of 6.5, with no band less than 6.0.",
+          "fees": "$48,000",
+          "courseDetail": "https://blog.starshipeducation.com/2025/02/kuliah-jurusan-accounting-prospek-karir.html",
+          "otherInstitution": "http://tiny.cc/lwga001",
+          "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"
+        },
+        {
+          "major": "Agribusiness",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.uwa.edu.au/study/courses/agribusiness",
+          "duration": "3 years (BSc), 4 years (BSc Hons)",
+          "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 24, GCE A-Levels 8 (CCD), Minimum overall IELTS score of 6.5, with no band less than 6.0.",
+          "fees": "$49,200",
+          "courseDetail": "https://www.uwa.edu.au/study/courses/agribusiness",
+          "otherInstitution": "http://tiny.cc/owga001",
+          "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"
+        },
+        {
+          "major": "Agribusiness and Agricultural Science (Extended Major)",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.uwa.edu.au/study/courses/agricultural-science-and-agribusiness-extended-major",
+          "duration": "3 years (BSc), 4 years (BSc Hons)",
+          "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 26, GCE A-Levels 9 (CCC), Minimum overall IELTS score of 6.5, with no band less than 6.0.",
+          "fees": "$49,200",
+          "courseDetail": "https://www.uwa.edu.au/study/courses/agricultural-science-and-agribusiness-extended-major",
+          "otherInstitution": "http://tiny.cc/lxga001",
+          "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"
+        },
+        {
+          "major": "Agricultural Science",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.uwa.edu.au/study/courses/agricultural-science",
+          "duration": "3 years (BSc), 4 years (BSc Hons)",
+          "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 24, GCE A-Levels 8 (CCD), Minimum overall IELTS score of 6.5, with no band less than 6.0.",
+          "fees": "$49,200",
+          "courseDetail": "https://www.uwa.edu.au/study/courses/agricultural-science",
+          "otherInstitution": "http://tiny.cc/sxga001",
+          "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"
+        },
+        {
+          "major": "Agricultural Science and Technology (Extended Major)",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.uwa.edu.au/study/courses/agricultural-science-and-technology-extended-major",
+          "duration": "3 years (BSc), 4 years (BSc Hons)",
+          "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 26, GCE A-Levels 9 (CCC), Minimum overall IELTS score of 6.5, with no band less than 6.0.",
+          "fees": "$49,200",
+          "courseDetail": "https://www.uwa.edu.au/study/courses/agricultural-science-and-technology-extended-major",
+          "otherInstitution": "http://tiny.cc/s0ha001",
+          "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"
+        },
+        {
+          "major": "Agricultural Technology",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.uwa.edu.au/study/courses/agricultural-technology",
+          "duration": "3 years (BSc), 4 years (BSc Hons)",
+          "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 24, GCE A-Levels 8 (CCD), Minimum overall IELTS score of 6.5, with no band less than 6.0.",
+          "fees": "$49,200",
+          "courseDetail": "https://www.uwa.edu.au/study/courses/agricultural-technology",
+          "otherInstitution": "http://tiny.cc/6mma001",
+          "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"
+        },
+        {
+          "major": "Anatomy and Human Biology",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.uwa.edu.au/study/courses/anatomy-and-human-biology",
+          "duration": "3 years (BBiomedSc), 4 years (BBiomedSc Hons)",
+          "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 65, International Baccalaureate Diploma (IB) 24, GCE A-Levels 8 (CCD), Minimum overall IELTS score of 6.5, with no band less than 6.0.",
+          "fees": "$48,700",
+          "courseDetail": "https://www.uwa.edu.au/study/courses/anatomy-and-human-biology",
+          "otherInstitution": "http://tiny.cc/kmma001",
+          "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"
+        },
+        {
+          "major": "Anthropology",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.uwa.edu.au/study/courses/anthropology",
+          "duration": "3 years (BA);4 years (BPhil Hons)",
+          "entryRequirements": "Indonesian Sekolah Menengah Atas (SMA) Pass of 8, International Baccalaureate Diploma (IB) 27, GCE A-Levels 8 (CCD), Minimum overall IELTS score of 6.5, with no band less than 6.0.",
+          "fees": "$52,000",
+          "courseDetail": "https://www.uwa.edu.au/study/courses/anthropology",
+          "otherInstitution": "http://tiny.cc/bnma001",
+          "scholarship": "https://www.uwa.edu.au/study/scholarships/explore"
+        }
+      ]
+    }
+  ]
+}

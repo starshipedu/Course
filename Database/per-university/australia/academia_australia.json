@@ -1,0 +1,180 @@
+{
+  "id": "academia_australia",
+  "name": "Academia Australia",
+  "country": "australia",
+  "totalCourses": 1,
+  "courses": [
+    {
+      "university": "Academia Australia",
+      "country": "Australia",
+      "logo": "http://tiny.cc/qw8h001",
+      "programs": [
+        {
+          "major": "Certificate III in Commercial Cookery",
+          "program": "Certificate III",
+          "details_url": "https://www.academia21.com/school/certificate-III-in-hospitality-commercial-cookery",
+          "duration": "1 year (50 weeks including breaks)",
+          "entryRequirements": "Minimum age: 18 years; English proficiency: IELTS 6.0, TOEFL iBT 64, PTE Academic 50, OET B, or Cambridge CAE 169",
+          "fees": "AUD $12,800 total tuition fee; Material fee: AUD $880",
+          "courseDetail": "https://www.academia21.com/school/certificate-III-in-hospitality-commercial-cookery#course-structure",
+          "otherInstitution": "http://tiny.cc/6z8h001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Certificate IV in Kitchen Management",
+          "program": "Certificate IV",
+          "details_url": "https://www.academia21.com/school/certificate-IV-in-hospitality-commercial-cookery",
+          "duration": "1.5 years full-time (79 weeks including breaks)",
+          "entryRequirements": "IELTS 5.5 overall (minimum 5.0 per band) or equivalent; completion of Year 12 or equivalent; minimum age 18 at commencement; valid student visa",
+          "fees": "AUD $12,800 (2024 indicative international fee)",
+          "courseDetail": "https://www.academia21.com/school/certificate-IV-in-hospitality-commercial-cookery#course-structure",
+          "otherInstitution": "http://tiny.cc/009h001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Diploma of Hospitality Management (Commercial Cookery)",
+          "program": "Diploma",
+          "details_url": "https://www.academia21.com/school/diploma-of-hospitality-major-in-commercial-cookery",
+          "duration": "1.5 years full-time (79 weeks including breaks)",
+          "entryRequirements": "Minimum age: 18 years | IELTS: 6.0 overall (no band <5.5) | TOEFL iBT: 64 | PTE Academic: 50 | Cambridge CAE: 169 | Completion of Year 12 or equivalent",
+          "fees": "AUD $12,800 per year (Indicative international fee)",
+          "courseDetail": "https://www.academia21.com/school/diploma-of-hospitality-major-in-commercial-cookery#course-structure",
+          "otherInstitution": "http://tiny.cc/c09h001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Advanced Diploma of Hospitality Management (Commercial Cookery Stream)",
+          "program": "Advanced Diploma",
+          "details_url": "https://www.academia21.com/school/advanced-diploma-of-hospitality-major-in-commercial-cookery",
+          "duration": "102 weeks full-time (including breaks)",
+          "entryRequirements": "Minimum age: 18 years; English proficiency: IELTS 6.0 overall, TOEFL iBT 64, PTE Academic 50, OET: B in each component, CAE: 169; Academic: Completion of Year 11 or equivalent",
+          "fees": "AUD $28,000 (Brisbane) or AUD $32,000 (Melbourne) total; Material fee: AUD $1,180",
+          "courseDetail": "https://www.academia21.com/school/advanced-diploma-of-hospitality-major-in-commercial-cookery",
+          "otherInstitution": "http://tiny.cc/c09h001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Certificate III in Patisserie",
+          "program": "Certificate III",
+          "details_url": "https://www.academia21.com/school/certificate-III-in-hospitality-patisserie",
+          "duration": "52 weeks (1 year) full-time, including course breaks",
+          "entryRequirements": "IELTS: 5.5 | TOEFL iBT: 60 | PTE: 36 | Minimum age: 16 years | Academic: Year 12 or equivalent",
+          "fees": "AUD $13,000 per year (Indicative international fee)",
+          "courseDetail": "https://www.academia21.com/school/certificate-III-in-hospitality-patisserie#course-structure",
+          "otherInstitution": "http://tiny.cc/o19h001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Certificate IV in Patisserie",
+          "program": "Certificate IV",
+          "details_url": "https://www.academia21.com/school/certificate-IV-in-hospitality-patisserie",
+          "duration": "1.5 years full-time (79 weeks including breaks)",
+          "entryRequirements": "Minimum age: 18 years | IELTS: 5.5 | TOEFL: 60 | PTE: 36",
+          "fees": "AUD $19,200 total (Indicative international fee)",
+          "courseDetail": "https://www.academia21.com/school/certificate-IV-in-hospitality-patisserie",
+          "otherInstitution": "http://tiny.cc/o19h001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Diploma of Hospitality Management - Patisserie Stream",
+          "program": "Diploma",
+          "details_url": "https://www.academia21.com/school/diploma-of-hospitality-major-in-patisserie",
+          "duration": "1.5 years (79 weeks including breaks)",
+          "entryRequirements": "Completion of Certificate IV in Patisserie or equivalent. For international students, English proficiency equivalent to IELTS 5.5 with no band less than 5.0.",
+          "fees": "AUD $12,800 total tuition fee (2025)",
+          "courseDetail": "https://www.academia21.com/school/diploma-of-hospitality-major-in-patisserie",
+          "otherInstitution": "http://tiny.cc/l39h001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Advanced Diploma of Hospitality Management - Patisserie Stream",
+          "program": "Advanced Diploma",
+          "details_url": "https://www.academia21.com/school/advanced-diploma-of-hospitality-major-in-patisserie",
+          "duration": "2 years full-time (102 weeks including breaks)",
+          "entryRequirements": "Minimum age: 18 | IELTS: 6.0 (no band below 5.5) | TOEFL iBT: 64 | PTE Academic: 50 | OET: B in each component | Cambridge English: Advanced (CAE): 169",
+          "fees": "AUD $12,800 per year (Indicative international fee)",
+          "courseDetail": "https://www.academia21.com/school/advanced-diploma-of-hospitality-major-in-patisserie",
+          "otherInstitution": "http://tiny.cc/l39h001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Diploma of Hospitality Management (Operations Stream)",
+          "program": "Diploma",
+          "details_url": "https://www.academia21.com/school/diploma-of-hospitality-academia-internship-program",
+          "duration": "1.5 years full-time (6 x 10-week terms)",
+          "entryRequirements": "Minimum age: 18 years | Academic: Completion of Year 12 or equivalent | English: IELTS 5.5 or equivalent (e.g., Upper Intermediate ELICOS, English-medium high school, or Academia Placement Test with ≥70%)",
+          "fees": "AUD $18,000 total tuition | Enrolment fee: AUD $500 | Materials fee: AUD $200",
+          "courseDetail": "https://www.academia21.com/school/diploma-of-hospitality-academia-internship-program",
+          "otherInstitution": "http://tiny.cc/l39h001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Advanced Diploma of Hospitality Management",
+          "program": "Advanced Diploma",
+          "details_url": "https://www.academia21.com/school/advanced-diploma-of-hospitality",
+          "duration": "2 years full-time",
+          "entryRequirements": "IELTS: 6.0 (no band less than 5.0) | TOEFL iBT: 64 (R10, L9, S16, W19) | PTE Academic: 50 | Completion of Year 12 or equivalent",
+          "fees": "AUD $26,400 for entire course",
+          "courseDetail": "https://www.academia21.com/school/advanced-diploma-of-hospitality",
+          "otherInstitution": "http://tiny.cc/l39h001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Certificate III in Early Childhood Education and Care",
+          "program": "Certificate III",
+          "details_url": "https://www.academia21.com/school/certificate-III-in-early-childhood-education-and-care",
+          "duration": "52 weeks full-time",
+          "entryRequirements": "IELTS: 5.5 (or equivalent) | Completion of Year 11 or equivalent",
+          "fees": "AUD $10,000 per year (Indicative international fee)",
+          "courseDetail": "https://www.academia21.com/school/certificate-III-in-early-childhood-education-and-care#course-structure",
+          "otherInstitution": "http://tiny.cc/duah001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Diploma of Early Childhood Education and Care",
+          "program": "Diploma",
+          "details_url": "https://www.academia21.com/school/diploma-of-early-childhood-education-and-care",
+          "duration": "76 weeks (60 weeks of classes + 16 weeks of holidays) includes 280 hours of industry placement",
+          "entryRequirements": "Minimum age: 18 years | Educational background: Year 11 or equivalent | English proficiency: IELTS 6.0 (no band below 5.0) or equivalent (TOEFL iBT 64, PTE 50) | Must hold CHC30121 or CHC30113 Certificate III in Early Childhood Education and Care",
+          "fees": "AUD $10,000 per year (Indicative international fee)",
+          "courseDetail": "https://www.academia21.com/school/diploma-of-early-childhood-education-and-care",
+          "otherInstitution": "http://tiny.cc/duah001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Certificate III in Individual Support (Ageing and Disability)",
+          "program": "Certificate III",
+          "details_url": "https://www.academia21.com/school/courses-in-aged-care-certificate-III-in-individual-support",
+          "duration": "52 weeks full-time (including tuition and course breaks)",
+          "entryRequirements": "Minimum age: 18 years; Academic: Completion of Year 11 or equivalent; English proficiency: IELTS 5.5 (no band less than 5.0) or equivalent (TOEFL iBT 60, PTE Academic 36 with no communicative skill score less than 34, Cambridge FCE/CAE/CPE pass with average of 60%)",
+          "fees": "AUD $6,750 per year (plus AUD $200 enrolment fee)",
+          "courseDetail": "https://www.academia21.com/school/courses-in-aged-care-certificate-III-in-individual-support",
+          "otherInstitution": "http://tiny.cc/fvah001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Certificate IV in Ageing Support",
+          "program": "Vocational Education and Training (VET)",
+          "details_url": "https://www.academia21.com/school/courses-in-aged-care-certificate-IV-in-ageing-support",
+          "duration": "78 weeks (termasuk libur)",
+          "entryRequirements": "IELTS 6.0 atau setara; penyelesaian Year 11 Australia atau setara; minimal 120 jam kerja praktek di fasilitas aged care",
+          "fees": "AUD $10,000 per tahun (biaya indikatif untuk pelajar internasional)",
+          "courseDetail": "https://www.academia21.com/school/courses-in-aged-care-certificate-IV-in-ageing-support#course-structure",
+          "otherInstitution": "http://tiny.cc/nwah001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        },
+        {
+          "major": "Diploma of Community Services",
+          "program": "Diploma",
+          "details_url": "https://www.academia21.com/school/diploma-of-community-services",
+          "duration": "78 weeks (including tuition and course breaks)",
+          "entryRequirements": "Minimum age 18 years. English proficiency: IELTS 6.0, TOEFL iBT 64, PTE 50, OET (score of at least B per component), or CAE 169.",
+          "fees": "AUD $18,000 total tuition; AUD $930 material fee",
+          "courseDetail": "https://www.academia21.com/school/diploma-of-community-services#course-structure",
+          "otherInstitution": "http://tiny.cc/bxah001",
+          "scholarship": "https://www.academia21.com/international-students/course-fees-and-financial-assistance"
+        }
+      ]
+    }
+  ]
+}

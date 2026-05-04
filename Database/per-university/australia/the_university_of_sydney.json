@@ -1,0 +1,147 @@
+{
+  "id": "the_university_of_sydney",
+  "name": "The University of Sydney",
+  "country": "australia",
+  "totalCourses": 1,
+  "courses": [
+    {
+      "university": "The University of Sydney",
+      "country": "Australia",
+      "logo": "http://tiny.cc/SS-usyd",
+      "programs": [
+        {
+          "major": "Advanced Computing",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing.html",
+          "duration": "4 years full-time",
+          "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 85 (R≥17, L≥17, S≥17, W≥19) | PTE: 61 (≥54 per band) | ATAR: 90.00 | International Baccalaureate: 39 | CBSE: 16.5 | ISC: 92 | HSSC: 95 | Prerequisites: Mathematics Extension 1 or equivalent",
+          "fees": "AUD $57,700 per year (Indicative international fee)",
+          "courseDetail": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing.html#course-structure",
+          "otherInstitution": "http://tiny.cc/nkqg001",
+          "scholarship": "https://www.sydney.edu.au/scholarships"
+        },
+        {
+          "major": "Advanced Computing and Bachelor of Commerce",
+          "program": "Bachelor Degree (Double)",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing-and-bachelor-of-commerce.html",
+          "duration": "5 years full-time",
+          "entryRequirements": "IELTS: 7.0 (≥6.0 per band) | TOEFL 96 (R13, L13, S18, W21) | ATAR 96 | International Baccalaureate: 39 | GCE A Levels: 17 | Indonesia – SMA3: 85% / Foundation studies",
+          "fees": "AUD $57,700 per year (Indicative international fee)",
+          "courseDetail": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing-and-bachelor-of-commerce.html#course-structure",
+          "otherInstitution": "http://tiny.cc/mnqg001",
+          "scholarship": "https://www.sydney.edu.au/scholarships"
+        },
+        {
+          "major": "Advanced Computing and Bachelor of Science",
+          "program": "Combined Undergraduate Degree",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing-and-bachelor-of-science.html",
+          "duration": "5 years full-time",
+          "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 85 (Reading 13, Listening 12, Speaking 18, Writing 21) | ATAR 90 | International Baccalaureate: 33 | GCE A Levels: 1270 | China Gaokao: 85% | India CBSE: 61% | Mathematics Extension 1 prerequisite 715",
+          "fees": "AUD $57,700 per year (2025 international fee)",
+          "courseDetail": "https://www.sydney.edu.au/handbooks/science/undergraduate/b_advanced_computing_b_science.shtml",
+          "otherInstitution": "http://tiny.cc/cyqg001",
+          "scholarship": "https://www.sydney.edu.au/scholarships/international/bachelors-honours.html"
+        },
+        {
+          "major": "Advanced Computing and Bachelor of Science (Health)",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.uac.edu.au/undergraduate/courses/usyd/513510.shtml",
+          "duration": "4 years full-time",
+          "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL 85 (R17, L17, S17, W19) | PTE 61 (≥54 per band) | ATAR 90 | International Baccalaureate: 33 | GCE A Levels: ABB | India – CBSE: 16.5/20 | Prerequisites: Mathematics Extension 1 or equivalent",
+          "fees": "AUD $53,500 per year (Indicative international fee)",
+          "courseDetail": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing-and-bachelor-of-science.html",
+          "otherInstitution": "http://tiny.cc/yyqg001",
+          "scholarship": "https://www.sydney.edu.au/scholarships"
+        },
+        {
+          "major": "Advanced Computing and Bachelor of Science (Medical Science)",
+          "program": "Combined Bachelor Degree",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing-and-bachelor-of-science-medical-science.html",
+          "duration": "5 years full-time",
+          "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT 85 (Reading 13, Listening 13, Speaking 18, Writing 21) | ATAR 90+ | International Baccalaureate: 33+ | GCE A Levels: 12 | Mathematics Extension 1 (or equivalent) | Assumed knowledge: Chemistry, Biology",
+          "fees": "AUD $57,700 per year (2025 indicative international fee)",
+          "courseDetail": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-computing-and-bachelor-of-science-medical-science.html",
+          "otherInstitution": "http://tiny.cc/h2rg001",
+          "scholarship": "https://www.sydney.edu.au/scholarships/international/bachelors-honours/general.html"
+        },
+        {
+          "major": "Advanced Studies (Honours) (Media and Communications)",
+          "program": "Bachelor Honours Degree",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-advanced-studies-honours-media-and-communications.html",
+          "duration": "1 year full-time",
+          "entryRequirements": "IELTS: 7.0 (≥7.0 per band) | TOEFL iBT: 94 (≥27 writing, ≥23 speaking, ≥24 reading/listening) | India – CBSE: Best four subjects aggregate 16.5 (A1=5, A2=4.5) | Indian School Certificate: 92% average | Sri Lanka GCE A Levels: Aggregate 12 (A=4, B=3) | ATAR: 95.00",
+          "fees": "AUD $53,863 total course fee",
+          "courseDetail": "https://www.sydney.edu.au/handbooks/arts_social_sciences/media_communications/honours.shtml",
+          "otherInstitution": "http://tiny.cc/nq0h001",
+          "scholarship": "https://www.sydney.edu.au/scholarships/international.html"
+        },
+        {
+          "major": "Agricultural Science",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-agricultural-science.html",
+          "duration": "3 years full-time",
+          "entryRequirements": "Note: This course has been discontinued 17. For reference, previous requirements included: IELTS 6.5 (≥6.0 per band) | TOEFL 79 (R13, L13, S18, W21) | ATAR 75 | International Baccalaureate: 24 | GCE A Levels: 7 | Indonesia – SMA3: 75% (assumed equivalents)",
+          "fees": "AUD $50,560 per year",
+          "courseDetail": "https://www.sydney.edu.au/science/study/study-areas/agriculture-and-food.html",
+          "otherInstitution": "http://tiny.cc/dt0h001",
+          "scholarship": "https://www.sydney.edu.au/scholarships/international.html"
+        },
+        {
+          "major": "Agricultural Science (Honours)",
+          "program": "Bachelor Honours Degree",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-agricultural-science-honours.html",
+          "duration": "1 tahun penuh waktu (setelah menyelesaikan gelar Sarjana terkait)",
+          "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 85 (Reading 13, Listening 13, Speaking 18, Writing 21) | Persyaratan akademik: IPK minimal 65% dalam gelar Sarjana Agricultural Science atau bidang terkait",
+          "fees": "AUD $54,000 per tahun (biaya internasional 2025)",
+          "courseDetail": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-agricultural-science-honours.html#course-details",
+          "otherInstitution": "http://tiny.cc/dt0h001",
+          "scholarship": "https://www.sydney.edu.au/scholarships/international.html"
+        },
+        {
+          "major": "Animal and Veterinary Bioscience",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-animal-and-veterinary-bioscience.html",
+          "duration": "4 years full-time",
+          "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL 85 (Reading 17, Listening 17, Speaking 17, Writing 19) | PTE 61 (≥54 per band) | ATAR 80 | International Baccalaureate: 33 | GCE A Levels: ABB | India CBSE: 13 (best 4 subjects)",
+          "fees": "AUD $57,700 per year (Indicative international fee)",
+          "courseDetail": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-animal-and-veterinary-bioscience.html#course-structure",
+          "otherInstitution": "http://tiny.cc/nv0h001",
+          "scholarship": "https://www.sydney.edu.au/scholarships/international.html"
+        },
+        {
+          "major": "Animal and Veterinary Bioscience (Honours)",
+          "program": "Bachelor Honours Degree",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-animal-and-veterinary-bioscience-honours.html",
+          "duration": "1 year full-time",
+          "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL iBT: 85 (Reading 17, Listening 17, Speaking 17, Writing 19) | ATAR: 80+ | International Baccalaureate: 29+ | India – CBSE: 13 (best 4 subjects) | Indian School Certificate: 83% average | Prerequisites: Mathematics Advanced (Band 4), Biology, Chemistry",
+          "fees": "AUD $57,700 per year (2025 indicative international fee)",
+          "courseDetail": "https://www.sydney.edu.au/handbooks/science/undergraduate/b_advanced_studies/animal-veterinary-bioscience-honours.shtml",
+          "otherInstitution": "http://tiny.cc/nv0h001",
+          "scholarship": "https://www.sydney.edu.au/scholarships/international/bachelor-honours.html"
+        },
+        {
+          "major": "Applied Science (Diagnostic Radiography)",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-applied-science-diagnostic-radiography.html",
+          "duration": "4 years full-time",
+          "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL 85 (R:13, L:13, S:18, W:21) | PTE: 61 (minimum 54 each band) | Academic requirements: Assumed knowledge in Mathematics Advanced, Physics; Recommended: Biology/Chemistry; Equivalent to ATAR 96.00 for domestic students or international equivalents",
+          "fees": "AUD $58,500 per year (Indicative international fee)",
+          "courseDetail": "https://www.sydney.edu.au/handbooks/medicine-health/coursework/diagnostic-radiography.html",
+          "otherInstitution": "http://tiny.cc/b01h001",
+          "scholarship": "https://www.sydney.edu.au/scholarships"
+        },
+        {
+          "major": "Applied Science (Exercise and Sport Science)",
+          "program": "Bachelor Degree",
+          "details_url": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-applied-science-exercise-and-sport-science0.html",
+          "duration": "3 years full-time",
+          "entryRequirements": "IELTS: 6.5 (≥6.0 per band) | TOEFL 85 (R13, L12, S18, W21) | ATAR 82 | International Baccalaureate: 28 | GCE A Levels: 8 | Indonesia – SMA3: 80% | Assumed knowledge: Chemistry, Mathematics Advanced",
+          "fees": "AUD $48,000 per year (Indicative international fee)",
+          "courseDetail": "https://www.sydney.edu.au/courses/courses/uc/bachelor-of-applied-science-exercise-and-sport-science0.html#course-structure",
+          "otherInstitution": "http://tiny.cc/r21h001",
+          "scholarship": "https://www.sydney.edu.au/scholarships"
+        }
+      ]
+    }
+  ]
+}
