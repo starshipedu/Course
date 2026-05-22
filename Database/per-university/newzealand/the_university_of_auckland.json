@@ -4,904 +4,143 @@
   "country": "new_zealand",
   "countryDisplay": "New_zealand",
   "logo": "http://tiny.cc/SS-Auckland",
-  "totalPrograms": 224,
-  "lastUpdated": "2026-05-04",
+  "totalPrograms": 133,
+  "lastUpdated": "2026-05-22",
   "programs": [
-    {
-      "major": "Bachelor of Architectural Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-architectural-studies-bas.html"
-    },
-    {
-      "major": "Bachelor of Arts",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-ba.html"
-    },
-    {
-      "major": "Bachelor of Arts (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-honours-bahons.html"
-    },
-    {
-      "major": "Bachelor of Biomedical Science (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-biomedical-science-honours-bbiomedschons.html"
-    },
-    {
-      "major": "Bachelor of Commerce",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-bcom.html"
-    },
-    {
-      "major": "Bachelor of Commerce (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-honours-bcomhons.html"
-    },
-    {
-      "major": "Bachelor of Communication",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication.html"
-    },
-    {
-      "major": "Bachelor of Dance Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-bdancest.html"
-    },
-    {
-      "major": "Bachelor of Dance Studies (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-honours-bdancesthons.html"
-    },
-    {
-      "major": "Bachelor of Design",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-design.html"
-    },
-    {
-      "major": "Bachelor of Early Childhood Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-early-childhood-studies.html"
-    },
-    {
-      "major": "Bachelor of Education (Teaching English to Speakers of Other Languages)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-tesol.html"
-    },
-    {
-      "major": "Bachelor of Education (Teaching)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-bedtchg.html"
-    },
-    {
-      "major": "Bachelor of Education (Teaching) (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-honours-bedtchghons.html"
-    },
-    {
-      "major": "Bachelor of Engineering (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-honours-behons.html"
-    },
-    {
-      "major": "Bachelor of Fine Arts",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-bfa.html"
-    },
-    {
-      "major": "Bachelor of Global Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-global-studies-bglobalst.html"
-    },
-    {
-      "major": "Bachelor of Health Sciences",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-health-sciences-bhsc.html"
-    },
-    {
-      "major": "Bachelor of Laws",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-llb.html"
-    },
-    {
-      "major": "Bachelor of Laws (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-honours-llbhons.html"
-    },
-    {
-      "major": "Bachelor of Medical Imaging (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/Medicalimaging.html"
-    },
-    {
-      "major": "Bachelor of Medical Science (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medical-science-honours-bmedschons.html"
-    },
-    {
-      "major": "Bachelor of Medicine and Bachelor of Surgery",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medicine-and-bachelor-of-surgery-mbchb.html"
-    },
-    {
-      "major": "Bachelor of Music",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-bmus.html"
-    },
-    {
-      "major": "Bachelor of Music (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-honours-bmus-hons.html"
-    },
-    {
-      "major": "Bachelor of Nursing",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-bnurs.html"
-    },
-    {
-      "major": "Bachelor of Nursing (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-honours-bnurshons.html"
-    },
-    {
-      "major": "Bachelor of Optometry",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-optometry-boptom.html"
-    },
-    {
-      "major": "Bachelor of Pharmacy",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-bpharm.html"
-    },
-    {
-      "major": "Bachelor of Pharmacy (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-honours-bpharmhons.html"
-    },
-    {
-      "major": "Bachelor of Property",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-property-bprop.html"
-    },
-    {
-      "major": "Bachelor of Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html"
-    },
-    {
-      "major": "Bachelor of Science (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-honours-bschons.html"
-    },
-    {
-      "major": "Bachelor of Social Justice Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-social-justice-studies.html"
-    },
-    {
-      "major": "Bachelor of Social Work (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-social-work-honours-bswhons.html"
-    },
-    {
-      "major": "Bachelor of Sport, Health and Physical Education",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-sport-health-and-physical-education-bsporthpe.html"
-    },
-    {
-      "major": "Bachelor of Urban Planning (Honours)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-urban-planning-honours-burbplanhons.html"
-    },
-    {
-      "major": "Certificate in Health Sciences",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/certificate-in-health-sciences-certhsc.html"
-    },
-    {
-      "major": "Certificate in Languages",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/certificate-in-languages-certlang.html"
-    },
-    {
-      "major": "Certificate of Proficiency",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/certificate-of-proficiency.html"
-    },
-    {
-      "major": "Diploma in Languages",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/diploma-in-languages-diplang.html"
-    },
-    {
-      "major": "Doctor of Clinical Psychology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-clinical-psychology-dclinpsy.html"
-    },
-    {
-      "major": "Doctor of Education",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-education-edd.html"
-    },
-    {
-      "major": "Doctor of Fine Arts",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-fine-arts-docfa.html"
-    },
-    {
-      "major": "Doctor of Health Sciences",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-health-sciences-dhsc.html"
-    },
-    {
-      "major": "Doctor of Medicine",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-medical-sciences-dmedsc.html"
-    },
-    {
-      "major": "Doctor of Philosophy",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html"
-    },
-    {
-      "major": "Graduate Certificate in Law",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-certificate-in-law-gradcertlaw.html"
-    },
-    {
-      "major": "Graduate Diploma in Applied Psychology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-applied-psychology-graddipapppsych.html"
-    },
-    {
-      "major": "Graduate Diploma in Architectural Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-architectural-studies.html"
-    },
-    {
-      "major": "Graduate Diploma in Arts",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-arts-graddiparts.html"
-    },
-    {
-      "major": "Graduate Diploma in Commerce",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-commerce-graddipcom.html"
-    },
-    {
-      "major": "Graduate Diploma in Engineering Project Management",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-engineering-project-management.html"
-    },
-    {
-      "major": "Graduate Diploma in Law",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-law-graddiplaw.html"
-    },
-    {
-      "major": "Graduate Diploma in Music",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-music-graddipmus.html"
-    },
-    {
-      "major": "Graduate Diploma in Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-science-graddipsci.html"
-    },
-    {
-      "major": "Graduate Diploma in Teaching (Early Childhood Education)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-early-childhood-education-graddiptchgece.html"
-    },
-    {
-      "major": "Graduate Diploma in Teaching (Primary)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-primary-graddiptchgprimary.html"
-    },
-    {
-      "major": "Graduate Diploma in Teaching (Secondary)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-secondary-graddiptchgsec.html"
-    },
-    {
-      "major": "Master of Aerospace Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-aerospace-engineering-maerospaceeng.html"
-    },
-    {
-      "major": "Master of Applied Finance",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-applied-finance.html"
-    },
-    {
-      "major": "Master of Architecture",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-march.html"
-    },
-    {
-      "major": "Master of Architecture (Professional)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-marchprof.html"
-    },
-    {
-      "major": "Master of Architecture (Professional) and Urban Design",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-design-marchprofurdes.html"
-    },
-    {
-      "major": "Master of Architecture (Professional) and Urban Planning (Professional)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-planning-professional-marchprofurbplanprof.html"
-    },
-    {
-      "major": "Master of Artificial Intelligence",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-artificial-intelligence--mai-.html"
-    },
-    {
-      "major": "Master of Arts",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-arts-ma.html"
-    },
-    {
-      "major": "Master of Audiology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-audiology-maud.html"
-    },
-    {
-      "major": "Master of Biomedical Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-biomedical-science-mbiomedsc.html"
-    },
-    {
-      "major": "Master of Bioscience Enterprise",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-bioscience-enterprise-mbioent.html"
-    },
-    {
-      "major": "Master of Biotechnology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-biotechnology-mbiotech.html"
-    },
-    {
-      "major": "Master of Business Administration",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-administration-mba.html"
-    },
-    {
-      "major": "Master of Business Analytics",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-analytics.html"
-    },
-    {
-      "major": "Master of Business Management",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-management.html"
-    },
-    {
-      "major": "Master of Chemistry",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-chemistry-mchem.html"
-    },
-    {
-      "major": "Master of Civil Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-civil-engineering-mcivileng.html"
-    },
-    {
-      "major": "Master of Clinical Education",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-education-mclined.html"
-    },
-    {
-      "major": "Master of Clinical Exercise Physiology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-exercise-physiology.html"
-    },
-    {
-      "major": "Master of Clinical Pharmacy",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-pharmacy-mclinpharm.html"
-    },
-    {
-      "major": "Master of Commerce",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-commerce-mcom.html"
-    },
-    {
-      "major": "Master of Communication",
-      "details_url": "https://www.online.auckland.ac.nz/postgraduate-programmes/arts/master-of-communication/"
-    },
-    {
-      "major": "Master of Community Dance",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-community-dance-mcommdance.html"
-    },
-    {
-      "major": "Master of Conflict and Terrorism Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-conflict-and-terrorism-studies-mcts.html"
-    },
-    {
-      "major": "Master of Counselling",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-counselling-mcouns.html"
-    },
-    {
-      "major": "Master of Creative Writing",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-creative-writing-mcw.html"
-    },
-    {
-      "major": "Master of Dance Movement Therapy",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-dance-movement-therapy.html"
-    },
-    {
-      "major": "Master of Dance Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-dance-studies-mdancest.html"
-    },
-    {
-      "major": "Master of Data Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-data-science-mdats.html"
-    },
-    {
-      "major": "Master of Design",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-design-mdes.html"
-    },
-    {
-      "major": "Master of Disaster Management",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-disaster-management-mdismgt.html"
-    },
-    {
-      "major": "Master of Earthquake Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-earthquake-engineering-meqeng.html"
-    },
-    {
-      "major": "Master of Ecology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-ecology-mecology.html"
-    },
-    {
-      "major": "Master of Education",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-med.html"
-    },
-    {
-      "major": "Master of Education Practice",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-practice-medprac.html"
-    },
-    {
-      "major": "Master of Educational Leadership",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-educational-leadership-medld.html"
-    },
-    {
-      "major": "Master of Energy",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-energy-menergy.html"
-    },
-    {
-      "major": "Master of Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-me.html"
-    },
-    {
-      "major": "Master of Engineering Geology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-geology-menggeol.html"
-    },
-    {
-      "major": "Master of Engineering Management",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-management-memgt.html"
-    },
-    {
-      "major": "Master of Engineering Project Management",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-project-management.html"
-    },
-    {
-      "major": "Master of Engineering Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-studies-mengst.html"
-    },
-    {
-      "major": "Master of Environmental Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-environmental-science-menvsci.html"
-    },
-    {
-      "major": "Master of Fine Arts",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-fine-arts-mfa.html"
-    },
-    {
-      "major": "Master of Food Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-food-science-mfoodsci.html"
-    },
-    {
-      "major": "Master of Global Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-global-studies-mglobalst.html"
-    },
-    {
-      "major": "Master of Health Leadership",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-leadership-mhlthld.html"
-    },
-    {
-      "major": "Master of Health Practice",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-practice.html"
-    },
-    {
-      "major": "Master of Health Psychology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-psychology-mhealthpsych.html"
-    },
-    {
-      "major": "Master of Health Sciences",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-sciences-mhsc.html"
-    },
-    {
-      "major": "Master of Indigenous Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-indigenous-studies-mindigst.html"
-    },
-    {
-      "major": "Master of Information Governance",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-information-governance-minfogov.html"
-    },
-    {
-      "major": "Master of Information Technology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-information-technology-minfotech.html"
-    },
-    {
-      "major": "Master of Infrastructure Asset Management",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-infrastructure-asset-management-minfraassetmgt.html"
-    },
-    {
-      "major": "Master of Intellectual Property",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-intellectual-property.html"
-    },
-    {
-      "major": "Master of International Business",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-international-business-mintbus.html"
-    },
-    {
-      "major": "Master of Laws",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-laws-llm.html"
-    },
-    {
-      "major": "Master of Legal Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-legal-studies-mls.html"
-    },
-    {
-      "major": "Master of Literature",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-literature-mlitt.html"
-    },
-    {
-      "major": "Master of Marine Conservation",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marine-conservation-mmarinecons.html"
-    },
-    {
-      "major": "Master of Marine Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marine-studies-mmarinest.html"
-    },
-    {
-      "major": "Master of Marketing",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marketing-mmktg.html"
-    },
-    {
-      "major": "Master of Materials Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-materials-engineering-mmaterialseng.html"
-    },
-    {
-      "major": "Master of Mathematical Modelling",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-mathematical-modelling-mmathmodel.html"
-    },
-    {
-      "major": "Master of Medical Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-medical-engineering-mmedicaleng.html"
-    },
-    {
-      "major": "Master of Music",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-music-mmus.html"
-    },
-    {
-      "major": "Master of Nursing",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-nursing-mnurs.html"
-    },
-    {
-      "major": "Master of Nursing Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-nursing-science-mnsc.html"
-    },
-    {
-      "major": "Master of Operations Research and Analytics",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-operations-research-and-analytics-moran.html"
-    },
-    {
-      "major": "Master of Organisational Psychology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-organisational-psychology-morgpsych.html"
-    },
-    {
-      "major": "Master of Paediatrics",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-paediatrics-.html"
-    },
-    {
-      "major": "Master of Physiotherapy Practice",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-physiotherapy-practice-mphysioprac.html"
-    },
-    {
-      "major": "Master of Professional Accounting",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-accounting-mprofacctg.html"
-    },
-    {
-      "major": "Master of Professional Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-engineering-mprofeng.html"
-    },
-    {
-      "major": "Master of Professional Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-studies-mprofstuds.html"
-    },
-    {
-      "major": "Master of Professional Supervision",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-supervision-mprofsup.html"
-    },
-    {
-      "major": "Master of Professional Supervision Practice",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-supervision-practice-mprofsupprac.html"
-    },
-    {
-      "major": "Master of Property Practice",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-property-practice-mpropprac.html"
-    },
-    {
-      "major": "Master of Public Health",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-health-mph.html"
-    },
-    {
-      "major": "Master of Public Policy",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-policy-mpp.html"
-    },
-    {
-      "major": "Master of Regional Development",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-regional-development-mregdev.html"
-    },
-    {
-      "major": "Master of Robotics and Automation Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-robotics-and-automation-engineering-mroboteng.html"
-    },
-    {
-      "major": "Master of Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-science-msc.html"
-    },
-    {
-      "major": "Master of Social and Community Leadership",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-and-community-leadership-mscl.html"
-    },
-    {
-      "major": "Master of Social Work",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-work-msw.html"
-    },
-    {
-      "major": "Master of Social Work (Professional)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-work-professional-mswprof.html"
-    },
-    {
-      "major": "Master of Speech Language Therapy Practice",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-speech-language-therapy-practice-msltprac.html"
-    },
-    {
-      "major": "Master of Taxation Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-taxation-studies-mtaxs.html"
-    },
-    {
-      "major": "Master of Teaching English to Speakers of Other Languages",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-teaching-english-to-speakers-of-other-languages-mtesol.html"
-    },
-    {
-      "major": "Master of Urban Design",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-design-murbdes.html"
-    },
-    {
-      "major": "Master of Urban Planning",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-murbplan.html"
-    },
-    {
-      "major": "Master of Urban Planning (Professional)",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-professional-murbplanprof.html"
-    },
-    {
-      "major": "Master of Urban Planning (Professional) and Urban Design",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-professional-and-urban-design-murbplanprofurbdes.html"
-    },
-    {
-      "major": "Master of Wine Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-wine-science-mwinesci.html"
-    },
-    {
-      "major": "New Start General",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/undergraduate-study-options/preparation-and-foundation-programmes/new-start.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Aerospace Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-aerospace-engineering-pgcertaerospaceeng.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Applied Finance",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-applied-finance.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Business Analytics",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-business-analytics-pgcertbusan.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Business Management",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-business-management-pgcertbm.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Civil Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-civil-engineering-pgcertcivileng.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Clinical Education",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-clinical-education-pgcertclined.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Clinical Pharmacy",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-clinical-pharmacy-pgcertclinpharm.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Data Science",
-      "details_url": "https://www.online.auckland.ac.nz/postgraduate-programmes/science/postgraduate-certificate-in-data-science/"
-    },
-    {
-      "major": "Postgraduate Certificate in Design",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-design-pgcertdes.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Earthquake Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-earthquake-engineering-pgcerteqeng.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Education",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-education-pgcerted.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-engineering-pgcerteng.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Fine Arts",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-fine-arts-pgcertfa.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Geothermal Energy Technology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-geothermal-energy-technology-pgcertgeothermtech.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Health Sciences",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-health-sciences-pgcerthsc.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Information Governance",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-information-governance.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Information Technology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-information-technology-pgcertinfotech.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Infrastructure Asset Management",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-infrastructure-asset-management-pgcertinfraassetmgt.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Intellectual Property",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-intellectual-property.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Law",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-law-pgcertlaw.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Materials Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-materials-engineering-pgcertmaterialseng.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Mathematical Modelling",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-mathematical-modelling-pgcertmathmodel.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Medical Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-medical-engineering-pgcertmedicaleng.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Music",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-music-pgcertmus.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Operations Research and Analytics",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-operations-research-and-analytics-pgcertoran.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Paediatrics",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-paediatrics-.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Professional Supervision",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-professional-supervision-pgcertprofsup.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Property Practice",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-property-practice-pgcertpropprac.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Regional Development",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-regional-development-pgcertregdev.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Robotics and Automation Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-robotics-and-automation-engineering-pgcertroboteng.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Social and Community Leadership",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-social-and-community-leadership-pgcertscl.html"
-    },
-    {
-      "major": "Postgraduate Certificate in Teaching Linguistically Diverse Learners",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-teaching-linguistically-diverse-learners-pgcerttldl.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Aerospace Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-aerospace-engineering-pgdipaerospaceeng.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Applied Psychology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-applied-psychology-pgdipapppsych.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Architecture",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-architecture-pgdiparch.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Artificial Intelligence",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-artificial-intelligence.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Arts",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-arts-pgdiparts.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Biomedical Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-biomedical-science-pgdipbiomedsc.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Bioscience Enterprise",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-bioscience-enterprise-pgdipbioent.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Business",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-business-pgdipbus.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Civil Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-civil-engineering-pgdipcivileng.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Clinical Education",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-clinical-education-pgdipclined.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Clinical Pharmacy",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-clinical-pharmacy-pgdipclinpharm.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Counselling Theory",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-counselling-theory-pgdipcounsth.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Dance Studies",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-dance-studies-pgdipdancest.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Education",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-education-pgdiped.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Educational Leadership",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-educational-leadership-pgdipedld.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-engineering-pgdipeng.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Fine Arts",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-fine-arts-pgdipfa.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Forensic Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-forensic-science-pgdipforensic.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Health Psychology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-health-psychology-pgdiphealthpsych.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Health Sciences",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-health-sciences-pgdiphsc.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Information Governance",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-information-governance.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Infrastructure Asset Management",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-infrastructure-asset-management-pgdipinfraassetmgt.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Language Teaching",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-language-teaching-pgdiplt.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Materials Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-materials-engineering-pgdipmaterialseng.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Mathematical Modelling",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-mathematical-modelling-pgdipmathmodel.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Medical Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-medical-engineering-pgdipmedicaleng.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Music",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-music-pgdipmus.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Obstetrics and Medical Gynaecology",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-obstetrics-and-medical-gynaecology-pgdipobstmedgyn.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Operations Research and Analytics",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-operations-research-and-analytics-pgdiporan.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Paediatrics",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-paediatrics.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Professional Supervision",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-professional-supervision-pgdipprofsup.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Public Health",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-public-health-pgdipph.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Robotics and Automation Engineering",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-robotics-and-automation-engineering-pgdiproboteng.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Science",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-science-pgdipsci.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Social Work",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-social-work-pgdipsw.html"
-    },
-    {
-      "major": "Postgraduate Diploma in Stroke Care",
-      "details_url": "https://www.online.auckland.ac.nz/postgraduate-programmes/fmhs/postgraduate-diploma-in-stroke-care/"
-    },
-    {
-      "major": "Postgraduate Diploma in Teaching Linguistically Diverse Learners",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-teaching-linguistically-diverse-learners-pgdiptldl.html"
-    },
-    {
-      "major": "Tertiary Foundation Certificate",
-      "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/tertiary-foundation-certificate.html"
-    }
+    {"major": "Bachelor of Laws (LLB)", "program": "Bachelor Degree", "duration": "4 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (specific grade requirements not published - competitive selection based on academic merit) | English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent. Note: Entry to LLB Part II is selective and requires LawGPA of 5.0–6.7 (B to B+) typically.", "fees": "NZ$26,266 - $35,000 per year (estimate, refer to official website)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-llb.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-laws-llb.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Laws%20(LLB)&country=New%20Zealand"},
+    {"major": "Graduate Certificate in Law", "program": "Graduate Certificate", "duration": "Half year (1 semester)", "entryRequirements": "Previous study: Bachelor of Laws (LLB) or undergraduate law degree from recognized university (no minimum grade requirement for admission) | English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent", "fees": "NZ$23,609 per year (indicative international tuition fee for 2026, excludes Student Services Fee of $9.44 per point)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-certificate-in-law-gradcertlaw.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-certificate-in-law-gradcertlaw.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Graduate%20Certificate%20in%20Law&country=New%20Zealand"},
+    {"major": "Graduate Diploma in Law", "program": "Graduate Diploma", "duration": "1 year", "entryRequirements": "Previous study: Bachelor of Laws (LLB) or undergraduate law degree from recognized university (no minimum grade requirement for admission) | English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-law-graddiplaw.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-law-graddiplaw.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Graduate%20Diploma%20in%20Law&country=New%20Zealand"},
+    {"major": "Postgraduate Certificate in Intellectual Property", "program": "Postgraduate Certificate", "duration": "Half year", "entryRequirements": "A bachelor's degree in law or a related discipline from a recognised university (or similar institution). For applicants without a law degree, a four-year undergraduate degree or a three-year degree plus one year of postgraduate study is required, with a GPE of 4.0 over the most recent full-time year of study. English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent.", "fees": "Approximately NZ$23,000 - $25,000 for the half-year programme (estimate, refer to official website)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-intellectual-property.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-intellectual-property.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Postgraduate%20Certificate%20in%20Intellectual%20Property&country=New%20Zealand"},
+    {"major": "Postgraduate Certificate in Law", "program": "Postgraduate Certificate", "duration": "Half year", "entryRequirements": "A completed Bachelor of Laws (LLB) or equivalent undergraduate law degree from a recognised university with a GPE of 4.0 over the most recent year of law courses. OR a four-year undergraduate degree (or three-year degree plus one year of postgraduate study) in a non-law discipline from a recognised university with a GPE of 4.0 over the most recent full-time year of study . English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent.", "fees": "Approximately NZ$23,000 - $25,000 for the half-year programme (estimate, refer to official website)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-law-pgcertlaw.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-certificate-in-law-pgcertlaw.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Postgraduate%20Certificate%20in%20Law&country=New%20Zealand"},
+    {"major": "Master of Laws", "program": "Master Degree", "duration": "1 year", "entryRequirements": "A completed Bachelor of Laws (LLB) or an undergraduate law degree from a recognised university (or similar institution) with a GPA of 5.0 (for Taught 120 points) or 6.0 (for Research 120 points). English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent.", "fees": "NZ$46,282 - $48,595 per year (indicative international tuition fee)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-laws-llm.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-laws-llm.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Laws&country=New%20Zealand"},
+    {"major": "Master of Legal Studies", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "A completed Bachelor of Laws (LLB) or an undergraduate law degree from a recognised university (or similar institution). Non-law graduates may be considered based on relevant professional experience. Minimum GPA requirements typically apply. English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent.", "fees": "NZ$46,282 - $48,595 per year (indicative international tuition fee)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-legal-studies-mls.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-legal-studies-mls.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Legal%20Studies&country=New%20Zealand"},
+    {"major": "Master of Taxation Studies", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "A completed Bachelor of Laws (LLB) or an undergraduate degree in a relevant discipline (e.g., commerce, accounting, business) from a recognised university. Professional experience in taxation may also be considered. English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent.", "fees": "NZ$46,282 - $48,595 per year (estimate, refer to official website)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-taxation-studies-mtaxs.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-taxation-studies-mtaxs.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Taxation%20Studies&country=New%20Zealand"},
+    {"major": "Master of Intellectual Property", "program": "Master Degree", "duration": "1 year", "entryRequirements": "A completed Bachelor of Laws (LLB) or an undergraduate degree in a relevant discipline (e.g., science, engineering, business) from a recognised university. Professional experience in intellectual property may be considered. English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent.", "fees": "NZ$46,282 - $48,595 per year (estimate, refer to official website)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-intellectual-property.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-intellectual-property.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Intellectual%20Property&country=New%20Zealand"},
+    {"major": "Juris Doctor", "program": "Doctoral Degree (Professional Entry)", "duration": "3 years", "entryRequirements": "A completed bachelor's degree in any discipline (non-law) from a recognised university with a high GPA (typically equivalent to a New Zealand B+ or higher). This programme is designed for graduates from non-law backgrounds . English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent. Note: New programme commencing 2027.", "fees": "NZ$46,282 - $48,595 per year (estimate, refer to official website)", "details_url": "https://www.auckland.ac.nz/en/law/study-with-us/study-options/explore-pg-options/options-non-law-degree/juris-doctor.html", "courseDetail": "https://www.auckland.ac.nz/en/law/study-with-us/study-options/explore-pg-options/options-non-law-degree/juris-doctor.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Juris%20Doctor&country=New%20Zealand"},
+    {"major": "Doctor of Philosophy (PhD)", "program": "Doctoral Degree (Research)", "duration": "3 - 4 years", "entryRequirements": "A completed master's degree or bachelor's degree with honours (first class or second class, division 1) in law or a related discipline from a recognised university. A strong research proposal is required. English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent.", "fees": "Compulsory tuition fees are covered by the University of Auckland Doctoral Scholarship (for successful applicants).", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "scholarship": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Doctor%20of%20Philosophy%20(PhD)&country=New%20Zealand"},
+    {"major": "Bachelor of Arts", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (competitive admission, specific grade requirements not published) | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent", "fees": "NZ$26,266 - NZ$35,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-ba.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-arts-ba.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Arts&country=New%20Zealand"},
+    {"major": "Bachelor of Communication", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (competitive admission) | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent", "fees": "NZ$26,266 - NZ$35,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-communication.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Communication&country=New%20Zealand"},
+    {"major": "Bachelor of Dance Studies", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades + audition/portfolio required | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent", "fees": "NZ$26,266 - NZ$35,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-bdancest.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-dance-studies-bdancest.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Dance%20Studies&country=New%20Zealand"},
+    {"major": "Bachelor of Early Childhood Studies", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (competitive admission) | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent. Note: May require police vetting.", "fees": "NZ$26,266 - NZ$35,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-early-childhood-studies.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-early-childhood-studies.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Early%20Childhood%20Studies&country=New%20Zealand"},
+    {"major": "Bachelor of Education (Teaching)", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades + interview/disposition assessment | English: IELTS Academic 7.0 overall (no band less than 7.0) or equivalent. Note: Requires police vetting.", "fees": "NZ$26,266 - NZ$35,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-bedtchg.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-teaching-bedtchg.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Education%20(Teaching)&country=New%20Zealand"},
+    {"major": "Bachelor of Education (TESOL)", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent. Note: Interest in teaching English to speakers of other languages.", "fees": "NZ$26,266 - NZ$35,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-tesol.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-education-tesol.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Education%20(TESOL)&country=New%20Zealand"},
+    {"major": "Bachelor of Fine Arts", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades + portfolio required | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent", "fees": "NZ$26,266 - NZ$35,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-bfa.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-fine-arts-bfa.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Fine%20Arts&country=New%20Zealand"},
+    {"major": "Bachelor of Global Studies", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (competitive admission) | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent", "fees": "NZ$26,266 - NZ$35,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-global-studies-bglobalst.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-global-studies-bglobalst.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Global%20Studies&country=New%20Zealand"},
+    {"major": "Bachelor of Music", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades + audition/portfolio required (for Performance, Composition, Jazz) | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent", "fees": "NZ$26,266 - NZ$35,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-bmus.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-music-bmus.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Music&country=New%20Zealand"},
+    {"major": "Bachelor of Sport, Health and Physical Education", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (competitive admission) | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent", "fees": "NZ$26,266 - NZ$35,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-sport-health-and-physical-education-bsporthpe.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-sport-health-and-physical-education-bsporthpe.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Sport%2C%20Health%20and%20Physical%20Education&country=New%20Zealand"},
+    {"major": "Graduate Diploma in Teaching (Primary)", "program": "Graduate Diploma", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree (any discipline) | English: IELTS Academic 7.0 overall (no band less than 7.0) as required for teaching registration in New Zealand", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-primary-graddiptchgprimary.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-primary-graddiptchgprimary.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Graduate%20Diploma%20in%20Teaching%20(Primary)&country=New%20Zealand"},
+    {"major": "Graduate Diploma in Teaching (Secondary)", "program": "Graduate Diploma", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree with two teaching subjects relevant to New Zealand secondary curriculum | English: IELTS Academic 7.0 overall (no band less than 7.0) as required for teaching registration in New Zealand", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-secondary-graddiptchgsec.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-teaching-secondary-graddiptchgsec.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Graduate%20Diploma%20in%20Teaching%20(Secondary)&country=New%20Zealand"},
+    {"major": "Master of Arts", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in relevant subject with GPE of 5.0 or higher | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-arts-ma.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-arts-ma.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Arts&country=New%20Zealand"},
+    {"major": "Master of Community Dance", "program": "Master Degree", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree in dance or related field | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-community-dance-mcommdance.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-community-dance-mcommdance.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Community%20Dance&country=New%20Zealand"},
+    {"major": "Master of Conflict and Terrorism Studies", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in relevant field (Political Science, International Relations, History, or related discipline) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-conflict-and-terrorism-studies-mcts.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-conflict-and-terrorism-studies-mcts.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Conflict%20and%20Terrorism%20Studies&country=New%20Zealand"},
+    {"major": "Master of Counselling", "program": "Master Degree", "duration": "1 or 2 years, time varies", "entryRequirements": "Previous study: Bachelor's degree in counselling, psychology, social work, or related field plus relevant professional experience | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-counselling-mcouns.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-counselling-mcouns.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Counselling&country=New%20Zealand"},
+    {"major": "Master of Creative Writing", "program": "Master Degree", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree in relevant field plus writing portfolio demonstrating creative writing ability | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-creative-writing-mcw.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-creative-writing-mcw.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Creative%20Writing&country=New%20Zealand"},
+    {"major": "Master of Dance Movement Therapy", "program": "Master Degree", "duration": "2 years", "entryRequirements": "Previous study: Bachelor's degree in dance, psychology, or related field plus relevant experience | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-dance-movement-therapy.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-dance-movement-therapy.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Dance%20Movement%20Therapy&country=New%20Zealand"},
+    {"major": "Master of Dance Studies", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in dance or related field | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-dance-studies-mdancest.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-dance-studies-mdancest.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Dance%20Studies&country=New%20Zealand"},
+    {"major": "Master of Education", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Education or related field | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-med.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-med.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Education&country=New%20Zealand"},
+    {"major": "Master of Education Practice", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Education or related field with professional teaching experience | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-practice-medprac.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-education-practice-medprac.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Education%20Practice&country=New%20Zealand"},
+    {"major": "Master of Educational Leadership", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Education or related field with leadership experience | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-educational-leadership-medld.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-educational-leadership-medld.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Educational%20Leadership&country=New%20Zealand"},
+    {"major": "Master of Fine Arts", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Fine Arts or related field plus portfolio | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-fine-arts-mfa.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-fine-arts-mfa.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Fine%20Arts&country=New%20Zealand"},
+    {"major": "Master of Global Studies", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in relevant field (International Relations, Global Studies, Political Science, or related discipline) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-global-studies-mglobalst.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-global-studies-mglobalst.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Global%20Studies&country=New%20Zealand"},
+    {"major": "Master of Indigenous Studies", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in relevant field (Indigenous Studies, Anthropology, Sociology, or related discipline) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-indigenous-studies-mindigst.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-indigenous-studies-mindigst.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Indigenous%20Studies&country=New%20Zealand"},
+    {"major": "Master of Music", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Music or related field plus audition/portfolio | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-music-mmus.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-music-mmus.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Music&country=New%20Zealand"},
+    {"major": "Master of Professional Studies", "program": "Master Degree", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree in relevant field (Education, Mathematics Education, or related discipline) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-studies-mprofstuds.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-studies-mprofstuds.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Professional%20Studies&country=New%20Zealand"},
+    {"major": "Master of Professional Supervision", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in relevant field plus professional experience in supervision or related role | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-supervision-mprofsup.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-supervision-mprofsup.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Professional%20Supervision&country=New%20Zealand"},
+    {"major": "Master of Professional Supervision Practice", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in relevant field plus extensive professional experience in supervision practice | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-supervision-practice-mprofsupprac.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-supervision-practice-mprofsupprac.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Professional%20Supervision%20Practice&country=New%20Zealand"},
+    {"major": "Master of Public Policy", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in relevant field (Political Science, Public Policy, Economics, Law, or related discipline) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-policy-mpp.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-policy-mpp.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Public%20Policy&country=New%20Zealand"},
+    {"major": "Master of Social and Community Leadership", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in relevant field (Social Work, Community Development, Sociology, or related discipline) plus leadership experience | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-and-community-leadership-mscl.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-and-community-leadership-mscl.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Social%20and%20Community%20Leadership&country=New%20Zealand"},
+    {"major": "Master of Social Work", "program": "Master Degree", "duration": "1 or 2 years", "entryRequirements": "Previous study: Bachelor's degree in Social Work or related field | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-work-msw.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-work-msw.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Social%20Work&country=New%20Zealand"},
+    {"major": "Master of Social Work (Professional)", "program": "Master Degree", "duration": "2 years", "entryRequirements": "Previous study: Bachelor's degree in any discipline (qualifies for professional social work registration upon completion) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-work-professional-mswprof.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-social-work-professional-mswprof.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Social%20Work%20(Professional)&country=New%20Zealand"},
+    {"major": "Master of Teaching English to Speakers of Other Languages", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in any discipline plus demonstrated interest in TESOL | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-teaching-english-to-speakers-of-other-languages-mtesol.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-teaching-english-to-speakers-of-other-languages-mtesol.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Teaching%20English%20to%20Speakers%20of%20Other%20Languages&country=New%20Zealand"},
+    {"major": "Doctor of Philosophy (PhD)", "program": "Doctorate", "duration": "3 - 4 years", "entryRequirements": "Previous study: Master's degree with honours or Bachelor's degree with honours (first class or second class division I) in relevant field | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Doctor%20of%20Philosophy%20(PhD)&country=New%20Zealand"},
+    {"major": "Bachelor of Commerce (BCom)", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (specific grade requirements not published - competitive selection based on academic merit) | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent. International students may need to complete foundation program or one semester of bachelor's degree study at a recognized institution.", "fees": "NZ$28,980 - $44,078 per year (indicative international tuition fee for 2025)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-bcom.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-commerce-bcom.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Commerce%20(BCom)&country=New%20Zealand"},
+    {"major": "Bachelor of Property (BProp)", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (specific grade requirements not published - competitive selection based on academic merit) | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent. Must meet University Entrance (UE) standard and rank score requirements].", "fees": "NZ$39,786 - $44,078 per year (indicative international tuition fee)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-property-bprop.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-property-bprop.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Property%20(BProp)&country=New%20Zealand"},
+    {"major": "Master of Applied Finance", "program": "Master Degree", "duration": "15 months", "entryRequirements": "SMA (Indonesia): Not applicable for Master degree | Previous study: Bachelor degree from recognised university with equivalent GPA of 3.0/4 or B average (65-74%) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent (TOEFL iBT 90 with written 21, PTE 58 with no score below 50) | Note: Applicants without prior finance study are welcome", "fees": "NZ$76,723 per year (indicative international tuition fee for 180 points, excludes Student Services Fee of $9.44 per point)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-applied-finance.html", "courseDetail": "https://www.businessmasters.auckland.ac.nz/programme-information/master-of-applied-finance/", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Applied%20Finance&country=New%20Zealand"},
+    {"major": "Master of Business Analytics", "program": "Master Degree", "duration": "15 months", "entryRequirements": "SMA (Indonesia): Not applicable for Master degree | Previous study: Bachelor degree from recognised university with GPE of 5.0 (equivalent to B average or 65-74%) in similar discipline | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent (TOEFL iBT 90 with written 21)", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-analytics.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-business-analytics.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Business%20Analytics&country=New%20Zealand"},
+    {"major": "Master of Commerce", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "SMA (Indonesia): Not applicable for Master degree | Previous study: Bachelor degree in same field from recognised university with GPE of 5.0 (equivalent to B average or 65-74%). Specialisations in accounting and finance require higher GPE | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent (TOEFL iBT 90 with written 21)", "fees": "NZ$60,256 per year (indicative international tuition fee)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-commerce-mcom.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-commerce-mcom.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Commerce&country=New%20Zealand"},
+    {"major": "Master of International Business", "program": "Master Degree", "duration": "15 months", "entryRequirements": "SMA (Indonesia): Not applicable for Master degree | Previous study: Bachelor degree from recognised university with GPE of 5.0 (equivalent to B average or 65-74%) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent (TOEFL iBT 90 with written 21)", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-international-business-mintbus.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-international-business-mintbus.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20International%20Business&country=New%20Zealand"},
+    {"major": "Master of Marketing", "program": "Master Degree", "duration": "15 months", "entryRequirements": "SMA (Indonesia): Not applicable for Master degree | Previous study: Bachelor degree from recognised university with GPE of 5.0 (equivalent to B average or 65-74%) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent (TOEFL iBT 90 with written 21)", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marketing-mmktg.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marketing-mmktg.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Marketing&country=New%20Zealand"},
+    {"major": "Master of Professional Accounting", "program": "Master Degree", "duration": "15 months", "entryRequirements": "SMA (Indonesia): Not applicable for Master degree | Previous study: Bachelor degree from recognised university with GPE of 5.0 (equivalent to B average or 65-74%) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent (TOEFL iBT 90 with written 21)", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-accounting-mprofacctg.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-accounting-mprofacctg.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Professional%20Accounting&country=New%20Zealand"},
+    {"major": "Doctor of Philosophy (PhD)", "program": "Doctoral Degree", "duration": "3 - 4 years", "entryRequirements": "SMA (Indonesia): Not applicable for Doctoral degree | Previous study: Master degree or Bachelor honours degree from recognised university with strong research background | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent | Note: Requires research proposal and supervisor confirmation", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Doctor%20of%20Philosophy%20(PhD)&country=New%20Zealand"},
+    {"major": "Bachelor of Architectural Studies", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (competitive selection based on academic merit) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent. Portfolio required for some specialisations.", "fees": "NZ$32,000 - NZ$38,000 per year (estimate, refer to official website)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-architectural-studies-bas.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-architectural-studies-bas.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Architectural%20Studies&country=New%20Zealand"},
+    {"major": "Bachelor of Design", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (competitive selection based on academic merit) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent. Portfolio may be required.", "fees": "NZ$32,000 - NZ$38,000 per year (estimate, refer to official website)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-design.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-design.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Design&country=New%20Zealand"},
+    {"major": "Bachelor of Engineering (Honours)", "program": "Bachelor Degree (Honours)", "duration": "4 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (competitive selection based on academic merit) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent. Strong background in Mathematics and Physics required.", "fees": "NZ$38,000 - NZ$45,000 per year (estimate, refer to official website)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-honours-behons.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-engineering-honours-behons.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Engineering%20(Honours)&country=New%20Zealand"},
+    {"major": "Bachelor of Urban Planning (Honours)", "program": "Bachelor Degree (Honours)", "duration": "4 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (competitive selection based on academic merit) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$32,000 - NZ$38,000 per year (estimate, refer to official website)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-urban-planning-honours-burbplanhons.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-urban-planning-honours-burbplanhons.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Urban%20Planning%20(Honours)&country=New%20Zealand"},
+    {"major": "Master of Aerospace Engineering", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-aerospace-engineering-maerospaceeng.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-aerospace-engineering-maerospaceeng.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Aerospace%20Engineering&country=New%20Zealand"},
+    {"major": "Master of Architecture", "program": "Master Degree (Postgraduate)", "duration": "1 year", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-march.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-march.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Architecture&country=New%20Zealand"},
+    {"major": "Master of Architecture (Professional)", "program": "Master Degree (Postgraduate)", "duration": "2 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-marchprof.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-marchprof.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Architecture%20(Professional)&country=New%20Zealand"},
+    {"major": "Master of Architecture (Professional) and Urban Design", "program": "Master Degree (Postgraduate)", "duration": "2.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-design-marchprofurdes.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-design-marchprofurdes.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Architecture%20(Professional)%20and%20Urban%20Design&country=New%20Zealand"},
+    {"major": "Master of Architecture (Professional) and Urban Planning (Professional)", "program": "Master Degree (Postgraduate)", "duration": "3 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-planning-professional-marchprofurbplanprof.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-architecture-professional-and-urban-planning-professional-marchprofurbplanprof.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Architecture%20(Professional)%20and%20Urban%20Planning%20(Professional)&country=New%20Zealand"},
+    {"major": "Master of Civil Engineering", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-civil-engineering-mcivileng.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-civil-engineering-mcivileng.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Civil%20Engineering&country=New%20Zealand"},
+    {"major": "Master of Design", "program": "Master Degree (Postgraduate)", "duration": "1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-design-mdes.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-design-mdes.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Design&country=New%20Zealand"},
+    {"major": "Master of Disaster Management", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-disaster-management-mdismgt.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-disaster-management-mdismgt.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Disaster%20Management&country=New%20Zealand"},
+    {"major": "Master of Earthquake Engineering", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-earthquake-engineering-meqeng.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-earthquake-engineering-meqeng.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Earthquake%20Engineering&country=New%20Zealand"},
+    {"major": "Master of Energy", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-energy-menergy.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-energy-menergy.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Energy&country=New%20Zealand"},
+    {"major": "Master of Engineering", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-me.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-me.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Engineering&country=New%20Zealand"},
+    {"major": "Master of Engineering Management", "program": "Master Degree (Postgraduate)", "duration": "1 year", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-management-memgt.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-management-memgt.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Engineering%20Management&country=New%20Zealand"},
+    {"major": "Master of Engineering Project Management", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-project-management.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-project-management.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Engineering%20Project%20Management&country=New%20Zealand"},
+    {"major": "Master of Engineering Studies", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-studies-mengst.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-studies-mengst.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Engineering%20Studies&country=New%20Zealand"},
+    {"major": "Master of Infrastructure Asset Management", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-infrastructure-asset-management-minfraassetmgt.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-infrastructure-asset-management-minfraassetmgt.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Infrastructure%20Asset%20Management&country=New%20Zealand"},
+    {"major": "Master of Materials Engineering", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-materials-engineering-mmaterialseng.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-materials-engineering-mmaterialseng.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Materials%20Engineering&country=New%20Zealand"},
+    {"major": "Master of Medical Engineering", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-medical-engineering-mmedicaleng.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-medical-engineering-mmedicaleng.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Medical%20Engineering&country=New%20Zealand"},
+    {"major": "Master of Operations Research and Analytics", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-operations-research-and-analytics-moran.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-operations-research-and-analytics-moran.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Operations%20Research%20and%20Analytics&country=New%20Zealand"},
+    {"major": "Master of Professional Engineering", "program": "Master Degree (Postgraduate)", "duration": "1.5 or 2 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-engineering-mprofeng.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-engineering-mprofeng.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Professional%20Engineering&country=New%20Zealand"},
+    {"major": "Master of Robotics and Automation Engineering", "program": "Master Degree (Postgraduate)", "duration": "1 or 1.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-robotics-and-automation-engineering-mroboteng.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-robotics-and-automation-engineering-mroboteng.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Robotics%20and%20Automation%20Engineering&country=New%20Zealand"},
+    {"major": "Master of Urban Design", "program": "Master Degree (Postgraduate)", "duration": "1 year", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-design-murbdes.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-design-murbdes.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Urban%20Design&country=New%20Zealand"},
+    {"major": "Master of Urban Planning", "program": "Master Degree (Postgraduate)", "duration": "1 year", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-murbplan.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-murbplan.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Urban%20Planning&country=New%20Zealand"},
+    {"major": "Master of Urban Planning (Professional)", "program": "Master Degree (Postgraduate)", "duration": "2 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-professional-murbplanprof.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-professional-murbplanprof.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Urban%20Planning%20(Professional)&country=New%20Zealand"},
+    {"major": "Master of Urban Planning (Professional) and Urban Design", "program": "Master Degree (Postgraduate)", "duration": "2.5 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-professional-and-urban-design-murbplanprofurbdes.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-urban-planning-professional-and-urban-design-murbplanprofurbdes.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Urban%20Planning%20(Professional)%20and%20Urban%20Design&country=New%20Zealand"},
+    {"major": "Doctor of Philosophy (PhD)", "program": "Doctoral Degree (Postgraduate)", "duration": "3 - 4 years", "entryRequirements": "Please refer to the official website for detailed entry requirements", "fees": "Please refer to the official website for detailed fees information", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Doctor%20of%20Philosophy%20(PhD)&country=New%20Zealand"},
+    {"major": "Bachelor of Health Sciences", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with minimum average 80% in relevant science subjects (Biology, Chemistry, Physics/Math) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$32,000 - $38,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-health-sciences-bhsc.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-health-sciences-bhsc.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Health%20Sciences&country=New%20Zealand"},
+    {"major": "Bachelor of Nursing", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with minimum average 75% including Biology | English: IELTS Academic 6.5 overall (no band less than 6.5) or equivalent. Additional requirements: Police clearance, health screening, and interview may be required.", "fees": "NZ$34,000 - $40,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-bnurs.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-nursing-bnurs.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Nursing&country=New%20Zealand"},
+    {"major": "Bachelor of Medicine and Bachelor of Surgery", "program": "Bachelor Degree", "duration": "6 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with minimum average 85% in Biology, Chemistry, Physics, and Mathematics. Must also complete first year of BHSc or BSc (Biomedical Science) with competitive GPA (typically 6.0+/9.0) and pass UCAT ANZ and MMI interview | English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent", "fees": "NZ$75,000 - $85,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medicine-and-bachelor-of-surgery-mbchb.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medicine-and-bachelor-of-surgery-mbchb.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Medicine%20and%20Bachelor%20of%20Surgery&country=New%20Zealand"},
+    {"major": "Bachelor of Optometry", "program": "Bachelor Degree", "duration": "5 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with minimum average 80% in Biology, Chemistry, Physics, and Mathematics. Additional selection criteria may apply | English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent", "fees": "NZ$50,000 - $60,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-optometry-boptom.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-optometry-boptom.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Optometry&country=New%20Zealand"},
+    {"major": "Bachelor of Pharmacy", "program": "Bachelor Degree", "duration": "4 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with minimum average 80% in Biology, Chemistry, and one other science subject | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$38,000 - $45,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-bpharm.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-pharmacy-bpharm.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Pharmacy&country=New%20Zealand"},
+    {"major": "Bachelor of Medical Imaging (Honours)", "program": "Bachelor Degree (Honours)", "duration": "4 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with minimum average 80% in Physics, Biology, and Chemistry/Mathematics | English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent", "fees": "NZ$40,000 - $48,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/Medicalimaging.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/Medicalimaging.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Medical%20Imaging%20(Honours)&country=New%20Zealand"},
+    {"major": "Bachelor of Medical Science (Honours)", "program": "Bachelor Degree (Honours)", "duration": "1 year", "entryRequirements": "Previous study: Completion of relevant Bachelor's degree (e.g., BSc, BHSc) with minimum GPA of 5.0 (B average) or equivalent | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$38,000 - $45,000 per year (estimate)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medical-science-honours-bmedschons.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-medical-science-honours-bmedschons.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Medical%20Science%20(Honours)&country=New%20Zealand"},
+    {"major": "Master of Audiology", "program": "Master Degree", "duration": "2 years", "entryRequirements": "Previous study: Relevant undergraduate degree in health sciences, public health, or science (including physiology and psychology) from recognized university with GPE of 5.0 or higher | English: IELTS Academic 7.0 overall (no band less than 6.5) or equivalent", "fees": "NZ$55,214.40 per year + Student Services Fee of $9.24 per point (approx $1,108.80 for full-time study)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-audiology-maud.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-audiology-maud.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Audiology&country=New%20Zealand"},
+    {"major": "Master of Biomedical Science", "program": "Master Degree", "duration": "1 or 2 years", "entryRequirements": "Previous study: For 120 points: One year of postgraduate study in biomedical science following undergraduate degree with GPE 5.0. For 240 points: Undergraduate degree in biomedical science with GPE 5.0 in 75% of most advanced courses | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$55,214.00 per year + Student Services Fee", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-biomedical-science-mbiomedsc.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-biomedical-science-mbiomedsc.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Biomedical%20Science&country=New%20Zealand"},
+    {"major": "Master of Clinical Education", "program": "Master Degree", "duration": "1 or 2 years", "entryRequirements": "Previous study: Relevant undergraduate degree (medicine, nursing, optometry, pharmacy, audiology, medical imagery, nutrition, dietetics) with GPE 5.0 or higher in final year. Must be currently engaged in clinical teaching or curriculum development in health-related discipline | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$39,995.10 per year", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-education-mclined.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-education-mclined.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Clinical%20Education&country=New%20Zealand"},
+    {"major": "Master of Clinical Pharmacy", "program": "Master Degree", "duration": "1 or 2 years", "entryRequirements": "Previous study: Bachelor of Pharmacy or relevant undergraduate degree from recognized university (specific GPE requirements not published) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-pharmacy-mclinpharm.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-pharmacy-mclinpharm.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Clinical%20Pharmacy&country=New%20Zealand"},
+    {"major": "Master of Health Leadership", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Undergraduate degree in relevant discipline (health professional degrees, public health, health sciences, health social sciences, commerce, law) with GPE of 5.0 | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$55,214.40 per year + Student Services Fee", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-leadership-mhlthld.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-leadership-mhlthld.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Health%20Leadership&country=New%20Zealand"},
+    {"major": "Master of Health Practice", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: For 120 points: One year postgraduate study in relevant discipline (health sciences, nursing, pharmacy, public health, social work) with GPE 5.0. For 180 points: Relevant undergraduate degree with GPE 5.0. Addiction Studies specialisation requires current therapeutic work with addiction/mental health clients | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$55,214.40 per year + Student Services Fee", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-practice.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-practice.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Health%20Practice&country=New%20Zealand"},
+    {"major": "Master of Health Psychology", "program": "Master Degree", "duration": "2 years", "entryRequirements": "Previous study: Undergraduate degree in arts or science with major in psychology from recognized university with GPE of 5.0 in final year of study | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$55,214.40 per year", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-psychology-mhealthpsych.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-psychology-mhealthpsych.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Health%20Psychology&country=New%20Zealand"},
+    {"major": "Master of Health Sciences", "program": "Master Degree", "duration": "1 or 2 years", "entryRequirements": "Previous study: Undergraduate degree in health sciences or related field with GPE 5.0 or higher | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$52,585 per year", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-sciences-mhsc.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-health-sciences-mhsc.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Health%20Sciences&country=New%20Zealand"},
+    {"major": "Master of Nursing", "program": "Master Degree", "duration": "1 or 2 years", "entryRequirements": "Previous study: Bachelor of Nursing or relevant undergraduate degree with current nursing registration (requirements vary by pathway) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-nursing-mnurs.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-nursing-mnurs.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Nursing&country=New%20Zealand"},
+    {"major": "Master of Nursing Science", "program": "Master Degree", "duration": "2 years", "entryRequirements": "Previous study: Relevant undergraduate degree (BHSc or BSc) with GPA of 5.0 or higher in 75 points above Stage II. Requires criminal conviction disclosure and safety checks under Children's Act 2014 | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "NZ$52,585 per year", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-nursing-science-mnsc.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-nursing-science-mnsc.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Nursing%20Science&country=New%20Zealand"},
+    {"major": "Master of Paediatrics", "program": "Master Degree", "duration": "1 or 1.5 years (part-time only)", "entryRequirements": "Previous study: Medical degree (MBChB) or Nurse Practitioner qualification. Designed for doctors and nurse practitioners looking to specialize in paediatrics | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-paediatrics-.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-paediatrics-.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Paediatrics&country=New%20Zealand"},
+    {"major": "Master of Public Health", "program": "Master Degree", "duration": "1 or 2 years", "entryRequirements": "Previous study: Relevant undergraduate degree in health sciences, public health, or related field with GPE of 5.0 or higher | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-health-mph.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-public-health-mph.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Public%20Health&country=New%20Zealand"},
+    {"major": "Doctor of Philosophy (PhD)", "program": "Doctoral Degree", "duration": "3 - 4 years", "entryRequirements": "Previous study: Master's degree with honours or Bachelor's degree with honours (first class or second class division 1) in relevant field. Must demonstrate research capability | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Varies by research field (typically NZ$7,000 - $9,000 per year domestic equivalent for international PhD students in NZ)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Doctor%20of%20Philosophy%20(PhD)&country=New%20Zealand"},
+    {"major": "Bachelor of Science", "program": "Bachelor Degree", "duration": "3 years", "entryRequirements": "SMA (Indonesia): Completion of SMA with high grades (competitive selection based on academic merit) | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent. Minimum requirement: Overall score of 80 on TOEFL iBT with a written score of 21.", "fees": "NZ$47,221 - NZ$58,009 per year (indicative international tuition fee for 2026)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/bachelor-of-science-bsc.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Bachelor%20of%20Science&country=New%20Zealand"},
+    {"major": "Graduate Diploma in Science", "program": "Graduate Diploma", "duration": "1 year", "entryRequirements": "Previous study: Bachelor of Science degree from recognized university with a GPA/GPE of at least 3.0 | Must have passed first-year courses in intended specialisation | English: IELTS Academic 6.0 overall (no band less than 5.5) or equivalent. TOEFL iBT: Overall score of 80 with a written score of 21.", "fees": "NZ$43,243 - NZ$50,810 per year (indicative international tuition fee)", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-science-graddipsci.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/graduate-diploma-in-science-graddipsci.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Graduate%20Diploma%20in%20Science&country=New%20Zealand"},
+    {"major": "Postgraduate Diploma in Applied Psychology", "program": "Postgraduate Diploma", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree in Psychology or related field (specific grade requirements not published) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-applied-psychology-pgdipapppsych.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-applied-psychology-pgdipapppsych.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Postgraduate%20Diploma%20in%20Applied%20Psychology&country=New%20Zealand"},
+    {"major": "Postgraduate Diploma in Bioscience Enterprise", "program": "Postgraduate Diploma", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree in Science, Engineering, Business or related field (specific grade requirements not published) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-bioscience-enterprise-pgdipbioent.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-bioscience-enterprise-pgdipbioent.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Postgraduate%20Diploma%20in%20Bioscience%20Enterprise&country=New%20Zealand"},
+    {"major": "Postgraduate Diploma in Forensic Science", "program": "Postgraduate Diploma", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree in Science (Chemistry, Biology, Biochemistry, or related field) (specific grade requirements not published) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-forensic-science-pgdipforensic.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-forensic-science-pgdipforensic.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Postgraduate%20Diploma%20in%20Forensic%20Science&country=New%20Zealand"},
+    {"major": "Postgraduate Diploma in Science", "program": "Postgraduate Diploma", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree in relevant Science discipline (GPA requirement: typically 3.0 or B average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent | Subjects: Applied Mathematics, Biological Sciences, Chemistry, Computer Science, Earth Sciences, Environmental Physics, Environmental Science, Exercise Sciences, Food Science, Geography, Green Chemical Science, Logic and Computation, Mathematics, Medical Physics and Imaging Tech, Medicinal Chemistry, Pharmacology, Physics, Physiology, Psychology, Statistics", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-science-pgdipsci.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/postgraduate-diploma-in-science-pgdipsci.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Postgraduate%20Diploma%20in%20Science&country=New%20Zealand"},
+    {"major": "Master of Artificial Intelligence", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Computer Science, Data Science, Statistics, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-artificial-intelligence--mai-.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-artificial-intelligence--mai-.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Artificial%20Intelligence&country=New%20Zealand"},
+    {"major": "Master of Behaviour Analysis", "program": "Master Degree", "duration": "2 years", "entryRequirements": "Previous study: Bachelor's degree in Psychology or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-behaviour-analysis.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-behaviour-analysis.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Behaviour%20Analysis&country=New%20Zealand"},
+    {"major": "Master of Bioscience Enterprise", "program": "Master Degree", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree in Science, Engineering, Business, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-bioscience-enterprise-mbioent.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-bioscience-enterprise-mbioent.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Bioscience%20Enterprise&country=New%20Zealand"},
+    {"major": "Master of Biotechnology", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Biological Sciences, Chemistry, Biochemistry, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent | Subjects: Bioinformatics, Biotechnology, Molecular Cell Bio & Genetics, Molecular Microbiology, Plant Biotechnology, Protein Engineering", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-biotechnology-mbiotech.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-biotechnology-mbiotech.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Biotechnology&country=New%20Zealand"},
+    {"major": "Master of Chemistry", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Chemistry or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent | Subjects: Analytical Chemistry, Chemistry, Materials Science", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-chemistry-mchem.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-chemistry-mchem.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Chemistry&country=New%20Zealand"},
+    {"major": "Master of Clinical Exercise Physiology", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Exercise Sciences or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-exercise-physiology.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-clinical-exercise-physiology.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Clinical%20Exercise%20Physiology&country=New%20Zealand"},
+    {"major": "Master of Data Science", "program": "Master Degree", "duration": "1.5 or 2 years", "entryRequirements": "Previous study: Bachelor's degree in Data Science, Computer Science, Statistics, Mathematics, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-data-science-mdats.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-data-science-mdats.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Data%20Science&country=New%20Zealand"},
+    {"major": "Master of Ecology", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Ecology, Biology, Environmental Science, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-ecology-mecology.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-ecology-mecology.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Ecology&country=New%20Zealand"},
+    {"major": "Master of Engineering Geology", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Geology, Engineering Geology, Civil Engineering, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-geology-menggeol.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-engineering-geology-menggeol.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Engineering%20Geology&country=New%20Zealand"},
+    {"major": "Master of Environmental Management", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Environmental Science, Geography, Ecology, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-environmental-management.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-environmental-management.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Environmental%20Management&country=New%20Zealand"},
+    {"major": "Master of Enviromental Science", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Environmental Science, Earth Sciences, Chemistry, Biology, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-environmental-science-menvsci.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-environmental-science-menvsci.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Environmental%20Science&country=New%20Zealand"},
+    {"major": "Master of Food Science", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Food Science, Chemistry, Biochemistry, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-food-science-mfoodsci.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-food-science-mfoodsci.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Food%20Science&country=New%20Zealand"},
+    {"major": "Master of Information Technology", "program": "Master Degree", "duration": "1, 1.5 or 2 years", "entryRequirements": "Previous study: Bachelor's degree in Computer Science, IT, Software Engineering, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-information-technology-minfotech.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-information-technology-minfotech.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Information%20Technology&country=New%20Zealand"},
+    {"major": "Master of Marine Conservation", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Marine Biology, Ecology, Environmental Science, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marine-conservation-mmarinecons.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marine-conservation-mmarinecons.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Marine%20Conservation&country=New%20Zealand"},
+    {"major": "Master of Marine Studies", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Marine Science, Biology, Oceanography, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marine-studies-mmarinest.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-marine-studies-mmarinest.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Marine%20Studies&country=New%20Zealand"},
+    {"major": "Master of Mathematical Modelling", "program": "Master Degree", "duration": "1 or 1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Mathematics, Applied Mathematics, Statistics, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-mathematical-modelling-mmathmodel.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-mathematical-modelling-mmathmodel.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Mathematical%20Modelling&country=New%20Zealand"},
+    {"major": "Master of Organisational Psychology", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Psychology (Honours) or equivalent (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-organisational-psychology-morgpsych.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-organisational-psychology-morgpsych.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Organisational%20Psychology&country=New%20Zealand"},
+    {"major": "Master of Physiotherapy Practice", "program": "Master Degree", "duration": "2 years", "entryRequirements": "Previous study: Bachelor's degree in Human Biology, Exercise Sciences, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 7.0 overall (no band less than 7.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-physiotherapy-practice-mphysioprac.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-physiotherapy-practice-mphysioprac.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Physiotherapy%20Practice&country=New%20Zealand"},
+    {"major": "Master of Professional Studies", "program": "Master Degree", "duration": "1 year", "entryRequirements": "Previous study: Bachelor's degree in relevant field (GPA requirement: typically 3.0 or B average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent | Subjects: Data Science, Digital Security, Mathematics Education", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-studies-mprofstuds.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-professional-studies-mprofstuds.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Professional%20Studies&country=New%20Zealand"},
+    {"major": "Master of Science", "program": "Master Degree", "duration": "1 or 2 years", "entryRequirements": "Previous study: Bachelor's degree in relevant Science discipline (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent | Subjects: Applied Mathematics, Biological Sciences, Biosecurity and Conservation Chemistry, Computer Science, Earth Sciences, Environmental Management, Environmental Physics, Environmental Science, Exercise Sciences, Food Science, Forensic Science, Geography, Green Chemical Science, Logic and Computation, Marine Science, Mathematics, Pharmacology, Physics, Physiology, Psychology, Speech Science, Statistics, Wine Science", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-science-msc.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-science-msc.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Science&country=New%20Zealand"},
+    {"major": "Master of Speech Language Therapy Practice", "program": "Master Degree", "duration": "2 years", "entryRequirements": "Previous study: Bachelor's degree in Linguistics, Psychology, Health Sciences, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 7.0 overall (no band less than 7.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-speech-language-therapy-practice-msltprac.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-speech-language-therapy-practice-msltprac.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Speech%20Language%20Therapy%20Practice&country=New%20Zealand"},
+    {"major": "Master of Wine Science", "program": "Master Degree", "duration": "1.5 years", "entryRequirements": "Previous study: Bachelor's degree in Chemistry, Biochemistry, Microbiology, or related field (GPA requirement: typically 4.0 or B+ average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-wine-science-mwinesci.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-wine-science-mwinesci.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Master%20of%20Wine%20Science&country=New%20Zealand"},
+    {"major": "Doctor of Philosophy (PhD)", "program": "Doctoral Degree", "duration": "3 - 4 years", "entryRequirements": "Previous study: Master's degree or Bachelor's degree with Honours (First Class or Second Class Division I) in relevant field (GPA requirement: typically 5.0 or B+/A- average) | English: IELTS Academic 6.5 overall (no band less than 6.0) or equivalent | Subjects: Biological Sciences, Chemical Sciences, Computer Science, Environmental Science, Exercise Science, Forensic Science, Geography, Geology, Marine Science, Mathematics, Physics, Psychology, Statistics", "fees": "Not available in the provided sources", "details_url": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "courseDetail": "https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/doctor-of-philosophy-phd.html", "scholarship": "https://international.auckland.ac.nz/study/scholarships", "otherInstitution": "https://course.starshipeducation.com/2024/08/course-encyclopedia.html?major=Doctor%20of%20Philosophy%20(PhD)&country=New%20Zealand"}
+
+    
   ]
 }
